@@ -1,0 +1,30 @@
+---
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/burning-hands/","created":"2025-10-28T10:11:40.620+01:00","updated":"2025-11-04T11:23:31.182+01:00"}
+---
+
+*1st level Evocation ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
+**Casting Time:** Action
+**Range:** Self (15-foot cone)
+**Components:** V, S
+**Duration:** Instantaneous
+
+A thin sheet of flames shoots forth from you. Each creature in a 15-foot Cone makes a Dexterity saving throw, taking 3d6 Fire damage on a failed save or half as much damage on a successful one.
+
+Flammable objects in the Cone that aren't being worn or carried start burning.
+
+**Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 1.
+
+---
+
+## Égő Kezek
+*1. szintű Idézés ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
+**Varázslási idő:** Akció
+**Hatótáv:** Ön (15 lábnyi kúp)
+**Komponensek:** V, S
+**Időtartam:** Azonnali
+
+Vékony lángcsóva tör elő belőled. Minden lény egy 15 lábnyi Kúpban Ügyesség mentődobást tesz, 3d6 Tűz sebzést szenved sikertelen dobás esetén, vagy feleannyi sebzést sikeres dobás esetén.
+
+A Kúpban lévő gyúlékony tárgyak, amelyeket nem viselnek vagy hordoznak, égni kezdenek.
+
+**Magasabb szintű varázslathely használata.** A sebzés 1d6-tal nő minden 1. szint feletti varázslathely szintjéért.

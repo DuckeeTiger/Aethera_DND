@@ -1,0 +1,23 @@
+---
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/aura-of-vitality/","created":"2025-10-28T09:35:35.394+01:00","updated":"2025-11-04T11:23:31.502+01:00"}
+---
+
+*3rd level Abjuration ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Cleric/Cleric\|Cleric]], [[Player Options/Classes/Druid/Druid\|Druid]], [[Player Options/Classes/Paladin/Paladin\|Paladin]])*
+**Casting Time:** Action
+**Range:** Self (30-foot emanation)
+**Components:** V
+**Duration:** Concentration, up to 1 minute
+
+An aura radiates from you in a 30-foot Emanation for the duration. When you create the aura and at the start of each of your turns while it persists, you can restore 2d6 Hit Points to one creature in it.
+
+---
+
+
+## Életerő Aura
+*3. szintű Abjuráció ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Cleric/Cleric\|Cleric]], [[Player Options/Classes/Druid/Druid\|Druid]], [[Player Options/Classes/Paladin/Paladin\|Paladin]])*
+**Varázslási idő:** Akció
+**Hatótáv:** Ön (30 lábnyi emanáció)
+**Komponensek:** V
+**Időtartam:** Koncentráció, legfeljebb 1 perc
+
+Egy aura sugárzik belőled egy 30 lábnyi emanációban a varázslat időtartamára. Amikor létrehozod az aurát, és minden köröd elején, amíg fennáll, visszaállíthatsz 2d6 Életerő pontot egy lénynek, amely benne van.

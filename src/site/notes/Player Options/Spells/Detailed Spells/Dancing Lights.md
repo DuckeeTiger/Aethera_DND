@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/dancing-lights/","created":"2025-10-28T08:05:13.715+01:00","updated":"2025-11-04T11:23:30.646+01:00"}
+---
+
+*Cantrip level Illusion ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
+**Casting Time:** Action
+**Range:** 120 feet
+**Components:** V, S, M (a bit of phosphorus)
+**Duration:** Concentration, up to 1 minute
+
+You create up to four torch-size lights within range, making them appear as torches, lanterns, or glowing orbs that hover for the duration. Alternatively, you combine the four lights into one glowing Medium form that is vaguely humanlike. Whichever form you choose, each light sheds Dim Light in a 10-foot radius.
+
+As a Bonus Action, you can move the lights up to 60 feet to a space within range. A light must be within 20 feet of another light created by this spell, and a light vanishes if it exceeds the spell's range.
