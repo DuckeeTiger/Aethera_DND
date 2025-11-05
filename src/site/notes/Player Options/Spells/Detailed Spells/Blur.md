@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/blur/","created":"2025-10-28T10:11:35.502+01:00","updated":"2025-11-04T11:23:31.224+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/blur/","created":"2025-11-04T19:38:49.000+01:00","updated":"2025-11-04T19:38:49.000+01:00"}
 ---
 
 *2nd level Illusion ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
@@ -12,7 +12,8 @@ Your body becomes blurred. For the duration, any creature has Disadvantage on at
 
 ---
 
-## Elmosódás
+#### Elmosódás
+
 *2. szintű Illúzió ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
 **Varázslási idő:** Akció
 **Hatótáv:** Ön

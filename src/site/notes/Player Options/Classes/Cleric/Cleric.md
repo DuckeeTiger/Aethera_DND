@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/cleric/cleric/","created":"2025-10-27T15:17:21.000+01:00","updated":"2025-11-04T11:23:34.310+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/cleric/cleric/","created":"2025-10-27T15:17:21.000+01:00","updated":"2025-11-05T12:31:14.473+01:00"}
 ---
 
 Clerics draw power from the realms of the gods and harness it to work miracles. Blessed by a deity, a pantheon, or another immortal entity, a Cleric can reach out to the divine magic of the Outer Planes—where gods dwell—and channel it to bolster people and battle foes.
@@ -26,6 +26,8 @@ Not every member of a temple or shrine is a Cleric. Some priests are called to a
 #### As a Multiclass Character
 - Gain the following traits from the **Core Cleric Traits** table: Hit Point Die and training with Light and Medium armor and Shields.
 - Gain the Cleric’s **Level 1 Features**, which are listed in the **Cleric Features** table. See the multiclassing rules in chapter 2 to determine your available spell slots.
+
+
 ## Cleric Class Features
 
 As a Cleric, you gain the following class features when you reach the specified Cleric levels. These features are listed in the **Cleric Features** table.
@@ -74,13 +76,11 @@ If another Cleric feature gives you spells that you always have prepared, those 
 
 **Spellcasting Focus.** You can use a Holy Symbol as a Spellcasting Focus for your Cleric spells.
 
----
 #### Level 1: Divine Order
 You have dedicated yourself to one of the following sacred roles of your choice.
 *   **Protector.** Trained for battle, you gain proficiency with Martial weapons and training with Heavy armor.
 *   **Thaumaturge.** You know one extra cantrip from the Cleric spell list. In addition, your mystical connection to the divine gives you a bonus to your Intelligence (Arcana or Religion) checks. The bonus equals your Wisdom modifier (minimum of +1).
 
----
 #### Level 2: Channel Divinity
 You can channel divine energy directly from the Outer Planes to fuel magical effects. You start with two such effects: Divine Spark and Turn Undead, each of which is described below. Each time you use this class’s Channel Divinity, choose which Channel Divinity effect from this class to create. You gain additional effect options at higher Cleric levels.
 
@@ -92,39 +92,31 @@ If a Channel Divinity effect requires a saving throw, the DC equals the spell sa
 	* You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18 (4d8).
 *   **Turn Undead.** As a Magic action, you present your Holy Symbol and censure Undead creatures. Each Undead of your choice within 30 feet of you must make a Wisdom saving throw. If the creature fails its save, it has the Frightened and Incapacitated conditions for 1 minute. For that duration, it tries to move as far from you as it can on its turns. This effect ends early on the creature if it takes any damage, if you have the Incapacitated condition, or if you die.
 
----
 #### Level 3: Cleric Subclass
 You gain a Cleric subclass of your choice. The Life Domain, Light Domain, Trickery Domain, and War Domain subclasses are detailed after this class’s description. A subclass is a specialization that grants you features at certain Cleric levels. For the rest of your career, you gain each of your subclass’s features that are of your Cleric level or lower.
 
----
 #### Level 4: Ability Score Improvement
 You gain the Ability Score Improvement feat (see chapter 5) or another feat of your choice for which you qualify. You gain this feature again at Cleric levels 8, 12, and 16.
 
----
 #### Level 5: Sear Undead
 Whenever you use Turn Undead, you can roll a number of d8s equal to your Wisdom modifier (minimum of 1d8) and add the rolls together. Each Undead that fails its saving throw against that use of Turn Undead takes Radiant damage equal to the roll’s total. This damage doesn’t end the turn effect.
 
----
 #### Level 7: Blessed Strikes
 Divine power infuses you in battle. You gain one of the following options of your choice (if you get either option from a Cleric subclass in an older book, use only the option you choose for this feature).
 *   **Divine Strike.** Once on each of your turns when you hit a creature with an attack roll using a weapon, you can cause the target to take an extra 1d8 Necrotic or Radiant damage (your choice).
 *   **Potent Spellcasting.** Add your Wisdom modifier to the damage you deal with any Cleric cantrip.
 
----
 #### Level 10: Divine Intervention
 You can call on your deity or pantheon to intervene on your behalf. As a Magic action, choose any Cleric spell of level 5 or lower that doesn’t require a Reaction to cast. As part of the same action, you cast that spell without expending a spell slot or needing Material components. You can’t use this feature again until you finish a Long Rest.
 
----
 #### Level 14: Improved Blessed Strikes
 The option you chose for Blessed Strikes grows more powerful.
 *   **Divine Strike.** The extra damage of your Divine Strike increases to 2d8.
 *   **Potent Spellcasting.** When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of Temporary Hit Points equal to twice your Wisdom modifier.
 
----
 #### Level 19: Epic Boon
 You gain an Epic Boon feat (see chapter 5) or another feat of your choice for which you qualify. Boon of Fate is recommended.
 
----
 #### Level 20: Greater Divine Intervention
 You can call on even more powerful divine intervention. When you use your Divine Intervention feature, you can choose Wish when you select a spell. If you do so, you can’t use Divine Intervention again until you finish 2d4 Long Rests.
 
@@ -278,10 +270,11 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | [[Mass Heal\|Mass Heal]]        | Abjuration    | —       |
 | [[Power Word Heal\|Power Word Heal]]  | Enchantment   | —       |
 | [[True Resurrection\|True Resurrection]]| Necromancy    | M       |
+
 ## Cleric Subclasses
 
 A Cleric subclass is a specialization that grants you features at certain Cleric levels, as specified in the subclass. You can choose from the following Cleric Subclasses:
-- [[Player Options/Classes/Cleric/Life Domain\|Life Domain]]
+- [[Player Options/Classes/Cleric/War Domain\|War Domain]]
 - [[Player Options/Classes/Cleric/Light Domain\|Light Domain]]
 - [[Player Options/Classes/Cleric/Trickery Domain\|Trickery Domain]]
-- [[Player Options/Classes/Cleric/War Domain\|War Domain]]
+- [[Player Options/Classes/Cleric/Life Domain\|Life Domain]]

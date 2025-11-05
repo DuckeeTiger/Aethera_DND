@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/backgrounds/acolyte/","created":"2025-10-31T13:00:26.306+01:00","updated":"2025-11-04T11:11:49.787+01:00"}
+{"dg-publish":true,"permalink":"/player-options/backgrounds/acolyte/","created":"2025-10-31T13:00:26.306+01:00","updated":"2025-11-05T13:23:04.842+01:00"}
 ---
 
-**Ability Scores:** Intelligence, Wisdom, Charisma
+**Ability Scores:** [[Player Options/Rules/The Six Abilities\|Intelligence]], [[Player Options/Rules/The Six Abilities\|Wisdom]], [[Player Options/Rules/The Six Abilities\|Charisma]]
 **Feat:** [[Player Options/Feats/Magic Initiate\|Magic Initiate]] (Cleric)
 **Skill Proficiencies:** Insight and Religion
 **Tool Proficiency:** Calligrapher's Supplies

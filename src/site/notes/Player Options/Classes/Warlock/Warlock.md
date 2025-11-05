@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/warlock/warlock/","created":"2025-10-27T21:47:00.000+01:00","updated":"2025-11-04T11:23:33.645+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/warlock/warlock/","created":"2025-10-27T21:47:00.000+01:00","updated":"2025-11-05T12:34:26.814+01:00"}
 ---
 
 *An Occultist Empowered by Otherworldly Pacts*
@@ -293,7 +293,7 @@ You have Truesight with a range of 30 feet.
 
 ## Warlock Spell List
 
-#### 🪄 Warlock Cantrips (Level 0)
+#### Warlock Cantrips (Level 0)
 
 | Spell            | School         | Special |
 |------------------|----------------|---------|
@@ -306,110 +306,93 @@ You have Truesight with a range of 30 feet.
 | Prestidigitation | Transmutation  |         |
 | True Strike      | Divination     |         |
 
-#### 🔥 Level 1 Warlock Spells
-
-| Spell                         | School        | Special |
-| ----------------------------- | ------------- | ------- |
-| [[Player Options/Spells/Detailed Spells/Armor of Agathys\|Armor of Agathys]]          | Abjuration    |         |
-| Arms of Hadar                 | Conjuration   |         |
-| Charm Person                  | Enchantment   |         |
-| Comprehend Languages          | Divination    | R       |
-| Expeditious Retreat           | Transmutation | C       |
-| Hellish Rebuke                | Evocation     |         |
-| Illusory Script               | Illusion      | R       |
-| Protection from Evil and Good | Abjuration    | C       |
-| Unseen Servant                | Conjuration   | R       |
-| Witch Bolt                    | Evocation     | C       |
-
-#### 🌑 Level 2 Warlock Spells
-
-| Spell              | School         | Special |
-|--------------------|----------------|---------|
-| Darkness           | Evocation      | C       |
-| Enthrall           | Enchantment    |         |
-| Hold Person        | Enchantment    | C       |
-| Invisibility       | Illusion       | C       |
-| Mirror Image       | Illusion       |         |
-| Misty Step         | Conjuration    |         |
-| Ray of Enfeeblement| Necromancy     | C       |
-| Shatter            | Evocation      |         |
-| Spider Climb       | Transmutation  | C       |
-| Suggestion         | Enchantment    | C       |
-
-#### 🧠 Level 3 Warlock Spells
-
-| Spell            | School         | Special |
-|------------------|----------------|---------|
-| Counterspell     | Abjuration     |         |
-| Dispel Magic     | Abjuration     |         |
-| Fear             | Illusion       | C       |
-| Fly              | Transmutation  | C       |
-| Gaseous Form     | Transmutation  | C       |
-| Hypnotic Pattern | Illusion       | C       |
-| Magic Circle     | Abjuration     | M       |
-| Major Image      | Illusion       | C       |
-| Remove Curse     | Abjuration     |         |
-| Tongues          | Divination     |         |
-| Vampiric Touch   | Necromancy     | C       |
-
-#### 🌪️ Level 4 Warlock Spells
-
-| Spell                  | School         | Special |
-|------------------------|----------------|---------|
-| Banishment             | Abjuration     | C       |
-| Blight                 | Necromancy     |         |
-| Dimension Door         | Conjuration    |         |
-| Hallucinatory Terrain  | Illusion       | C       |
-
-#### 🌌 Level 5 Warlock Spells
-
-| Spell              | School         | Special |
-|--------------------|----------------|---------|
-| Contact Other Plane| Divination     | R       |
-| Dream              | Illusion       |         |
-| Hold Monster       | Enchantment    | C       |
-| Scrying            | Divination     | C, M    |
-
-#### ☠️ Level 6 Warlock Spells
-
-| Spell            | School         | Special |
-|------------------|----------------|---------|
-| Circle of Death  | Necromancy     |         |
-| Conjure Fey      | Conjuration    | C       |
-| Create Undead    | Necromancy     |         |
-| Eyebite          | Enchantment    | C       |
-| Flesh to Stone   | Transmutation  | C       |
-| Mass Suggestion  | Enchantment    | C       |
-| True Seeing      | Divination     | M       |
-
-#### 🧬 Level 7 Warlock Spells
-
-| Spell         | School         | Special |
-|---------------|----------------|---------|
-| Etherealness  | Transmutation  |         |
-| Finger of Death| Necromancy    |         |
-| Forcecage     | Evocation      | M       |
-| Plane Shift   | Conjuration    | M       |
-
-#### 🧠 Level 8 Warlock Spells
-
-| Spell           | School         | Special |
-|------------------|----------------|---------|
-| Demiplane        | Conjuration    |         |
-| Dominate Monster | Enchantment    | C       |
-| Feeblemind       | Enchantment    |         |
-| Glibness         | Transmutation  |         |
-| Power Word Stun  | Enchantment    |         |
-
-#### 🌠 Level 9 Warlock Spells
-
-| Spell             | School         | Special |
-|-------------------|----------------|---------|
-| Astral Projection | Necromancy     | M       |
-| Foresight         | Divination     | M       |
-| Imprisonment      | Abjuration     | M       |
-| Power Word Kill   | Enchantment    |         |
-| True Polymorph    | Transmutation  | C       |
+#### Level 1 Warlock Spells
+| Spell                             | School        | Special |
+| --------------------------------- | ------------- | ------- |
+| [[Player Options/Spells/Detailed Spells/Armor of Agathys\|Armor of Agathys]]              | Abjuration    |         |
+| [[Player Options/Spells/Detailed Spells/Arms of Hadar\|Arms of Hadar]]                 | Conjuration   |         |
+| [[Player Options/Spells/Detailed Spells/Charm Person\|Charm Person]]                  | Enchantment   |         |
+| [[Player Options/Spells/Detailed Spells/Comprehend Languages\|Comprehend Languages]]          | Divination    | R       |
+| [[Expeditious Retreat\|Expeditious Retreat]]           | Transmutation | C       |
+| [[Hellish Rebuke\|Hellish Rebuke]]                | Evocation     |         |
+| [[Illusory Script\|Illusory Script]]               | Illusion      | R       |
+| [[Protection from Evil and Good\|Protection from Evil and Good]] | Abjuration    | C       |
+| [[Unseen Servant\|Unseen Servant]]                | Conjuration   | R       |
+| [[Witch Bolt\|Witch Bolt]]                    | Evocation     | C       
+#### Level 2 Warlock Spells
+| Spell                   | School        | Special |
+| ----------------------- | ------------- | ------- |
+| [[Darkness\|Darkness]]            | Evocation     | C       |
+| [[Enthrall\|Enthrall]]            | Enchantment   |         |
+| [[Hold Person\|Hold Person]]         | Enchantment   | C       |
+| [[Invisibility\|Invisibility]]        | Illusion      | C       |
+| [[Mirror Image\|Mirror Image]]        | Illusion      |         |
+| [[Misty Step\|Misty Step]]          | Conjuration   |         |
+| [[Ray of Enfeeblement\|Ray of Enfeeblement]] | Necromancy    | C       |
+| [[Shatter\|Shatter]]             | Evocation     |         |
+| [[Spider Climb\|Spider Climb]]        | Transmutation | C       |
+| [[Suggestion\|Suggestion]]          | Enchantment   | C       |
+#### Level 3 Warlock Spells
+| Spell                | School        | Special |
+| -------------------- | ------------- | ------- |
+| [[Player Options/Spells/Detailed Spells/Counterspell\|Counterspell]]     | Abjuration    |         |
+| [[Dispel Magic\|Dispel Magic]]     | Abjuration    |         |
+| [[Fear\|Fear]]             | Illusion      | C       |
+| [[Fly\|Fly]]              | Transmutation | C       |
+| [[Gaseous Form\|Gaseous Form]]     | Transmutation | C       |
+| [[Hypnotic Pattern\|Hypnotic Pattern]] | Illusion      | C       |
+| [[Magic Circle\|Magic Circle]]     | Abjuration    | M       |
+| [[Major Image\|Major Image]]      | Illusion      | C       |
+| [[Remove Curse\|Remove Curse]]     | Abjuration    |         |
+| [[Tongues\|Tongues]]          | Divination    |         |
+| [[Vampiric Touch\|Vampiric Touch]]   | Necromancy    | C       |
+#### Level 4 Warlock Spells
+| Spell                     | School      | Special |
+| ------------------------- | ----------- | ------- |
+| [[Player Options/Spells/Detailed Spells/Banishment\|Banishment]]            | Abjuration  | C       |
+| [[Player Options/Spells/Detailed Spells/Blight\|Blight]]                | Necromancy  |         |
+| [[Dimension Door\|Dimension Door]]        | Conjuration |         |
+| [[Hallucinatory Terrain\|Hallucinatory Terrain]] | Illusion    | C       |
+#### Level 5 Warlock Spells
+| Spell                   | School      | Special |
+| ----------------------- | ----------- | ------- |
+| [[Player Options/Spells/Detailed Spells/Contact Other Plane\|Contact Other Plane]] | Divination  | R       |
+| [[Dream\|Dream]]               | Illusion    |         |
+| [[Hold Monster\|Hold Monster]]        | Enchantment | C       |
+| [[Scrying\|Scrying]]             | Divination  | C, M    |
+#### Level 6 Warlock Spells
+| Spell               | School        | Special |
+| ------------------- | ------------- | ------- |
+| [[Player Options/Spells/Detailed Spells/Circle of Death\|Circle of Death]] | Necromancy    |         |
+| [[Player Options/Spells/Detailed Spells/Conjure Fey\|Conjure Fey]]     | Conjuration   | C       |
+| [[Player Options/Spells/Detailed Spells/Create Undead\|Create Undead]]   | Necromancy    |         |
+| [[Eyebite\|Eyebite]]         | Enchantment   | C       |
+| [[Flesh to Stone\|Flesh to Stone]]  | Transmutation | C       |
+| [[Mass Suggestion\|Mass Suggestion]] | Enchantment   | C       |
+| [[True Seeing\|True Seeing]]     | Divination    | M       |
+#### Level 7 Warlock Spells
+| Spell               | School        | Special |
+| ------------------- | ------------- | ------- |
+| [[Etherealness\|Etherealness]]    | Transmutation |         |
+| [[Finger of Death\|Finger of Death]] | Necromancy    |         |
+| [[Forcecage\|Forcecage]]       | Evocation     | M       |
+| [[Plane Shift\|Plane Shift]]     | Conjuration   | M       |
+#### Level 8 Warlock Spells
+| Spell                | School        | Special |
+| -------------------- | ------------- | ------- |
+| [[Demiplane\|Demiplane]]        | Conjuration   |         |
+| [[Dominate Monster\|Dominate Monster]] | Enchantment   | C       |
+| [[Feeblemind\|Feeblemind]]       | Enchantment   |         |
+| [[Glibness\|Glibness]]         | Transmutation |         |
+| [[Power Word Stun\|Power Word Stun]]  | Enchantment   |         |
+#### Level 9 Warlock Spells
+| Spell                 | School        | Special |
+| --------------------- | ------------- | ------- |
+| [[Player Options/Spells/Detailed Spells/Astral Projection\|Astral Projection]] | Necromancy    | M       |
+| [[Foresight\|Foresight]]         | Divination    | M       |
+| [[Imprisonment\|Imprisonment]]      | Abjuration    | M       |
+| [[Power Word Kill\|Power Word Kill]]   | Enchantment   |         |
+| [[True Polymorph\|True Polymorph]]    | Transmutation | C       |
 
 ## Warlock Subclasses
 

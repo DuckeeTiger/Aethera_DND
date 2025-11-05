@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/sorcerer/sorcerer/","created":"2025-10-27T15:20:02.000+01:00","updated":"2025-11-04T11:23:33.759+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/sorcerer/sorcerer/","created":"2025-10-27T15:20:02.000+01:00","updated":"2025-11-05T12:35:16.436+01:00"}
 ---
 
 *A Dazzling Mage Filled with Innate Magic*
@@ -84,7 +84,6 @@ An event in your past left an indelible mark on you, infusing you with simmering
 
 You can use this feature twice, and you regain all expended uses of it when you finish a Long Rest.
 
----
 #### Level 2: Metamagic
 Your magic flows from within; you can alter your spells to suit your needs; you gain two Metamagic options of your choice from "Metamagic Options" later in this class’s description. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.
 
@@ -92,77 +91,65 @@ You can use only one Metamagic option on a spell when you cast it unless otherwi
 
 Whenever you gain a Sorcerer level, you can replace one of your Metamagic options with one you don’t know. You gain two more options at Sorcerer level 10 and two more at Sorcerer level 17.
 
----
 #### Level 3: Sorcerer Subclass
 You gain a Sorcerer subclass of your choice. The Aberrant Mind, Clockwork Soul, Draconic Sorcery, and Wild Magic Sorcery subclasses are detailed after this class’s description. A subclass is a specialization that grants you features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass’s features that are of your Sorcerer level or lower.
 
----
 #### Level 4: Ability Score Improvement
 You gain the Ability Score Improvement feat (see chapter 5) or another feat of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
 
----
 #### Level 5: Sorcerous Restoration
 When you finish a Short Rest, you can regain expended Sorcery Points, but no more than a number equal to half your Sorcerer level (round down). Once you use this feature, you can’t do so again until you finish a Long Rest.
 
----
 #### Level 7: Sorcery Incarnate
 If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the Bonus Action to activate it.
 
 In addition, while your Innate Sorcery feature is active, you can use up to two of your Metamagic options on each spell you cast.
 
----
 #### Level 19: Epic Boon
 You gain an Epic Boon feat (see chapter 5) or another feat of your choice for which you qualify. Boon of Dimensional Travel is recommended.
 
----
 #### Level 20: Arcane Apotheosis
 While your Innate Sorcery feature is active, you can use one Metamagic option on each of your turns without spending Sorcery Points on it.
+
 
 ## Sorcerer Metamagic Options
 
 The following options are available to your Metamagic feature. The options are presented in alphabetical order.
+
 #### Careful Spell
 **Cost: 1 Sorcery Point.** When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell’s full force. To do so, spend 1 Sorcery Point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell, and it takes no damage if it would normally take half damage on a successful save.
 
----
 #### Distant Spell
 **Cost: 1 Sorcery Point.** When you cast a spell that has a range of at least 5 feet, you can spend 1 Sorcery Point to double the spell’s range. Or when you cast a spell that has a range of Touch, you can spend 1 Sorcery Point to make the spell’s range 30 feet.
 
----
 #### Empowered Spell
 **Cost: 1 Sorcery Point.** When you roll damage for a spell, you can spend 1 Sorcery Point to reroll a number of the damage dice up to your Charisma modifier (minimum of one), and you must use the new rolls. You can use Empowered Spell even if you’ve already used a different Metamagic option during the casting of the spell.
 
----
 #### Extended Spell
 **Cost: 1 Sorcery Point.** When you cast a spell that has a duration of 1 minute or longer, you can spend 1 Sorcery Point to double its duration to a maximum duration of 24 hours. If the affected spell requires Concentration, you have Advantage on any saving throw you make to maintain that Concentration.
 
----
 #### Heightened Spell
 **Cost: 2 Sorcery Points.** When you cast a spell that forces a creature to make a saving throw, you can spend 2 Sorcery Points to give one target of the spell Disadvantage on saves against the spell.
 
----
 #### Quickened Spell
 **Cost: 2 Sorcery Points.** When you cast a spell that has a casting time of an action, you can spend 2 Sorcery Points to change the casting time to a Bonus Action for this casting. You can’t modify a spell in this way if you’ve already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after modifying a spell in this way.
 
----
 #### Seeking Spell
 **Cost: 1 Sorcery Point.** If you make an attack roll for a spell and miss, you can spend 1 Sorcery Point to reroll the d20, and you must use the new roll. You can use Seeking Spell even if you’ve already used a different Metamagic option during the casting of the spell.
 
----
 #### Subtle Spell
 **Cost: 1 Sorcery Point.** When you cast a spell, you can spend 1 Sorcery Point to cast it without any Verbal, Somatic, or Material components, except Material components that are consumed by the spell or that have a cost specified in the spell.
 
----
 #### Transmuted Spell
 **Cost: 1 Sorcery Point.** When you cast a spell that deals a type of damage from the following list, you can spend 1 Sorcery Point to change that damage type to one of the other listed types: Acid, Cold, Fire, Lightning, Poison, Thunder.
 
----
 #### Twinned Spell
 **Cost: 1 Sorcery Point.** When you cast a spell, such as Charm Person, that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell’s effective level by 1.
 
 ## Sorcerer Spell List
 
 This section presents the Sorcerer spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, C means the spell requires Concentration, R means it's a Ritual, and M means it requires a specific Material component.
+
 #### Sorcerer Cantrips (Level 0 Spells)
 | Spell                | School        | Special |
 | :------------------- | :------------ | :------ |
@@ -267,7 +254,7 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 | [[Stinking Cloud\|Stinking Cloud]]       | Conjuration   | C       |
 | [[Tongues\|Tongues]]              | Divination    | —       |
 | [[Vampiric Touch\|Vampiric Touch]]       | Necromancy    | C       |
-| [[Water Breathing\|Water Breathing]]      | Transmutation | R       |
+| [[Player Options/Spells/Detailed Spells/Water Breathing\|Water Breathing]]      | Transmutation | R       |
 | [[Water Walk\|Water Walk]]           | Transmutation | R       |
 #### Level 4 Sorcerer Spells
 | Spell                    | School        | Special |
@@ -347,7 +334,7 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 ## Sorcerer Subclasses
 
 A Sorcerer subclass is a specialization that grants you features at certain Sorcerer levels, as specified in the subclass. You can choose from the following Sorcerer Subclasses: 
-- [[Aberrant Mind\|Aberrant Mind]] 
-- [[Clockwork Soul\|Clockwork Soul]]
-- [[Draconic Sorcery\|Draconic Sorcery]]
-- [[Wild Magic Sorcery\|Wild Magic Sorcery]]
+- [[Player Options/Classes/Sorcerer/Aberrant Sorcery\|Aberrant Sorcery]] 
+- [[Player Options/Classes/Sorcerer/Clockwork Soul\|Clockwork Soul]]
+- [[Player Options/Classes/Sorcerer/Draconic Sorcery\|Draconic Sorcery]]
+- [[Player Options/Classes/Sorcerer/Wild Magic Sorcery\|Wild Magic Sorcery]]

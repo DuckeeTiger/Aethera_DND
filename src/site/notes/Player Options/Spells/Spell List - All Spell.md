@@ -383,7 +383,7 @@
 | 380 | [[Wall of Stone\|Wall of Stone]]                      | 5th     | Action    | Evocation     | no     | V, S, M    | yes           |
 | 381 | [[Wall of Thorns\|Wall of Thorns]]                     | 6th     | Action    | Conjuration   | no     | V, S, M    | yes           |
 | 382 | [[Warding Bond\|Warding Bond]]                       | 2nd     | Action    | Abjuration    | no     | V, S, M    | no            |
-| 383 | [[Water Breathing\|Water Breathing]]                    | 3rd     | Action    | Transmutation | yes    | V, S, M    | no            |
+| 383 | [[Player Options/Spells/Detailed Spells/Water Breathing\|Water Breathing]]                    | 3rd     | Action    | Transmutation | yes    | V, S, M    | no            |
 | 384 | [[Water Walk\|Water Walk]]                         | 3rd     | Action    | Transmutation | yes    | V, S, M    | no            |
 | 385 | [[Web\|Web]]                                | 2nd     | Action    | Conjuration   | no     | V, S, M    | yes           |
 | 386 | [[Weird\|Weird]]                              | 9th     | Action    | Illusion      | no     | V, S       | yes           |

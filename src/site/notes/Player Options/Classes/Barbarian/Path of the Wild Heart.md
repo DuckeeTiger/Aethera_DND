@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/barbarian/path-of-the-wild-heart/","created":"2025-10-30T09:39:54.530+01:00","updated":"2025-11-04T11:23:34.518+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/barbarian/path-of-the-wild-heart/","created":"2025-11-04T16:59:41.000+01:00","updated":"2025-11-04T16:59:41.000+01:00"}
 ---
 
 *Walk in Community with the Animal World*
@@ -7,7 +7,7 @@
 Barbarians who follow the Path of the Wild Heart view themselves as kin to the animal inhabitants of the natural world. They learn magical means to connect and communicate with animals, and their Rage heightens their connection to animals as it fills them with supernatural might.
 
 #### Level 3: Animal Speaker
-You can cast the _[Beast Sense](https://www.aidedd.org/spell/beast-sense)_ and _[Speak with Animals](https://www.aidedd.org/spell/speak-with-animals)_ spells, but only as Rituals. Wisdom is your spellcasting ability for them.
+You can cast the _[[Player Options/Spells/Detailed Spells/Beast Sense\|Beast Sense]]_ and _[[Speak with Animals\|Speak with Animals]]_ spells, but only as Rituals. Wisdom is your spellcasting ability for them.
 
 #### Level 3: Rage of the Wilds
 Your Rage taps into the primal power of animals. Whenever you activate your Rage, you gain one of the follwing options of your choice.
@@ -24,7 +24,7 @@ You gain one of the following options of your choice. Whenever you finish a Long
 - **Salmon:** You have a Swim Speed equal to your Speed.
 
 #### Level 10: Nature Speaker
-You can cast the _[Commune with Nature](https://www.aidedd.org/spell/commune-with-nature)_ spell, but only as a Ritual. Wisdom is your spellcasting ability for it.
+You can cast the _Commune with Nature_ spell, but only as a Ritual. Wisdom is your spellcasting ability for it.
 
 #### Level 14: Power of the Wilds
 Whenever you activate your Rage, you gain one of the following options of your choice.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/bard/college-of-dance/","created":"2025-10-30T09:52:09.000+01:00","updated":"2025-11-04T11:23:34.390+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/bard/college-of-dance/","created":"2025-10-30T09:52:09.000+01:00","updated":"2025-11-05T11:25:49.367+01:00"}
 ---
 
 *Move in Harmony with the Cosmos*
@@ -9,7 +9,7 @@ Bards of the College of Dance know that the Words of Creation can't be contained
 #### Level 3: Dazzling Footwork
 While you aren’t wearing armor or wielding a Shield, you gain the following benefits:
 - **Dance Virtuoso.** You have Advantage on any Charisma (Performance) check you make that involves you dancing.
-- Unarmored Defense. Your base Armor Class equals 10 plus your Dexterity and Charisma modifiers.
+- **Unarmored Defense.** Your base Armor Class equals 10 plus your Dexterity and Charisma modifiers.
 - **Agile Strikes.** When you expend a use of your Bardic Inspiration as part of an action, a Bonus Action, or a Reaction, you can make one Unarmed Strike as part of that action, Bonus Action, or Reaction.
 - **Bardic Damage.** You can use Dexterity instead of Strength for the attack rolls of your Unarmed Strikes. When you deal damage with an Unarmed Strike, you can deal Bludgeoning damage equal to a roll of your Bardic Inspiration die plus your Dexterity modifier, instead of the strike’s normal damage. This roll doesn’t expend the die.
 

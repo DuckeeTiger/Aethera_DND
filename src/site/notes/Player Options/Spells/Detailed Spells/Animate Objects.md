@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/animate-objects/","created":"2025-10-28T12:35:06.000+01:00","updated":"2025-11-04T11:23:31.786+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/animate-objects/","created":"2025-10-28T12:35:06.000+01:00","updated":"2025-11-04T16:05:17.215+01:00"}
 ---
 
 *5th level Transmutation ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
@@ -18,13 +18,10 @@ Until the spell ends, you can take a Bonus Action to mentally command any creatu
 
 | **Animated Object**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| *Huge or Smaller Construct, Unaligned*<br><br>**AC** 15<br>**HP** 10 (Medium or smaller), 20 (Large), 40 (Huge)<br>Speed 30 ft.<br><br>Str 16 +3 +3    Dex 10 +0 +0    Con 10  +0 +0<br>Int  3  -4  -4     Wis    3  -4  -4   Cha   1   -5  -5<br><br>**Immunities:** Posion, Psychic; [[Player Options/Conditions/Charmed\|Charmed]], [[Player Options/Conditions/Exhaustion\|Exhaustion]], [[Player Options/Conditions/Frightened\|Frightened]], [[Player Options/Conditions/Paralyzed\|Paralyzed]], [[Player Options/Conditions/Posioned\|Posioned]]<br>**Senses:** Blindsight 30 ft., Passive Perception 6<br>**Languages:** Understands the languages you know<br>**CR** None (XP 0;PB equals your Prociency Bonus) |
+| *Huge or Smaller Construct, Unaligned*<br><br>**AC** 15<br>**HP** 10 (Medium or smaller), 20 (Large), 40 (Huge)<br>Speed 30 ft.<br><br>Str 16 +3 +3    Dex 10 +0 +0    Con 10  +0 +0<br>Int  3  -4  -4     Wis    3  -4  -4   Cha   1   -5  -5<br><br>**Immunities:** Posion, Psychic; [[Player Options/Rules/Conditions/Charmed\|Charmed]], [[Player Options/Rules/Conditions/Exhaustion\|Exhaustion]], [[Player Options/Rules/Conditions/Frightened\|Frightened]], [[Player Options/Rules/Conditions/Paralyzed\|Paralyzed]], [[Player Options/Rules/Conditions/Posioned\|Posioned]]<br>**Senses:** Blindsight 30 ft., Passive Perception 6<br>**Languages:** Understands the languages you know<br>**CR** None (XP 0;PB equals your Prociency Bonus) |
 | **Actions**<br><br>***Slam.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* Force damage equal to 1d4 + 3 (Medium or smaller), 2d6 + 3 + your spellcasting ability modifier (Large), or 2d12 + 3 + your spellcasting ability modifier (Huge).                                                                                                                                                                                                                                                |
 
 ---
-
-
-
 ## Élettelen Tárgyak Élesztése
 
 *5. szintű Átváltoztatás ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*

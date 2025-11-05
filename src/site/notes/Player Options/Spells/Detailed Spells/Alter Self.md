@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/alter-self/","created":"2025-10-28T12:34:17.000+01:00","updated":"2025-11-04T11:23:31.902+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/alter-self/","created":"2025-11-04T19:39:21.000+01:00","updated":"2025-11-04T19:39:21.000+01:00"}
 ---
 
 *2nd level Transmutation ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
@@ -16,7 +16,7 @@ You alter your physical form. Choose one of the following options. Its effects l
 ---
 
 
-## Alakváltás
+#### Alakváltás
 
 *2. szintű Átváltoztatás ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
 **Varázslási Idő:** Akció

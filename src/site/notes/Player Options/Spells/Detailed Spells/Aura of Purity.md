@@ -8,7 +8,7 @@
 **Components:** V
 **Duration:** Concentration, up to 10 minutes
 
-An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have Resistance to Poison damage and Advantage on saving throws to avoid or end effects that include the [[Player Options/Spells/Detailed Spells/Blinded\|Player Options/Spells/Detailed Spells/Blinded]], [[Player Options/Conditions/Charmed\|Charmed]], [[Player Options/Conditions/Deafened\|Deafened]], [[Player Options/Conditions/Frightened\|Frightened]], Paralyzed, [[Player Options/Conditions/Prone\|Prone]] or [[Player Options/Conditions/Stunned\|Stunned]] condition.
+An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have Resistance to Poison damage and Advantage on saving throws to avoid or end effects that include the [[Player Options/Spells/Detailed Spells/Blinded\|Player Options/Spells/Detailed Spells/Blinded]], [[Player Options/Rules/Conditions/Charmed\|Charmed]], [[Player Options/Rules/Conditions/Deafened\|Deafened]], [[Player Options/Rules/Conditions/Frightened\|Frightened]], Paralyzed, [[Player Options/Rules/Conditions/Prone\|Prone]] or [[Player Options/Rules/Conditions/Stunned\|Stunned]] condition.
 
 ---
 

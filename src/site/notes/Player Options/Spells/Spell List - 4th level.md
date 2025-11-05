@@ -54,6 +54,6 @@
 |[[Summon Undead\|Summon Undead]]|3rd|Action|Necromancy|no|V, S, M|yes|
 |[[Tongues\|Tongues]]|3rd|Action|Divination|no|V, M|no|
 |[[Vampiric Touch\|Vampiric Touch]]|3rd|Action|Necromancy|no|V, S|yes|
-|[[Water Breathing\|Water Breathing]]|3rd|Action|Transmutation|yes|V, S, M|no|
+|[[Player Options/Spells/Detailed Spells/Water Breathing\|Water Breathing]]|3rd|Action|Transmutation|yes|V, S, M|no|
 |[[Water Walk\|Water Walk]]|3rd|Action|Transmutation|yes|V, S, M|no|
 |[[Wind Wall\|Wind Wall]]|3rd|Action|Evocation|no|V, S, M|yes|
