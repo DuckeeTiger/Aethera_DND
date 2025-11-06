@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/healer/","created":"2025-10-31T13:16:32.692+01:00","updated":"2025-11-04T11:23:33.009+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/healer/"}
 ---
 
 *Origin Feat*

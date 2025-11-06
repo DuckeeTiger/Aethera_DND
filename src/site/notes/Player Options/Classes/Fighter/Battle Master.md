@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/fighter/battle-master/","created":"2025-11-05T11:07:35.242+01:00","updated":"2025-11-05T11:22:52.495+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/fighter/battle-master/"}
 ---
 
 _Master Sophisticated Battle Maneuvers_ 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/cone-of-cold/","created":"2025-10-28T14:30:09.246+01:00","updated":"2025-11-04T11:23:30.775+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/cone-of-cold/"}
 ---
 
 

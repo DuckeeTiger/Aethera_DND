@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/bard/bard/","created":"2025-10-27T22:27:39.000+01:00","updated":"2025-11-05T12:30:42.374+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/bard/bard/"}
 ---
 
 *An Inspiring Performer of Music, Dance and Magic*

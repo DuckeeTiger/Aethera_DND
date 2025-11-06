@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/magic-initiate/","created":"2025-10-31T13:27:50.764+01:00","updated":"2025-11-04T11:23:32.856+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/magic-initiate/"}
 ---
 
 *Origin Feat*

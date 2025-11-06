@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/backgrounds/guard/","created":"2025-10-31T12:58:49.352+01:00","updated":"2025-11-04T11:11:58.117+01:00"}
+{"dg-publish":true,"permalink":"/player-options/backgrounds/guard/"}
 ---
 
 **Ability Scores:** Strength, Intelligence, Wisdom

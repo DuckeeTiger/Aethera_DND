@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/rules/conditions/exhaustion/","created":"2025-10-27T21:21:57.000+01:00","updated":"2025-11-04T11:23:34.750+01:00"}
+{"dg-publish":true,"permalink":"/player-options/rules/conditions/exhaustion/"}
 ---
 
 

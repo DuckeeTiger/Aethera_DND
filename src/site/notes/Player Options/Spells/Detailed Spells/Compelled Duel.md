@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/compelled-duel/","created":"2025-10-28T14:29:07.918+01:00","updated":"2025-11-04T11:23:30.808+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/compelled-duel/"}
 ---
 
 

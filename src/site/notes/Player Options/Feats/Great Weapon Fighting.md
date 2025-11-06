@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/great-weapon-fighting/","created":"2025-11-03T13:17:17.991+01:00","updated":"2025-11-04T11:23:33.041+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/great-weapon-fighting/"}
 ---
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*

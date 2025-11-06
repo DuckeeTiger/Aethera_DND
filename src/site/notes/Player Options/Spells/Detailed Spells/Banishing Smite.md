@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/banishing-smite/","created":"2025-10-28T12:37:52.000+01:00","updated":"2025-11-04T11:23:31.444+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/banishing-smite/"}
 ---
 
 *5th level Conjuration ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Paladin/Paladin\|Paladin]])*

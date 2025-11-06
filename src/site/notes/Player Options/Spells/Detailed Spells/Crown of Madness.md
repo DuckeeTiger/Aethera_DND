@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/crown-of-madness/","created":"2025-11-03T16:29:54.003+01:00","updated":"2025-11-04T11:23:34.831+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/crown-of-madness/"}
 ---
 
 

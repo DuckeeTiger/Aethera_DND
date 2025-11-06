@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/fighter/champion/","created":"2025-11-05T10:03:18.376+01:00","updated":"2025-11-05T11:22:54.918+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/fighter/champion/"}
 ---
 
 _Pursue Physical Excellence in Combat_

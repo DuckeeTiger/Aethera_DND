@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/observant/","created":"2025-11-03T13:22:58.434+01:00","updated":"2025-11-04T11:23:32.712+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/observant/"}
 ---
 
 *General Feat (Prerequisite: Level 4+, Intelligence or Wisdom 13+)*

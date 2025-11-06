@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/rogue/assassin/","created":"2025-11-05T10:25:35.362+01:00","updated":"2025-11-05T11:23:21.683+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/rogue/assassin/"}
 ---
 
 _Practice the Grim Art of Death_ 

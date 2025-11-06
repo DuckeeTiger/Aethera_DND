@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/rules/conditions/charmed/","created":"2025-10-27T21:21:54.000+01:00","updated":"2025-11-04T11:23:34.726+01:00"}
+{"dg-publish":true,"permalink":"/player-options/rules/conditions/charmed/"}
 ---
 
 

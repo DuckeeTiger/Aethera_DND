@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/conjure-volley/","created":"2025-11-03T16:08:43.954+01:00","updated":"2025-11-04T11:23:35.136+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/conjure-volley/"}
 ---
 
 *5th level Conjuration ([[Player Options/Classes/Ranger/Ranger\|Ranger]])*

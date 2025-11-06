@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/medium-armor-master/","created":"2025-11-03T13:23:21.850+01:00","updated":"2025-11-04T11:23:32.735+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/medium-armor-master/"}
 ---
 
 *General Feat (Prerequisite: Level 4+, Medium Armor Training)*

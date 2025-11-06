@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/poisoner/","created":"2025-11-03T13:24:17.620+01:00","updated":"2025-11-04T11:23:32.679+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/poisoner/"}
 ---
 
 *General Feat (Prerequisite: Level 4+)*

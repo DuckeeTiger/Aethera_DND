@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/war-caster/","created":"2025-11-03T13:30:32.064+01:00","updated":"2025-11-04T11:23:32.049+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/war-caster/"}
 ---
 
 *General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*

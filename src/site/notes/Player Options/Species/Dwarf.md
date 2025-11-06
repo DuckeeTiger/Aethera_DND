@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/species/dwarf/","created":"2025-11-05T12:36:00.384+01:00","updated":"2025-11-05T14:13:45.400+01:00"}
+{"dg-publish":true,"permalink":"/player-options/species/dwarf/"}
 ---
 
 Dwarves were raised from the earth in the elder days by a deity of the forge. Called by various names on different worlds—Moradin, Reorx, and others—that god gave dwarves an affinity for stone and metal and for living underground. The god also made them resilient like the mountains, with a life span of about 350 years.

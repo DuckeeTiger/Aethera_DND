@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/animate-dead/","created":"2025-10-28T12:34:58.000+01:00","updated":"2025-11-04T11:23:31.836+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/animate-dead/"}
 ---
 
 *3rd level Necromancy ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Cleric/Cleric\|Cleric]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*

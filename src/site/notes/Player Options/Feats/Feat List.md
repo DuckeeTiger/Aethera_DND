@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/feat-list/","created":"2025-10-31T13:07:59.183+01:00","updated":"2025-11-05T14:10:23.062+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/feat-list/"}
 ---
 
 

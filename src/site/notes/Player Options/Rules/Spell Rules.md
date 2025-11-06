@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/rules/spell-rules/","created":"2025-11-04T17:03:47.000+01:00","updated":"2025-11-04T17:03:47.000+01:00"}
+{"dg-publish":true,"permalink":"/player-options/rules/spell-rules/"}
 ---
 
 ## Gaining Spells

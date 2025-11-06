@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/circle-of-power/","created":"2025-10-28T10:31:07.006+01:00","updated":"2025-11-04T11:23:30.954+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/circle-of-power/"}
 ---
 
 *5th level Abjuration ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Cleric/Cleric\|Cleric]], [[Player Options/Classes/Paladin/Paladin\|Paladin]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*

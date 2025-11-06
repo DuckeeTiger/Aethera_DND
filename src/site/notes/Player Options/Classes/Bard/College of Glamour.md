@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/bard/college-of-glamour/","created":"2025-10-30T09:51:53.166+01:00","updated":"2025-11-04T11:23:34.430+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/bard/college-of-glamour/"}
 ---
 
 *Weave Beguiling Fey Magic*

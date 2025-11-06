@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/bard/college-of-dance/","created":"2025-10-30T09:52:09.000+01:00","updated":"2025-11-05T11:25:49.367+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/bard/college-of-dance/"}
 ---
 
 *Move in Harmony with the Cosmos*

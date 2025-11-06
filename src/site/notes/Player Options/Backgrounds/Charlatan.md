@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/backgrounds/charlatan/","created":"2025-10-31T12:58:45.873+01:00","updated":"2025-11-04T11:11:52.783+01:00"}
+{"dg-publish":true,"permalink":"/player-options/backgrounds/charlatan/"}
 ---
 
 **Ability Scores:** Dexterity, Constitution, Charisma

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/alert/","created":"2025-10-31T13:15:59.719+01:00","updated":"2025-11-04T11:13:27.251+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/alert/"}
 ---
 
 *Origin Feat*

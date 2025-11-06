@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/counterspell/","created":"2025-11-03T16:23:26.414+01:00","updated":"2025-11-04T11:23:34.903+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/counterspell/"}
 ---
 
 

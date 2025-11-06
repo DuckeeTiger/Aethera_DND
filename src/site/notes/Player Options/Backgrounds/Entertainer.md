@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/backgrounds/entertainer/","created":"2025-10-31T12:58:47.467+01:00","updated":"2025-11-04T11:11:55.535+01:00"}
+{"dg-publish":true,"permalink":"/player-options/backgrounds/entertainer/"}
 ---
 
 **Ability Scores:** Strength, Dexterity, Charisma

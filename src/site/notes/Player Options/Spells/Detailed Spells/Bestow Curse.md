@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/bestow-curse/","created":"2025-10-28T09:48:03.778+01:00","updated":"2025-11-04T11:23:31.386+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/bestow-curse/"}
 ---
 
 *3rd level Necromancy ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Cleric/Cleric\|Cleric]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*

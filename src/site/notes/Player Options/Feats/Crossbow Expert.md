@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/crossbow-expert/","created":"2025-11-03T13:14:26.025+01:00","updated":"2025-11-04T11:23:33.371+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/crossbow-expert/"}
 ---
 
 *General Feat (Prerequisite: Level 4+, Dexterity 13+)*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/ranger/hunter/","created":"2025-10-30T13:27:59.378+01:00","updated":"2025-11-05T11:23:44.597+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/ranger/hunter/"}
 ---
 
 _Protect Nature and People from Destruction_

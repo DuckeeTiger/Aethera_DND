@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/backgrounds/acolyte/","created":"2025-10-31T13:00:26.306+01:00","updated":"2025-11-05T13:23:04.842+01:00"}
+{"dg-publish":true,"permalink":"/player-options/backgrounds/acolyte/"}
 ---
 
 **Ability Scores:** [[Player Options/Rules/The Six Abilities\|Intelligence]], [[Player Options/Rules/The Six Abilities\|Wisdom]], [[Player Options/Rules/The Six Abilities\|Charisma]]

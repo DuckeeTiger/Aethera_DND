@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/aura-of-vitality/","created":"2025-10-28T09:35:35.394+01:00","updated":"2025-11-04T11:23:31.502+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/aura-of-vitality/"}
 ---
 
 *3rd level Abjuration ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Cleric/Cleric\|Cleric]], [[Player Options/Classes/Druid/Druid\|Druid]], [[Player Options/Classes/Paladin/Paladin\|Paladin]])*

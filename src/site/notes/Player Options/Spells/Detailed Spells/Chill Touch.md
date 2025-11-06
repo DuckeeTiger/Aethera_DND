@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/chill-touch/","created":"2025-10-28T08:04:34.338+01:00","updated":"2025-11-04T11:23:31.002+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/chill-touch/"}
 ---
 
 *Cantrip level Necromancy ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Warlock/Warlock\|Warlock]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*

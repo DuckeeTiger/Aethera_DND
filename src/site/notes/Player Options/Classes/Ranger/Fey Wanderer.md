@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/ranger/fey-wanderer/","created":"2025-11-05T11:30:14.501+01:00","updated":"2025-11-05T12:10:56.826+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/ranger/fey-wanderer/"}
 ---
 
 _Wield Fey Mirth and Fury_ 

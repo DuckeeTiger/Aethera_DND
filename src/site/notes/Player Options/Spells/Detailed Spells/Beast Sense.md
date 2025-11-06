@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/beast-sense/","created":"2025-10-28T09:47:54.085+01:00","updated":"2025-11-04T11:23:31.419+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/beast-sense/"}
 ---
 
 *2nd level Divination (ritual) ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Druid/Druid\|Druid]], [[Player Options/Classes/Ranger/Ranger\|Ranger]])*

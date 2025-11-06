@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/control-water/","created":"2025-11-03T16:13:17.362+01:00","updated":"2025-11-04T11:23:35.015+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/control-water/"}
 ---
 
 *4th level Transmutation (<a href="obsidian://open?file=Player%20Options%2FClasses%2FCleric%2FCleric.md">Cleric</a>, <a href="obsidian://open?file=Player%20Options%2FClasses%2FDruid%2FDruid.md">Druid</a>, <a href="obsidian://open?file=Player%20Options%2FClasses%2FWizard%2FWizard.md">Wizard</a>)*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/conjure-woodland-beings/","created":"2025-11-03T16:10:32.742+01:00","updated":"2025-11-04T11:23:35.099+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/conjure-woodland-beings/"}
 ---
 
 *4th level Conjuration ([[Player Options/Classes/Druid/Druid\|Druid]], [[Player Options/Classes/Ranger/Ranger\|Ranger]])*

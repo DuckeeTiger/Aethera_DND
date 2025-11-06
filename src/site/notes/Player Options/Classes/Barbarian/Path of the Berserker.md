@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/barbarian/path-of-the-berserker/","created":"2025-10-30T09:39:51.099+01:00","updated":"2025-11-04T11:24:08.990+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/barbarian/path-of-the-berserker/"}
 ---
 
 *Channel Rage into Violent Fury*

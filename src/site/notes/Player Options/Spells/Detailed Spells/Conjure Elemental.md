@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/conjure-elemental/","created":"2025-10-28T14:36:15.347+01:00","updated":"2025-11-04T11:23:30.679+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/conjure-elemental/"}
 ---
 
 *Level 5 Conjuration (Druid, Wizard)*

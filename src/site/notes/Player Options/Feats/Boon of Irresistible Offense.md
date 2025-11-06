@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/boon-of-irresistible-offense/","created":"2025-11-03T13:42:54.694+01:00","updated":"2025-11-04T11:23:33.597+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/boon-of-irresistible-offense/"}
 ---
 
 *Epic Boon Feat (Prerequisite: Level 19+)*

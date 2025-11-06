@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/guidance/","created":"2025-10-28T09:31:26.472+01:00","updated":"2025-11-04T11:23:30.558+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/guidance/"}
 ---
 
 *Cantrip level Divination ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Cleric/Cleric\|Cleric]], [[Player Options/Classes/Druid/Druid\|Druid]])*

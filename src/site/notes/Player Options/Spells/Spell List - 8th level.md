@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/spell-list-8th-level/","created":"2025-10-29T16:53:03.567+01:00","updated":"2025-11-04T11:23:30.130+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/spell-list-8th-level/"}
 ---
 
 

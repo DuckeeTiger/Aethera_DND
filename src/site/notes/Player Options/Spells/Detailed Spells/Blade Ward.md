@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/blade-ward/","created":"2025-10-28T08:04:13.824+01:00","updated":"2025-11-04T11:23:31.273+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/blade-ward/"}
 ---
 
 *Cantrip level Abjuration ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Warlock/Warlock\|Warlock]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*

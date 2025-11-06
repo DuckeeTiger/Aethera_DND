@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/warlock/fiend-patron/","created":"2025-10-30T09:29:55.819+01:00","updated":"2025-11-04T11:23:33.694+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/warlock/fiend-patron/"}
 ---
 
 *Make a Deal with the Lower Planes*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/boon-of-truesight/","created":"2025-11-03T13:43:40.973+01:00","updated":"2025-11-04T11:23:33.452+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/boon-of-truesight/"}
 ---
 
 *Epic Boon Feat (Prerequisite: Level 19+)*

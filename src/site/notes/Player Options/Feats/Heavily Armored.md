@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/heavily-armored/","created":"2025-11-03T13:17:38.718+01:00","updated":"2025-11-04T11:23:32.913+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/heavily-armored/"}
 ---
 
 *General Feat (Prerequisite: Level 4+, Medium Armor Training)*

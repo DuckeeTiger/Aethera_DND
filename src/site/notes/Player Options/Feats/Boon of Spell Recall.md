@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/boon-of-spell-recall/","created":"2025-11-03T13:43:28.093+01:00","updated":"2025-11-04T11:23:33.476+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/boon-of-spell-recall/"}
 ---
 
 *Epic Boon Feat (Prerequisite: Level 19+, Spellcasting Feature)*

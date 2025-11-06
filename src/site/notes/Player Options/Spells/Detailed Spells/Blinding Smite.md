@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/blinding-smite/","created":"2025-10-28T09:48:31.185+01:00","updated":"2025-11-04T11:23:31.207+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/blinding-smite/"}
 ---
 
 *3rd level Evocation ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Paladin/Paladin\|Paladin]])*

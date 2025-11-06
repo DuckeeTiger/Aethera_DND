@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/cloudkill/","created":"2025-10-28T10:31:27.703+01:00","updated":"2025-11-04T11:23:30.922+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/cloudkill/"}
 ---
 
 *5th level Conjuration ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*

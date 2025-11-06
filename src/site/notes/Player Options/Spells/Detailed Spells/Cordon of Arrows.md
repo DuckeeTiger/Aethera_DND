@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/cordon-of-arrows/","created":"2025-11-03T16:22:43.434+01:00","updated":"2025-11-04T11:23:34.911+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/cordon-of-arrows/"}
 ---
 
 

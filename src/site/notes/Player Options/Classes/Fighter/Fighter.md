@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/fighter/fighter/","created":"2025-10-27T15:13:34.000+01:00","updated":"2025-11-05T11:23:04.093+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/fighter/fighter/"}
 ---
 
 *A Master of All Arms and Armor*

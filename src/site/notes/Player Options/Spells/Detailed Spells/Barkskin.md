@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/barkskin/","created":"2025-10-28T12:38:13.000+01:00","updated":"2025-11-04T11:23:31.403+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/barkskin/"}
 ---
 
 *2nd level Transmutation ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Druid/Druid\|Druid]], [[Player Options/Classes/Ranger/Ranger\|Ranger]])*

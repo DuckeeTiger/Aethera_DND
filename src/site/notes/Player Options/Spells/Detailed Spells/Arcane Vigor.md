@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/arcane-vigor/","created":"2025-10-28T12:36:01.000+01:00","updated":"2025-11-04T11:23:31.575+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/arcane-vigor/"}
 ---
 
 *2nd level Abjuration ([[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*

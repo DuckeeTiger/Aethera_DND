@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/bane/","created":"2025-10-28T12:37:38.000+01:00","updated":"2025-11-04T11:23:31.460+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/bane/"}
 ---
 
 *1st level Enchantment ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Cleric/Cleric\|Cleric]], [[Player Options/Classes/Warlock/Warlock\|Warlock]])*

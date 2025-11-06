@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/telepathic/","created":"2025-11-03T13:28:24.822+01:00","updated":"2025-11-04T11:23:32.098+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/telepathic/"}
 ---
 
 *General Feat (Prerequisite: Level 4+)*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/eldritch-blast/","created":"2025-10-28T19:40:21.000+01:00","updated":"2025-11-04T11:23:30.606+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/eldritch-blast/"}
 ---
 
 *Cantrip level Evocation ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Warlock/Warlock\|Warlock]])*

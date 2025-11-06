@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/paladin/oath-of-the-ancient/","created":"2025-11-05T11:29:13.460+01:00","updated":"2025-11-05T12:18:26.054+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/paladin/oath-of-the-ancient/"}
 ---
 
 _Preserve Life and Light in the World_ 

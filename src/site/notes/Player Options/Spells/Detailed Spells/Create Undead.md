@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/create-undead/","created":"2025-11-03T16:24:41.578+01:00","updated":"2025-11-04T11:23:34.879+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/create-undead/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/augury/","created":"2025-10-28T12:36:51.000+01:00","updated":"2025-11-04T11:23:31.534+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/augury/"}
 ---
 
 *2nd level Divination (ritual) ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Cleric/Cleric\|Cleric]], [[Player Options/Classes/Druid/Druid\|Druid]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/mounted-combatant/","created":"2025-11-03T13:22:43.240+01:00","updated":"2025-11-04T11:23:32.824+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/mounted-combatant/"}
 ---
 
 *General Feat (Prerequisite: Level 4+)*

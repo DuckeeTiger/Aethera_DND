@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/wizard/diviner/","created":"2025-11-05T11:32:29.835+01:00","updated":"2025-11-05T11:57:22.858+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/wizard/diviner/"}
 ---
 
 _Learn the Secrets of the Multiverse_ 

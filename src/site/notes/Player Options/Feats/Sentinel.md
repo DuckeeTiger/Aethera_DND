@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/sentinel/","created":"2025-11-03T13:25:01.575+01:00","updated":"2025-11-04T11:23:32.377+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/sentinel/"}
 ---
 
 *General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+)*

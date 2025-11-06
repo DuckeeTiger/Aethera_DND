@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/speedy/","created":"2025-11-03T13:28:42.639+01:00","updated":"2025-11-04T11:23:32.081+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/speedy/"}
 ---
 
 *General Feat (Prerequisite: Level 4+, Dexterity or Constitution 13+)*

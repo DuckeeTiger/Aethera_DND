@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/boon-of-fate/","created":"2025-11-03T13:36:09.631+01:00","updated":"2025-11-04T11:23:33.533+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/boon-of-fate/"}
 ---
 
 *Epic Boon Feat (Prerequisite: Level 19+)*

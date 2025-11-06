@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/monk/monk/","created":"2025-10-27T15:16:29.000+01:00","updated":"2025-11-05T11:27:04.259+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/monk/monk/"}
 ---
 
 *A Martial Artist of Supernatural Focus*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/ability-score-improvement/","created":"2025-11-03T13:10:18.934+01:00","updated":"2025-11-04T11:13:31.205+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/ability-score-improvement/"}
 ---
 
 *General Feat (Prerequisite: Level 4+)*

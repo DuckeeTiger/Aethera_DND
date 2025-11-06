@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/ranger/ranger/","created":"2025-10-27T15:14:31.000+01:00","updated":"2025-11-05T11:30:14.556+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/ranger/ranger/"}
 ---
 
 *A Wandering Warrior Imbued with Primal magic*
@@ -222,3 +222,4 @@ A Ranger subclass is a specialization that grants you features at certain Rangel
 - [[Player Options/Classes/Ranger/Gloom Stalker\|Gloom Stalker]]
 - [[Player Options/Classes/Ranger/Hunter\|Hunter]]
 - [[Player Options/Classes/Ranger/Fey Wanderer\|Fey Wanderer]]
+- [[Player Options/Classes/Ranger/Winter Walker\|Winter Walker]]

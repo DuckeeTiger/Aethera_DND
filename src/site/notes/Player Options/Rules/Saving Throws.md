@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/rules/saving-throws/","created":"2025-11-05T13:25:33.910+01:00","updated":"2025-11-05T13:32:39.129+01:00"}
+{"dg-publish":true,"permalink":"/player-options/rules/saving-throws/"}
 ---
 
 A saving throw—also called a save—represents an attempt to evade or resist a threat, such as a fiery explosion, a blast of poisonous gas, or a spell trying to invade your mind. You don’t normally choose to make a save; you must make one because your character or a monster (if you’re the DM) is at risk. A save’s result is detailed in the effect that caused it.

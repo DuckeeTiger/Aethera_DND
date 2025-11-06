@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/sharpshooter/","created":"2025-11-03T13:29:10.643+01:00","updated":"2025-11-04T11:23:32.437+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/sharpshooter/"}
 ---
 
 *General Feat (Prerequisite: Level 4+, Dexterity 13+)*

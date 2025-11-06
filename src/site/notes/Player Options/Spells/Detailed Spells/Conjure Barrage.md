@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/conjure-barrage/","created":"2025-10-28T14:33:54.498+01:00","updated":"2025-11-04T11:23:30.695+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/conjure-barrage/"}
 ---
 
 *Level 3 Conjuration (Ranger)*

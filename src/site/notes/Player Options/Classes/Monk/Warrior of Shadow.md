@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/monk/warrior-of-shadow/","created":"2025-11-05T11:27:11.238+01:00","updated":"2025-11-05T12:23:17.194+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/monk/warrior-of-shadow/"}
 ---
 
 _Harness Shadow Power for Stealth and Subterfuge_

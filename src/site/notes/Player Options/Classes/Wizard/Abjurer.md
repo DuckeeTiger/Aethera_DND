@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/wizard/abjurer/","created":"2025-11-05T11:32:19.340+01:00","updated":"2025-11-05T11:53:42.994+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/wizard/abjurer/"}
 ---
 
 _Shield Companions and Banish Foes_ 

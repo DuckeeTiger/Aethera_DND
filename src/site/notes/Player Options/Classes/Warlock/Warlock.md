@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/warlock/warlock/","created":"2025-10-27T21:47:00.000+01:00","updated":"2025-11-05T12:34:26.814+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/warlock/warlock/"}
 ---
 
 *An Occultist Empowered by Otherworldly Pacts*

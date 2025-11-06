@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/rules/the-six-abilities/","created":"2025-11-05T13:19:02.731+01:00","updated":"2025-11-05T13:22:23.820+01:00"}
+{"dg-publish":true,"permalink":"/player-options/rules/the-six-abilities/"}
 ---
 
 All creatures—characters and monsters—have six abilities that measure physical and mental characteristics, as shown on the Ability Descriptions table.

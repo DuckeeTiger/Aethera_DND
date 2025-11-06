@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/rules/conditions/grappled/","created":"2025-10-31T12:51:49.233+01:00","updated":"2025-11-04T11:23:34.639+01:00"}
+{"dg-publish":true,"permalink":"/player-options/rules/conditions/grappled/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/druid/circle-of-land/","created":"2025-11-05T09:57:59.047+01:00","updated":"2025-11-05T11:22:39.684+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/druid/circle-of-land/"}
 ---
 
 _Celebrate Connection to the Natural World_

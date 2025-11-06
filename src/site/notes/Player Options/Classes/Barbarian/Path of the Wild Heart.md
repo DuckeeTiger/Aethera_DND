@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/barbarian/path-of-the-wild-heart/","created":"2025-11-04T16:59:41.000+01:00","updated":"2025-11-04T16:59:41.000+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/barbarian/path-of-the-wild-heart/"}
 ---
 
 *Walk in Community with the Animal World*

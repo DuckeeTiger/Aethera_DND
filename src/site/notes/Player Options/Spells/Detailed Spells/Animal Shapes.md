@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/animal-shapes/","created":"2025-10-28T12:34:41.000+01:00","updated":"2025-11-04T11:23:31.819+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/animal-shapes/"}
 ---
 
 *8th level Transmutation ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Druid/Druid\|Druid]])*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/control-weather/","created":"2025-11-03T16:20:30.356+01:00","updated":"2025-11-04T11:23:34.983+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/control-weather/"}
 ---
 
 *8th level Transmutation ([[Player Options/Classes/Cleric/Cleric\|Cleric]], [[Player Options/Classes/Druid/Druid\|Druid]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*

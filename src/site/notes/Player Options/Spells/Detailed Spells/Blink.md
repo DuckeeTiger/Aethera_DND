@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/blink/","created":"2025-10-28T10:11:32.023+01:00","updated":"2025-11-04T11:23:31.193+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/blink/"}
 ---
 
 *3rd level Transmutation ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*

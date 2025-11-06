@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/rules/actions/","created":"2025-11-05T13:32:59.394+01:00","updated":"2025-11-05T13:34:51.268+01:00"}
+{"dg-publish":true,"permalink":"/player-options/rules/actions/"}
 ---
 
 When you do something other than moving or communicating, you typically take an action. The Action table lists the game’s main actions.

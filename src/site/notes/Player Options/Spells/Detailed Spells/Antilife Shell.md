@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/antilife-shell/","created":"2025-10-28T12:35:13.000+01:00","updated":"2025-11-04T11:23:31.795+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/antilife-shell/"}
 ---
 
 *5th level Abjuration ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Druid/Druid\|Druid]])*

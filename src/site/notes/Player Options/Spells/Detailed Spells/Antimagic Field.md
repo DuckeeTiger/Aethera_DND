@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/antimagic-field/","created":"2025-10-28T12:35:20.000+01:00","updated":"2025-11-04T11:23:31.665+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/antimagic-field/"}
 ---
 
 *8th level Abjuration ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Cleric/Cleric\|Cleric]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*

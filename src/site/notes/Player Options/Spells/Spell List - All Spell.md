@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/spell-list-all-spell/","created":"2025-10-27T22:35:55.000+01:00","updated":"2025-11-04T11:23:30.017+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/spell-list-all-spell/"}
 ---
 
 

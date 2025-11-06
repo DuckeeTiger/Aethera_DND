@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/rules/attack-roles/","created":"2025-11-05T13:26:11.291+01:00","updated":"2025-11-05T13:32:44.211+01:00"}
+{"dg-publish":true,"permalink":"/player-options/rules/attack-roles/"}
 ---
 
 An attack roll determines whether an attack hits a target. An attack roll hits if the roll equals or exceeds the target’s Armor Class. Attack rolls usually occur in battle, described in “Combat” later in this chapter, but the DM might also ask for an attack roll in other situations, such as an archery competition.

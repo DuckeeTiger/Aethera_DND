@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/druid/circle-of-the-stars/","created":"2025-11-05T10:55:18.953+01:00","updated":"2025-11-05T11:22:45.737+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/druid/circle-of-the-stars/"}
 ---
 
 _Harness Secrets Hidden in Constellations_ 

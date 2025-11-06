@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/contagion/","created":"2025-11-03T16:11:33.745+01:00","updated":"2025-11-04T11:23:35.025+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/contagion/"}
 ---
 
 *5th level Necromancy ([[Player Options/Classes/Cleric/Cleric\|Cleric]], [[Player Options/Classes/Druid/Druid\|Druid]])*

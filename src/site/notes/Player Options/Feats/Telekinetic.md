@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/telekinetic/","created":"2025-11-03T13:28:19.737+01:00","updated":"2025-11-04T11:23:32.113+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/telekinetic/"}
 ---
 
 *General Feat (Prerequisite: Level 4+)*

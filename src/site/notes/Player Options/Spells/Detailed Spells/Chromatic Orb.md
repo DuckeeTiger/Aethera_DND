@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/chromatic-orb/","created":"2025-10-28T10:30:57.527+01:00","updated":"2025-11-04T11:23:30.993+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/chromatic-orb/"}
 ---
 
 *1st level Evocation ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*

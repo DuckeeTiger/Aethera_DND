@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/arms-of-hadar/","created":"2025-10-28T12:36:15.000+01:00","updated":"2025-11-04T11:23:31.558+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/arms-of-hadar/"}
 ---
 
 *1st level Conjuration ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Warlock/Warlock\|Warlock]])*

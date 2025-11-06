@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/chef/","created":"2025-11-03T13:13:52.969+01:00","updated":"2025-11-04T11:23:33.420+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/chef/"}
 ---
 
 *General Feat (Prerequisite: Level 4+)*

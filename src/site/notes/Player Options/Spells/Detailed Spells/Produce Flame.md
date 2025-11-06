@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/produce-flame/","created":"2025-10-29T17:13:43.095+01:00","updated":"2025-11-04T11:23:30.235+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/produce-flame/"}
 ---
 
 *Cantrip Conjuration ([[Player Options/Classes/Druid/Druid\|Druid]])*

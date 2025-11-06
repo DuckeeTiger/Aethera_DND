@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/backgrounds/farmer/","created":"2025-10-31T12:58:48.540+01:00","updated":"2025-11-04T11:11:48.727+01:00"}
+{"dg-publish":true,"permalink":"/player-options/backgrounds/farmer/"}
 ---
 
 **Ability Scores:** Strength, Constitution, Wisdom

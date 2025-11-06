@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/spell-sniper/","created":"2025-11-03T13:28:10.502+01:00","updated":"2025-11-04T11:23:32.204+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/spell-sniper/"}
 ---
 
 *General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*

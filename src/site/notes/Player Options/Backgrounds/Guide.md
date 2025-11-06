@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/backgrounds/guide/","created":"2025-10-31T12:58:50.311+01:00","updated":"2025-11-04T11:11:59.289+01:00"}
+{"dg-publish":true,"permalink":"/player-options/backgrounds/guide/"}
 ---
 
 **Ability Scores:** Dexterity, Constitution, Wisdom

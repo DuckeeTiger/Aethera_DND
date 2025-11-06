@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/spell-list-2nd-level/","created":"2025-11-04T19:37:45.000+01:00","updated":"2025-11-04T19:37:45.000+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/spell-list-2nd-level/"}
 ---
 
 

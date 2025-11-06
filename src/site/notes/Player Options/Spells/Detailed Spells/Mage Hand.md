@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/mage-hand/","created":"2025-10-29T16:58:34.990+01:00","updated":"2025-11-04T11:23:30.518+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/mage-hand/"}
 ---
 
 *Cantrip Conjuration ([[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Warlock/Warlock\|Warlock]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*

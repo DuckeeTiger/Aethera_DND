@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/two-weapon-fighting/","created":"2025-11-03T13:33:49.201+01:00","updated":"2025-11-04T11:23:31.976+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/two-weapon-fighting/"}
 ---
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*

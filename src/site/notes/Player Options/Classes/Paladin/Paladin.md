@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/paladin/paladin/","created":"2025-10-27T15:20:53.000+01:00","updated":"2025-11-05T11:29:08.550+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/paladin/paladin/"}
 ---
 
 *A Devout Warrior of Sacred Oaths*

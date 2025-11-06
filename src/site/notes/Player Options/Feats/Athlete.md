@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/athlete/","created":"2025-11-03T13:12:21.836+01:00","updated":"2025-11-04T11:23:10.912+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/athlete/"}
 ---
 
 *General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+)*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/species/tiefling/","created":"2025-11-05T12:36:02.259+01:00","updated":"2025-11-05T13:05:37.483+01:00"}
+{"dg-publish":true,"permalink":"/player-options/species/tiefling/"}
 ---
 
 Tieflings are either born in the Lower Planes or have fiendish ancestors who originated there. A tiefling (pronounced TEE-fling) is linked by blood to a devil, a demon, or some other Fiend. This connection to the Lower Planes is the tiefling’s fiendish legacy, which comes with the promise of power yet has no effect on the tiefling’s moral outlook.

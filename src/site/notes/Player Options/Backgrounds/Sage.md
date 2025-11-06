@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/backgrounds/sage/","created":"2025-10-31T12:58:54.162+01:00","updated":"2025-11-04T11:12:12.580+01:00"}
+{"dg-publish":true,"permalink":"/player-options/backgrounds/sage/"}
 ---
 
 

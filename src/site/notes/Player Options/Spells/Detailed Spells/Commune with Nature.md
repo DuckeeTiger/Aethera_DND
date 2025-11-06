@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/commune-with-nature/","created":"2025-10-28T14:31:38.454+01:00","updated":"2025-11-04T11:23:30.874+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/commune-with-nature/"}
 ---
 
 *Level 5 Divination (Druid, Ranger)*

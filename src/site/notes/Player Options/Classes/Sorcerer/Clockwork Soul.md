@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/sorcerer/clockwork-soul/","created":"2025-11-05T11:30:55.013+01:00","updated":"2025-11-05T11:46:08.097+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/sorcerer/clockwork-soul/"}
 ---
 
 *Channel Cosmic Forces of Order*

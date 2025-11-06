@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/rules/conditions/frightened/","created":"2025-10-27T21:21:58.000+01:00","updated":"2025-11-04T11:23:34.703+01:00"}
+{"dg-publish":true,"permalink":"/player-options/rules/conditions/frightened/"}
 ---
 
 

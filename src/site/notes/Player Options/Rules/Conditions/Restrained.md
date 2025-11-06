@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/rules/conditions/restrained/","created":"2025-10-31T12:51:54.561+01:00","updated":"2025-11-04T11:23:34.583+01:00"}
+{"dg-publish":true,"permalink":"/player-options/rules/conditions/restrained/"}
 ---
 
 

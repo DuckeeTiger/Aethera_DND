@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/sorcerer/sorcerer/","created":"2025-10-27T15:20:02.000+01:00","updated":"2025-11-05T12:35:16.436+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/sorcerer/sorcerer/"}
 ---
 
 *A Dazzling Mage Filled with Innate Magic*
@@ -338,3 +338,5 @@ A Sorcerer subclass is a specialization that grants you features at certain Sorc
 - [[Player Options/Classes/Sorcerer/Clockwork Soul\|Clockwork Soul]]
 - [[Player Options/Classes/Sorcerer/Draconic Sorcery\|Draconic Sorcery]]
 - [[Player Options/Classes/Sorcerer/Wild Magic Sorcery\|Wild Magic Sorcery]]
+- [[Player Options/Classes/Sorcerer/Spellfire Sorcery\|Spellfire Sorcery]]
+- [[Player Options/Classes/Sorcerer/Shadow Sorcerer\|Shadow Sorcerer]]

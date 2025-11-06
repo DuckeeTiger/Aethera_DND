@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/minor-illusion/","created":"2025-10-29T17:07:30.143+01:00","updated":"2025-11-04T11:23:30.397+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/minor-illusion/"}
 ---
 
 *Cantrip Illusion ([[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Warlock/Warlock\|Warlock]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*

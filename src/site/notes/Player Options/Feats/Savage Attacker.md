@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/savage-attacker/","created":"2025-10-31T13:17:39.527+01:00","updated":"2025-11-04T11:23:32.566+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/savage-attacker/"}
 ---
 
 *Origin Feat*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/dual-wielder/","created":"2025-11-03T13:15:40.261+01:00","updated":"2025-11-04T11:23:33.161+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/dual-wielder/"}
 ---
 
 *General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+)*

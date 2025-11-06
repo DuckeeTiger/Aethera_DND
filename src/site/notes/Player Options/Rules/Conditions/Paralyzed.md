@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/rules/conditions/paralyzed/","created":"2025-10-27T21:22:00.000+01:00","updated":"2025-11-04T11:23:34.655+01:00"}
+{"dg-publish":true,"permalink":"/player-options/rules/conditions/paralyzed/"}
 ---
 
 

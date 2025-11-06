@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/befuddlement/","created":"2025-10-28T09:47:59.348+01:00","updated":"2025-11-04T11:23:31.362+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/befuddlement/"}
 ---
 
 *8th level Enchantment ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Druid/Druid\|Druid]], [[Player Options/Classes/Warlock/Warlock\|Warlock]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*

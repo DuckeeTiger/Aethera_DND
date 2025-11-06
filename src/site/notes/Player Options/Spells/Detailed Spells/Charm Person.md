@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/charm-person/","created":"2025-10-28T10:12:03.791+01:00","updated":"2025-11-04T11:23:31.043+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/charm-person/"}
 ---
 
 *1st level Enchantment ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Druid/Druid\|Druid]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Warlock/Warlock\|Warlock]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*

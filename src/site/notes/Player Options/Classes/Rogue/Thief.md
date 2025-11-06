@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/rogue/thief/","created":"2025-11-05T10:09:04.850+01:00","updated":"2025-11-05T11:23:27.236+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/rogue/thief/"}
 ---
 
 _Hunt for Treasure as a Classic Adventurer_

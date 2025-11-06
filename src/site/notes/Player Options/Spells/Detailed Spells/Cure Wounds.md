@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/cure-wounds/","created":"2025-11-03T16:30:48.112+01:00","updated":"2025-11-04T11:23:34.799+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/cure-wounds/"}
 ---
 
 

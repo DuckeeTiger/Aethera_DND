@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/druid/circle-of-the-sea/","created":"2025-11-05T10:55:16.730+01:00","updated":"2025-11-05T11:22:42.655+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/druid/circle-of-the-sea/"}
 ---
 
 

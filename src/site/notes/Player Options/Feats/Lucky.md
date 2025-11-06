@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/lucky/","created":"2025-10-31T13:17:10.263+01:00","updated":"2025-11-04T11:23:32.897+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/lucky/"}
 ---
 
 *Origin Feat*

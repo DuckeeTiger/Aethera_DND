@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/paladin/oath-of-glory/","created":"2025-11-05T11:29:09.162+01:00","updated":"2025-11-05T12:18:45.433+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/paladin/oath-of-glory/"}
 ---
 
 _Strive for the Heights of Heroism_ 

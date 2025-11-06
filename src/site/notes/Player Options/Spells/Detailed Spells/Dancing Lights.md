@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/dancing-lights/","created":"2025-10-28T08:05:13.715+01:00","updated":"2025-11-04T11:23:30.646+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/dancing-lights/"}
 ---
 
 *Cantrip level Illusion ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*

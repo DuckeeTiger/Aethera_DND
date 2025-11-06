@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/conjure-animals/","created":"2025-10-28T14:32:14.237+01:00","updated":"2025-11-04T11:23:30.727+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/conjure-animals/"}
 ---
 
 *Level 3 Conjuration (Druid, Ranger)*

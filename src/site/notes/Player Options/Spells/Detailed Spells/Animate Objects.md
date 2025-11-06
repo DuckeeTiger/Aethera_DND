@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/animate-objects/","created":"2025-10-28T12:35:06.000+01:00","updated":"2025-11-04T16:05:17.215+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/animate-objects/"}
 ---
 
 *5th level Transmutation ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*

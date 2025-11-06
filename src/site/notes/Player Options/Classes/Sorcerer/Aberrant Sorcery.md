@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/sorcerer/aberrant-sorcery/","created":"2025-11-05T11:30:48.445+01:00","updated":"2025-11-05T11:49:28.301+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/sorcerer/aberrant-sorcery/"}
 ---
 
 _Wield Unnatural Psionic Power_ 

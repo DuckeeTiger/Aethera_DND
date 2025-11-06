@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/rules/vision-and-light/","created":"2025-11-05T13:34:53.836+01:00","updated":"2025-11-05T14:13:12.283+01:00"}
+{"dg-publish":true,"permalink":"/player-options/rules/vision-and-light/"}
 ---
 
 

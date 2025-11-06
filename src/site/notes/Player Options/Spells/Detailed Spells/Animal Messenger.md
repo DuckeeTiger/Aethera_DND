@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/animal-messenger/","created":"2025-10-28T12:34:34.000+01:00","updated":"2025-11-04T11:23:31.852+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/animal-messenger/"}
 ---
 
 *2nd level Enchantment (ritual) ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Druid/Druid\|Druid]], [[Player Options/Classes/Ranger/Ranger\|Ranger]])*

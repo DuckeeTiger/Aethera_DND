@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/species/halfling/","created":"2025-11-05T12:36:03.200+01:00","updated":"2025-11-05T12:56:23.053+01:00"}
+{"dg-publish":true,"permalink":"/player-options/species/halfling/"}
 ---
 
 Cherished and guided by gods who value life, home, and hearth, halflings gravitate toward bucolic havens where family and community help shape their lives. That said, many halflings possess a brave and adventurous spirit that leads them on journeys of discovery, affording them the chance to explore a bigger world and make new friends along the way. Their size—similar to that of a human child—helps them pass through crowds unnoticed and slip through tight spaces.

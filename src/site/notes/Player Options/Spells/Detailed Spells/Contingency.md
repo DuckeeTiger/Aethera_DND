@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/contingency/","created":"2025-11-03T16:12:33.293+01:00","updated":"2025-11-04T11:23:35.056+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/contingency/"}
 ---
 
 *6th level Abjuration ([[Player Options/Classes/Wizard/Wizard\|Wizard]])*

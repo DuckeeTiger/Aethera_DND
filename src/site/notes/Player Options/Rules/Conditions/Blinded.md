@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/rules/conditions/blinded/","created":"2025-10-31T12:49:23.971+01:00","updated":"2025-11-04T11:23:34.742+01:00"}
+{"dg-publish":true,"permalink":"/player-options/rules/conditions/blinded/"}
 ---
 
 

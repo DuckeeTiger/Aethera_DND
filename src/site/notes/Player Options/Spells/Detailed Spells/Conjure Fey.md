@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/conjure-fey/","created":"2025-10-28T14:37:22.406+01:00","updated":"2025-11-04T11:23:30.630+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/conjure-fey/"}
 ---
 
 *Level 6 Conjuration (Druid)*

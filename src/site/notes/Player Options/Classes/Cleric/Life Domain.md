@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/cleric/life-domain/","created":"2025-10-31T12:34:43.122+01:00","updated":"2025-11-05T11:22:33.458+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/cleric/life-domain/"}
 ---
 
 _Soothe the Hurts of the World_

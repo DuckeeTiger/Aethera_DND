@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/fighter/eldritch-knight/","created":"2025-11-05T11:12:38.202+01:00","updated":"2025-11-05T11:23:02.244+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/fighter/eldritch-knight/"}
 ---
 
 _Support Combat Skills with Arcane Magic_ 

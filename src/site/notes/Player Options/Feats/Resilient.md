@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/resilient/","created":"2025-11-03T13:24:35.693+01:00","updated":"2025-11-04T11:23:32.542+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/resilient/"}
 ---
 
 *General Feat (Prerequisite: Level 4+)*

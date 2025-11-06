@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/rules/proficiency/","created":"2025-11-05T13:28:03.856+01:00","updated":"2025-11-05T13:32:40.799+01:00"}
+{"dg-publish":true,"permalink":"/player-options/rules/proficiency/"}
 ---
 
 Characters and monsters are good at various things. Some are skilled with many weapons, while others can use only a few. Some are better at understanding people’s motives, and others are better at unlocking the secrets of the multiverse. All creatures have a Proficiency Bonus, which reflects the impact that training has on the creature’s capabilities. A character’s Proficiency Bonus increases as the character gains levels (described in “Creating a Character”). A monster’s Proficiency Bonus is based on its Challenge Rating (see the Rules Glossary). The Proficiency Bonus table shows how the bonus is determined.

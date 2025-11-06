@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/circle-of-death/","created":"2025-10-28T10:31:02.686+01:00","updated":"2025-11-04T11:23:31.026+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/circle-of-death/"}
 ---
 
 *6th level Necromancy ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Warlock/Warlock\|Warlock]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*

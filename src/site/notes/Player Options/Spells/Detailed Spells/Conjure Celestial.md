@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/conjure-celestial/","created":"2025-10-28T14:35:54.742+01:00","updated":"2025-11-04T11:23:30.711+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/conjure-celestial/"}
 ---
 
 _Level 7 Conjuration (Cleric)_  

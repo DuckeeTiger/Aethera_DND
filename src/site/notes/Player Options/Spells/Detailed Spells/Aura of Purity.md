@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/aura-of-purity/","created":"2025-10-28T09:35:30.403+01:00","updated":"2025-11-04T11:23:31.494+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/aura-of-purity/"}
 ---
 
 *4th level Abjuration ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Cleric/Cleric\|Cleric]], [[Player Options/Classes/Paladin/Paladin\|Paladin]])*

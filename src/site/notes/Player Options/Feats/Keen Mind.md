@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/keen-mind/","created":"2025-11-03T13:20:56.379+01:00","updated":"2025-11-04T11:23:32.944+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/keen-mind/"}
 ---
 
 *General Feat (Prerequisite: Level 4+, Intelligence 13+)*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/antipathy-sympathy/","created":"2025-10-28T11:17:33.000+01:00","updated":"2025-11-04T11:23:31.649+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/antipathy-sympathy/"}
 ---
 
 _8th level Enchantment ([[Player Options/Classes/Wizard/Wizard\|Wizard]])_  

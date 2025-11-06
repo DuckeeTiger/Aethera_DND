@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/boon-of-energy-resistance/","created":"2025-11-03T13:36:00.054+01:00","updated":"2025-11-04T11:23:33.613+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/boon-of-energy-resistance/"}
 ---
 
 *Epic Boon Feat (Prerequisite: Level 19+)*

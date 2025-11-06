@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/druid/druid/","created":"2025-10-27T15:18:10.000+01:00","updated":"2025-11-05T11:22:48.482+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/druid/druid/"}
 ---
 
 *A Nature Priest of Primal Power*

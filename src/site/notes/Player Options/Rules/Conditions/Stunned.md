@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/rules/conditions/stunned/","created":"2025-10-28T11:58:13.712+01:00","updated":"2025-11-04T11:23:34.591+01:00"}
+{"dg-publish":true,"permalink":"/player-options/rules/conditions/stunned/"}
 ---
 
 

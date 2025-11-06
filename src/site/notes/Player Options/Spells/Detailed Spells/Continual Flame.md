@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/continual-flame/","created":"2025-11-03T16:12:53.053+01:00","updated":"2025-11-04T11:23:35.040+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/continual-flame/"}
 ---
 
 *2nd level Evocation ([[Player Options/Classes/Cleric/Cleric\|Cleric]], [[Player Options/Classes/Druid/Druid\|Druid]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/rules/conditions/prone/","created":"2025-10-28T11:58:11.754+01:00","updated":"2025-11-04T11:23:34.607+01:00"}
+{"dg-publish":true,"permalink":"/player-options/rules/conditions/prone/"}
 ---
 
 

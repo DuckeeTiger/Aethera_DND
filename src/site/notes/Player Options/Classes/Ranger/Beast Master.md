@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/ranger/beast-master/","created":"2025-10-30T13:27:53.481+01:00","updated":"2025-11-05T12:09:13.728+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/ranger/beast-master/"}
 ---
 
 _Bond with a Primal Beast_ 

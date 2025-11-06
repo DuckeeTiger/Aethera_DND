@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/paladin/oath-of-devotion/","created":"2025-11-05T09:42:44.019+01:00","updated":"2025-11-05T12:18:58.676+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/paladin/oath-of-devotion/"}
 ---
 
 _Uphold the Ideals of Justice and Order_

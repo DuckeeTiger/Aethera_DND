@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/heavy-armor-master/","created":"2025-11-03T13:17:52.051+01:00","updated":"2025-11-04T11:23:32.977+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/heavy-armor-master/"}
 ---
 
 *General Feat (Prerequisite: Level 4+, Heavy Armor Training)*

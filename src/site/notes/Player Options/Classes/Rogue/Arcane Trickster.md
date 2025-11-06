@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/rogue/arcane-trickster/","created":"2025-11-05T10:22:06.105+01:00","updated":"2025-11-05T11:23:19.682+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/rogue/arcane-trickster/"}
 ---
 
 _Enhance Stealth with Arcane Spells_

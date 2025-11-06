@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/backgrounds/merchant/","created":"2025-10-31T12:58:52.126+01:00","updated":"2025-11-04T11:12:01.859+01:00"}
+{"dg-publish":true,"permalink":"/player-options/backgrounds/merchant/"}
 ---
 
 **Ability Scores:** Constitution, Intelligence, Charisma

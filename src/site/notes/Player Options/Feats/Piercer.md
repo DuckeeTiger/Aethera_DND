@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/piercer/","created":"2025-11-03T13:23:30.106+01:00","updated":"2025-11-04T11:23:32.607+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/piercer/"}
 ---
 
 *General Feat (Prerequisite: Level 4+)*

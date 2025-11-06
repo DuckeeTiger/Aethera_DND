@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/rules/initiative/","created":"2025-11-05T13:36:59.962+01:00","updated":"2025-11-05T13:37:17.429+01:00"}
+{"dg-publish":true,"permalink":"/player-options/rules/initiative/"}
 ---
 
 Initiative determines the order of turns during combat. When combat starts, every participant rolls Initiative; they make a Dexterity check that determines their place in the Initiative order. The DM rolls for monsters. For a group of identical creatures, the DM makes a single roll, so each member of the group has the same Initiative.

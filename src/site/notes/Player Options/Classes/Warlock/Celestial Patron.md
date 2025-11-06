@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/warlock/celestial-patron/","created":"2025-10-30T09:29:54.409+01:00","updated":"2025-11-04T11:23:33.727+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/warlock/celestial-patron/"}
 ---
 
 *Call on the Power of the Heavens*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/prestidigitation/","created":"2025-10-29T17:09:25.027+01:00","updated":"2025-11-04T11:23:30.267+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/prestidigitation/"}
 ---
 
 *Cantrip Transmutation ([[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Warlock/Warlock\|Warlock]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*

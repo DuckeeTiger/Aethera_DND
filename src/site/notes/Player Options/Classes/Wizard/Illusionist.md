@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/wizard/illusionist/","created":"2025-11-05T11:32:34.197+01:00","updated":"2025-11-05T11:58:42.357+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/wizard/illusionist/"}
 ---
 
 _Weave Subtle Spells of Deception_ 

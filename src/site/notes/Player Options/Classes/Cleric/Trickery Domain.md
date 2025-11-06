@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/cleric/trickery-domain/","created":"2025-10-31T12:34:41.452+01:00","updated":"2025-11-05T11:22:36.706+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/cleric/trickery-domain/"}
 ---
 
 _Make Mischief and Challenge Authority_

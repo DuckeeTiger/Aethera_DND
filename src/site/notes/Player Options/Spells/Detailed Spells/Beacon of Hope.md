@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/beacon-of-hope/","created":"2025-10-28T12:38:18.000+01:00","updated":"2025-11-04T11:23:31.330+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/beacon-of-hope/"}
 ---
 
 *3rd level Abjuration ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Cleric/Cleric\|Cleric]])*

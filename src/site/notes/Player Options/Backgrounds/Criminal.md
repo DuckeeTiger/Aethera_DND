@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/backgrounds/criminal/","created":"2025-10-31T12:58:46.661+01:00","updated":"2025-11-04T11:11:54.473+01:00"}
+{"dg-publish":true,"permalink":"/player-options/backgrounds/criminal/"}
 ---
 
 **Ability Scores:** Dexterity, Constitution, Intelligence

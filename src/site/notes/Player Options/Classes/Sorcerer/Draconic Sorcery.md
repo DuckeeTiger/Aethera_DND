@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/sorcerer/draconic-sorcery/","created":"2025-11-05T10:10:59.617+01:00","updated":"2025-11-05T11:23:53.330+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/sorcerer/draconic-sorcery/"}
 ---
 
 

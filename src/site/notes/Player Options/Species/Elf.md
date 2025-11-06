@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/species/elf/","created":"2025-11-05T12:35:59.452+01:00","updated":"2025-11-05T12:57:29.105+01:00"}
+{"dg-publish":true,"permalink":"/player-options/species/elf/"}
 ---
 
 Created by the god Corellon, the first elves could change their forms at will. They lost this ability when Corellon cursed them for plotting with the deity Lolth, who tried and failed to usurp Corellon’s dominion. When Lolth was cast into the Abyss, most elves renounced her and earned Corellon’s forgiveness, but that which Corellon had taken from them was lost forever.

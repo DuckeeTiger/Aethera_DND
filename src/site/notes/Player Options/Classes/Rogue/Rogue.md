@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/rogue/rogue/","created":"2025-11-01T07:14:04.000+01:00","updated":"2025-11-04T11:23:33.848+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/rogue/rogue/"}
 ---
 
 *A Dexterous Expert in Stealth and Subterfuge*

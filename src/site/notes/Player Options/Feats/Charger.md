@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/charger/","created":"2025-11-03T13:13:44.450+01:00","updated":"2025-11-04T11:23:33.435+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/charger/"}
 ---
 
 *General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+)*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/weapon-master/","created":"2025-11-03T13:30:17.347+01:00","updated":"2025-11-04T11:23:31.995+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/weapon-master/"}
 ---
 
 *General Feat (Prerequisite: Level 4+)*

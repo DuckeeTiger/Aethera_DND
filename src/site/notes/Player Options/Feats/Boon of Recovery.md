@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/boon-of-recovery/","created":"2025-11-03T13:43:05.736+01:00","updated":"2025-11-04T11:23:33.509+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/boon-of-recovery/"}
 ---
 
 *Epic Boon Feat (Prerequisite: Level 19+)*

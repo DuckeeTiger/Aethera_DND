@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/crusher/","created":"2025-11-03T13:15:14.329+01:00","updated":"2025-11-04T11:23:33.355+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/crusher/"}
 ---
 
 *General Feat (Prerequisite: Level 4+)*

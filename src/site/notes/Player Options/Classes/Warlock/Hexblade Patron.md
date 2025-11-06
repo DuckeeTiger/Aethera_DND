@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/warlock/hexblade-patron/","created":"2025-10-30T08:51:21.000+01:00","updated":"2025-11-04T11:23:33.653+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/warlock/hexblade-patron/"}
 ---
 
 You’ve made a pact with a sentient magic weapon and the cursed forces contained within its blade. Such a weapon could be the sword sheathed at a Warlock’s side, or it could be an infamous magic weapon stored elsewhere, projecting its power across the multiverse to further its cunning plans. To those who are willing to follow this weapon’s whims, these inscrutable patrons offer the power to bestow malignant curses, deliver punishing blows, and bolster the wielder.

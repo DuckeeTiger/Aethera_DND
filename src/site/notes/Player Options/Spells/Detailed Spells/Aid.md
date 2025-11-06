@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/aid/","created":"2025-10-27T20:55:19.000+01:00","updated":"2025-11-04T11:23:31.885+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/aid/"}
 ---
 
 *2nd level Abjuration ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Cleric/Cleric\|Cleric]], [[Player Options/Classes/Druid/Druid\|Druid]], [[Player Options/Classes/Paladin/Paladin\|Paladin]], [[Player Options/Classes/Ranger/Ranger\|Ranger]])*

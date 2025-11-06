@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/boon-of-fortitude/","created":"2025-11-03T13:42:41.531+01:00","updated":"2025-11-04T11:23:33.525+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/boon-of-fortitude/"}
 ---
 
 *Epic Boon Feat (Prerequisite: Level 19+)*

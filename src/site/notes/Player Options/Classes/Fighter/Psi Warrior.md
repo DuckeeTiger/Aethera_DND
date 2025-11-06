@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/fighter/psi-warrior/","created":"2025-11-05T11:12:28.783+01:00","updated":"2025-11-05T11:23:05.903+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/fighter/psi-warrior/"}
 ---
 
 _Augment Physical Might with Psionic Power_

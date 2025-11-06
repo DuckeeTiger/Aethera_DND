@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/barbarian/path-of-the-zealot/","created":"2025-10-30T09:40:12.611+01:00","updated":"2025-11-04T11:23:34.478+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/barbarian/path-of-the-zealot/"}
 ---
 
 *Rage in Ecstatic Union with God*

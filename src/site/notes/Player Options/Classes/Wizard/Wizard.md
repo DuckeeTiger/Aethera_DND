@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/wizard/wizard/","created":"2025-10-27T15:12:41.000+01:00","updated":"2025-11-05T11:32:19.375+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/wizard/wizard/"}
 ---
 
 Wizards are defined by their exhaustive study of magic’s inner workings. They cast spells of explosive fire, arcing lightning, subtle deception, and spectacular transformations. Their magic conjures monsters from other planes of existence, glimpses the future, or forms protective barriers. Their mightiest spells change one substance into another, call meteors from the sky, or open portals to other worlds.
@@ -368,3 +368,4 @@ A Wizard subclass is a specialization that grants you features at certain Wizard
 - [[Player Options/Classes/Wizard/Diviner\|Diviner]]
 - [[Player Options/Classes/Wizard/Evoker\|Evoker]]
 - [[Player Options/Classes/Wizard/Illusionist\|Illusionist]]
+- [[Player Options/Classes/Wizard/Bladesinger\|Bladesinger]]

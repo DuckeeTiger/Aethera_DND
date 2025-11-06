@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/ranger/gloom-stalker/","created":"2025-10-30T13:27:57.292+01:00","updated":"2025-11-05T12:14:46.035+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/ranger/gloom-stalker/"}
 ---
 
 _Draw on Shadow Magic to Fight Your Foes_ 

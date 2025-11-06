@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/calm-emotions/","created":"2025-10-28T10:11:48.461+01:00","updated":"2025-11-04T11:23:31.093+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/calm-emotions/"}
 ---
 
 *2nd level Enchantment ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Cleric/Cleric\|Cleric]])*

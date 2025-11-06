@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/barbarian/path-of-the-world-tree/","created":"2025-10-30T09:40:01.230+01:00","updated":"2025-11-04T11:23:34.498+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/barbarian/path-of-the-world-tree/"}
 ---
 
 *Trace the Roots and Branches of the Multiverse*

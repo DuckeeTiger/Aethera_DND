@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/defensive-duelist/","created":"2025-11-03T13:15:30.163+01:00","updated":"2025-11-04T11:23:33.274+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/defensive-duelist/"}
 ---
 
 *General Feat (Prerequisite: Level 4+, Dexterity 13+)*

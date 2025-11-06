@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/clairvoyance/","created":"2025-10-28T10:31:11.299+01:00","updated":"2025-11-04T11:23:30.970+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/clairvoyance/"}
 ---
 
 *3rd level Divination ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Cleric/Cleric\|Cleric]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*

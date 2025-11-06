@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/blade-barrier/","created":"2025-10-28T09:48:13.467+01:00","updated":"2025-11-04T11:23:31.322+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/blade-barrier/"}
 ---
 
 *6th level Evocation ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Cleric/Cleric\|Cleric]])*

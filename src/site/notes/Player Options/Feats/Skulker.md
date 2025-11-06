@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/skulker/","created":"2025-11-03T13:27:26.655+01:00","updated":"2025-11-04T11:23:32.278+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/skulker/"}
 ---
 
 *General Feat (Prerequisite: Level 4+, Dexterity 13+)*

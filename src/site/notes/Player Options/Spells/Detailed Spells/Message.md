@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/message/","created":"2025-10-29T17:05:50.541+01:00","updated":"2025-11-04T11:23:30.446+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/message/"}
 ---
 
 *Cantrip Transmutation ([[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Druid/Druid\|Druid]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*

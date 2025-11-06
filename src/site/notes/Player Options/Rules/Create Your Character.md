@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/rules/create-your-character/","created":"2025-11-04T21:54:12.801+01:00","updated":"2025-11-05T14:09:44.556+01:00"}
+{"dg-publish":true,"permalink":"/player-options/rules/create-your-character/"}
 ---
 
 You can make a character for Dungeons & Dragons using the building blocks found here. Your character is a combination of game statistics, roleplaying hooks, and your imagination. You choose a class (such as Fighter or Wizard), a background (such as Soldier or Acolyte), and a species (such as Human or Elf). You also invent the personality and appearance of your character. Once completed, your character serves as your avatar in the D&D multiverse.

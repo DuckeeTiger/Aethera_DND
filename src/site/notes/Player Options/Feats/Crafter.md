@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/crafter/","created":"2025-10-31T13:16:19.905+01:00","updated":"2025-11-04T11:23:33.387+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/crafter/"}
 ---
 
 *Origin Feat*

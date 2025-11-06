@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/wizard/evoker/","created":"2025-11-05T10:19:45.710+01:00","updated":"2025-11-05T11:23:58.884+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/wizard/evoker/"}
 ---
 
 _Create Explosive Elemental Effects_

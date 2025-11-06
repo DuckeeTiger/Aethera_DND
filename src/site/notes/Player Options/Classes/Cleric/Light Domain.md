@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/cleric/light-domain/","created":"2025-10-31T12:34:39.782+01:00","updated":"2025-11-05T11:22:35.064+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/cleric/light-domain/"}
 ---
 
 _Bring Light to Banish Darkness_

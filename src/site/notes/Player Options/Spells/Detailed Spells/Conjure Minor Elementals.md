@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/conjure-minor-elementals/","created":"2025-11-03T16:05:47.349+01:00","updated":"2025-11-04T11:23:35.186+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/conjure-minor-elementals/"}
 ---
 
 *4th level Conjuration ([[Player Options/Classes/Druid/Druid\|Druid]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*

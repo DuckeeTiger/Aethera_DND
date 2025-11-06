@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/monk/warrior-of-the-open-hand/","created":"2025-11-05T10:06:33.514+01:00","updated":"2025-11-05T11:24:06.613+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/monk/warrior-of-the-open-hand/"}
 ---
 
 _Master Unarmed Combat Techniques_

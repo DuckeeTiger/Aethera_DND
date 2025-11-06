@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/paladin/oath-of-vengeance/","created":"2025-11-05T11:29:17.900+01:00","updated":"2025-11-05T12:15:26.394+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/paladin/oath-of-vengeance/"}
 ---
 
 _Punish Evildoers at Any Cost_ 

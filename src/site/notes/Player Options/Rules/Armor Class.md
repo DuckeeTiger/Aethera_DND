@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/rules/armor-class/","created":"2025-11-05T13:28:00.041+01:00","updated":"2025-11-05T13:31:44.873+01:00"}
+{"dg-publish":true,"permalink":"/player-options/rules/armor-class/"}
 ---
 
 A creature’s Armor Class represents how well the creature avoids being wounded in combat. The AC of a character is determined at character creation whereas the AC of a monster appears in its stat block.

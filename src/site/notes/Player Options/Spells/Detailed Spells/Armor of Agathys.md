@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/armor-of-agathys/","created":"2025-10-28T12:36:06.000+01:00","updated":"2025-11-04T11:23:31.600+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/armor-of-agathys/"}
 ---
 
 *1st level Abjuration ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Warlock/Warlock\|Warlock]])*

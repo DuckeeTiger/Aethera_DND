@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/contact-other-plane/","created":"2025-11-03T16:11:07.561+01:00","updated":"2025-11-04T11:23:35.080+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/contact-other-plane/"}
 ---
 
 *5th level Divination ([[Player Options/Classes/Warlock/Warlock\|Warlock]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*

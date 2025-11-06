@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/cleric/cleric/","created":"2025-10-27T15:17:21.000+01:00","updated":"2025-11-05T12:31:14.473+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/cleric/cleric/"}
 ---
 
 Clerics draw power from the realms of the gods and harness it to work miracles. Blessed by a deity, a pantheon, or another immortal entity, a Cleric can reach out to the divine magic of the Outer Planes—where gods dwell—and channel it to bolster people and battle foes.

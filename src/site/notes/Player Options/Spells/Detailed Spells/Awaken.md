@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/awaken/","created":"2025-10-28T12:37:30.000+01:00","updated":"2025-11-04T11:23:31.477+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/awaken/"}
 ---
 
 *5th level Transmutation ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Druid/Druid\|Druid]])*

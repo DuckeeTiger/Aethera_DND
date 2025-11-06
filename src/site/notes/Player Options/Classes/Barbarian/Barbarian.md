@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/barbarian/barbarian/","created":"2025-11-04T16:52:47.000+01:00","updated":"2025-11-05T12:29:57.442+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/barbarian/barbarian/"}
 ---
 
 *A Fierce Warrior of Primal Rage*

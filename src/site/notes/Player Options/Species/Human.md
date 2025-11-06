@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/species/human/","created":"2025-11-05T12:35:58.568+01:00","updated":"2025-11-05T12:54:47.655+01:00"}
+{"dg-publish":true,"permalink":"/player-options/species/human/"}
 ---
 
 Found throughout the multiverse, humans are as varied as they are numerous, and they endeavor to achieve as much as they can in the years they are given. Their ambition and resourcefulness are commended, respected, and feared on many worlds.

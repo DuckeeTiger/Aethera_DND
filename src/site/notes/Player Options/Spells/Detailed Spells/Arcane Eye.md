@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/arcane-eye/","created":"2025-10-28T12:35:31.000+01:00","updated":"2025-11-04T11:23:31.633+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/arcane-eye/"}
 ---
 
 _4th level Divination ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/rules/d20-tests/","created":"2025-11-05T13:23:25.775+01:00","updated":"2025-11-05T13:31:58.015+01:00"}
+{"dg-publish":true,"permalink":"/player-options/rules/d20-tests/"}
 ---
 
 When the outcome of an action is uncertain, the game uses a d20 roll to determine success or failure. These rolls are called D20 Tests, and they come in three kinds: ability checks, saving throws, and attack rolls. They follow these steps:

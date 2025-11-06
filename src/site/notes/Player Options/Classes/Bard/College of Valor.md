@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/bard/college-of-valor/","created":"2025-10-30T09:51:59.916+01:00","updated":"2025-11-04T11:23:34.350+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/bard/college-of-valor/"}
 ---
 
 *Sing the Deeds if Ancient Heroes*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/backgrounds/hermit/","created":"2025-10-31T12:58:51.251+01:00","updated":"2025-11-04T11:12:00.829+01:00"}
+{"dg-publish":true,"permalink":"/player-options/backgrounds/hermit/"}
 ---
 
 **Ability Scores:** Constitution, Wisdom, Charisma

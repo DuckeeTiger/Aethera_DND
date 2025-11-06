@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/actor/","created":"2025-10-31T13:13:45.940+01:00","updated":"2025-11-04T11:13:29.828+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/actor/"}
 ---
 
 *General Feat (Prerequisite: Level 4+, Charisma 13+)*

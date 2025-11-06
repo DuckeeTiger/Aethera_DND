@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/creation/","created":"2025-11-03T16:26:04.860+01:00","updated":"2025-11-04T11:23:34.871+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/creation/"}
 ---
 
 

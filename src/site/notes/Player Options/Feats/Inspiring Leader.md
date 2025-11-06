@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/feats/inspiring-leader/","created":"2025-11-03T13:18:02.955+01:00","updated":"2025-11-04T11:23:32.963+01:00"}
+{"dg-publish":true,"permalink":"/player-options/feats/inspiring-leader/"}
 ---
 
 *General Feat (Prerequisite: Level 4+, Wisdom or Charisma 13+)*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/warlock/great-old-one-patron/","created":"2025-10-30T09:31:48.970+01:00","updated":"2025-11-04T11:23:33.670+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/warlock/great-old-one-patron/"}
 ---
 
 *Unearth Forbidden Lore of Ineffable Beings*

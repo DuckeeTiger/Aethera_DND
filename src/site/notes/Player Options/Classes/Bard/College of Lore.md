@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/bard/college-of-lore/","created":"2025-10-30T09:51:57.113+01:00","updated":"2025-11-04T11:23:34.374+01:00"}
+{"dg-publish":true,"permalink":"/player-options/classes/bard/college-of-lore/"}
 ---
 
 *Plumb the Depths of Magical Knowledge*

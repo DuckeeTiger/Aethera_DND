@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/spells/spell-list-cantrips/","created":"2025-10-27T22:35:55.000+01:00","updated":"2025-11-04T11:23:29.993+01:00"}
+{"dg-publish":true,"permalink":"/player-options/spells/spell-list-cantrips/"}
 ---
 
   
