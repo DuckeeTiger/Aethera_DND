@@ -1,3 +1,4 @@
+<!-- Leaflet core CSS & JS -->
 <link
   rel="stylesheet"
   href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
@@ -9,3 +10,31 @@
   integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
   crossorigin=""
 ></script>
+
+<!-- Leaflet.MeasureControl plugin (adds advanced measurement tools) -->
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/leaflet-measure@3.3.0/dist/leaflet-measure.css"
+/>
+<script src="https://unpkg.com/leaflet-measure@3.3.0/dist/leaflet-measure.min.js"></script>
+
+<!-- Optional styling tweaks for consistency -->
+<style>
+  /* Match the measure control to your overall Leaflet theme */
+  .leaflet-control-measure {
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    font-size: 13px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 6px;
+    box-shadow: 0 0 4px rgba(0,0,0,0.25);
+  }
+  .leaflet-control-measure a {
+    text-decoration: none;
+  }
+  .leaflet-control-measure a:hover {
+    background-color: #f2f2f2;
+  }
+  .leaflet-control-measure .results span {
+    font-weight: 500;
+  }
+</style>
