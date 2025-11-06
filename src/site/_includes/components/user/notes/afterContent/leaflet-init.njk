@@ -31,14 +31,36 @@
     return (parts.length === 2 && !parts.some(isNaN)) ? parts : [defA, defB];
   }
 
+  // Convert "scale" (units per pixel) into **meters per pixel** for CRS distance
+  function metersPerPixel(scale, unit) {
+    if (!(scale > 0)) return 1; // default 1 meter/px (not meaningful, but safe)
+    const u = (unit || "km").toLowerCase();
+    if (u === "km" || u === "kilometer" || u === "kilometers") return scale * 1000;
+    if (u === "m"  || u === "meter"     || u === "meters")     return scale * 1;
+    if (u === "mi" || u === "mile"      || u === "miles")      return scale * 1609.344;
+    if (u === "ft" || u === "foot"      || u === "feet")       return scale * 0.3048;
+    return scale * 1000; // default assume km
+  }
+
+  // Build a CRS.Simple variant whose distance() reports **meters**
+  function makeMetersCRS(scaleMetersPerPx) {
+    const base = L.CRS.Simple;
+    return L.extend({}, base, {
+      distance(a, b) {
+        const dx = b.lng - a.lng;
+        const dy = b.lat - a.lat;
+        const px = Math.sqrt(dx*dx + dy*dy); // pixel distance in CRS.Simple
+        return px * scaleMetersPerPx;        // return meters for the measure plugin
+      }
+    });
+  }
+
   function clampScrollToMap(map) {
     const c = map.getContainer();
-    // Stop page scroll/zoom while interacting with map
     L.DomEvent.disableScrollPropagation(c);
     L.DomEvent.disableClickPropagation(c);
     c.addEventListener("wheel", e => e.preventDefault(), { passive:false });
     c.addEventListener("touchmove", e => e.preventDefault(), { passive:false });
-    // Also prevent scroll when using the zoom control
     if (map.zoomControl?.getContainer) {
       const zc = map.zoomControl.getContainer();
       ["wheel","mousedown","mouseup","click","dblclick","touchstart","touchmove"].forEach(evt=>{
@@ -64,10 +86,7 @@
         } else {
           marker = L.marker(latlng, { draggable: !!m.draggable }).addTo(map);
         }
-        if (m.label || m.html) {
-          marker.bindPopup(m.html || m.label);
-        }
-        // Optional helper: if draggable:true, log new coords to console on drop
+        if (m.label || m.html) marker.bindPopup(m.html || m.label);
         marker.on("dragend", e => {
           if (!m.draggable) return;
           const ll = e.target.getLatLng();
@@ -87,67 +106,46 @@
     }
   }
 
-  // --- Create a CRS that scales distances to your units if data-scale is set ---
-  // L.CRS.Simple distance is in "pixels" (euclidean). If you set data-scale (e.g. 0.25 km/px),
-  // we override the distance function so measurement tools report values in your chosen units.
-  function makeScaledCRS(scale) {
-    if (!scale || !(scale > 0)) return L.CRS.Simple;
-    const base = L.CRS.Simple;
-    return L.extend({}, base, {
-      distance(a, b) {
-        const dx = b.lng - a.lng;
-        const dy = b.lat - a.lat;
-        const px = Math.sqrt(dx*dx + dy*dy); // pixel distance in CRS.Simple
-        return px * scale; // scaled to your real units (e.g., km)
-      }
-    });
-  }
-
   // --- Image map (CRS.Simple), with auto-detect bounds if not provided ---
   function initImageMap(el) {
     setSize(el);
     const imgUrl = el.dataset.image;
-    const scale = parseFloat(el.dataset.scale || "0"); // e.g., 0.25 (km per pixel)
-    const unit = (el.dataset.unit || "km").toLowerCase();
 
-    // Pick measure units for UI labels (best-effort mapping)
-    let primaryLengthUnit = "meters";
-    if (unit === "km" || unit === "kilometer" || unit === "kilometers") primaryLengthUnit = "kilometers";
-    if (unit === "mi" || unit === "mile" || unit === "miles") primaryLengthUnit = "miles";
-    if (unit === "ft" || unit === "feet") primaryLengthUnit = "feet";
-
-    // If you don't set data-scale, measurements will default to meters
-    const crs = makeScaledCRS(scale);
+    const scaleVal = parseFloat(el.dataset.scale || "0"); // e.g., 0.25
+    const unitVal  = (el.dataset.unit || "km");
+    const crsMeters = makeMetersCRS(metersPerPixel(scaleVal, unitVal));
 
     function buildWithBounds(imgHeight, imgWidth) {
-      // If author provided bounds, honor them (y0,x0,y1,x1). Otherwise compute from image size.
       const useBounds = el.dataset.bounds || `0,0,${imgHeight},${imgWidth}`;
       const b = useBounds.split(",").map(s => parseFloat(s.trim()));
       const y0=b[0], x0=b[1], y1=b[2], x1=b[3];
 
-      // Compute center if missing
-      if (!el.dataset.center) {
-        el.dataset.center = `${(y0+y1)/2},${(x0+x1)/2}`;
-      }
+      if (!el.dataset.center) el.dataset.center = `${(y0+y1)/2},${(x0+x1)/2}`;
 
-      // Leaflet bounds (lat=Y, lng=X)
       const southWest = L.latLng(y1, x0);
       const northEast = L.latLng(y0, x1);
       const imgBounds = L.latLngBounds(southWest, northEast);
 
       const map = L.map(el, {
-        crs,
+        crs: crsMeters,                 // << distances returned in meters
         zoomSnap: 0.25,
         zoomDelta: parseFloat(el.dataset.zoomDelta || "0.5"),
         maxBounds: imgBounds,
-        maxBoundsViscosity: 1.0,   // hard clamp
+        maxBoundsViscosity: 1.0,
         inertia: false,
         scrollWheelZoom: true,
-        zoomControl: true,
-        keyboard: false            // avoid arrow/PageUp/Down scrolling page
+        zoomControl: false,             // we'll add both zoom & fullscreen explicitly
+        keyboard: false
       });
 
       clampScrollToMap(map);
+
+      // Controls: zoom + fullscreen
+      L.control.zoom({ position: "topleft" }).addTo(map);
+      if (L.Control && L.Control.Fullscreen) {
+        try { map.addControl(new L.Control.Fullscreen({ position: "topleft" })); }
+        catch (e) { console.warn("[DG] Fullscreen control init failed:", e); }
+      }
 
       L.imageOverlay(imgUrl, imgBounds, { opacity: 1.0, interactive: false }).addTo(map);
 
@@ -157,42 +155,37 @@
       const center = (""+el.dataset.center).split(",").map(s => parseFloat(s.trim()));
       map.setView(center, parseFloat(el.dataset.defaultZoom || "0"));
 
-      // --- Advanced measurement toolbar (Leaflet.MeasureControl) ---
-      // With a scaled CRS, distances are shown in your units (e.g., km).
-      if (L.control && L.control.measure) {
+      // --- Advanced measurement toolbar (use the control class API) ---
+      if (L.Control && L.Control.Measure) {
         try {
-          L.control.measure({
+          new L.Control.Measure({
             position: "topleft",
-            primaryLengthUnit: primaryLengthUnit,
-            secondaryLengthUnit: (primaryLengthUnit === "kilometers" ? "meters" :
-                                   primaryLengthUnit === "miles" ? "feet" :
-                                   "kilometers"),
-            // Area units are limited by the plugin API; leave defaults.
-            // It will still work for line measurement (your main need).
+            // the plugin expects **meters** from CRS; we already return meters above
+            primaryLengthUnit: "kilometers",
+            secondaryLengthUnit: "meters",
             activeColor: "#ffe066",
             completedColor: "#ffcc00"
           }).addTo(map);
         } catch (e) {
-          console.warn("[DG] Leaflet.MeasureControl failed to init:", e);
+          console.warn("[DG] Leaflet.Measure control failed to init:", e);
         }
+      } else {
+        console.warn("[DG] Measure plugin not detected (L.Control.Measure missing).");
       }
 
-      // Markers
       loadMarkers(el, map);
       return map;
     }
 
-    // If bounds provided, build immediately
-    if (el.dataset.bounds) return buildWithBounds(/*unused*/0,0);
+    if (el.dataset.bounds) return buildWithBounds(0,0);
 
-    // Else preload image to auto-detect size
     const img = new Image();
     img.onload = function(){ buildWithBounds(this.naturalHeight, this.naturalWidth); };
     img.onerror = function(){ console.warn("[DG] Failed to load image to auto-detect size:", imgUrl); };
     img.src = imgUrl;
   }
 
-  // --- Tile map variant (kept for completeness) ---
+  // --- Tile map variant (optional) ---
   function initTileMap(el) {
     setSize(el);
     const lat = parseFloat(el.dataset.lat || "0");
@@ -209,17 +202,24 @@
     L.tileLayer(
       el.dataset.tiles || "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
       {
-        attribution: el.dataset.attrib || '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a>',
+        attribution: el.dataset.attrib || '&copy; OpenStreetMap contributors',
         maxZoom: parseFloat(el.dataset.maxZoom || "19")
       }
     ).addTo(map);
 
     clampScrollToMap(map);
 
-    // Optional measure control on tile maps, too (in real units)
-    if (L.control && L.control.measure) {
+    // Controls
+    L.control.zoom({ position: "topleft" }).addTo(map);
+    if (L.Control && L.Control.Fullscreen) {
+      try { map.addControl(new L.Control.Fullscreen({ position: "topleft" })); }
+      catch (e) { console.warn("[DG] Fullscreen control init failed (tile):", e); }
+    }
+
+    // Measure on tile maps (real-world meters)
+    if (L.Control && L.Control.Measure) {
       try {
-        L.control.measure({
+        new L.Control.Measure({
           position: "topleft",
           primaryLengthUnit: "kilometers",
           secondaryLengthUnit: "meters",
@@ -227,7 +227,7 @@
           completedColor: "#ffcc00"
         }).addTo(map);
       } catch (e) {
-        console.warn("[DG] Leaflet.MeasureControl failed to init (tile):", e);
+        console.warn("[DG] Leaflet.Measure control failed to init (tile):", e);
       }
     }
 
@@ -251,13 +251,13 @@
 
 <style>
   .leaflet-map {
-    position: relative;          /* keep controls anchored */
-    overflow: hidden;            /* clip tiles/controls to frame */
+    position: relative;
+    overflow: hidden;
     min-height: 300px;
     border-radius: 8px;
     width: 100%;
-    overscroll-behavior: contain;/* stop scroll chaining to page */
-    touch-action: none;          /* prevent browser gestures scrolling the page */
+    overscroll-behavior: contain;
+    touch-action: none;
   }
   .leaflet-container { width: 100%; height: 100%; }
 
