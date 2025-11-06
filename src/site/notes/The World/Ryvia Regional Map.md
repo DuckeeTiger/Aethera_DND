@@ -6,7 +6,7 @@
 <div class="leaflet-map"
      data-type="image"
      data-image="/assets/maps/ryvia_regional_web.png"
-     data-bounds="0,0,3432,2090"
+     data-bounds="0,0,2090,3432"
      data-center="1045,1716"
      data-min-zoom="-2"
      data-max-zoom="2.5"
