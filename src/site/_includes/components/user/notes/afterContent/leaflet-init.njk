@@ -3,36 +3,20 @@
   // --- WAIT FOR LEAFLET TO LOAD ---
   function whenLeafletReady(cb) {
     if (window.L) return cb();
-    // Try on DOMContentLoaded, then window load, then polling as last resort
-    var triedLoad = false;
-
-    function tryStart() {
-      if (window.L) {
-        console.log("[DG] Leaflet is ready. Starting init.");
-        cb();
-      }
-    }
-
+    function tryStart(){ if (window.L) { console.log("[DG] Leaflet is ready. Starting init."); cb(); } }
     document.addEventListener("DOMContentLoaded", tryStart);
     window.addEventListener("load", function () {
-      triedLoad = true;
       tryStart();
       if (!window.L) {
-        // Poll a few times in case the head script is deferred by the theme
-        var tries = 0;
-        var t = setInterval(function () {
-          tries++;
-          tryStart();
-          if (window.L || tries > 100) clearInterval(t);
+        let tries = 0;
+        const t = setInterval(function () {
+          tries++; tryStart(); if (window.L || tries > 100) clearInterval(t);
         }, 50);
       }
     });
-
-    // Immediate check too (in case JS finished between sync steps)
     setTimeout(tryStart, 0);
   }
 
-  // --- YOUR EXISTING INIT CODE MOVES INSIDE start() ---
   function start() {
     function setSize(el) {
       var h = el.dataset.height || "420px";
@@ -41,53 +25,45 @@
       if (w) el.style.width = w;
     }
 
-    function parsePair(str, defA, defB) {
-      if (!str) return [defA, defB];
+    function parsePair(str, a, b) {
+      if (!str) return [a, b];
       var parts = ("" + str).split(",").map(function (s) { return parseFloat(s.trim()); });
-      if (parts.length !== 2 || parts.some(isNaN)) return [defA, defB];
-      return parts;
+      return (parts.length === 2 && !parts.some(isNaN)) ? parts : [a, b];
     }
 
     function initImageMap(el) {
-      var map = L.map(el, {
-        crs: L.CRS.Simple,
-        zoomSnap: 0.25,
-        zoomDelta: parseFloat(el.dataset.zoomDelta || "0.5")
-      });
+      setSize(el);
 
-      var b = (el.dataset.bounds || "0,0,1000,1000").split(",").map(function (s) { return parseFloat(s.trim()); });
+      // Parse bounds from data-bounds="y0,x0,y1,x1" (for 2090×3432 image: 0,0,2090,3432)
+      var b = (el.dataset.bounds || "0,0,1000,1000")
+        .split(",").map(function (s) { return parseFloat(s.trim()); });
       var y0 = b[0], x0 = b[1], y1 = b[2], x1 = b[3];
+
+      // Leaflet (CRS.Simple) uses [y, x] as [lat, lng]
       var southWest = L.latLng(y1, x0);
       var northEast = L.latLng(y0, x1);
       var imgBounds = L.latLngBounds(southWest, northEast);
 
+      // Create map *after* computing bounds so we can clamp panning
+      var map = L.map(el, {
+        crs: L.CRS.Simple,
+        zoomSnap: 0.25,
+        zoomDelta: parseFloat(el.dataset.zoomDelta || "0.5"),
+        maxBounds: imgBounds,
+        maxBoundsViscosity: 1.0
+      });
+
       L.imageOverlay(el.dataset.image, imgBounds, { opacity: 1.0, interactive: false }).addTo(map);
-      map.setMaxBounds(imgBounds.pad(0.1));
+
+      // Respect min/max zoom if provided
       map.setMinZoom(parseFloat(el.dataset.minZoom || "-2"));
       map.setMaxZoom(parseFloat(el.dataset.maxZoom || "2.5"));
 
+      // Center + default zoom
       var center = parsePair(el.dataset.center, (y0 + y1) / 2, (x0 + x1) / 2);
       map.setView(center, parseFloat(el.dataset.defaultZoom || "0"));
 
-      // Optional simple scale label
-      var scale = el.dataset.scale;
-      var unit = el.dataset.unit || "";
-      if (scale) {
-        var div = L.control({ position: 'bottomleft' });
-        div.onAdd = function () {
-          var d = L.DomUtil.create('div', 'leaflet-control-simple-scale');
-          d.style.padding = "4px 8px";
-          d.style.background = "rgba(0,0,0,0.5)";
-          d.style.color = "#fff";
-          d.style.font = "12px/1.2 system-ui, -apple-system, Segoe UI, Roboto, Arial";
-          d.style.borderRadius = "6px";
-          d.textContent = "Scale: " + scale + " " + unit + " / px";
-          return d;
-        };
-        div.addTo(map);
-      }
-
-      // Optional markers from data-markers='[{"y":1045,"x":1716,"label":"Emberwall"}]'
+      // Optional markers (inline JSON)
       if (el.dataset.markers) {
         try {
           JSON.parse(el.dataset.markers).forEach(function (m) {
@@ -98,37 +74,16 @@
       }
     }
 
-    function initTileMap(el) {
-      var lat = parseFloat(el.dataset.lat || "0");
-      var lng = parseFloat(el.dataset.lng || "0");
-      var zoom = parseFloat(el.dataset.defaultZoom || el.dataset.zoom || "4");
-      var map = L.map(el, { zoomSnap: 0.25, zoomDelta: parseFloat(el.dataset.zoomDelta || "0.5") }).setView([lat, lng], zoom);
-      L.tileLayer(
-        el.dataset.tiles || "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
-        {
-          attribution: el.dataset.attrib || '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a>',
-          maxZoom: parseFloat(el.dataset.maxZoom || "19")
-        }
-      ).addTo(map);
-      if (el.dataset.marker) L.marker([lat, lng]).addTo(map);
-    }
+    // 🚀 Actually initialize all maps on the page
+    document.querySelectorAll(".leaflet-map").forEach(initImageMap);
 
-    function initOne(el) {
-      setSize(el);
-      var type = (el.dataset.type || "image").toLowerCase();
-      if (type === "image") return initImageMap(el);
-      return initTileMap(el);
-    }
-
-    document.querySelectorAll(".leaflet-map").forEach(initOne);
     console.log("[DG] Leaflet maps initialized.");
   }
 
-  // Kick off once Leaflet is present
   whenLeafletReady(start);
 })();
 </script>
 <style>
   .leaflet-map { border-radius: 8px; overflow: hidden; min-height: 300px; }
-  .leaflet-control-simple-scale { pointer-events: none; }
+  .leaflet-container { width: 100%; height: 100%; }
 </style>
