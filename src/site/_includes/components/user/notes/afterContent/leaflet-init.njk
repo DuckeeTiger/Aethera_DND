@@ -1,0 +1,101 @@
+<script>
+(function () {
+  function setSize(el) {
+    var h = el.dataset.height || "420px";
+    var w = el.dataset.width || "";
+    el.style.height = h;
+    if (w) el.style.width = w;
+  }
+
+  function parsePair(str, defA, defB) {
+    if (!str) return [defA, defB];
+    var parts = ("" + str).split(",").map(function (s) { return parseFloat(s.trim()); });
+    if (parts.length !== 2 || parts.some(isNaN)) return [defA, defB];
+    return parts;
+  }
+
+  function initImageMap(el) {
+    // CRS.Simple map in pixel space
+    var map = L.map(el, {
+      crs: L.CRS.Simple,
+      zoomSnap: 0.25,
+      zoomDelta: parseFloat(el.dataset.zoomDelta || "0.5")
+    });
+
+    var boundsStr = el.dataset.bounds || "0,0,1000,1000"; // y0,x0,y1,x1
+    var b = boundsStr.split(",").map(function (s) { return parseFloat(s.trim()); });
+    // Enforce [ [y0, x0], [y1, x1] ] -> convert to Leaflet LatLngs in CRS.Simple
+    var y0 = b[0], x0 = b[1], y1 = b[2], x1 = b[3];
+    var southWest = L.latLng(y1, x0);
+    var northEast = L.latLng(y0, x1);
+    var imgBounds = L.latLngBounds(southWest, northEast);
+
+    var imgUrl = el.dataset.image;
+    var overlay = L.imageOverlay(imgUrl, imgBounds, { opacity: 1.0, interactive: false });
+    overlay.addTo(map);
+
+    map.setMaxBounds(imgBounds.pad(0.1));
+    var minZ = parseFloat(el.dataset.minZoom || "-2");
+    var maxZ = parseFloat(el.dataset.maxZoom || "2.5");
+    map.setMinZoom(minZ);
+    map.setMaxZoom(maxZ);
+
+    var center = parsePair(el.dataset.center, (y0 + y1) / 2, (x0 + x1) / 2);
+    var startZoom = parseFloat(el.dataset.defaultZoom || "0");
+    map.setView(center, startZoom);
+
+    // Optional simple scale label (uses data-scale + data-unit)
+    var scale = el.dataset.scale;
+    var unit = el.dataset.unit || "";
+    if (scale) {
+      var div = L.control({position: 'bottomleft'});
+      div.onAdd = function () {
+        var d = L.DomUtil.create('div', 'leaflet-control-simple-scale');
+        d.style.padding = "4px 8px";
+        d.style.background = "rgba(0,0,0,0.5)";
+        d.style.color = "#fff";
+        d.style.font = "12px/1.2 system-ui, -apple-system, Segoe UI, Roboto, Arial";
+        d.style.borderRadius = "6px";
+        d.textContent = "Scale: " + scale + " " + unit + " / px";
+        return d;
+      };
+      div.addTo(map);
+    }
+  }
+
+  function initTileMap(el) {
+    // Standard geographic map (if you ever need it)
+    var lat = parseFloat(el.dataset.lat || "0");
+    var lng = parseFloat(el.dataset.lng || "0");
+    var zoom = parseFloat(el.dataset.defaultZoom || el.dataset.zoom || "4");
+
+    var map = L.map(el, { zoomSnap: 0.25, zoomDelta: parseFloat(el.dataset.zoomDelta || "0.5") })
+      .setView([lat, lng], zoom);
+
+    L.tileLayer(
+      el.dataset.tiles || "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+      {
+        attribution:
+          el.dataset.attrib ||
+          '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a>',
+        maxZoom: parseFloat(el.dataset.maxZoom || "19")
+      }
+    ).addTo(map);
+
+    if (el.dataset.marker) L.marker([lat, lng]).addTo(map);
+  }
+
+  function initOne(el) {
+    setSize(el);
+    var type = (el.dataset.type || "image").toLowerCase();
+    if (type === "image") return initImageMap(el);
+    return initTileMap(el);
+  }
+
+  document.querySelectorAll(".leaflet-map").forEach(initOne);
+})();
+</script>
+<style>
+  .leaflet-map { border-radius: 8px; overflow: hidden; }
+  .leaflet-control-simple-scale { pointer-events: none; }
+</style>
