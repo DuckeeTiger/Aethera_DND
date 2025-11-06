@@ -11,30 +11,30 @@
   crossorigin=""
 ></script>
 
-<!-- Leaflet.MeasureControl plugin (adds advanced measurement tools) -->
+<!-- Advanced measurement control (ljagis/leaflet-measure) -->
 <link
   rel="stylesheet"
   href="https://unpkg.com/leaflet-measure@3.3.0/dist/leaflet-measure.css"
 />
 <script src="https://unpkg.com/leaflet-measure@3.3.0/dist/leaflet-measure.min.js"></script>
 
-<!-- Optional styling tweaks for consistency -->
+<!-- Fullscreen control -->
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/leaflet.fullscreen@4.0.0/Control.FullScreen.css"
+/>
+<script src="https://unpkg.com/leaflet.fullscreen@4.0.0/Control.FullScreen.js"></script>
+
+<!-- Optional styling tweaks -->
 <style>
-  /* Match the measure control to your overall Leaflet theme */
   .leaflet-control-measure {
     font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
     font-size: 13px;
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(255,255,255,0.9);
     border-radius: 6px;
     box-shadow: 0 0 4px rgba(0,0,0,0.25);
   }
-  .leaflet-control-measure a {
-    text-decoration: none;
-  }
-  .leaflet-control-measure a:hover {
-    background-color: #f2f2f2;
-  }
-  .leaflet-control-measure .results span {
-    font-weight: 500;
-  }
+  .leaflet-control-measure a { text-decoration: none; }
+  .leaflet-control-measure a:hover { background-color: #f2f2f2; }
+  .leaflet-control-measure .results span { font-weight: 500; }
 </style>
