@@ -47,87 +47,6 @@
     }
   }
 
-  // ---- Measure tool (CRS.Simple) using data-scale (units/px) ----
-  function enableMeasure(map, options) {
-    const unit = options.unit || "";
-    const perPx = parseFloat(options.scale || "0"); // e.g. 0.25 km/px
-    if (!perPx) return; // silently no-op if no scale provided
-
-    let active = false;
-    let line = null;
-    let pts = [];
-    let dist = 0;
-    const fmt = v => (Math.round(v * 100) / 100) + " " + unit;
-
-    const measureBtn = L.control({ position: "topleft" });
-    measureBtn.onAdd = function () {
-      const div = L.DomUtil.create("div", "leaflet-bar");
-      div.innerHTML = '<a href="#" title="Measure distance" class="dg-btn">⟷</a>';
-      div.firstChild.onclick = function (e) {
-        e.preventDefault();
-        active = !active;
-        this.classList.toggle("active", active);
-        map.getContainer().style.cursor = active ? "crosshair" : "";
-      };
-      return div;
-    };
-    measureBtn.addTo(map);
-
-    const clearBtn = L.control({ position: "topleft" });
-    clearBtn.onAdd = function () {
-      const div = L.DomUtil.create("div", "leaflet-bar");
-      div.innerHTML = '<a href="#" title="Clear measure" class="dg-btn">✖</a>';
-      div.firstChild.onclick = function (e) {
-        e.preventDefault();
-        if (line) { map.removeLayer(line); line = null; }
-        map.eachLayer(l => { if (l.__dgMeasureLabel) map.removeLayer(l); });
-        pts = []; dist = 0; map.getContainer().style.cursor = active ? "crosshair" : "";
-      };
-      return div;
-    };
-    clearBtn.addTo(map);
-
-    function addLabel(latlng, text) {
-      const label = L.marker(latlng, {
-        interactive: false,
-        keyboard: false,
-        opacity: 0.0
-      });
-      label.__dgMeasureLabel = true;
-      label.bindTooltip(text, { permanent: true, direction: "right", offset: [8, 0], className: "dg-measure" }).openTooltip();
-      label.addTo(map);
-    }
-
-    map.on("click", function (e) {
-      if (!active) return;
-      pts.push(e.latlng);
-      if (pts.length > 1) {
-        const a = pts[pts.length - 2];
-        const b = pts[pts.length - 1];
-        const dx = b.lng - a.lng;
-        const dy = b.lat - a.lat;
-        const segPx = Math.sqrt(dx*dx + dy*dy);
-        const seg = segPx * perPx;
-        dist += seg;
-        addLabel(b, "Segment: " + fmt(seg) + "\nTotal: " + fmt(dist));
-      } else {
-        addLabel(e.latlng, "Start");
-      }
-      if (!line) {
-        line = L.polyline(pts, { weight: 2 }).addTo(map);
-      } else {
-        line.setLatLngs(pts);
-      }
-    });
-
-    map.on("mousemove", function (e) {
-      if (!active || pts.length === 0 || !line) return;
-      const temp = pts.slice();
-      temp.push(e.latlng);
-      line.setLatLngs(temp);
-    });
-  }
-
   // ---- Markers (inline JSON or external JSON URL) ----
   function loadMarkers(el, map) {
     const addMarkers = (list) => {
@@ -148,8 +67,9 @@
         if (m.label || m.html) {
           marker.bindPopup(m.html || m.label);
         }
-        // Optional: if you set draggable:true in your JSON, log new coords on drop (manual workflow helper)
+        // Optional helper: if draggable:true, log new coords to console on drop
         marker.on("dragend", e => {
+          if (!m.draggable) return;
           const ll = e.target.getLatLng();
           console.log(`{"y": ${ll.lat.toFixed(1)}, "x": ${ll.lng.toFixed(1)}, "label": ${JSON.stringify(m.label || "")}}`);
         });
@@ -167,10 +87,37 @@
     }
   }
 
+  // --- Create a CRS that scales distances to your units if data-scale is set ---
+  // L.CRS.Simple distance is in "pixels" (euclidean). If you set data-scale (e.g. 0.25 km/px),
+  // we override the distance function so measurement tools report values in your chosen units.
+  function makeScaledCRS(scale) {
+    if (!scale || !(scale > 0)) return L.CRS.Simple;
+    const base = L.CRS.Simple;
+    return L.extend({}, base, {
+      distance(a, b) {
+        const dx = b.lng - a.lng;
+        const dy = b.lat - a.lat;
+        const px = Math.sqrt(dx*dx + dy*dy); // pixel distance in CRS.Simple
+        return px * scale; // scaled to your real units (e.g., km)
+      }
+    });
+  }
+
   // --- Image map (CRS.Simple), with auto-detect bounds if not provided ---
   function initImageMap(el) {
     setSize(el);
     const imgUrl = el.dataset.image;
+    const scale = parseFloat(el.dataset.scale || "0"); // e.g., 0.25 (km per pixel)
+    const unit = (el.dataset.unit || "km").toLowerCase();
+
+    // Pick measure units for UI labels (best-effort mapping)
+    let primaryLengthUnit = "meters";
+    if (unit === "km" || unit === "kilometer" || unit === "kilometers") primaryLengthUnit = "kilometers";
+    if (unit === "mi" || unit === "mile" || unit === "miles") primaryLengthUnit = "miles";
+    if (unit === "ft" || unit === "feet") primaryLengthUnit = "feet";
+
+    // If you don't set data-scale, measurements will default to meters
+    const crs = makeScaledCRS(scale);
 
     function buildWithBounds(imgHeight, imgWidth) {
       // If author provided bounds, honor them (y0,x0,y1,x1). Otherwise compute from image size.
@@ -189,7 +136,7 @@
       const imgBounds = L.latLngBounds(southWest, northEast);
 
       const map = L.map(el, {
-        crs: L.CRS.Simple,
+        crs,
         zoomSnap: 0.25,
         zoomDelta: parseFloat(el.dataset.zoomDelta || "0.5"),
         maxBounds: imgBounds,
@@ -210,8 +157,27 @@
       const center = (""+el.dataset.center).split(",").map(s => parseFloat(s.trim()));
       map.setView(center, parseFloat(el.dataset.defaultZoom || "0"));
 
-      // Tools
-      enableMeasure(map, { scale: el.dataset.scale, unit: el.dataset.unit });
+      // --- Advanced measurement toolbar (Leaflet.MeasureControl) ---
+      // With a scaled CRS, distances are shown in your units (e.g., km).
+      if (L.control && L.control.measure) {
+        try {
+          L.control.measure({
+            position: "topleft",
+            primaryLengthUnit: primaryLengthUnit,
+            secondaryLengthUnit: (primaryLengthUnit === "kilometers" ? "meters" :
+                                   primaryLengthUnit === "miles" ? "feet" :
+                                   "kilometers"),
+            // Area units are limited by the plugin API; leave defaults.
+            // It will still work for line measurement (your main need).
+            activeColor: "#ffe066",
+            completedColor: "#ffcc00"
+          }).addTo(map);
+        } catch (e) {
+          console.warn("[DG] Leaflet.MeasureControl failed to init:", e);
+        }
+      }
+
+      // Markers
       loadMarkers(el, map);
       return map;
     }
@@ -249,6 +215,22 @@
     ).addTo(map);
 
     clampScrollToMap(map);
+
+    // Optional measure control on tile maps, too (in real units)
+    if (L.control && L.control.measure) {
+      try {
+        L.control.measure({
+          position: "topleft",
+          primaryLengthUnit: "kilometers",
+          secondaryLengthUnit: "meters",
+          activeColor: "#ffe066",
+          completedColor: "#ffcc00"
+        }).addTo(map);
+      } catch (e) {
+        console.warn("[DG] Leaflet.MeasureControl failed to init (tile):", e);
+      }
+    }
+
     if (el.dataset.marker) L.marker([lat, lng]).addTo(map);
     return map;
   }
@@ -284,8 +266,5 @@
   .leaflet-top, .leaflet-bottom { pointer-events: none; }
   .leaflet-control { pointer-events: auto; }
 
-  /* Measure labels */
-  .dg-measure.leaflet-tooltip { white-space: pre; }
-  .leaflet-bar .dg-btn.active { background: #eee; }
   .leaflet-control-zoom a { outline: none; }
 </style>
