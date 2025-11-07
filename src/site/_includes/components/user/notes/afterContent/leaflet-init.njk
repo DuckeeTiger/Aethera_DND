@@ -1,9 +1,9 @@
 <script>
 (function () {
-  // --- Wait until Leaflet (window.L) is ready ---
+  // Wait until Leaflet is ready
   function whenLeafletReady(cb) {
     if (window.L) return cb();
-    function tryStart(){ if (window.L) { console.log("[DG] Leaflet is ready. Starting init."); cb(); } }
+    function tryStart(){ if (window.L) { console.log("[DG] Leaflet is ready."); cb(); } }
     document.addEventListener("DOMContentLoaded", tryStart);
     window.addEventListener("load", function () {
       tryStart();
@@ -17,7 +17,7 @@
     setTimeout(tryStart, 0);
   }
 
-  // --- Helpers ---
+  // Helpers
   function setSize(el) {
     const h = el.dataset.height || "420px";
     const w = el.dataset.width || "";
@@ -31,26 +31,23 @@
     return (parts.length === 2 && !parts.some(isNaN)) ? parts : [defA, defB];
   }
 
-  // Convert "scale" (units per pixel) into **meters per pixel** for CRS distance
   function metersPerPixel(scale, unit) {
-    if (!(scale > 0)) return 1; // default 1 meter/px (not meaningful, but safe)
+    if (!(scale > 0)) return 1;
     const u = (unit || "km").toLowerCase();
-    if (u === "km" || u === "kilometer" || u === "kilometers") return scale * 1000;
-    if (u === "m"  || u === "meter"     || u === "meters")     return scale * 1;
-    if (u === "mi" || u === "mile"      || u === "miles")      return scale * 1609.344;
-    if (u === "ft" || u === "foot"      || u === "feet")       return scale * 0.3048;
-    return scale * 1000; // default assume km
+    if (u.startsWith("km")) return scale * 1000;
+    if (u === "m" || u.startsWith("meter")) return scale;
+    if (u.startsWith("mi")) return scale * 1609.344;
+    if (u === "ft" || u.startsWith("foot") || u.startsWith("feet")) return scale * 0.3048;
+    return scale * 1000;
   }
 
-  // Build a CRS.Simple variant whose distance() reports **meters**
-  function makeMetersCRS(scaleMetersPerPx) {
+  function makeMetersCRS(mpp) {
     const base = L.CRS.Simple;
     return L.extend({}, base, {
       distance(a, b) {
         const dx = b.lng - a.lng;
         const dy = b.lat - a.lat;
-        const px = Math.sqrt(dx*dx + dy*dy); // pixel distance in CRS.Simple
-        return px * scaleMetersPerPx;        // return meters for the measure plugin
+        return Math.sqrt(dx * dx + dy * dy) * mpp;
       }
     });
   }
@@ -59,8 +56,8 @@
     const c = map.getContainer();
     L.DomEvent.disableScrollPropagation(c);
     L.DomEvent.disableClickPropagation(c);
-    c.addEventListener("wheel", e => e.preventDefault(), { passive:false });
-    c.addEventListener("touchmove", e => e.preventDefault(), { passive:false });
+    c.addEventListener("wheel", e => e.preventDefault(), { passive: false });
+    c.addEventListener("touchmove", e => e.preventDefault(), { passive: false });
     if (map.zoomControl?.getContainer) {
       const zc = map.zoomControl.getContainer();
       ["wheel","mousedown","mouseup","click","dblclick","touchstart","touchmove"].forEach(evt=>{
@@ -69,98 +66,85 @@
     }
   }
 
-  // ---- Markers (inline JSON or external JSON URL) ----
+  // Load markers
   function loadMarkers(el, map) {
-    const addMarkers = (list) => {
-      (list || []).forEach(m => {
-        const latlng = [m.y, m.x];
+    const addMarkers = (list=[])=>{
+      list.forEach(m=>{
+        const latlng=[m.y,m.x];
         let marker;
         if (m.iconUrl) {
-          const icon = L.icon({
-            iconUrl: m.iconUrl,
-            iconSize: m.iconSize || [24, 24],
-            iconAnchor: m.iconAnchor || [12, 24],
-            popupAnchor: m.popupAnchor || [0, -24],
+          const icon=L.icon({
+            iconUrl:m.iconUrl,
+            iconSize:m.iconSize||[24,24],
+            iconAnchor:m.iconAnchor||[12,24],
+            popupAnchor:m.popupAnchor||[0,-24],
           });
-          marker = L.marker(latlng, { icon, draggable: !!m.draggable }).addTo(map);
+          marker=L.marker(latlng,{icon,draggable:!!m.draggable}).addTo(map);
         } else {
-          marker = L.marker(latlng, { draggable: !!m.draggable }).addTo(map);
+          marker=L.marker(latlng,{draggable:!!m.draggable}).addTo(map);
         }
-        if (m.label || m.html) marker.bindPopup(m.html || m.label);
-        marker.on("dragend", e => {
-          if (!m.draggable) return;
-          const ll = e.target.getLatLng();
-          console.log(`{"y": ${ll.lat.toFixed(1)}, "x": ${ll.lng.toFixed(1)}, "label": ${JSON.stringify(m.label || "")}}`);
+        if (m.label||m.html) marker.bindPopup(m.html||m.label);
+        marker.on("dragend", e=>{
+          if(!m.draggable) return;
+          const ll=e.target.getLatLng();
+          console.log(`{"y": ${ll.lat.toFixed(1)}, "x": ${ll.lng.toFixed(1)}, "label": ${JSON.stringify(m.label||"")}}`);
         });
       });
     };
-
-    if (el.dataset.markers) {
-      try { addMarkers(JSON.parse(el.dataset.markers)); } catch (e) { console.warn("[DG] Invalid data-markers JSON", e); }
-    }
-    if (el.dataset.markersUrl) {
-      fetch(el.dataset.markersUrl)
-        .then(r => r.json())
-        .then(addMarkers)
-        .catch(err => console.warn("[DG] Failed to load markers URL", err));
+    if(el.dataset.markers){ try{ addMarkers(JSON.parse(el.dataset.markers)); }catch(e){ console.warn("[DG] Bad data-markers JSON", e);} }
+    if(el.dataset.markersUrl){
+      fetch(el.dataset.markersUrl).then(r=>r.json()).then(addMarkers).catch(err=>console.warn("[DG] markers URL fail", err));
     }
   }
 
-  // --- Image map (CRS.Simple), with auto-detect bounds if not provided ---
+  // IMAGE MAP
   function initImageMap(el) {
     setSize(el);
     const imgUrl = el.dataset.image;
-
-    const scaleVal = parseFloat(el.dataset.scale || "0"); // e.g., 0.25
+    const scaleVal = parseFloat(el.dataset.scale || "0");
     const unitVal  = (el.dataset.unit || "km");
     const crsMeters = makeMetersCRS(metersPerPixel(scaleVal, unitVal));
 
-    function buildWithBounds(imgHeight, imgWidth) {
-      const useBounds = el.dataset.bounds || `0,0,${imgHeight},${imgWidth}`;
-      const b = useBounds.split(",").map(s => parseFloat(s.trim()));
+    function buildWithBounds(imgH, imgW) {
+      const useBounds = el.dataset.bounds || `0,0,${imgH},${imgW}`;
+      const b = useBounds.split(",").map(s=>parseFloat(s.trim()));
       const y0=b[0], x0=b[1], y1=b[2], x1=b[3];
-
       if (!el.dataset.center) el.dataset.center = `${(y0+y1)/2},${(x0+x1)/2}`;
 
-      const southWest = L.latLng(y1, x0);
-      const northEast = L.latLng(y0, x1);
-      const imgBounds = L.latLngBounds(southWest, northEast);
+      const southWest=L.latLng(y1,x0), northEast=L.latLng(y0,x1);
+      const imgBounds=L.latLngBounds(southWest,northEast);
 
-      const map = L.map(el, {
-        crs: crsMeters,                 // << distances returned in meters
-        zoomSnap: 0.25,
-        zoomDelta: parseFloat(el.dataset.zoomDelta || "0.5"),
-        maxBounds: imgBounds,
-        maxBoundsViscosity: 1.0,
-        inertia: false,
-        scrollWheelZoom: true,
-        zoomControl: false,             // we'll add both zoom & fullscreen explicitly
-        keyboard: false
+      const map=L.map(el,{
+        crs:crsMeters,
+        zoomSnap:0.25,
+        zoomDelta:parseFloat(el.dataset.zoomDelta||"0.5"),
+        maxBounds:imgBounds,
+        maxBoundsViscosity:1.0,
+        inertia:false,
+        scrollWheelZoom:true,
+        zoomControl:false,
+        keyboard:false
       });
 
-      clampScrollToMap(map);
+      // === Controls go right here ===
 
-      // Controls: zoom + fullscreen
+      // Zoom
       L.control.zoom({ position: "topleft" }).addTo(map);
-      if (L.Control && L.Control.Fullscreen) {
-        try { map.addControl(new L.Control.Fullscreen({ position: "topleft" })); }
+
+      // Fullscreen
+      if (L.Control && (L.Control.Fullscreen || L.Control.FullScreen)) {
+        var FullscreenCtor = L.Control.Fullscreen || L.Control.FullScreen;
+        try { map.addControl(new FullscreenCtor({ position: "topleft" })); }
         catch (e) { console.warn("[DG] Fullscreen control init failed:", e); }
+      } else {
+        console.warn("[DG] Fullscreen plugin missing (L.Control.Fullscreen).");
       }
 
-      L.imageOverlay(imgUrl, imgBounds, { opacity: 1.0, interactive: false }).addTo(map);
-
-      map.setMinZoom(parseFloat(el.dataset.minZoom || "-2"));
-      map.setMaxZoom(parseFloat(el.dataset.maxZoom || "2.5"));
-
-      const center = (""+el.dataset.center).split(",").map(s => parseFloat(s.trim()));
-      map.setView(center, parseFloat(el.dataset.defaultZoom || "0"));
-
-      // --- Advanced measurement toolbar (use the control class API) ---
+      // Measure
       if (L.Control && L.Control.Measure) {
         try {
           new L.Control.Measure({
             position: "topleft",
-            // the plugin expects **meters** from CRS; we already return meters above
             primaryLengthUnit: "kilometers",
             secondaryLengthUnit: "meters",
             activeColor: "#ffe066",
@@ -170,53 +154,54 @@
           console.warn("[DG] Leaflet.Measure control failed to init:", e);
         }
       } else {
-        console.warn("[DG] Measure plugin not detected (L.Control.Measure missing).");
+        console.warn("[DG] Measure plugin missing (L.Control.Measure).");
       }
 
+      // === Then continue ===
+      clampScrollToMap(map);
+      L.imageOverlay(imgUrl, imgBounds, { opacity: 1.0, interactive: false }).addTo(map);
+      map.setMinZoom(parseFloat(el.dataset.minZoom || "-2"));
+      map.setMaxZoom(parseFloat(el.dataset.maxZoom || "2.5"));
+      const center = (""+el.dataset.center).split(",").map(s => parseFloat(s.trim()));
+      map.setView(center, parseFloat(el.dataset.defaultZoom || "0"));
       loadMarkers(el, map);
       return map;
     }
 
     if (el.dataset.bounds) return buildWithBounds(0,0);
-
     const img = new Image();
-    img.onload = function(){ buildWithBounds(this.naturalHeight, this.naturalWidth); };
-    img.onerror = function(){ console.warn("[DG] Failed to load image to auto-detect size:", imgUrl); };
+    img.onload=function(){ buildWithBounds(this.naturalHeight, this.naturalWidth); };
+    img.onerror=function(){ console.warn("[DG] Image load fail:", imgUrl); };
     img.src = imgUrl;
   }
 
-  // --- Tile map variant (optional) ---
+  // TILE MAP
   function initTileMap(el) {
     setSize(el);
-    const lat = parseFloat(el.dataset.lat || "0");
-    const lng = parseFloat(el.dataset.lng || "0");
-    const zoom = parseFloat(el.dataset.defaultZoom || el.dataset.zoom || "4");
+    const lat=parseFloat(el.dataset.lat||"0");
+    const lng=parseFloat(el.dataset.lng||"0");
+    const zoom=parseFloat(el.dataset.defaultZoom||el.dataset.zoom||"4");
 
-    const map = L.map(el, {
-      zoomSnap: 0.25,
-      zoomDelta: parseFloat(el.dataset.zoomDelta || "0.5"),
-      inertia: false,
-      keyboard: false
-    }).setView([lat, lng], zoom);
+    const map=L.map(el,{
+      zoomSnap:0.25,
+      zoomDelta:parseFloat(el.dataset.zoomDelta||"0.5"),
+      inertia:false,
+      keyboard:false
+    }).setView([lat,lng],zoom);
 
-    L.tileLayer(
-      el.dataset.tiles || "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
-      {
-        attribution: el.dataset.attrib || '&copy; OpenStreetMap contributors',
-        maxZoom: parseFloat(el.dataset.maxZoom || "19")
-      }
-    ).addTo(map);
-
-    clampScrollToMap(map);
-
-    // Controls
+    // === Controls go right here too ===
     L.control.zoom({ position: "topleft" }).addTo(map);
-    if (L.Control && L.Control.Fullscreen) {
-      try { map.addControl(new L.Control.Fullscreen({ position: "topleft" })); }
-      catch (e) { console.warn("[DG] Fullscreen control init failed (tile):", e); }
+
+    // Fullscreen
+    if (L.Control && (L.Control.Fullscreen || L.Control.FullScreen)) {
+      var FullscreenCtor = L.Control.Fullscreen || L.Control.FullScreen;
+      try { map.addControl(new FullscreenCtor({ position: "topleft" })); }
+      catch (e) { console.warn("[DG] Fullscreen control init failed:", e); }
+    } else {
+      console.warn("[DG] Fullscreen plugin missing (L.Control.Fullscreen).");
     }
 
-    // Measure on tile maps (real-world meters)
+    // Measure
     if (L.Control && L.Control.Measure) {
       try {
         new L.Control.Measure({
@@ -227,15 +212,26 @@
           completedColor: "#ffcc00"
         }).addTo(map);
       } catch (e) {
-        console.warn("[DG] Leaflet.Measure control failed to init (tile):", e);
+        console.warn("[DG] Leaflet.Measure control failed to init:", e);
       }
+    } else {
+      console.warn("[DG] Measure plugin missing (L.Control.Measure).");
     }
 
-    if (el.dataset.marker) L.marker([lat, lng]).addTo(map);
+    // === Continue ===
+    clampScrollToMap(map);
+    L.tileLayer(
+      el.dataset.tiles || "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+      {
+        attribution: el.dataset.attrib || '&copy; OpenStreetMap contributors',
+        maxZoom: parseFloat(el.dataset.maxZoom || "19")
+      }
+    ).addTo(map);
+    if (el.dataset.marker) L.marker([lat,lng]).addTo(map);
     return map;
   }
 
-  // --- Boot all maps on the page ---
+  // Boot all maps
   function start() {
     document.querySelectorAll(".leaflet-map").forEach(function(el){
       const type = (el.dataset.type || "image").toLowerCase();
@@ -261,10 +257,8 @@
   }
   .leaflet-container { width: 100%; height: 100%; }
 
-  /* Keep controls clickable but contained */
   .leaflet-control-container { position: absolute; inset: 0; pointer-events: none; }
   .leaflet-top, .leaflet-bottom { pointer-events: none; }
   .leaflet-control { pointer-events: auto; }
-
   .leaflet-control-zoom a { outline: none; }
 </style>
