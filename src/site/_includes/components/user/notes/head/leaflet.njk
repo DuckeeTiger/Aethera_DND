@@ -11,25 +11,38 @@
   crossorigin=""
 ></script>
 
-<!-- Measure plugin (ljagis/leaflet-measure) — UMD build on UNPKG -->
+<!-- Measure plugin (switch to jsDelivr NPM build) -->
 <link
   rel="stylesheet"
-  href="https://unpkg.com/leaflet-measure@3.3.0/dist/leaflet-measure.css"
+  href="https://cdn.jsdelivr.net/npm/leaflet-measure@3.3.0/dist/leaflet-measure.css"
 />
-<script src="https://unpkg.com/leaflet-measure@3.3.0/dist/leaflet-measure.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/leaflet-measure@3.3.0/dist/leaflet-measure.min.js"></script>
 <script>
-  // Safety shim: if the plugin exported MeasureControl global, attach it to L
-  if (window.L && !L.Control?.Measure && window.MeasureControl) {
-    L.Control.Measure = window.MeasureControl;
-  }
+  // Safety shim: some builds expose MeasureControl globally instead of L.Control.Measure
+  (function(){
+    if (window.L && !L.Control?.Measure && window.MeasureControl) {
+      L.Control.Measure = window.MeasureControl;
+    }
+    // Debug log so we can confirm on the page
+    console.log("[DG] Measure present:", !!(window.L && L.Control && L.Control.Measure));
+  })();
 </script>
 
-<!-- Fullscreen control -->
+<!-- Fullscreen control (keep this, it was 200 for you) -->
 <link
   rel="stylesheet"
   href="https://unpkg.com/leaflet.fullscreen@2.4.0/Control.FullScreen.css"
 />
 <script src="https://unpkg.com/leaflet.fullscreen@2.4.0/Control.FullScreen.js"></script>
+<script>
+  // Some versions use different casing; normalize if needed
+  (function(){
+    if (window.L && !L.Control?.Fullscreen && L.Control?.FullScreen) {
+      L.Control.Fullscreen = L.Control.FullScreen;
+    }
+    console.log("[DG] Fullscreen present:", !!(window.L && L.Control && (L.Control.Fullscreen || L.Control.FullScreen)));
+  })();
+</script>
 
 <!-- Optional styling tweaks -->
 <style>
