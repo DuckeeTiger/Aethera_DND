@@ -11,20 +11,16 @@
   crossorigin=""
 ></script>
 
-<!-- Measure plugin (switch to jsDelivr NPM build) -->
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/leaflet-measure@3.3.0/dist/leaflet-measure.css"
-/>
-<script src="https://cdn.jsdelivr.net/npm/leaflet-measure@3.3.0/dist/leaflet-measure.min.js"></script>
+<!-- Measure (LOCAL, self-hosted) -->
+<link rel="stylesheet" href="/styles/vendor/leaflet-measure.css">
+<script src="/scripts/vendor/leaflet-measure.min.js"></script>
 <script>
-  // Safety shim: some builds expose MeasureControl globally instead of L.Control.Measure
+  // Safety shim in case the build exposes MeasureControl globally
   (function(){
     if (window.L && !L.Control?.Measure && window.MeasureControl) {
       L.Control.Measure = window.MeasureControl;
     }
-    // Debug log so we can confirm on the page
-    console.log("[DG] Measure present:", !!(window.L && L.Control && L.Control.Measure));
+    console.log("[DG] Measure present (local):", !!(window.L && L.Control && L.Control.Measure));
   })();
 </script>
 
