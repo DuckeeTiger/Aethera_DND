@@ -141,19 +141,19 @@
       }
 
       // Measure
-if (L.Control && L.Control.Measure) {
-  try {
-    new L.Control.Measure({
-      position: "topleft",
-      unit: "km",        // choose "m", "km", or "mi"
-      precision: 2
-    }).addTo(map);
-  } catch (e) {
-    console.warn("[DG] Leaflet.Measure control failed to init:", e);
-  }
-} else {
-  console.warn("[DG] Measure plugin missing (L.Control.Measure).");
-}
+      if (L.Control && L.Control.Measure) {
+        try {
+          new L.Control.Measure({
+            position: "topleft",
+            unit: unitVal,     // <-- use the note's unit
+            precision: 2
+         }).addTo(map);
+        } catch (e) {
+        console.warn("[DG] Leaflet.Measure control failed to init:", e);
+        }
+      } else {
+      console.warn("[DG] Measure plugin missing (L.Control.Measure).");
+      }
 
       // === Then continue ===
       clampScrollToMap(map);
