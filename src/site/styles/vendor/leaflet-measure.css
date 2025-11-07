@@ -1,0 +1,27 @@
+.leaflet-control-measure {
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 4px;
+  box-shadow: 0 0 4px rgba(0,0,0,0.3);
+}
+.leaflet-control-measure a {
+  display: block;
+  text-align: center;
+  line-height: 26px;
+  width: 26px;
+  height: 26px;
+  color: #333;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+.leaflet-control-measure a:hover {
+  background-color: rgba(0,0,0,0.05);
+}
+.leaflet-control-measure svg {
+  width: 16px;
+  height: 16px;
+  vertical-align: middle;
+}
+.leaflet-control-measure-on {
+  background-color: #ABE67E;
+}
