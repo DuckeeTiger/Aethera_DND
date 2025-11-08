@@ -1,0 +1,7 @@
+<script>
+(function(){
+  // Apply saved theme immediately to prevent flash
+  const saved = localStorage.getItem('dg-theme');
+  if (saved) document.documentElement.setAttribute('data-theme', saved);
+})();
+</script>
