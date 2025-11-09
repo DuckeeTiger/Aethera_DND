@@ -1,13 +1,13 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+    
+    html[data-theme="light"] body {
+      background-color: var(--background-primary, #fafafa);
+      color: var(--text-normal, #222);
+    }
+
+    html[data-theme="dark"] body {
+      background-color: var(--background-primary, #1b1b1b);
+      color: var(--text-normal, #eaeaea);
+    }
+
 }
