@@ -1,6 +1,8 @@
 <script>
 (function () {
-  // Wait until Leaflet is ready
+  // ----------------------------------------
+  // 1) Leaflet ready helper
+  // ----------------------------------------
   function whenLeafletReady(cb) {
     if (window.L) return cb();
     function tryStart(){ if (window.L) { console.log("[DG] Leaflet is ready."); cb(); } }
@@ -17,7 +19,9 @@
     setTimeout(tryStart, 0);
   }
 
-  // Helpers
+  // ----------------------------------------
+  // 2) Utilities
+  // ----------------------------------------
   function setSize(el) {
     const h = el.dataset.height || "420px";
     const w = el.dataset.width || "";
@@ -66,41 +70,112 @@
     }
   }
 
-  // Load markers
-  function loadMarkers(el, map) {
-    const addMarkers = (list=[])=>{
-      list.forEach(m=>{
-        const latlng=[m.y,m.x];
-        let marker;
-        if (m.iconUrl) {
-          const icon=L.icon({
-            iconUrl:m.iconUrl,
-            iconSize:m.iconSize||[24,24],
-            iconAnchor:m.iconAnchor||[12,24],
-            popupAnchor:m.popupAnchor||[0,-24],
-          });
-          marker=L.marker(latlng,{icon,draggable:!!m.draggable}).addTo(map);
-        } else {
-          marker=L.marker(latlng,{draggable:!!m.draggable}).addTo(map);
-        }
-        if (m.label||m.html) marker.bindPopup(m.html||m.label);
-        marker.on("dragend", e=>{
-          if(!m.draggable) return;
-          const ll=e.target.getLatLng();
-          console.log(`{"y": ${ll.lat.toFixed(1)}, "x": ${ll.lng.toFixed(1)}, "label": ${JSON.stringify(m.label||"")}}`);
-        });
+  function slugify(s){
+    return String(s||"").trim().toLowerCase()
+      .replace(/[^\w\s-]/g,'')
+      .replace(/\s+/g,'-')
+      .replace(/-+/g,'-');
+  }
+
+  // ----------------------------------------
+  // 3) Marker icons (defaults per type)
+  //    Put your PNGs at: /assets/map-icons/
+  // ----------------------------------------
+  const ICON_BASE = "/assets/map-icons/";
+  const TYPE_ICONS = {
+    "City":      { url: ICON_BASE + "city.png",      size:[28,28], anchor:[14,27], tooltipOffset:[0,-20] },
+    "Mountain":  { url: ICON_BASE + "mountain.png",  size:[28,28], anchor:[14,27], tooltipOffset:[0,-20] },
+    "Fort":      { url: ICON_BASE + "fort.png",      size:[28,28], anchor:[14,27], tooltipOffset:[0,-20] },
+    "Castle":    { url: ICON_BASE + "fort.png",      size:[28,28], anchor:[14,27], tooltipOffset:[0,-20] },
+    "Ruins":     { url: ICON_BASE + "ruins.png",     size:[28,28], anchor:[14,27], tooltipOffset:[0,-20] },
+    "Port":      { url: ICON_BASE + "port.png",      size:[28,28], anchor:[14,27], tooltipOffset:[0,-20] },
+    "Default":   { url: ICON_BASE + "marker.png",    size:[28,28], anchor:[14,27], tooltipOffset:[0,-20] }
+  };
+
+  function iconFor(m){
+    // Per-marker override takes priority
+    if (m.iconUrl) {
+      return L.icon({
+        iconUrl: m.iconUrl,
+        iconSize: m.iconSize || [28,28],
+        iconAnchor: m.iconAnchor || [14,27],
+        popupAnchor: m.popupAnchor || [0,-24],
+        tooltipAnchor: m.tooltipAnchor || [0,-20]
       });
-    };
-    if(el.dataset.markers){ try{ addMarkers(JSON.parse(el.dataset.markers)); }catch(e){ console.warn("[DG] Bad data-markers JSON", e);} }
-    if(el.dataset.markersUrl){
-      fetch(el.dataset.markersUrl).then(r=>r.json()).then(addMarkers).catch(err=>console.warn("[DG] markers URL fail", err));
+    }
+    // Type-based default
+    const t = TYPE_ICONS[m.type] || TYPE_ICONS.Default;
+    return L.icon({
+      iconUrl: t.url,
+      iconSize: t.size,
+      iconAnchor: t.anchor,
+      tooltipAnchor: t.tooltipOffset || [0,-20]
+    });
+  }
+
+  // ----------------------------------------
+  // 4) Load + render markers
+  // ----------------------------------------
+  function loadMarkers(el, map) {
+    function addMarkers(list = []) {
+      list.forEach(m => {
+        const latlng = [Number(m.y), Number(m.x)];
+        if (isNaN(latlng[0]) || isNaN(latlng[1])) return;
+
+        const marker = L.marker(latlng, {
+          icon: iconFor(m),
+          keyboard: false,
+          draggable: !!m.draggable
+        }).addTo(map);
+
+        // Hover: show label as tooltip
+        if (m.label) {
+          marker.bindTooltip(m.label, {
+            direction: 'top',
+            opacity: 0.95,
+            sticky: false,          // classic hover feel
+            offset: [0, -18]        // fine-tune above icon
+          });
+        }
+
+        // Single click → open URL (or guess from label)
+        let href = m.url;
+        if (!href && m.label) href = '/notes/' + slugify(m.label) + '/';
+        if (href) {
+          marker.on('click', () => { window.location.href = href; });
+        }
+
+        // Optional: drag to get new coords in console
+        if (m.draggable) {
+          marker.on("dragend", e => {
+            const ll = e.target.getLatLng();
+            console.log(`{"y": ${ll.lat.toFixed(2)}, "x": ${ll.lng.toFixed(2)}, "label": ${JSON.stringify(m.label||"")}}`);
+          });
+        }
+      });
+    }
+
+    // Inline JSON via data-markers='[...]'
+    if (el.dataset.markers) {
+      try { addMarkers(JSON.parse(el.dataset.markers)); }
+      catch (e) { console.warn("[DG] Bad data-markers JSON", e); }
+    }
+
+    // External JSON via data-markers-url="/path.json"
+    if (el.dataset.markersUrl) {
+      fetch(el.dataset.markersUrl)
+        .then(r => r.json())
+        .then(addMarkers)
+        .catch(err => console.warn("[DG] markers URL fail", err));
     }
   }
 
-  // IMAGE MAP
+  // ----------------------------------------
+  // 5) IMAGE MAP (CRS.Simple with real units)
+  // ----------------------------------------
   function initImageMap(el) {
     setSize(el);
-    const imgUrl = el.dataset.image;
+    const imgUrl   = el.dataset.image;
     const scaleVal = parseFloat(el.dataset.scale || "0");
     const unitVal  = (el.dataset.unit || "km");
     const crsMeters = makeMetersCRS(metersPerPixel(scaleVal, unitVal));
@@ -126,12 +201,9 @@
         keyboard:false
       });
 
-      // === Controls go right here ===
-
-      // Zoom
+      // --- Controls ---
       L.control.zoom({ position: "topleft" }).addTo(map);
 
-      // Fullscreen
       if (L.Control && (L.Control.Fullscreen || L.Control.FullScreen)) {
         var FullscreenCtor = L.Control.Fullscreen || L.Control.FullScreen;
         try { map.addControl(new FullscreenCtor({ position: "topleft" })); }
@@ -140,29 +212,31 @@
         console.warn("[DG] Fullscreen plugin missing (L.Control.Fullscreen).");
       }
 
-      // Measure
       if (L.Control && L.Control.Measure) {
         try {
           new L.Control.Measure({
             position: "topleft",
-            unit: unitVal,     // <-- use the note's unit
+            unit: unitVal,     // uses your note's unit (e.g., "km")
             precision: 2
-         }).addTo(map);
+          }).addTo(map);
         } catch (e) {
-        console.warn("[DG] Leaflet.Measure control failed to init:", e);
+          console.warn("[DG] Leaflet.Measure control failed to init:", e);
         }
       } else {
-      console.warn("[DG] Measure plugin missing (L.Control.Measure).");
+        console.warn("[DG] Measure plugin missing (L.Control.Measure).");
       }
 
-      // === Then continue ===
+      // --- Overlay + view ---
       clampScrollToMap(map);
       L.imageOverlay(imgUrl, imgBounds, { opacity: 1.0, interactive: false }).addTo(map);
       map.setMinZoom(parseFloat(el.dataset.minZoom || "-2"));
       map.setMaxZoom(parseFloat(el.dataset.maxZoom || "2.5"));
       const center = (""+el.dataset.center).split(",").map(s => parseFloat(s.trim()));
       map.setView(center, parseFloat(el.dataset.defaultZoom || "0"));
+
+      // --- Markers ---
       loadMarkers(el, map);
+
       return map;
     }
 
@@ -173,7 +247,9 @@
     img.src = imgUrl;
   }
 
-  // TILE MAP
+  // ----------------------------------------
+  // 6) TILE MAP (Web mercator)
+  // ----------------------------------------
   function initTileMap(el) {
     setSize(el);
     const lat=parseFloat(el.dataset.lat||"0");
@@ -187,10 +263,8 @@
       keyboard:false
     }).setView([lat,lng],zoom);
 
-    // === Controls go right here too ===
     L.control.zoom({ position: "topleft" }).addTo(map);
 
-    // Fullscreen
     if (L.Control && (L.Control.Fullscreen || L.Control.FullScreen)) {
       var FullscreenCtor = L.Control.Fullscreen || L.Control.FullScreen;
       try { map.addControl(new FullscreenCtor({ position: "topleft" })); }
@@ -199,7 +273,6 @@
       console.warn("[DG] Fullscreen plugin missing (L.Control.Fullscreen).");
     }
 
-    // Measure
     if (L.Control && L.Control.Measure) {
       try {
         new L.Control.Measure({
@@ -216,7 +289,6 @@
       console.warn("[DG] Measure plugin missing (L.Control.Measure).");
     }
 
-    // === Continue ===
     clampScrollToMap(map);
     L.tileLayer(
       el.dataset.tiles || "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
@@ -225,11 +297,19 @@
         maxZoom: parseFloat(el.dataset.maxZoom || "19")
       }
     ).addTo(map);
+
+    // optional single marker on center if requested
     if (el.dataset.marker) L.marker([lat,lng]).addTo(map);
+
+    // markers from JSON/inline are also supported on tile maps:
+    loadMarkers(el, map);
+
     return map;
   }
 
-  // Boot all maps
+  // ----------------------------------------
+  // 7) Boot all maps
+  // ----------------------------------------
   function start() {
     document.querySelectorAll(".leaflet-map").forEach(function(el){
       const type = (el.dataset.type || "image").toLowerCase();
