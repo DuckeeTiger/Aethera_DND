@@ -9,3 +9,28 @@ html[data-theme="dark"] body {
   background-color: var(--background-primary, #1b1b1b);
   color: var(--text-normal, #eaeaea);
 }
+
+
+/* LIGHT THEME: parchment vibes */
+:root[data-theme="light"] {
+  /* tune these to taste */
+  --background-primary:       #f6f1e6;  /* parchment base */
+  --background-primary-alt:   #f9f5ec;
+  --background-secondary:     #efe7d7;
+  --background-secondary-alt: #e9dfca;
+  --background-modifier-border: rgba(0,0,0,.08);
+  --text-normal:              #26231f;
+}
+
+/* actually apply the variables */
+html[data-theme="light"] body {
+  background-color: var(--background-primary);
+  color: var(--text-normal);
+}
+
+/* let the note surface be transparent so the body shows through */
+html[data-theme="light"] .cm-s-obsidian,
+html[data-theme="light"] .markdown-preview-view,
+html[data-theme="light"] .content {
+  background: transparent;
+}
