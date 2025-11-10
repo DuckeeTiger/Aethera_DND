@@ -17,7 +17,7 @@ Once a pact is made, a Warlock’s thirst for knowledge and power can’t be sla
 | **Saving Throws Proficiencies** | Wisdom and Charisma                                                                                                                   |
 | **Skill Proficiencies**         | Choose 2: Arcana, Deception, History, Intimidation, Investigation, Nature, or Religion                                                |
 | **Weapon Proficiencies**        | Simple weapons                                                                                                                        |
-| **Tool Proficiencies**          |                                                                                                                                       |
+| **Tool Proficiencies**          | None                                                                                                                                  |
 | **Armor Training**              | Light armor                                                                                                                           |
 | **Starting Equipment**          | Choose A or B: (A) Leather Armor, Sickle, 2 Daggers, Arcane Focus (orb), Book (occult lore), Scholar’s Pack, and 15 GP; or (B) 100 GP |
 ## Becoming a Warlock
@@ -56,6 +56,9 @@ As a Warlock, you gain the following class features when you reach the specified
 | 18    | +6                | —                                | 10                   | 4        | 14              |
 | 19    | +6                | Epic Boon                        | 10                   | 4        | 15              |
 | 20    | +6                | Eldritch Master                  | 10                   | 4        | 15              |
+
+
+--- 
 #### Level 1: Eldritch Invocations
 You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the “Eldritch Invocation Options” section.
  
@@ -67,6 +70,7 @@ When you gain certain Warlock levels, you gain more invocations of your choice, 
  
 You can’t pick the same invocation more than once unless its description says otherwise.
 
+---
 #### Level 1: Pact Magic
 Through occult ceremony, you have formed a pact with a mysterious entity to gain magical powers. The entity is a voice in the shadows—its identity unclear—but its boon to you is concrete: the ability to cast spells.
  
@@ -90,22 +94,27 @@ Spellcasting Ability. Charisma is the spellcasting ability for your Warlock spel
  
 Spellcasting Focus. You can use an Arcane Focus as a Spellcasting Focus for your Warlock spells.
 
+---
 #### Level 2: Magical Cunning
 You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can’t do so again until you finish a Long Rest.
 
+---
 #### Level 3: Warlock Subclass
 You gain a Warlock subclass of your choice. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass’s features that are of your Warlock level or lower.
 
+---
 #### Level 4: Ability Score Improvement
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify.
  
 You gain this feature again at Warlock levels 8, 12, and 16.
 
+---
 #### Level 9: Contact Patron
 In the past, you usually contacted your patron through intermediaries. Now you can communicate directly; you always have the Contact Other Plane spell prepared. With this feature, you can cast the spell without expending a spell slot to contact your patron, and you automatically succeed on the spell’s saving throw.
  
 Once you cast the spell with this feature, you can’t do so in this way again until you finish a Long Rest.
 
+---
 #### Level 11: Mystic Arcanum
 Your patron grants you a magical secret called an arcanum. Choose one level 6 Warlock spell as this arcanum.
  
@@ -115,15 +124,18 @@ As shown in the Warlock Features table, you gain another Warlock spell of your c
  
 Whenever you gain a Warlock level, you can replace one of your arcanum spells with another Warlock spell of the same level.
 
+---
 #### Level 19: Epic Boon
 You gain an Epic Boon feat or another feat of your choice for which you qualify.
 
+---
 #### Level 20: Eldritch Master
 When you use your Magical Cunning feature, you regain all your expended Pact Magic spell slots.
 
 ## Warlock Eldritch Invocation Options
 Eldritch Invocation options appear in alphabetical order.
 
+---
 #### Agonizing Blast
 *Prerequisite: Level 2+ Warlock, a Warlock Cantrip That Deals Damage*
  
@@ -131,32 +143,39 @@ Choose one of your known Warlock cantrips that deals damage. You can add your Ch
  
 Repeatable. You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
+---
 #### Armor of Shadows
 You can cast Mage Armor on yourself without expending a spell slot.
 
+---
 #### Ascendant Step
 *Prerequisite: Level 5+ Warlock*
  
 You can cast Levitate on yourself without expending a spell slot.
 
+---
 #### Devil’s Sight
 *Prerequisite: Level 2+ Warlock*
  
 You can see normally in Dim Light and Darkness—both magical and nonmagical—within 120 feet of yourself.
 
+---
 #### Devouring Blade
 *Prerequisite: Level 12+ Warlock, Thirsting Blade Invocation*
  
 The Extra Attack of your Thirsting Blade invocation confers two extra attacks rather than one.
 
+---
 #### Eldritch Mind
 You have Advantage on Constitution saving throws that you make to maintain Concentration.
 
+---
 #### Eldritch Smite
 *Prerequisite: Level 5+ Warlock, Pact of the Blade Invocation*
  
 Once per turn when you hit a creature with your pact weapon, you can expend a Pact Magic spell slot to deal an extra 1d8 Force damage to the target, plus another 1d8 per level of the spell slot, and you can give the target the Prone condition if it is Huge or smaller.
 
+---
 #### Eldritch Spear
 *Prerequisite: Level 2+ Warlock, a Warlock Cantrip That Deals Damage*
  
@@ -164,11 +183,13 @@ Choose one of your known Warlock cantrips that deals damage and has a range of 1
  
 Repeatable. You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
+---
 #### Fiendish Vigor
 *Prerequisite: Level 2+ Warlock*
  
 You can cast False Life on yourself without expending a spell slot. When you cast the spell with this feature, you don’t roll the die for the Temporary Hit Points; you automatically get the highest number on the die.
 
+---
 #### Gaze of Two Minds
 *Prerequisite: Level 5+ Warlock*
  
@@ -176,6 +197,7 @@ You can use a Bonus Action to touch a willing creature and perceive through its 
  
 While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you can cast spells as if you were in your space or the other creature’s space if the two of you are within 60 feet of each other.
 
+---
 #### Gift of the Depths
 *Prerequisite: Level 5+ Warlock*
  
@@ -191,6 +213,7 @@ When any creature whose name is on the page is reduced to 0 Hit Points but not k
  
 As a Magic action, you can erase a name on the page by touching it.
 
+---
 #### Investment of the Chain Master
 *Prerequisite: Level 5+ Warlock, Pact of the Chain Invocation*
  
@@ -206,6 +229,7 @@ Your Save DC. If the familiar forces a creature to make a saving throw, it uses 
  
 Resistance. When the familiar takes damage, you can take a Reaction to grant it Resistance against that damage.
 
+---
 #### Lessons of the First Ones
 *Prerequisite: Level 2+ Warlock*
  
@@ -213,36 +237,43 @@ You have received knowledge from an elder entity of the multiverse, allowing you
  
 Repeatable. You can gain this invocation more than once. Each time you do so, choose a different Origin feat.
 
+---
 #### Lifedrinker
 *Prerequisite: Level 9+ Warlock, Pact of the Blade Invocation*
  
 Once per turn when you hit a creature with your pact weapon, you can deal an extra 1d6 Necrotic, Psychic, or Radiant damage (your choice) to the creature, and you can expend one of your Hit Point Dice to roll it and regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
 
+---
 #### Mask of Many Faces
 *Prerequisite: Level 2+ Warlock*
  
 You can cast Disguise Self without expending a spell slot.
 
+---
 #### Master of Myriad Forms
 *Prerequisite: Level 5+ Warlock*
  
 You can cast Alter Self without expending a spell slot.
 
+---
 #### Misty Visions
 *Prerequisite: Level 2+ Warlock*
  
 You can cast Silent Image without expending a spell slot.
 
+---
 #### One with Shadows
 *Prerequisite: Level 5+ Warlock*
  
 While you’re in an area of Dim Light or Darkness, you can cast Invisibility on yourself without expending a spell slot.
 
+---
 #### Otherworldly Leap
 *Prerequisite: Level 2+ Warlock*
  
 You can cast Jump on yourself without expending a spell slot.
 
+---
 #### Pact of the Blade
 As a Bonus Action, you can conjure a pact weapon in your hand—a Simple or Martial Melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can’t bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a Spellcasting Focus.
  
@@ -250,6 +281,7 @@ Whenever you attack with the bonded weapon, you can use your Charisma modifier f
  
 Your bond with the weapon ends if you use this feature’s Bonus Action again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
 
+---
 #### Pact of the Chain
 You learn the Find Familiar spell and can cast it as a Magic action without expending a spell slot.
  
@@ -257,6 +289,7 @@ When you cast the spell, you choose one of the normal forms for your familiar or
  
 Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its Reaction.
 
+---
 #### Pact of the Tome
 Stitching together strands of shadow, you conjure forth a book in your hand at the end of a Short or Long Rest. This Book of Shadows (you determine its appearance) contains eldritch magic that only you can access, granting you the benefits below. The book disappears if you conjure another book with this feature or if you die.
  
@@ -264,6 +297,7 @@ Cantrips and Rituals. When the book appears, choose three cantrips, and choose t
  
 Spellcasting Focus. You can use the book as a Spellcasting Focus.
 
+---
 #### Repelling Blast
 *Prerequisite: Level 2+ Warlock, a Warlock Cantrip That Deals Damage via an Attack Roll*
  
@@ -271,21 +305,25 @@ Choose one of your known Warlock cantrips that requires an attack roll. When you
  
 Repeatable. You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
+---
 #### Thirsting Blade
 *Prerequisite: Level 5+ Warlock, Pact of the Blade Invocation*
  
 You gain the Extra Attack feature for your pact weapon only. With that feature, you can attack twice with the weapon instead of once when you take the Attack action on your turn.
 
+---
 #### Visions of Distant Realms
 *Prerequisite: Level 9+ Warlock*
  
 You can cast Arcane Eye without expending a spell slot.
 
+---
 #### Whispers of the Grave
 *Prerequisite: Level 7+ Warlock*
  
 You can cast Speak with Dead without expending a spell slot.
 
+---
 #### Witch Sight
 *Prerequisite: Level 15+ Warlock*
  
@@ -294,17 +332,16 @@ You have Truesight with a range of 30 feet.
 ## Warlock Spell List
 
 #### Warlock Cantrips (Level 0)
-
-| Spell            | School         | Special |
-|------------------|----------------|---------|
-| Blade Ward       | Abjuration     |         |
-| Chill Touch      | Necromancy     |         |
-| Eldritch Blast   | Evocation      |         |
-| Mage Hand        | Conjuration    |         |
-| Minor Illusion   | Illusion       |         |
-| Poison Spray     | Conjuration    |         |
-| Prestidigitation | Transmutation  |         |
-| True Strike      | Divination     |         |
+| Spell            | School        | Special |
+| ---------------- | ------------- | ------- |
+| Blade Ward       | Abjuration    |         |
+| Chill Touch      | Necromancy    |         |
+| Eldritch Blast   | Evocation     |         |
+| Mage Hand        | Conjuration   |         |
+| Minor Illusion   | Illusion      |         |
+| Poison Spray     | Conjuration   |         |
+| Prestidigitation | Transmutation |         |
+| True Strike      | Divination    |         |
 
 #### Level 1 Warlock Spells
 | Spell                             | School        | Special |

@@ -56,6 +56,7 @@ As a Rogue, you gain the following class features when you reach the specified R
 | 19    | +6                | Ability Score Improvement                              | 10d6         |
 | 20    | +6                | Stroke of Luck                                         | 10d6         |
 
+---
 #### Level 1: Expertise
 You gain Expertise in **two** of your skill proficiencies of your choice.  
 *Sleight of Hand* and *Stealth* are recommended if you have proficiency in them.

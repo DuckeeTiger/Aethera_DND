@@ -55,7 +55,6 @@ The skills are shown on the Skills table, which notes example uses for each skil
 |Sleight of Hand|Dexterity|Pick a pocket, conceal a handheld object, or perform legerdemain.|
 |Stealth|Dexterity|Escape notice by moving quietly and hiding behind things.|
 |Survival|Wisdom|Follow tracks, forage, find a trail, or avoid natural hazards.|
-
 #### Determining Skills
 
 A character’s starting skill proficiencies are determined at character creation, and a monster’s skill proficiencies appear in its stat block.

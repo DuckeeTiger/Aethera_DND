@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/player-options/classes/wizard/wizard/"}
 ---
 
+*A Scholarly Magic-User of Arcane Power*
+
 Wizards are defined by their exhaustive study of magic’s inner workings. They cast spells of explosive fire, arcing lightning, subtle deception, and spectacular transformations. Their magic conjures monsters from other planes of existence, glimpses the future, or forms protective barriers. Their mightiest spells change one substance into another, call meteors from the sky, or open portals to other worlds.
  
 Most Wizards share a scholarly approach to magic. They examine the theoretical underpinnings of magic, particularly the categorization of spells into schools of magic. Renowned Wizards such as Bigby, Tasha, Mordenkainen, and Yolande have built on their studies to invent iconic spells now used across the multiverse.
@@ -22,15 +24,13 @@ But the lure of knowledge calls even the most unadventurous Wizards from the saf
 | **Starting Equipment**          | Choose A or B: (A) 2 Daggers, Arcane Focus (Quarterstaff), Robe, Spellbook, Scholar’s Pack, and 5 GP; or (B) 55 GP |
 ## Becoming a Wizard
 
-##### As a Level 1 Character
-
+#### As a Level 1 Character
 - Gain all the traits in the Core Wizard Traits table.
 - Gain the Wizard’s level 1 features, which are listed in the Wizard Features table.
 
-##### As a Multiclass Character
-
+#### As a Multiclass Character
 - Gain the Hit Point Die from the Core Wizard Traits table.
-- Gain the Wizard’s level 1 features, which are listed in the Wizard Features table. See the multiclassing rules in “Creating a Character” to determine your available spell slots.
+- Gain the Wizard’s level 1 features, which are listed in the Wizard Features table. See the multiclassing rules to determine your available spell slots.
 
 ## Wizard Class Features
 
@@ -59,6 +59,8 @@ As a Wizard, you gain the following class features when you reach the specified 
 |19|+6|Epic Boon|5|24|4|3|3|3|3|2|1|1|1|
 |20|+6|Signature Spells|5|25|4|3|3|3|3|2|2|1|1|
 
+
+---
 #### Level 1: Spellcasting
 As a student of arcane magic, you have learned to cast spells. See “Spells” for the rules on spellcasting. The information below details how you use those rules with Wizard spells, which appear in the Wizard spell list later in the class’s description.
 
@@ -96,34 +98,43 @@ The spells you add to your spellbook as you gain levels reflect your ongoing mag
 
 If you lose your spellbook, you can use the same procedure to transcribe the Wizard spells that you have prepared into a new spellbook. Filling out the remainder of the new book requires you to find new spells to do so. For this reason, many wizards keep a backup spellbook.
 
+---
 #### Level 1: Ritual Adept
 You can cast any spell as a Ritual if that spell has the Ritual tag and the spell is in your spellbook. You needn’t have the spell prepared, but you must read from the book to cast a spell in this way.
 
+---
 #### Level 1: Arcane Recovery
 You can regain some of your magical energy by studying your spellbook. When you finish a Short Rest, you can choose expended spell slots to recover. The spell slots can have a combined level equal to no more than half your Wizard level (round up), and none of the slots can be level 6 or higher. For example, if you’re a level 4 Wizard, you can recover up to two levels’ worth of spell slots, regaining either one level 2 spell slot or two level 1 spell slots.
 
 Once you use this feature, you can’t do so again until you finish a Long Rest.
 
+---
 #### Level 2: Scholar
 While studying magic, you also specialized in another field of study. Choose one of the following skills in which you have proficiency: Arcana, History, Investigation, Medicine, Nature, or Religion. You have Expertise in the chosen skill.
 
+---
 #### Level 3: Wizard Subclass
 You gain a Wizard subclass of your choice. The Evoker subclass is detailed after this class’s description. A subclass is a specialization that grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass’s features that are of your Wizard level or lower.
 
+---
 #### Level 4: Ability Score Improvement
 You gain the Ability Score Improvement feat (see “Feats”) or another feat of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
 
+---
 #### Level 5: Memorize Spell
 Whenever you finish a Short Rest, you can study your spellbook and replace one of the level 1+ Wizard spells you have prepared for your Spellcasting feature with another level 1+ spell from the book.
 
+---
 #### Level 18: Spell Mastery
 You have achieved such mastery over certain spells that you can cast them at will. Choose a level 1 and a level 2 spell in your spellbook that have a casting time of an action. You always have those spells prepared, and you can cast them at their lowest level without expending a spell slot. To cast either spell at a higher level, you must expend a spell slot.
 
 Whenever you finish a Long Rest, you can study your spellbook and replace one of those spells with an eligible spell of the same level from the book.
 
+---
 #### Level 19: Epic Boon
 You gain an Epic Boon feat (see “Feats”) or another feat of your choice for which you qualify. Boon of Spell Recall is recommended.
 
+---
 #### Level 20: Signature Spells
 Choose two level 3 spells in your spellbook as your signature spells. You always have these spells prepared, and you can cast each of them once at level 3 without expending a spell slot. When you do so, you can’t cast them in this way again until you finish a Short or Long Rest. To cast either spell at a higher level, you must expend a spell slot.
 
@@ -131,6 +142,7 @@ Choose two level 3 spells in your spellbook as your signature spells. You always
 
 This section presents the Wizard spell list. The spells are organized by spell level and then alphabetized, and each spell’s school of magic is listed. In the Special column, _C_ means the spell requires Concentration, _R_ means it’s a Ritual, and _M_ means it requires a specific Material component.
 
+---
 #### Cantrips (Level 0 Wizard Spells)
 | Spell                | School        | Special |
 | -------------------- | ------------- | ------- |

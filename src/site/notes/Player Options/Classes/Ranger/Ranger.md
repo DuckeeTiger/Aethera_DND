@@ -27,6 +27,7 @@ Thanks to their connection with nature, Rangers can also cast spells that harnes
 #### As a Multiclass Character
 - Gain the following traits from the Core Ranger Traits table: Hit Point Die, proficiency with Martial weapons, proficiency in one skill of your choice from the Ranger's skill list, and training with Light and Medium armor and Shields
 - Gain the Ranger's level 1 features, which are listed in the Ranger Features table. Check the multiclassing rules in the Spell Rules section to determine your available spell slots.
+
 ## Ranger Class Features
 
 As a Ranger, you gain the following class features when you reach the specified Ranger levels. These features are listed in the Ranger Features table.
@@ -54,6 +55,7 @@ As a Ranger, you gain the following class features when you reach the specified 
 | 19    | +6          | Epic Boon                                   | 6             | 15              | 4   | 3   | 3   | 3   | 2   |
 | 20    | +6          | Foe Slayer                                  | 6             | 15              | 4   | 3   | 3   | 3   | 2   |
 
+---
 #### Level 1: Spellcasting
 You have learned to channel the magical essence of nature to cast spells. See "Spells"  
 for the rules on spellcasting. The information below details how you use those rules with Ranger spells, which appear in the Ranger spell list later in the class’s description.
