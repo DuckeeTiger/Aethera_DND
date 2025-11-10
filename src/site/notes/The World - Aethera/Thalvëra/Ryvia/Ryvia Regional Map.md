@@ -16,5 +16,6 @@
      data-width="95%"
      data-unit="km"
      data-scale="0.25"
-     data-darkmode="false">
+     data-darkmode="false"
+     data-markers-url="/assets/maps/ryvia-regional-markers.json">
 </div>
