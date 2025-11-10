@@ -1,17 +1,17 @@
 <script>
-/* ========= DG Theme Toggle (global) ========= */
+/* ========= DG Theme Toggle (sidebar-aware) ========= */
 (function(){
   function applyTheme(next, reason){
     if(!next) return;
     var root = document.documentElement;
     var body = document.body;
 
-    // Attributes + classes on <html>
+    // <html>
     root.setAttribute('data-theme', next);
     root.classList.remove('theme-dark','theme-light');
     root.classList.add(next === 'dark' ? 'theme-dark' : 'theme-light');
 
-    // Attributes + classes on <body> (now present)
+    // <body>
     if (body){
       body.setAttribute('data-theme', next);
       body.classList.remove('theme-dark','theme-light');
@@ -31,45 +31,53 @@
     var saved = null;
     try { saved = localStorage.getItem('dg-theme'); } catch(e){}
     if (saved) return saved;
-    // Fall back to current html attribute or prefers-color-scheme
     var attr = (document.documentElement.getAttribute('data-theme') || '').toLowerCase();
     if (attr === 'dark' || attr === 'light') return attr;
     return (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) ? 'dark' : 'light';
   }
 
-  // After DOM is ready: re-apply (so <body> picks it up) and inject button
   document.addEventListener('DOMContentLoaded', function () {
-    var current = readTheme();
-    applyTheme(current, 'dom-ready');
+    // Re-apply saved theme once <body> exists
+    applyTheme(readTheme(), 'dom-ready');
 
-    // Styles for the button
-    var css = document.createElement('style');
-    css.textContent = `
-      .theme-toggle {
-        position: fixed; bottom: 1rem; right: 1rem; z-index: 99999;
-        padding: .5rem .7rem; border-radius: 8px;
-        border: 1px solid var(--background-modifier-border, rgba(0,0,0,.15));
-        background: var(--background-secondary, rgba(255,255,255,.9));
-        color: var(--text-normal, #111);
-        cursor: pointer; font-size: .95rem; line-height: 1;
-        box-shadow: 0 6px 20px rgba(0,0,0,.15);
-      }
-      .theme-toggle:hover { background: var(--background-secondary-alt, rgba(240,240,240,.95)); }
-      :root[data-theme="dark"] .theme-toggle {
-        background: var(--background-secondary, #1f2430);
-        color: var(--text-normal, #eaeaea);
-        border-color: var(--background-modifier-border, rgba(255,255,255,.15));
-      }
-    `;
-    document.head.appendChild(css);
+    // Prefer an inline button inside the sidebar if present
+    var btn = document.querySelector('[data-theme-toggle]');
 
-    // Create or reuse the button
-    var btn = document.getElementById('theme-toggle');
     if (!btn) {
-      btn = document.createElement('button');
-      btn.id = 'theme-toggle';
-      btn.className = 'theme-toggle';
-      document.body.appendChild(btn);
+      // No sidebar or no placeholder → create a floating fallback
+      btn = document.getElementById('theme-toggle');
+      if (!btn) {
+        btn = document.createElement('button');
+        btn.id = 'theme-toggle';
+        btn.className = 'theme-toggle theme-float';
+        document.body.appendChild(btn);
+      }
+
+      // Floating styles (only when we created a floating button)
+      var css = document.createElement('style');
+      css.textContent = `
+        .theme-toggle.theme-float {
+          position: fixed; bottom: 1rem; right: 1rem; z-index: 99999;
+          padding: .5rem .7rem; border-radius: 8px;
+          border: 1px solid var(--background-modifier-border, rgba(0,0,0,.15));
+          background: var(--background-secondary, rgba(255,255,255,.9));
+          color: var(--text-normal, #111);
+          cursor: pointer; font-size: .95rem; line-height: 1;
+          box-shadow: 0 6px 20px rgba(0,0,0,.15);
+        }
+        .theme-toggle.theme-float:hover {
+          background: var(--background-secondary-alt, rgba(240,240,240,.95));
+        }
+        :root[data-theme="dark"] .theme-toggle.theme-float {
+          background: var(--background-secondary, #1f2430);
+          color: var(--text-normal, #eaeaea);
+          border-color: var(--background-modifier-border, rgba(255,255,255,.15));
+        }
+      `;
+      document.head.appendChild(css);
+    } else {
+      // Make sure the inline button has standard classes
+      btn.classList.add('theme-toggle','theme-inline');
     }
 
     function syncLabel(){
@@ -85,18 +93,12 @@
       syncLabel();
     });
 
-    // Keep icon in sync if theme changes elsewhere (storage / other tab)
+    // Cross-tab sync + BFCache restore
     window.addEventListener('storage', function(e){
-      if (e.key === 'dg-theme') {
-        applyTheme(e.newValue, 'storage');
-        syncLabel();
-      }
+      if (e.key === 'dg-theme') { applyTheme(e.newValue, 'storage'); syncLabel(); }
     });
-
-    // On page restore from bfcache (Safari/Firefox), re-sync
     window.addEventListener('pageshow', function(){
-      applyTheme(readTheme(), 'pageshow');
-      syncLabel();
+      applyTheme(readTheme(), 'pageshow'); syncLabel();
     });
 
     console.log('[DG THEME] Toggle ready on this page.');
