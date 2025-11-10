@@ -2,81 +2,104 @@
 /* ========= DG Theme Toggle (global) ========= */
 (function(){
   function applyTheme(next, reason){
+    if(!next) return;
     var root = document.documentElement;
     var body = document.body;
-    if (!next) return;
+
+    // Attributes + classes on <html>
     root.setAttribute('data-theme', next);
-    if (body) body.setAttribute('data-theme', next);
     root.classList.remove('theme-dark','theme-light');
     root.classList.add(next === 'dark' ? 'theme-dark' : 'theme-light');
+
+    // Attributes + classes on <body> (now present)
     if (body){
+      body.setAttribute('data-theme', next);
       body.classList.remove('theme-dark','theme-light');
       body.classList.add(next === 'dark' ? 'theme-dark' : 'theme-light');
     }
+
     try { localStorage.setItem('dg-theme', next); } catch(e){}
     var meta = document.querySelector('meta[name="color-scheme"]') || document.createElement('meta');
-    meta.setAttribute('name','color-scheme'); meta.setAttribute('content', next);
+    meta.setAttribute('name','color-scheme');
+    meta.setAttribute('content', next);
     if (!meta.parentNode) document.head.appendChild(meta);
+
     console.log('[DG THEME] Applied:', next, '('+reason+')');
   }
 
-  // 1) Read saved or infer
-  var saved = null;
-  try { saved = localStorage.getItem('dg-theme'); } catch(e){}
-  var initial = saved
-    || document.documentElement.getAttribute('data-theme')
-    || (document.body && document.body.getAttribute('data-theme'))
-    || (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+  function readTheme(){
+    var saved = null;
+    try { saved = localStorage.getItem('dg-theme'); } catch(e){}
+    if (saved) return saved;
+    // Fall back to current html attribute or prefers-color-scheme
+    var attr = (document.documentElement.getAttribute('data-theme') || '').toLowerCase();
+    if (attr === 'dark' || attr === 'light') return attr;
+    return (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) ? 'dark' : 'light';
+  }
 
-  applyTheme(initial, 'startup');
-
-  // 2) Inject button + styles after DOM ready
+  // After DOM is ready: re-apply (so <body> picks it up) and inject button
   document.addEventListener('DOMContentLoaded', function () {
-    try {
-      var css = document.createElement('style');
-      css.textContent = `
-        .theme-toggle {
-          position: fixed; bottom: 1rem; right: 1rem; z-index: 99999;
-          padding: .5rem .7rem; border-radius: 8px;
-          border: 1px solid var(--background-modifier-border, rgba(0,0,0,.15));
-          background: var(--background-secondary, rgba(255,255,255,.9));
-          color: var(--text-normal, #111);
-          cursor: pointer; font-size: .95rem; line-height: 1;
-          box-shadow: 0 6px 20px rgba(0,0,0,.15);
-        }
-        .theme-toggle:hover { background: var(--background-secondary-alt, rgba(240,240,240,.95)); }
-        :root[data-theme="dark"] .theme-toggle {
-          background: var(--background-secondary, #1f2430);
-          color: var(--text-normal, #eaeaea);
-          border-color: var(--background-modifier-border, rgba(255,255,255,.15));
-        }
-      `;
-      document.head.appendChild(css);
+    var current = readTheme();
+    applyTheme(current, 'dom-ready');
 
-      var btn = document.getElementById('theme-toggle');
-      if (!btn) {
-        btn = document.createElement('button');
-        btn.id = 'theme-toggle';
-        btn.className = 'theme-toggle';
-        document.body.appendChild(btn);
+    // Styles for the button
+    var css = document.createElement('style');
+    css.textContent = `
+      .theme-toggle {
+        position: fixed; bottom: 1rem; right: 1rem; z-index: 99999;
+        padding: .5rem .7rem; border-radius: 8px;
+        border: 1px solid var(--background-modifier-border, rgba(0,0,0,.15));
+        background: var(--background-secondary, rgba(255,255,255,.9));
+        color: var(--text-normal, #111);
+        cursor: pointer; font-size: .95rem; line-height: 1;
+        box-shadow: 0 6px 20px rgba(0,0,0,.15);
       }
-
-      function syncLabel(){
-        var isDark = (document.documentElement.getAttribute('data-theme')||'').toLowerCase() === 'dark';
-        btn.textContent = isDark ? '☀️' : '🌙';
+      .theme-toggle:hover { background: var(--background-secondary-alt, rgba(240,240,240,.95)); }
+      :root[data-theme="dark"] .theme-toggle {
+        background: var(--background-secondary, #1f2430);
+        color: var(--text-normal, #eaeaea);
+        border-color: var(--background-modifier-border, rgba(255,255,255,.15));
       }
-      syncLabel();
+    `;
+    document.head.appendChild(css);
 
-      btn.addEventListener('click', function () {
-        var cur = (document.documentElement.getAttribute('data-theme')||'light').toLowerCase();
-        var next = (cur === 'dark') ? 'light' : 'dark';
-        applyTheme(next, 'toggle'); syncLabel();
-      });
-
-      console.log('[DG THEME] Toggle ready on this page.');
-    } catch(e){
-      console.warn('[DG THEME] Toggle inject failed:', e);
+    // Create or reuse the button
+    var btn = document.getElementById('theme-toggle');
+    if (!btn) {
+      btn = document.createElement('button');
+      btn.id = 'theme-toggle';
+      btn.className = 'theme-toggle';
+      document.body.appendChild(btn);
     }
+
+    function syncLabel(){
+      var cur = (document.documentElement.getAttribute('data-theme')||'').toLowerCase();
+      btn.textContent = cur === 'dark' ? '☀️' : '🌙';
+    }
+    syncLabel();
+
+    btn.addEventListener('click', function () {
+      var cur = (document.documentElement.getAttribute('data-theme')||'light').toLowerCase();
+      var next = (cur === 'dark') ? 'light' : 'dark';
+      applyTheme(next, 'toggle');
+      syncLabel();
+    });
+
+    // Keep icon in sync if theme changes elsewhere (storage / other tab)
+    window.addEventListener('storage', function(e){
+      if (e.key === 'dg-theme') {
+        applyTheme(e.newValue, 'storage');
+        syncLabel();
+      }
+    });
+
+    // On page restore from bfcache (Safari/Firefox), re-sync
+    window.addEventListener('pageshow', function(){
+      applyTheme(readTheme(), 'pageshow');
+      syncLabel();
+    });
+
+    console.log('[DG THEME] Toggle ready on this page.');
   });
 })();
 </script>
