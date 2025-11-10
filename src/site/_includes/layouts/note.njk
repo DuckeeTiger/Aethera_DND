@@ -3,16 +3,43 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
 ---
 <!DOCTYPE html>
 <html lang="{{ meta.mainLanguage }}">
-  <head>
-    <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
-    {%include "components/pageheader.njk"%}
-    {% for imp in dynamics.common.head %}
-      {% include imp %}
-    {% endfor %}
-    {% for imp in dynamics.notes.head %}
-      {% include imp %}
-    {% endfor %}
-  </head>
+ <head>
+  <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
+
+  {# === Theme bootstrap: apply saved mode BEFORE CSS === #}
+  <script>
+  (function(){
+    try {
+      var t = localStorage.getItem('dg-theme');
+      if (!t) return;
+      var root = document.documentElement, body = document.body;
+      root.setAttribute('data-theme', t);
+      root.classList.remove('theme-dark','theme-light');
+      root.classList.add(t === 'dark' ? 'theme-dark' : 'theme-light');
+      if (body) {
+        body.setAttribute('data-theme', t);
+        body.classList.remove('theme-dark','theme-light');
+        body.classList.add(t === 'dark' ? 'theme-dark' : 'theme-light');
+      }
+      var meta = document.querySelector('meta[name="color-scheme"]') || document.createElement('meta');
+      meta.setAttribute('name','color-scheme'); meta.setAttribute('content', t);
+      if (!meta.parentNode) document.head.appendChild(meta);
+    } catch(e){}
+  })();
+  </script>
+
+  {% include "components/pageheader.njk" %}
+
+  {% for imp in dynamics.common.head %}
+    {% include imp %}
+  {% endfor %}
+  {% for imp in dynamics.notes.head %}
+    {% include imp %}
+  {% endfor %}
+
+  {# === Theme toggle (button + logic) === #}
+  {% include "components/user/head/extra-head.njk" ignore missing %}
+</head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
     {%include "components/notegrowthhistory.njk"%}
     
