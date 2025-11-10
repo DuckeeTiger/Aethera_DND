@@ -40,7 +40,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
   {# === Theme toggle (button + logic) === #}
   {% include "components/user/head/extra-head.njk" ignore missing %}
 </head>
-  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
+  <body class="markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
     {%include "components/notegrowthhistory.njk"%}
     
     {% if settings.dgShowFileTree !== true %}
