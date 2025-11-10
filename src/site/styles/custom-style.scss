@@ -34,3 +34,34 @@ html[data-theme="light"] .markdown-preview-view,
 html[data-theme="light"] .content {
   background: transparent;
 }
+
+/* Inline theme toggle in the file tree sidebar */
+.theme-toggle.theme-inline {
+  /* Inherit sidebar styling, no fixed positioning */
+  position: static;
+  padding: 0.35rem 0.55rem;
+  border-radius: 6px;
+  border: 1px solid var(--background-modifier-border, rgba(0,0,0,.12));
+  background: var(--background-secondary, transparent);
+  color: var(--text-normal);
+  font-size: .95rem;
+  line-height: 1;
+  cursor: pointer;
+  margin-left: .5rem;
+  /* Align with search input */
+  vertical-align: middle;
+}
+
+/* Dark-mode tweak to match sidebar */
+:root[data-theme="dark"] .theme-toggle.theme-inline {
+  background: var(--background-secondary, rgba(255,255,255,0.02));
+  border-color: var(--background-modifier-border, rgba(255,255,255,.12));
+}
+
+/* If your search lives in a toolbar row, space it nicely */
+.dg-theme-toggle-slot,
+.theme-toggle.theme-inline {
+  display: inline-flex;
+  align-items: center;
+}
+
