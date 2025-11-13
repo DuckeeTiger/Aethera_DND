@@ -6,24 +6,24 @@
 
 |              Barbarian               |            Bard            |             Cleric             |
 | :----------------------------------: | :------------------------: | :----------------------------: |
-| [![[Barbarian.png\|190]]](Barbarian) | [![[Bard.png\|190]]](Bard) | [![[Cleric.png\|190]]](Cleric) |
+| [![[/assets/images/Barbarian.png\|190]]](Barbarian) | [![[/assets/images/Bard.png\|190]]](Bard) | [![[/assets/images/Cleric.png\|190]]](Cleric) |
 
 ---
 
 |              Druid               |          Fighter           |               Monk               |
 | :------------------------------: | :------------------------: | :------------------------------: |
-| [![[Druid.png\|190]]](Druid) | [![[Fighter.png\|190]]](Fighter) | [![[Monk.png\|190]]](Monk) |
+| [![[/assets/images/Druid.png\|190]]](Druid) | [![[/assets/images/Fighter.png\|190]]](Fighter) | [![[/assets/images/Monk.png\|190]]](Monk) |
 
 ---
 
 |           Paladin            |               Ranger               |              Rogue               |
 | :--------------------------: | :--------------------------------: | :------------------------------: |
-| [![[Paladin.png\|190]]](Paladin) | [![[Ranger.png\|190]]](Ranger) | [![[Rogue.png\|190]]](Rogue) |
+| [![[/assets/images/Paladin.png\|190]]](Paladin) | [![[/assets/images/Ranger.png\|190]]](Ranger) | [![[/assets/images/Rogue.png\|190]]](Rogue) |
 
 ---
 
 |           Sorcerer           |              Warlock               |              Wizard              |
 | :--------------------------: | :--------------------------------: | :------------------------------: |
-| [![[Sorcerer.png\|190]]](Sorcerer) | [![[Warlock.png\|190]]](Warlock) | [![[Wizard.png\|190]]](Wizard) |
+| [![[/assets/images/Sorcerer.png\|190]]](Sorcerer) | [![[/assets/images/Warlock.png\|190]]](Warlock) | [![[/assets/images/Wizard.png\|190]]](Wizard) |
 
 ---
