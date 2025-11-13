@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/wizard/wizard/"}
+{"dg-publish":true,"dg-permalink":"wizard","permalink":"/wizard/"}
 ---
 
 *A Scholarly Magic-User of Arcane Power*
@@ -376,8 +376,8 @@ This section presents the Wizard spell list. The spells are organized by spell l
 ## Wizard Subclasses
 
 A Wizard subclass is a specialization that grants you features at certain Wizard levels, as specified in the subclass. The following subclasses will be available:
-- [[Player Options/Classes/Wizard/Abjurer\|Abjurer]]
-- [[Player Options/Classes/Wizard/Diviner\|Diviner]]
-- [[Player Options/Classes/Wizard/Evoker\|Evoker]]
-- [[Player Options/Classes/Wizard/Illusionist\|Illusionist]]
-- [[Player Options/Classes/Wizard/Bladesinger\|Bladesinger]]
+- [[Player Options/Classes/Wizard/Wizard_SubClasses/Abjurer\|Abjurer]]
+- [[Player Options/Classes/Wizard/Wizard_SubClasses/Diviner\|Diviner]]
+- [[Player Options/Classes/Wizard/Wizard_SubClasses/Evoker\|Evoker]]
+- [[Player Options/Classes/Wizard/Wizard_SubClasses/Illusionist\|Illusionist]]
+- [[Player Options/Classes/Wizard/Wizard_SubClasses/Bladesinger\|Bladesinger]]

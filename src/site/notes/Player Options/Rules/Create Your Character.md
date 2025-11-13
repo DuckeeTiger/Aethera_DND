@@ -18,7 +18,7 @@ Choose a class, and write it on your character sheet. The Class Overview table s
 
 | Class         | Likes...       | Primary Ability       | Complexity |
 | ------------- | -------------- | --------------------- | ---------- |
-| [[Player Options/Classes/Barbarian/Barbarian\|Barbarian]] | Battle         | Strength              | Average    |
+| [[player-option/classes/barbarian/barbarian\|Barbarian]] | Battle         | Strength              | Average    |
 | [[Player Options/Classes/Bard/Bard\|Bard]]      | Performing     | Charisma              | High       |
 | [[Player Options/Classes/Cleric/Cleric\|Cleric]]    | Gods           | Wisdom                | Average    |
 | [[Player Options/Classes/Druid/Druid\|Druid]]     | Nature         | Wisdom                | High       |

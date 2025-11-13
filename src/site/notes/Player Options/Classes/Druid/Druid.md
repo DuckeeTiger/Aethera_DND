@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/druid/druid/"}
+{"dg-publish":true,"dg-permalink":"druid","permalink":"/druid/"}
 ---
 
 *A Nature Priest of Primal Power*
@@ -363,7 +363,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 ## Druid Subclasses
 
 A Druid subclass is a specialization that grants you features at certain Druid levels, as specified in the subclass. Druids form loose associations, which they call circles. The following circles will be available:
-- [[Player Options/Classes/Druid/Circle of Land\|Circle of Land]]
-- [[Player Options/Classes/Druid/Circle of the Moon\|Circle of the Moon]]
-- [[Player Options/Classes/Druid/Circle of the Sea\|Circle of the Sea]]
-- [[Player Options/Classes/Druid/Circle of the Stars\|Circle of the Stars]]
+- [[Player Options/Classes/Druid/Druid_SubClasses/Circle of Land\|Circle of Land]]
+- [[Player Options/Classes/Druid/Druid_SubClasses/Circle of the Moon\|Circle of the Moon]]
+- [[Player Options/Classes/Druid/Druid_SubClasses/Circle of the Sea\|Circle of the Sea]]
+- [[Player Options/Classes/Druid/Druid_SubClasses/Circle of the Stars\|Circle of the Stars]]

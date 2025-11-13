@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/monk/monk/"}
+{"dg-publish":true,"dg-permalink":"monk","permalink":"/monk/"}
 ---
 
 *A Martial Artist of Supernatural Focus*
@@ -177,7 +177,7 @@ You have developed your body and mind to new heights. Your Dexterity and Wisdom 
 ## Monk Subclasses
 
 A Monk subclass is a specialization that grants you features at certain Monk levels, as specified in the subclass. The following subclasses will be available:
-- [[Player Options/Classes/Monk/Warrior of the Open Hand\|Warrior of the Open Hand]]
-- [[Player Options/Classes/Monk/Warrior of Mercy\|Warrior of Mercy]]
-- [[Player Options/Classes/Monk/Warrior of Shadow\|Warrior of Shadow]]
-- [[Player Options/Classes/Monk/Warrior of Elements\|Warrior of Elements]]
+- [[Player Options/Classes/Monk/Monk_SubClasses/Warrior of the Open Hand\|Warrior of the Open Hand]]
+- [[Player Options/Classes/Monk/Monk_SubClasses/Warrior of Mercy\|Warrior of Mercy]]
+- [[Player Options/Classes/Monk/Monk_SubClasses/Warrior of Shadow\|Warrior of Shadow]]
+- [[Player Options/Classes/Monk/Monk_SubClasses/Warrior of Elements\|Warrior of Elements]]

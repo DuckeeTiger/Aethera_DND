@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/fighter/fighter/"}
+{"dg-publish":true,"dg-permalink":"fighter","permalink":"/fighter/"}
 ---
 
 *A Master of All Arms and Armor*
@@ -130,7 +130,7 @@ You can attack four times instead of once whenever you take the Attack action 
 ## Fighter Subclasses
 
 A Fighter subclass is a specialization that grants you features at certain Fighter levels, as specified in the subclass. The following subclasses will be available:
-- [[Player Options/Classes/Fighter/Champion\|Champion]]
-- [[Player Options/Classes/Fighter/Battle Master\|Battle Master]]
-- [[Player Options/Classes/Fighter/Psi Warrior\|Psi Warrior]]
-- [[Player Options/Classes/Fighter/Eldritch Knight\|Eldritch Knight]]
+- [[Player Options/Classes/Fighter/Fighter_SubClasses/Champion\|Champion]]
+- [[Player Options/Classes/Fighter/Fighter_SubClasses/Battle Master\|Battle Master]]
+- [[Player Options/Classes/Fighter/Fighter_SubClasses/Psi Warrior\|Psi Warrior]]
+- [[Player Options/Classes/Fighter/Fighter_SubClasses/Eldritch Knight\|Eldritch Knight]]

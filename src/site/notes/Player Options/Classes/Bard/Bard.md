@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/bard/bard/"}
+{"dg-publish":true,"dg-permalink":"bard","permalink":"/bard/"}
 ---
 
 *An Inspiring Performer of Music, Dance and Magic*
@@ -330,8 +330,8 @@ This section presents the bard spell list. The spells are organized by spell lev
 ## Bard Subclasses
 
 A Bard subclass is a specialization that grants you features at certain Bard levels, as specified in the subclass. Bards form loose associations, which they call colleges, to preserve their traditions. The following colleges will be available:
-- [[Player Options/Classes/Bard/College of Dance\|College of Dance]]
-- [[Player Options/Classes/Bard/College of Glamour\|College of Glamour]]
-- [[Player Options/Classes/Bard/College of Lore\|College of Lore]]
-- [[Player Options/Classes/Bard/College of Valor\|College of Valor]]
+- [[Player Options/Classes/Bard/Bard_SubClasses/College of Dance\|College of Dance]]
+- [[Player Options/Classes/Bard/Bard_SubClasses/College of Glamour\|College of Glamour]]
+- [[Player Options/Classes/Bard/Bard_SubClasses/College of Lore\|College of Lore]]
+- [[Player Options/Classes/Bard/Bard_SubClasses/College of Valor\|College of Valor]]
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/warlock/warlock/"}
+{"dg-publish":true,"dg-permalink":"warlock","permalink":"/warlock/"}
 ---
 
 *An Occultist Empowered by Otherworldly Pacts*
@@ -434,8 +434,8 @@ You have Truesight with a range of 30 feet.
 ## Warlock Subclasses
 
 A Warlock subclass is a specialization that grants you features at certain Warlock levels, as specified in the subclass. The following Patrons are available:
-- [[Player Options/Classes/Warlock/Archfey Patron\|Archfey Patron]]
-- [[Player Options/Classes/Warlock/Celestial Patron\|Celestial Patron]]
-- [[Player Options/Classes/Warlock/Fiend Patron\|Fiend Patron]]
-- [[Player Options/Classes/Warlock/Great Old One Patron\|Great Old One Patron]]
-- [[Player Options/Classes/Warlock/Hexblade Patron\|Hexblade Patron]]
+- [[Player Options/Classes/Warlock/Warlock_SubClasses/Archfey Patron\|Archfey Patron]]
+- [[Player Options/Classes/Warlock/Warlock_SubClasses/Celestial Patron\|Celestial Patron]]
+- [[Player Options/Classes/Warlock/Warlock_SubClasses/Fiend Patron\|Fiend Patron]]
+- [[Player Options/Classes/Warlock/Warlock_SubClasses/Great Old One Patron\|Great Old One Patron]]
+- [[Player Options/Classes/Warlock/Warlock_SubClasses/Hexblade Patron\|Hexblade Patron]]

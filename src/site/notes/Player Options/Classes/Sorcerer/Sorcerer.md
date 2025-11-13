@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/sorcerer/sorcerer/"}
+{"dg-publish":true,"dg-permalink":"sorcerer","permalink":"/sorcerer/"}
 ---
 
 *A Dazzling Mage Filled with Innate Magic*
@@ -353,9 +353,9 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 ## Sorcerer Subclasses
 
 A Sorcerer subclass is a specialization that grants you features at certain Sorcerer levels, as specified in the subclass. You can choose from the following Sorcerer Subclasses: 
-- [[Player Options/Classes/Sorcerer/Aberrant Sorcery\|Aberrant Sorcery]] 
-- [[Player Options/Classes/Sorcerer/Clockwork Soul\|Clockwork Soul]]
-- [[Player Options/Classes/Sorcerer/Draconic Sorcery\|Draconic Sorcery]]
-- [[Player Options/Classes/Sorcerer/Wild Magic Sorcery\|Wild Magic Sorcery]]
-- [[Player Options/Classes/Sorcerer/Spellfire Sorcery\|Spellfire Sorcery]]
-- [[Player Options/Classes/Sorcerer/Shadow Sorcerer\|Shadow Sorcerer]]
+- [[Player Options/Classes/Sorcerer/Sorcerer_SubClasses/Aberrant Sorcery\|Aberrant Sorcery]] 
+- [[Player Options/Classes/Sorcerer/Sorcerer_SubClasses/Clockwork Soul\|Clockwork Soul]]
+- [[Player Options/Classes/Sorcerer/Sorcerer_SubClasses/Draconic Sorcery\|Draconic Sorcery]]
+- [[Player Options/Classes/Sorcerer/Sorcerer_SubClasses/Wild Magic Sorcery\|Wild Magic Sorcery]]
+- [[Player Options/Classes/Sorcerer/Sorcerer_SubClasses/Spellfire Sorcery\|Spellfire Sorcery]]
+- [[Player Options/Classes/Sorcerer/Sorcerer_SubClasses/Shadow Sorcerer\|Shadow Sorcerer]]

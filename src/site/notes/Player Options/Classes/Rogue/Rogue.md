@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/rogue/rogue/"}
+{"dg-publish":true,"dg-permalink":"rogue","permalink":"/rogue/"}
 ---
 
 *A Dexterous Expert in Stealth and Subterfuge*
@@ -148,7 +148,7 @@ Once you use this feature, you can’t use it again until you finish a Short or 
 ## Rogue Subclasses
 
 A Rogue subclass is a specialization that grants you features at certain Rouge levels, as specified in the subclass. You can choose from the following Rouge Subclasses:
-- [[Player Options/Classes/Rogue/Arcane Trickster\|Arcane Trickster]]
-- [[Player Options/Classes/Rogue/Assassin\|Assassin]]
-- [[Player Options/Classes/Rogue/Soulknife\|Soulknife]]
-- [[Player Options/Classes/Rogue/Thief\|Thief]]
+- [[Player Options/Classes/Rogue/Rogue_SubClasses/Arcane Trickster\|Arcane Trickster]]
+- [[Player Options/Classes/Rogue/Rogue_SubClasses/Assassin\|Assassin]]
+- [[Player Options/Classes/Rogue/Rogue_SubClasses/Soulknife\|Soulknife]]
+- [[Player Options/Classes/Rogue/Rogue_SubClasses/Thief\|Thief]]

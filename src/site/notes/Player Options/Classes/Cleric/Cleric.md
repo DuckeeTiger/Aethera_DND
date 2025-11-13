@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/cleric/cleric/"}
+{"dg-publish":true,"dg-permalink":"cleric","permalink":"/cleric/"}
 ---
 
 Clerics draw power from the realms of the gods and harness it to work miracles. Blessed by a deity, a pantheon, or another immortal entity, a Cleric can reach out to the divine magic of the Outer Planes—where gods dwell—and channel it to bolster people and battle foes.
@@ -285,7 +285,7 @@ This section presents the Cleric spell list. The spells are organized by spell l
 ## Cleric Subclasses
 
 A Cleric subclass is a specialization that grants you features at certain Cleric levels, as specified in the subclass. You can choose from the following Cleric Subclasses:
-- [[Player Options/Classes/Cleric/War Domain\|War Domain]]
-- [[Player Options/Classes/Cleric/Light Domain\|Light Domain]]
-- [[Player Options/Classes/Cleric/Trickery Domain\|Trickery Domain]]
-- [[Player Options/Classes/Cleric/Life Domain\|Life Domain]]
+- [[Player Options/Classes/Cleric/Cleric_SubClasses/War Domain\|War Domain]]
+- [[Player Options/Classes/Cleric/Cleric_SubClasses/Light Domain\|Light Domain]]
+- [[Player Options/Classes/Cleric/Cleric_SubClasses/Trickery Domain\|Trickery Domain]]
+- [[Player Options/Classes/Cleric/Cleric_SubClasses/Life Domain\|Life Domain]]

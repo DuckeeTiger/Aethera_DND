@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/ranger/ranger/"}
+{"dg-publish":true,"dg-permalink":"ranger","permalink":"/ranger/"}
 ---
 
 *A Wandering Warrior Imbued with Primal magic*
@@ -220,8 +220,8 @@ The damage die of your _Hunter’s Mark_ is a d10 rather than a d6.
 ## Ranger Subclasses
 
 A Ranger subclass is a specialization that grants you features at certain Rangel levels, as specified in the subclass. You can find the following subclass here:
-- [[Player Options/Classes/Ranger/Beast Master\|Beast Master]]
-- [[Player Options/Classes/Ranger/Gloom Stalker\|Gloom Stalker]]
-- [[Player Options/Classes/Ranger/Hunter\|Hunter]]
-- [[Player Options/Classes/Ranger/Fey Wanderer\|Fey Wanderer]]
-- [[Player Options/Classes/Ranger/Winter Walker\|Winter Walker]]
+- [[Player Options/Classes/Ranger/Ranger_SubClasses/Beast Master\|Beast Master]]
+- [[Player Options/Classes/Ranger/Ranger_SubClasses/Gloom Stalker\|Gloom Stalker]]
+- [[Player Options/Classes/Ranger/Ranger_SubClasses/Hunter\|Hunter]]
+- [[Player Options/Classes/Ranger/Ranger_SubClasses/Fey Wanderer\|Fey Wanderer]]
+- [[Player Options/Classes/Ranger/Ranger_SubClasses/Winter Walker\|Winter Walker]]

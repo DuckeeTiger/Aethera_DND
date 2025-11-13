@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-options/classes/paladin/paladin/"}
+{"dg-publish":true,"dg-permalink":"paladin","permalink":"/paladin/"}
 ---
 
 *A Devout Warrior of Sacred Oaths*
@@ -243,7 +243,7 @@ In the **Special** column, **C** means the spell requires *Concentration*, **R**
 ## Paladin Subclasses
 
 A Paladin subclass is a specialization that grants you features at certain Paladin levels, as specified in the subclass. The following Paladin subclasses will be available:
-- [[Player Options/Classes/Paladin/Oath of Devotion\|Oath of Devotion]]
-- [[Player Options/Classes/Paladin/Oath of Glory\|Oath of Glory]]
-- [[Player Options/Classes/Paladin/Oath of the Ancient\|Oath of the Ancient]]
-- [[Player Options/Classes/Paladin/Oath of Vengeance\|Oath of Vengeance]]
+- [[Player Options/Classes/Paladin/Paladin_SubClasses/Oath of Devotion\|Oath of Devotion]]
+- [[Player Options/Classes/Paladin/Paladin_SubClasses/Oath of Glory\|Oath of Glory]]
+- [[Player Options/Classes/Paladin/Paladin_SubClasses/Oath of the Ancient\|Oath of the Ancient]]
+- [[Player Options/Classes/Paladin/Paladin_SubClasses/Oath of Vengeance\|Oath of Vengeance]]
