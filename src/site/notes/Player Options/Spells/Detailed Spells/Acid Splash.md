@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/acid-splash/"}
 ---
 
+<div class="lang-en">
+
 *Cantrip level Evocation ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
 **Casting Time:** Action
 **Range:** 60 feet
@@ -12,12 +14,15 @@ You create an acidic bubble at a point within range, where it explodes in a 5-fo
 
 **Cantrip Upgrade:** The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
 
+</div>
+
 ---
 
+<div class="lang-en">
 
 ## Savfröccs
 
-*Kezdő szintű Idézés ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
+*Cantrip szintű Idézés ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
 **Varázslási Idő:** Akció
 **Hatótáv:** 60 láb
 **Összetevők:** V, S
@@ -25,4 +30,6 @@ You create an acidic bubble at a point within range, where it explodes in a 5-fo
 
 Egy savas buborékot hozol létre egy ponton a hatótávon belül, ahol az egy 5 láb sugarú gömbben felrobban. Minden lény ebben a gömbben sikeres Ügyesség mentődobást kell tegyen, különben 1d6 Sav sebzést szenved.
 
-**Kezdő varázslat fejlesztés.** A sebzés 1d6-tal nő, amikor eléred az 5. (2d6), 11. (3d6) és 17. (4d6) szintet.
+**Cantrip fejlesztés.** A sebzés 1d6-tal nő, amikor eléred az 5. (2d6), 11. (3d6) és 17. (4d6) szintet.
+
+</div>
