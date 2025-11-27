@@ -42,10 +42,12 @@
          {% for imp in dynamics.filetree.afterTitle %}
             {% include imp %}
         {% endfor %}
-       {% if settings.dgEnableSearch === true %}
+
+{% if settings.dgEnableSearch === true %}
   <div class="dg-sidebar-toolbar">
     {% include "components/searchButton.njk" %}
-    <!-- Theme toggle lives inline in the sidebar -->
+
+    {# Theme toggle (you already have this) #}
     <button
       id="theme-toggle"
       data-theme-toggle
@@ -53,8 +55,16 @@
       title="Toggle theme"
       aria-label="Toggle theme"
     >🌙</button>
+
+    {# Language toggle: EN / HU #}
+    <div class="lang-toggle">
+      <button type="button" data-lang-btn data-lang="en">EN</button>
+      <button type="button" data-lang-btn data-lang="hu">HU</button>
+    </div>
   </div>
 {% endif %}
+
+
          <div class="folder" x-data="{isOpen: true}">
                {%- for fileOrFolderName, fileOrFolder in filetree -%}
                   {{menuItem(fileOrFolderName, fileOrFolder, 0, fileOrFolderName)}}
