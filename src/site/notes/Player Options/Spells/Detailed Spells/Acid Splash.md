@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/acid-splash/"}
 ---
 
-<div class="lang-en">
+<div data-lang="en">
 
 *Cantrip level Evocation ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
 **Casting Time:** Action
@@ -18,7 +18,7 @@ You create an acidic bubble at a point within range, where it explodes in a 5-fo
 
 ---
 
-<div class="lang-hu">
+<div data-lang="hu">
 
 ## Savfröccs
 
