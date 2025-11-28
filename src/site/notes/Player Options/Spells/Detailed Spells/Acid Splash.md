@@ -18,7 +18,7 @@ You create an acidic bubble at a point within range, where it explodes in a 5-fo
 
 ---
 
-<div class="lang-en">
+<div class="lang-hu">
 
 ## Savfröccs
 
