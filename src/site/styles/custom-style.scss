@@ -96,13 +96,33 @@ html[data-lang="hu"] [data-lang-block="en"] {
   border-radius: 6px;
   border: 1px solid var(--background-modifier-border, rgba(0,0,0,0.2));
   background: var(--background-secondary, rgba(0,0,0,0.03));
-  font-size: 1rem;            /* a bit larger for emoji */
+  font-size: 0.9rem;
   line-height: 1.2;
   color: var(--text-normal);
   height: 2rem;
   display: inline-flex;
   align-items: center;
   justify-content: center;
+}
+
+/* The inner span that shows the flag image */
+.lang-toggle-icon {
+  display: block;
+  width: 1.6rem;
+  height: 1.1rem;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 2px;
+}
+
+/* Pick the correct flag based on current language */
+html[data-lang="en"] .lang-toggle-icon {
+  background-image: url("/img/flags/en.svg");
+}
+
+html[data-lang="hu"] .lang-toggle-icon {
+  background-image: url("/img/flags/hu.svg");
 }
 
 /* Dark theme tweak for language button */
