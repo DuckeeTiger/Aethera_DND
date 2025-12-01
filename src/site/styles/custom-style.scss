@@ -1,6 +1,13 @@
-:root[data-theme="light"], .theme-light { color-scheme: light; }
-:root[data-theme="dark"],  .theme-dark  { color-scheme: dark; }
+/* ===== THEME BASE ===== */
 
+:root[data-theme="light"], .theme-light { 
+  color-scheme: light; 
+}
+:root[data-theme="dark"],  .theme-dark  { 
+  color-scheme: dark; 
+}
+
+/* Generic body colors (fallback) */
 html[data-theme="light"] body {
   background-color: var(--background-primary, #fafafa);
   color: var(--text-normal, #222);
@@ -10,8 +17,8 @@ html[data-theme="dark"] body {
   color: var(--text-normal, #eaeaea);
 }
 
+/* ===== LIGHT THEME: parchment vibes ===== */
 
-/* LIGHT THEME: parchment vibes */
 :root[data-theme="light"] {
   /* tune these to taste */
   --background-primary:       #f6f1e6;  /* parchment base */
@@ -22,7 +29,7 @@ html[data-theme="dark"] body {
   --text-normal:              #26231f;
 }
 
-/* actually apply the variables */
+/* apply the variables for light mode */
 html[data-theme="light"] body {
   background-color: var(--background-primary);
   color: var(--text-normal);
@@ -35,7 +42,8 @@ html[data-theme="light"] .content {
   background: transparent;
 }
 
-/* Inline theme toggle in the file tree sidebar */
+/* ===== INLINE THEME TOGGLE IN FILE TREE SIDEBAR ===== */
+
 .theme-toggle.theme-inline {
   /* Inherit sidebar styling, no fixed positioning */
   position: static;
@@ -65,44 +73,43 @@ html[data-theme="light"] .content {
   align-items: center;
 }
 
-/* Language switching: EN / HU */
+/* ===== LANGUAGE SWITCHING: EN / HU ===== */
 
-.lang-en,
-.lang-hu {
-  /* By default (no data-lang set), show both in the site */
-  display: block;
+/* Website: show/hide language blocks based on <html data-lang="..."> */
+/* These wrappers are created by the lang-blocks transform in eleventy.js */
+
+html[data-lang="en"] [data-lang-block="hu"],
+html[data-lang="hu"] [data-lang-block="en"] {
+  display: none;
 }
 
-/* When EN is active: hide HU */
-html[data-lang="en"] .lang-hu {
-  display: none !important;
-}
+/* Language toggle buttons in the sidebar (filetree) */
 
-/* When HU is active: hide EN */
-html[data-lang="hu"] .lang-en {
-  display: none !important;
-}
-
-/* Optional: small language buttons in sidebar */
-.lang-toggle {
+.lang-toggle-group {
   display: inline-flex;
-  gap: 0.25rem;
-  margin-left: 0.5rem;
+  gap: 0.4rem;
+  align-items: center;
 }
 
-.lang-toggle button {
-  padding: 0.2rem 0.4rem;
-  border-radius: 4px;
-  border: 1px solid var(--background-modifier-border, rgba(0,0,0,.15));
-  background: var(--background-secondary, transparent);
-  color: var(--text-normal);
-  font-size: 0.75rem;
+.lang-toggle {
   cursor: pointer;
+  padding: 0.15rem 0.55rem;
+  border-radius: 6px;
+  border: 1px solid var(--background-modifier-border, rgba(0,0,0,0.2));
+  background: var(--background-secondary, rgba(0,0,0,0.03));
+  font-size: 0.8rem;
+  line-height: 1.2;
+  color: var(--text-normal);
 }
 
-.lang-toggle button.active {
+/* active state (when current language is selected) */
+.lang-toggle.lang-active {
   background: var(--interactive-accent, #4b8cff);
-  color: white;
-  border-color: transparent;
+  color: var(--text-on-accent, #ffffff);
+  border-color: var(--interactive-accent, #4b8cff);
 }
 
+/* Dark theme tweak for language buttons */
+:root[data-theme="dark"] .lang-toggle {
+  background: var(--background-secondary, #22252f);
+}
