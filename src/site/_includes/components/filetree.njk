@@ -16,9 +16,10 @@
                     </a>
                 </div>
             {% elif fileOrFolder.isFolder %}
+                <!-- Inner folder: state is NOT persisted, resets on each page load -->
                 <div
                   class="folder inner-folder"
-                  x-data="{isOpen: false}"   <!-- no $persist: folders reset each page -->
+                  x-data="{isOpen: false}"
                   @click.stop="isOpen = !isOpen"
                 >
                     <div class="foldername-wrapper align-icon">
@@ -89,7 +90,7 @@
       </div>
     {% endif %}
 
-    <!-- Root folder container: stays open, children are controlled individually -->
+    <!-- Root folder container: always present, children folders control their own isOpen -->
     <div class="folder" x-data="{isOpen: true}">
       {%- for fileOrFolderName, fileOrFolder in filetree -%}
         {{ menuItem(fileOrFolderName, fileOrFolder, 0, fileOrFolderName) }}
