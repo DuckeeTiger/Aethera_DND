@@ -501,6 +501,50 @@ module.exports = function (eleventyConfig) {
     return str && parsed.innerHTML;
   });
 
+  // ===== LANGUAGE BLOCK TRANSFORM (wrap <!--lang:xx--> sections) =====
+  eleventyConfig.addTransform("lang-blocks", function (str, outputPath) {
+    if (!outputPath || !outputPath.endsWith(".html")) return str;
+    if (!str || str.indexOf("<!--lang:") === -1) return str;
+
+    const pattern = /<!--lang:(en|hu)-->/g;
+
+    function wrapLangBlocks(html) {
+      if (!html || html.indexOf("<!--lang:") === -1) return html;
+
+      const matches = [...html.matchAll(pattern)];
+      if (!matches.length) return html;
+
+      let out = "";
+      // Keep everything before the first marker unchanged
+      out += html.slice(0, matches[0].index);
+
+      for (let i = 0; i < matches.length; i++) {
+        const m = matches[i];
+        const lang = m[1]; // 'en' or 'hu'
+        const start = m.index + m[0].length;
+        const end = (i + 1 < matches.length) ? matches[i + 1].index : html.length;
+        const segment = html.slice(start, end);
+        out += `<div data-lang-block="${lang}">${segment}</div>`;
+      }
+
+      return out;
+    }
+
+    const root = parse(str);
+    const contentBlocks = root.querySelectorAll(".cm-s-obsidian");
+
+    if (!contentBlocks || !contentBlocks.length) return str;
+
+    contentBlocks.forEach((block) => {
+      const inner = block.innerHTML;
+      if (inner && inner.indexOf("<!--lang:") !== -1) {
+        block.innerHTML = wrapLangBlocks(inner);
+      }
+    });
+
+    return root.toString();
+  });
+
   eleventyConfig.addTransform("htmlMinifier", (content, outputPath) => {
     if (
       (process.env.NODE_ENV === "production" || process.env.ELEVENTY_ENV === "prod") &&
