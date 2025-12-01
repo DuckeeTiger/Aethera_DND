@@ -6,12 +6,10 @@
     var root = document.documentElement;
     var body = document.body;
 
-    // <html>
     root.setAttribute('data-theme', next);
     root.classList.remove('theme-dark','theme-light');
     root.classList.add(next === 'dark' ? 'theme-dark' : 'theme-light');
 
-    // <body>
     if (body){
       body.setAttribute('data-theme', next);
       body.classList.remove('theme-dark','theme-light');
@@ -37,14 +35,11 @@
   }
 
   document.addEventListener('DOMContentLoaded', function () {
-    // Re-apply saved theme once <body> exists
     applyTheme(readTheme(), 'dom-ready');
 
-    // Prefer an inline button inside the sidebar if present
     var btn = document.querySelector('[data-theme-toggle]');
 
     if (!btn) {
-      // No sidebar or no placeholder → create a floating fallback
       btn = document.getElementById('theme-toggle');
       if (!btn) {
         btn = document.createElement('button');
@@ -53,7 +48,6 @@
         document.body.appendChild(btn);
       }
 
-      // Floating styles (only when we created a floating button)
       var css = document.createElement('style');
       css.textContent = `
         .theme-toggle.theme-float {
@@ -76,7 +70,6 @@
       `;
       document.head.appendChild(css);
     } else {
-      // Make sure the inline button has standard classes
       btn.classList.add('theme-toggle','theme-inline');
     }
 
@@ -93,7 +86,6 @@
       syncLabel();
     });
 
-    // Cross-tab sync + BFCache restore
     window.addEventListener('storage', function(e){
       if (e.key === 'dg-theme') { applyTheme(e.newValue, 'storage'); syncLabel(); }
     });
@@ -114,17 +106,25 @@
       const saved = localStorage.getItem(STORAGE_KEY);
       if (saved === 'en' || saved === 'hu') return saved;
     } catch(e){}
-    return 'en'; // default
+    return 'en';
   }
 
-  function applyLang(lang, reason){
+  function applyLang(lang, reason) {
     if (lang !== 'en' && lang !== 'hu') lang = 'en';
     const root = document.documentElement;
-    root.setAttribute('data-lang', lang);
 
-    // Update button states
-    const buttons = document.querySelectorAll('[data-lang-toggle]');
-    buttons.forEach(btn => {
+    // Check if any language-specific blocks exist
+    const hasAnyLangBlocks = document.querySelector('[data-lang-block]');
+    const hasTargetLang = document.querySelector(`[data-lang-block=\"${lang}\"]`);
+
+    if (hasAnyLangBlocks && hasTargetLang) {
+      root.setAttribute('data-lang', lang);
+    } else {
+      root.removeAttribute('data-lang');
+    }
+
+    // Highlight active button
+    document.querySelectorAll('[data-lang-toggle]').forEach(btn => {
       const v = (btn.getAttribute('data-lang') || '').toLowerCase();
       if (v === lang) btn.classList.add('lang-active');
       else btn.classList.remove('lang-active');
@@ -138,9 +138,7 @@
     const current = readLang();
     applyLang(current, 'init');
 
-    // Wire up language buttons (e.g., in sidebar)
-    const buttons = document.querySelectorAll('[data-lang-toggle]');
-    buttons.forEach(btn => {
+    document.querySelectorAll('[data-lang-toggle]').forEach(btn => {
       btn.addEventListener('click', function(ev){
         ev.preventDefault();
         const lang = (btn.getAttribute('data-lang') || '').toLowerCase();
@@ -148,7 +146,6 @@
       });
     });
 
-    // Keep in sync across tabs
     window.addEventListener('storage', function(e){
       if (e.key === STORAGE_KEY && (e.newValue === 'en' || e.newValue === 'hu')) {
         applyLang(e.newValue, 'storage');
