@@ -104,4 +104,56 @@
     console.log('[DG THEME] Toggle ready on this page.');
   });
 })();
+
+/* ========= DG Language Toggle (EN / HU) ========= */
+(function(){
+  const STORAGE_KEY = 'dg-lang';
+
+  function readLang(){
+    try {
+      const saved = localStorage.getItem(STORAGE_KEY);
+      if (saved === 'en' || saved === 'hu') return saved;
+    } catch(e){}
+    return 'en'; // default
+  }
+
+  function applyLang(lang, reason){
+    if (lang !== 'en' && lang !== 'hu') lang = 'en';
+    const root = document.documentElement;
+    root.setAttribute('data-lang', lang);
+
+    // Update button states
+    const buttons = document.querySelectorAll('[data-lang-toggle]');
+    buttons.forEach(btn => {
+      const v = (btn.getAttribute('data-lang') || '').toLowerCase();
+      if (v === lang) btn.classList.add('lang-active');
+      else btn.classList.remove('lang-active');
+    });
+
+    try { localStorage.setItem(STORAGE_KEY, lang); } catch(e){}
+    console.log('[DG LANG] Applied', lang, '('+reason+')');
+  }
+
+  document.addEventListener('DOMContentLoaded', function(){
+    const current = readLang();
+    applyLang(current, 'init');
+
+    // Wire up language buttons (e.g., in sidebar)
+    const buttons = document.querySelectorAll('[data-lang-toggle]');
+    buttons.forEach(btn => {
+      btn.addEventListener('click', function(ev){
+        ev.preventDefault();
+        const lang = (btn.getAttribute('data-lang') || '').toLowerCase();
+        applyLang(lang, 'click');
+      });
+    });
+
+    // Keep in sync across tabs
+    window.addEventListener('storage', function(e){
+      if (e.key === STORAGE_KEY && (e.newValue === 'en' || e.newValue === 'hu')) {
+        applyLang(e.newValue, 'storage');
+      }
+    });
+  });
+})();
 </script>
