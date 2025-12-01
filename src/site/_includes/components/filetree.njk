@@ -18,8 +18,8 @@
             {% elif fileOrFolder.isFolder %}
                 <div
                   class="folder inner-folder"
-                  x-data="{isOpen: $persist(false).as('{{currentPath}}')}"
-                  @click.stop="isOpen=!isOpen"
+                  x-data="{isOpen: false}"   <!-- no $persist: folders reset each page -->
+                  @click.stop="isOpen = !isOpen"
                 >
                     <div class="foldername-wrapper align-icon">
                       <i x-show="isOpen" style="display: none;" icon-name="chevron-down"></i>
@@ -66,7 +66,7 @@
     {% endfor %}
 
     {% if settings.dgEnableSearch === true %}
-      <div style="display: flex; justify-content: center; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+      <div class="filetree-toolbar">
         {% include "components/searchButton.njk" %}
 
         <!-- Theme toggle button in sidebar -->
@@ -77,14 +77,19 @@
           <!-- Label set by script (🌙/☀️) -->
         </button>
 
-        <!-- Language toggle buttons -->
-        <div class="lang-toggle-group">
-          <button type="button" class="lang-toggle" data-lang-toggle data-lang="en">EN</button>
-          <button type="button" class="lang-toggle" data-lang-toggle data-lang="hu">HU</button>
-        </div>
+        <!-- Single language toggle button (flags) -->
+        <button
+          type="button"
+          class="lang-toggle"
+          data-lang-toggle
+          aria-label="Toggle language"
+        >
+          <!-- Label set by script (🇺🇸 / 🇭🇺) -->
+        </button>
       </div>
     {% endif %}
 
+    <!-- Root folder container: stays open, children are controlled individually -->
     <div class="folder" x-data="{isOpen: true}">
       {%- for fileOrFolderName, fileOrFolder in filetree -%}
         {{ menuItem(fileOrFolderName, fileOrFolder, 0, fileOrFolderName) }}
