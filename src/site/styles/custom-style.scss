@@ -20,7 +20,8 @@ html[data-theme="dark"] body {
 /* ===== LIGHT THEME: parchment vibes ===== */
 
 :root[data-theme="light"] {
-  --background-primary:       #f6f1e6;
+  /* tune these to taste */
+  --background-primary:       #f6f1e6;  /* parchment base */
   --background-primary-alt:   #f9f5ec;
   --background-secondary:     #efe7d7;
   --background-secondary-alt: #e9dfca;
@@ -28,15 +29,28 @@ html[data-theme="dark"] body {
   --text-normal:              #26231f;
 }
 
+/* apply the variables for light mode */
 html[data-theme="light"] body {
   background-color: var(--background-primary);
   color: var(--text-normal);
 }
 
+/* let the note surface be transparent so the body shows through */
 html[data-theme="light"] .cm-s-obsidian,
 html[data-theme="light"] .markdown-preview-view,
 html[data-theme="light"] .content {
   background: transparent;
+}
+
+/* ===== FILETREE TOOLBAR (search + theme + language) ===== */
+
+.filetree-toolbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+  flex-wrap: wrap;          /* allow wrapping on mobile */
 }
 
 /* ===== INLINE THEME TOGGLE IN FILE TREE SIDEBAR ===== */
@@ -51,7 +65,6 @@ html[data-theme="light"] .content {
   font-size: .95rem;
   line-height: 1;
   cursor: pointer;
-  margin-left: .5rem;
   vertical-align: middle;
   height: 2rem;
 }
@@ -69,16 +82,13 @@ html[data-theme="light"] .content {
 
 /* ===== LANGUAGE SWITCHING: EN / HU ===== */
 
+/* Show/hide language blocks based on <html data-lang="..."> */
 html[data-lang="en"] [data-lang-block="hu"],
 html[data-lang="hu"] [data-lang-block="en"] {
   display: none;
 }
 
-.lang-toggle-group {
-  display: inline-flex;
-  gap: 0.4rem;
-  align-items: center;
-}
+/* Single language toggle button (flags) */
 
 .lang-toggle {
   cursor: pointer;
@@ -86,18 +96,23 @@ html[data-lang="hu"] [data-lang-block="en"] {
   border-radius: 6px;
   border: 1px solid var(--background-modifier-border, rgba(0,0,0,0.2));
   background: var(--background-secondary, rgba(0,0,0,0.03));
-  font-size: 0.8rem;
+  font-size: 1rem;            /* a bit larger for emoji */
   line-height: 1.2;
   color: var(--text-normal);
   height: 2rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.lang-toggle.lang-active {
-  background: var(--interactive-accent, #4b8cff);
-  color: var(--text-on-accent, #ffffff);
-  border-color: var(--interactive-accent, #4b8cff);
-}
-
+/* Dark theme tweak for language button */
 :root[data-theme="dark"] .lang-toggle {
   background: var(--background-secondary, #22252f);
+}
+
+/* Optional: tiny tweak for very narrow screens */
+@media (max-width: 480px) {
+  .filetree-toolbar {
+    justify-content: center;
+  }
 }
