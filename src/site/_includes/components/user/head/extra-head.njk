@@ -105,13 +105,13 @@
   });
 })();
 
-/* ========= DG Language Toggle (single 🇺🇸 / 🇭🇺 button) ========= */
+/* ========= DG Language Toggle (single flag button) ========= */
 (function(){
   const STORAGE_KEY = 'dg-lang';
 
-  // Client-side fallback: wrap <!--lang:en--> / <!--lang:hu--> into data-lang-block divs
+  // Robust fallback: wrap <!--lang:en--> / <!--lang:hu--> in data-lang-block divs using innerHTML
   function ensureLangBlocks() {
-    // If Eleventy transform already created them, do nothing
+    // If Eleventy already did it, do nothing
     if (document.querySelector('[data-lang-block]')) return;
 
     const root =
@@ -122,49 +122,28 @@
 
     if (!root) return;
 
-    const walker = document.createTreeWalker(root, NodeFilter.SHOW_COMMENT, null);
-    const markers = [];
-    let node;
+    const html = root.innerHTML;
+    if (!html || html.indexOf('<!--lang:') === -1) return;
 
-    while ((node = walker.nextNode())) {
-      const text = (node.nodeValue || '').trim();
-      const match = /^lang:(en|hu)$/i.exec(text);
-      if (match) {
-        markers.push({ node, lang: match[1].toLowerCase() });
-      }
+    const pattern = /<!--lang:(en|hu)-->/g;
+    const matches = [...html.matchAll(pattern)];
+    if (!matches.length) return;
+
+    let out = '';
+    // Keep everything before the first marker unchanged
+    out += html.slice(0, matches[0].index);
+
+    for (let i = 0; i < matches.length; i++) {
+      const m = matches[i];
+      const lang = m[1].toLowerCase();      // 'en' or 'hu'
+      const start = m.index + m[0].length;
+      const end = (i + 1 < matches.length) ? matches[i + 1].index : html.length;
+      const segment = html.slice(start, end);
+      out += `<div data-lang-block="${lang}">${segment}</div>`;
     }
 
-    if (!markers.length) return;
-
-    markers.forEach(({ node, lang }) => {
-      const parent = node.parentNode;
-      if (!parent) return;
-
-      const wrapper = document.createElement('div');
-      wrapper.setAttribute('data-lang-block', lang);
-      // insert wrapper right after the comment node
-      if (node.nextSibling) {
-        parent.insertBefore(wrapper, node.nextSibling);
-      } else {
-        parent.appendChild(wrapper);
-      }
-
-      // Move following siblings into wrapper until we hit another lang comment or end
-      let current = wrapper.nextSibling;
-      while (current) {
-        if (
-          current.nodeType === Node.COMMENT_NODE &&
-          /^lang:(en|hu)$/i.test((current.nodeValue || '').trim())
-        ) {
-          break; // stop at next language marker
-        }
-        const next = current.nextSibling;
-        wrapper.appendChild(current);
-        current = next;
-      }
-    });
-
-    console.log('[DG LANG] Client-side lang blocks created.');
+    root.innerHTML = out;
+    console.log('[DG LANG] Client-side lang blocks created via innerHTML.');
   }
 
   function readLang(){
@@ -177,8 +156,10 @@
 
   function updateLangButtons(lang) {
     document.querySelectorAll('[data-lang-toggle]').forEach(btn => {
-      // text as flags
-      btn.textContent = (lang === 'en') ? '🇺🇸' : '🇭🇺';
+      // Inject a span we can style with CSS background-image
+      if (!btn.querySelector('.lang-toggle-icon')) {
+        btn.innerHTML = '<span class="lang-toggle-icon" aria-hidden="true"></span>';
+      }
       btn.setAttribute('aria-label', lang === 'en' ? 'Switch to Hungarian' : 'Switch to English');
     });
   }
@@ -214,8 +195,8 @@
     document.querySelectorAll('[data-lang-toggle]').forEach(btn => {
       btn.addEventListener('click', function(ev){
         ev.preventDefault();
-        const current = readLang();
-        const next = current === 'en' ? 'hu' : 'en';
+        const currentLang = readLang();
+        const next = currentLang === 'en' ? 'hu' : 'en';
         applyLang(next, 'click');
       });
     });
