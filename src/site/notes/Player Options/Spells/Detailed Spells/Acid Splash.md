@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/acid-splash/"}
 ---
 
-<div data-lang="en">
+<!--lang:en-->
 
 *Cantrip level Evocation ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
 **Casting Time:** Action
@@ -14,11 +14,10 @@ You create an acidic bubble at a point within range, where it explodes in a 5-fo
 
 **Cantrip Upgrade:** The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
 
-</div>
 
 ---
 
-<div data-lang="hu">
+<!--lang:hu-->
 
 ## Savfröccs
 
@@ -32,4 +31,3 @@ Egy savas buborékot hozol létre egy ponton a hatótávon belül, ahol az egy 5
 
 **Cantrip fejlesztés.** A sebzés 1d6-tal nő, amikor eléred az 5. (2d6), 11. (3d6) és 17. (4d6) szintet.
 
-</div>
