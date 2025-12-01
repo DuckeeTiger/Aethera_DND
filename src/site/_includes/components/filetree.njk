@@ -69,19 +69,18 @@
       <div style="display: flex; justify-content: center; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
         {% include "components/searchButton.njk" %}
 
+        <!-- Theme toggle button in sidebar -->
+        <button 
+          type="button" 
+          data-theme-toggle 
+          class="theme-toggle theme-inline">
+          <!-- Label set by script (🌙/☀️) -->
+        </button>
+
+        <!-- Language toggle buttons -->
         <div class="lang-toggle-group">
-          <button
-            type="button"
-            class="lang-toggle"
-            data-lang-toggle
-            data-lang="en"
-          >EN</button>
-          <button
-            type="button"
-            class="lang-toggle"
-            data-lang-toggle
-            data-lang="hu"
-          >HU</button>
+          <button type="button" class="lang-toggle" data-lang-toggle data-lang="en">EN</button>
+          <button type="button" class="lang-toggle" data-lang-toggle data-lang="hu">HU</button>
         </div>
       </div>
     {% endif %}
