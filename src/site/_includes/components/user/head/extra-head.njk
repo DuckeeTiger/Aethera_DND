@@ -6,10 +6,12 @@
     var root = document.documentElement;
     var body = document.body;
 
+    // <html>
     root.setAttribute('data-theme', next);
     root.classList.remove('theme-dark','theme-light');
     root.classList.add(next === 'dark' ? 'theme-dark' : 'theme-light');
 
+    // <body>
     if (body){
       body.setAttribute('data-theme', next);
       body.classList.remove('theme-dark','theme-light');
@@ -35,11 +37,14 @@
   }
 
   document.addEventListener('DOMContentLoaded', function () {
+    // Re-apply saved theme once <body> exists
     applyTheme(readTheme(), 'dom-ready');
 
+    // Prefer an inline button inside the sidebar if present
     var btn = document.querySelector('[data-theme-toggle]');
 
     if (!btn) {
+      // No sidebar or no placeholder → create a floating fallback
       btn = document.getElementById('theme-toggle');
       if (!btn) {
         btn = document.createElement('button');
@@ -48,6 +53,7 @@
         document.body.appendChild(btn);
       }
 
+      // Floating styles (only when we created a floating button)
       var css = document.createElement('style');
       css.textContent = `
         .theme-toggle.theme-float {
@@ -70,6 +76,7 @@
       `;
       document.head.appendChild(css);
     } else {
+      // Make sure the inline button has standard classes
       btn.classList.add('theme-toggle','theme-inline');
     }
 
@@ -86,6 +93,7 @@
       syncLabel();
     });
 
+    // Cross-tab sync + BFCache restore
     window.addEventListener('storage', function(e){
       if (e.key === 'dg-theme') { applyTheme(e.newValue, 'storage'); syncLabel(); }
     });
@@ -97,38 +105,102 @@
   });
 })();
 
-/* ========= DG Language Toggle (EN / HU) ========= */
+/* ========= DG Language Toggle (single 🇺🇸 / 🇭🇺 button) ========= */
 (function(){
   const STORAGE_KEY = 'dg-lang';
+
+  // Client-side fallback: wrap <!--lang:en--> / <!--lang:hu--> into data-lang-block divs
+  function ensureLangBlocks() {
+    // If Eleventy transform already created them, do nothing
+    if (document.querySelector('[data-lang-block]')) return;
+
+    const root =
+      document.querySelector('.cm-s-obsidian') ||
+      document.querySelector('.markdown-preview-view') ||
+      document.querySelector('main') ||
+      document.body;
+
+    if (!root) return;
+
+    const walker = document.createTreeWalker(root, NodeFilter.SHOW_COMMENT, null);
+    const markers = [];
+    let node;
+
+    while ((node = walker.nextNode())) {
+      const text = (node.nodeValue || '').trim();
+      const match = /^lang:(en|hu)$/i.exec(text);
+      if (match) {
+        markers.push({ node, lang: match[1].toLowerCase() });
+      }
+    }
+
+    if (!markers.length) return;
+
+    markers.forEach(({ node, lang }) => {
+      const parent = node.parentNode;
+      if (!parent) return;
+
+      const wrapper = document.createElement('div');
+      wrapper.setAttribute('data-lang-block', lang);
+      // insert wrapper right after the comment node
+      if (node.nextSibling) {
+        parent.insertBefore(wrapper, node.nextSibling);
+      } else {
+        parent.appendChild(wrapper);
+      }
+
+      // Move following siblings into wrapper until we hit another lang comment or end
+      let current = wrapper.nextSibling;
+      while (current) {
+        if (
+          current.nodeType === Node.COMMENT_NODE &&
+          /^lang:(en|hu)$/i.test((current.nodeValue || '').trim())
+        ) {
+          break; // stop at next language marker
+        }
+        const next = current.nextSibling;
+        wrapper.appendChild(current);
+        current = next;
+      }
+    });
+
+    console.log('[DG LANG] Client-side lang blocks created.');
+  }
 
   function readLang(){
     try {
       const saved = localStorage.getItem(STORAGE_KEY);
       if (saved === 'en' || saved === 'hu') return saved;
     } catch(e){}
-    return 'en';
+    return 'en'; // default
+  }
+
+  function updateLangButtons(lang) {
+    document.querySelectorAll('[data-lang-toggle]').forEach(btn => {
+      // text as flags
+      btn.textContent = (lang === 'en') ? '🇺🇸' : '🇭🇺';
+      btn.setAttribute('aria-label', lang === 'en' ? 'Switch to Hungarian' : 'Switch to English');
+    });
   }
 
   function applyLang(lang, reason) {
     if (lang !== 'en' && lang !== 'hu') lang = 'en';
     const root = document.documentElement;
 
-    // Check if any language-specific blocks exist
+    // Make sure blocks exist (Eleventy or client-side)
+    ensureLangBlocks();
+
     const hasAnyLangBlocks = document.querySelector('[data-lang-block]');
-    const hasTargetLang = document.querySelector(`[data-lang-block=\"${lang}\"]`);
+    const hasTargetLang   = document.querySelector(`[data-lang-block="${lang}"]`);
 
     if (hasAnyLangBlocks && hasTargetLang) {
       root.setAttribute('data-lang', lang);
     } else {
+      // If target language not present on this page, keep everything visible
       root.removeAttribute('data-lang');
     }
 
-    // Highlight active button
-    document.querySelectorAll('[data-lang-toggle]').forEach(btn => {
-      const v = (btn.getAttribute('data-lang') || '').toLowerCase();
-      if (v === lang) btn.classList.add('lang-active');
-      else btn.classList.remove('lang-active');
-    });
+    updateLangButtons(lang);
 
     try { localStorage.setItem(STORAGE_KEY, lang); } catch(e){}
     console.log('[DG LANG] Applied', lang, '('+reason+')');
@@ -138,14 +210,17 @@
     const current = readLang();
     applyLang(current, 'init');
 
+    // Single toggle button – flips en <-> hu
     document.querySelectorAll('[data-lang-toggle]').forEach(btn => {
       btn.addEventListener('click', function(ev){
         ev.preventDefault();
-        const lang = (btn.getAttribute('data-lang') || '').toLowerCase();
-        applyLang(lang, 'click');
+        const current = readLang();
+        const next = current === 'en' ? 'hu' : 'en';
+        applyLang(next, 'click');
       });
     });
 
+    // Keep in sync across tabs
     window.addEventListener('storage', function(e){
       if (e.key === STORAGE_KEY && (e.newValue === 'en' || e.newValue === 'hu')) {
         applyLang(e.newValue, 'storage');
