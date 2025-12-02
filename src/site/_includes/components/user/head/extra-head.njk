@@ -13,7 +13,7 @@
     if (body){
       body.setAttribute('data-theme', next);
       body.classList.remove('theme-dark','theme-light');
-      body.classList.add(next === 'dark' ? 'theme-dark' : 'theme-light');
+      body.classList.add(next === 'dark' ? 'theme-dark' : 'light');
     }
 
     try { localStorage.setItem('dg-theme', next); } catch(e){}
@@ -101,10 +101,9 @@
 (function(){
   const STORAGE_KEY = 'dg-lang';
 
-  // VERY IMPORTANT: build <div data-lang-block="en/hu"> wrappers from <!--lang:xx--> comments.
+  // Wrap <!--lang:en--> / <!--lang:hu--> sections in <div data-lang-block="...">
   function ensureLangBlocks() {
     if (document.querySelector('[data-lang-block]')) {
-      console.log('[DG LANG] data-lang-block already present, skipping creation.');
       return;
     }
 
@@ -126,32 +125,31 @@
       return;
     }
 
-    // Manual scan (no matchAll, so it's compatible everywhere)
     const regex = /<!--lang:(en|hu)-->/gi;
-    let matches = [];
+    const markers = [];
     let m;
     while ((m = regex.exec(html)) !== null) {
-      matches.push({ index: m.index, lang: m[1].toLowerCase(), full: m[0] });
+      markers.push({ index: m.index, lang: m[1].toLowerCase(), full: m[0] });
     }
-    if (!matches.length) {
+    if (!markers.length) {
       console.log('[DG LANG] Regex found no language markers.');
       return;
     }
 
     let out = '';
-    out += html.slice(0, matches[0].index); // keep content before first marker
+    out += html.slice(0, markers[0].index);
 
-    for (let i = 0; i < matches.length; i++) {
-      const cur = matches[i];
+    for (let i = 0; i < markers.length; i++) {
+      const cur = markers[i];
       const lang = cur.lang;
       const start = cur.index + cur.full.length;
-      const end = (i + 1 < matches.length) ? matches[i + 1].index : html.length;
+      const end = (i + 1 < markers.length) ? markers[i + 1].index : html.length;
       const segment = html.slice(start, end);
-      out += `<div data-lang-block="${lang}">${segment}</div>`;
+      out += '<div data-lang-block="' + lang + '">' + segment + '</div>';
     }
 
     root.innerHTML = out;
-    console.log('[DG LANG] Blocks created; langs found:', matches.map(x => x.lang).join(', '));
+    console.log('[DG LANG] Client-side lang blocks created for:', markers.map(x => x.lang).join(', '));
   }
 
   function readLang(){
@@ -164,7 +162,6 @@
 
   function updateLangButtons(lang) {
     document.querySelectorAll('[data-lang-toggle]').forEach(btn => {
-      // Fallback text if CSS or span fails
       if (!btn.querySelector('.lang-toggle-icon')) {
         btn.innerHTML = '<span class="lang-toggle-icon" aria-hidden="true"></span><span class="lang-toggle-text">EN/HU</span>';
       }
@@ -178,8 +175,8 @@
 
     ensureLangBlocks();
 
-    const hasAnyLangBlocks = document.querySelector('[data-lang-block]');
-    const hasTargetLang   = document.querySelector(`[data-lang-block="${lang}"]`);
+    const hasAnyLangBlocks = document.querySelector('[data-lang-block]') != null;
+    const hasTargetLang = document.querySelector('[data-lang-block="' + lang + '"]') != null;
 
     if (hasAnyLangBlocks && hasTargetLang) {
       root.setAttribute('data-lang', lang);
@@ -191,8 +188,8 @@
 
     try { localStorage.setItem(STORAGE_KEY, lang); } catch(e){}
     console.log('[DG LANG] Applied', lang, '('+reason+')',
-      'hasAnyBlocks=', !!hasAnyLangBlocks,
-      'hasTarget=', !!hasTargetLang
+      'hasAnyBlocks=', hasAnyLangBlocks,
+      'hasTarget=', hasTargetLang
     );
   }
 
@@ -203,8 +200,8 @@
     document.querySelectorAll('[data-lang-toggle]').forEach(btn => {
       btn.addEventListener('click', function(ev){
         ev.preventDefault();
-        const currentLang = readLang();
-        const next = currentLang === 'en' ? 'hu' : 'en';
+        const cur = readLang();
+        const next = (cur === 'en') ? 'hu' : 'en';
         applyLang(next, 'click');
       });
     });
