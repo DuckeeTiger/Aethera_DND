@@ -6,12 +6,10 @@
     var root = document.documentElement;
     var body = document.body;
 
-    // <html>
     root.setAttribute('data-theme', next);
     root.classList.remove('theme-dark','theme-light');
     root.classList.add(next === 'dark' ? 'theme-dark' : 'theme-light');
 
-    // <body>
     if (body){
       body.setAttribute('data-theme', next);
       body.classList.remove('theme-dark','theme-light');
@@ -37,14 +35,11 @@
   }
 
   document.addEventListener('DOMContentLoaded', function () {
-    // Re-apply saved theme once <body> exists
     applyTheme(readTheme(), 'dom-ready');
 
-    // Prefer an inline button inside the sidebar if present
     var btn = document.querySelector('[data-theme-toggle]');
 
     if (!btn) {
-      // No sidebar or no placeholder → create a floating fallback
       btn = document.getElementById('theme-toggle');
       if (!btn) {
         btn = document.createElement('button');
@@ -53,7 +48,6 @@
         document.body.appendChild(btn);
       }
 
-      // Floating styles (only when we created a floating button)
       var css = document.createElement('style');
       css.textContent = `
         .theme-toggle.theme-float {
@@ -76,7 +70,6 @@
       `;
       document.head.appendChild(css);
     } else {
-      // Make sure the inline button has standard classes
       btn.classList.add('theme-toggle','theme-inline');
     }
 
@@ -93,7 +86,6 @@
       syncLabel();
     });
 
-    // Cross-tab sync + BFCache restore
     window.addEventListener('storage', function(e){
       if (e.key === 'dg-theme') { applyTheme(e.newValue, 'storage'); syncLabel(); }
     });
@@ -109,41 +101,57 @@
 (function(){
   const STORAGE_KEY = 'dg-lang';
 
-  // Robust fallback: wrap <!--lang:en--> / <!--lang:hu--> in data-lang-block divs using innerHTML
+  // VERY IMPORTANT: build <div data-lang-block="en/hu"> wrappers from <!--lang:xx--> comments.
   function ensureLangBlocks() {
-    // If Eleventy already did it, do nothing
-    if (document.querySelector('[data-lang-block]')) return;
+    if (document.querySelector('[data-lang-block]')) {
+      console.log('[DG LANG] data-lang-block already present, skipping creation.');
+      return;
+    }
 
     const root =
       document.querySelector('.cm-s-obsidian') ||
+      document.querySelector('.content') ||
       document.querySelector('.markdown-preview-view') ||
       document.querySelector('main') ||
       document.body;
 
-    if (!root) return;
+    if (!root) {
+      console.log('[DG LANG] No root container found.');
+      return;
+    }
 
     const html = root.innerHTML;
-    if (!html || html.indexOf('<!--lang:') === -1) return;
+    if (!html || html.indexOf('<!--lang:') === -1) {
+      console.log('[DG LANG] No <!--lang:xx--> markers found in HTML.');
+      return;
+    }
 
-    const pattern = /<!--lang:(en|hu)-->/g;
-    const matches = [...html.matchAll(pattern)];
-    if (!matches.length) return;
+    // Manual scan (no matchAll, so it's compatible everywhere)
+    const regex = /<!--lang:(en|hu)-->/gi;
+    let matches = [];
+    let m;
+    while ((m = regex.exec(html)) !== null) {
+      matches.push({ index: m.index, lang: m[1].toLowerCase(), full: m[0] });
+    }
+    if (!matches.length) {
+      console.log('[DG LANG] Regex found no language markers.');
+      return;
+    }
 
     let out = '';
-    // Keep everything before the first marker unchanged
-    out += html.slice(0, matches[0].index);
+    out += html.slice(0, matches[0].index); // keep content before first marker
 
     for (let i = 0; i < matches.length; i++) {
-      const m = matches[i];
-      const lang = m[1].toLowerCase();      // 'en' or 'hu'
-      const start = m.index + m[0].length;
+      const cur = matches[i];
+      const lang = cur.lang;
+      const start = cur.index + cur.full.length;
       const end = (i + 1 < matches.length) ? matches[i + 1].index : html.length;
       const segment = html.slice(start, end);
       out += `<div data-lang-block="${lang}">${segment}</div>`;
     }
 
     root.innerHTML = out;
-    console.log('[DG LANG] Client-side lang blocks created via innerHTML.');
+    console.log('[DG LANG] Blocks created; langs found:', matches.map(x => x.lang).join(', '));
   }
 
   function readLang(){
@@ -151,14 +159,14 @@
       const saved = localStorage.getItem(STORAGE_KEY);
       if (saved === 'en' || saved === 'hu') return saved;
     } catch(e){}
-    return 'en'; // default
+    return 'en';
   }
 
   function updateLangButtons(lang) {
     document.querySelectorAll('[data-lang-toggle]').forEach(btn => {
-      // Inject a span we can style with CSS background-image
+      // Fallback text if CSS or span fails
       if (!btn.querySelector('.lang-toggle-icon')) {
-        btn.innerHTML = '<span class="lang-toggle-icon" aria-hidden="true"></span>';
+        btn.innerHTML = '<span class="lang-toggle-icon" aria-hidden="true"></span><span class="lang-toggle-text">EN/HU</span>';
       }
       btn.setAttribute('aria-label', lang === 'en' ? 'Switch to Hungarian' : 'Switch to English');
     });
@@ -168,7 +176,6 @@
     if (lang !== 'en' && lang !== 'hu') lang = 'en';
     const root = document.documentElement;
 
-    // Make sure blocks exist (Eleventy or client-side)
     ensureLangBlocks();
 
     const hasAnyLangBlocks = document.querySelector('[data-lang-block]');
@@ -177,21 +184,22 @@
     if (hasAnyLangBlocks && hasTargetLang) {
       root.setAttribute('data-lang', lang);
     } else {
-      // If target language not present on this page, keep everything visible
       root.removeAttribute('data-lang');
     }
 
     updateLangButtons(lang);
 
     try { localStorage.setItem(STORAGE_KEY, lang); } catch(e){}
-    console.log('[DG LANG] Applied', lang, '('+reason+')');
+    console.log('[DG LANG] Applied', lang, '('+reason+')',
+      'hasAnyBlocks=', !!hasAnyLangBlocks,
+      'hasTarget=', !!hasTargetLang
+    );
   }
 
   document.addEventListener('DOMContentLoaded', function(){
     const current = readLang();
     applyLang(current, 'init');
 
-    // Single toggle button – flips en <-> hu
     document.querySelectorAll('[data-lang-toggle]').forEach(btn => {
       btn.addEventListener('click', function(ev){
         ev.preventDefault();
@@ -201,7 +209,6 @@
       });
     });
 
-    // Keep in sync across tabs
     window.addEventListener('storage', function(e){
       if (e.key === STORAGE_KEY && (e.newValue === 'en' || e.newValue === 'hu')) {
         applyLang(e.newValue, 'storage');
