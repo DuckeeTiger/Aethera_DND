@@ -16,7 +16,6 @@
                     </a>
                 </div>
             {% elif fileOrFolder.isFolder %}
-                <!-- Inner folder: state is NOT persisted, resets on each page load -->
                 <div
                   class="folder inner-folder"
                   x-data="{isOpen: false}"
@@ -70,27 +69,24 @@
       <div class="filetree-toolbar">
         {% include "components/searchButton.njk" %}
 
-        <!-- Theme toggle button in sidebar -->
-        <button 
-          type="button" 
-          data-theme-toggle 
-          class="theme-toggle theme-inline">
-          <!-- Label set by script (🌙/☀️) -->
-        </button>
+        <button
+          type="button"
+          class="theme-toggle"
+          data-theme-toggle
+          aria-label="Toggle theme"
+        ></button>
 
-<!-- Single language toggle button (flags) -->
-<button
-  type="button"
-  class="lang-toggle"
-  data-lang-toggle
-  aria-label="Toggle language"
->
-  EN/HU
-</button>
+        <button
+          type="button"
+          class="lang-toggle"
+          data-lang-toggle
+          aria-label="Toggle language"
+        >
+          EN/HU
+        </button>
       </div>
     {% endif %}
 
-    <!-- Root folder container: always present, children folders control their own isOpen -->
     <div class="folder" x-data="{isOpen: true}">
       {%- for fileOrFolderName, fileOrFolder in filetree -%}
         {{ menuItem(fileOrFolderName, fileOrFolder, 0, fileOrFolderName) }}
