@@ -162,10 +162,14 @@
 
   function updateLangButtons(lang) {
     document.querySelectorAll('[data-lang-toggle]').forEach(btn => {
+      // Only a flag icon, no text
       if (!btn.querySelector('.lang-toggle-icon')) {
-        btn.innerHTML = '<span class="lang-toggle-icon" aria-hidden="true"></span><span class="lang-toggle-text">EN/HU</span>';
+        btn.innerHTML = '<span class="lang-toggle-icon" aria-hidden="true"></span>';
       }
-      btn.setAttribute('aria-label', lang === 'en' ? 'Switch to Hungarian' : 'Switch to English');
+      btn.setAttribute(
+        'aria-label',
+        lang === 'en' ? 'Switch to Hungarian' : 'Switch to English'
+      );
     });
   }
 
@@ -178,16 +182,17 @@
     const hasAnyLangBlocks = document.querySelector('[data-lang-block]') != null;
     const hasTargetLang = document.querySelector('[data-lang-block="' + lang + '"]') != null;
 
-    if (hasAnyLangBlocks && hasTargetLang) {
-      root.setAttribute('data-lang', lang);
-    } else {
-      root.removeAttribute('data-lang');
-    }
+    // IMPORTANT: always set data-lang so the flag CSS works on every page,
+    // even when there are no lang blocks.
+    root.setAttribute('data-lang', lang);
 
     updateLangButtons(lang);
 
     try { localStorage.setItem(STORAGE_KEY, lang); } catch(e){}
-    console.log('[DG LANG] Applied', lang, '('+reason+')',
+    console.log(
+      '[DG LANG] Applied',
+      lang,
+      '('+reason+')',
       'hasAnyBlocks=', hasAnyLangBlocks,
       'hasTarget=', hasTargetLang
     );
