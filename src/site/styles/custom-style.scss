@@ -20,7 +20,6 @@ html[data-theme="dark"] body {
 /* ===== LIGHT THEME: parchment vibes ===== */
 
 :root[data-theme="light"] {
-  /* tune these to taste */
   --background-primary:       #f6f1e6;  /* parchment base */
   --background-primary-alt:   #f9f5ec;
   --background-secondary:     #efe7d7;
@@ -114,6 +113,12 @@ html[data-lang="hu"] [data-lang-block="en"] {
   background-position: center;
   background-repeat: no-repeat;
   border-radius: 2px;
+}
+
+/* optional small EN/HU label next to icon */
+.lang-toggle-text {
+  margin-left: 0.25rem;
+  font-size: 0.7rem;
 }
 
 /* Pick the correct flag based on current language */
