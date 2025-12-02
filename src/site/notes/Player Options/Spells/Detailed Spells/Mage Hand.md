@@ -18,7 +18,8 @@ The hand can't attack, activate magic items, or carry more than 10 pounds.
 ---
 
 ## Mágus Kéz
-*Segédvarázslat Idézés ([[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Warlock/Warlock\|Warlock]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
+
+*Cantrip szintű Idézés ([[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Warlock/Warlock\|Warlock]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
 **Varázslási idő:** Akció
 **Hatótáv:** 30 láb
 **Komponensek:** V, S

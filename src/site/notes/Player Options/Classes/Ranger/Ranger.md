@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-permalink":"ranger","permalink":"/ranger/"}
 ---
 
+<!--lang:en-->
+# Ranger
 *A Wandering Warrior Imbued with Primal magic*
 
 Far from bustling cities, amid the trees of trackless forests and across wide plains, Rangers keep their unending watch in the wilderness. Rangers learn to track their quarry as a predator does, moving stealthily through the wilds and hiding themselves in brush and rubble.
@@ -76,7 +78,7 @@ _**Spellcasting Focus.**_ You can use a Druidic Focus as a Spellcasting Focus f
 
 ---
 #### Level 1: Favored Enemy
-You always have the _[[Hunter’s Mark\|Hunter’s Mark]]_ spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest.
+You always have the _[[Player Options/Spells/Detailed Spells/Hunter’s Mark\|Hunter’s Mark]]_ spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest.
 
 The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favored Enemy column of the Ranger Features table.
 
@@ -126,7 +128,7 @@ Primal forces now help fuel you on your journeys, granting you the following ben
 
 ---
 #### Level 13: Relentless Hunter
-Taking damage can’t break your Concentration on _[[Hunter’s Mark\|Hunter’s Mark]]_.
+Taking damage can’t break your Concentration on _[[Player Options/Spells/Detailed Spells/Hunter’s Mark\|Hunter’s Mark]]_.
 
 ---
 #### Level 14: Nature’s Veil
@@ -136,7 +138,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 ---
 #### Level 17: Precise Hunter
-You have Advantage on attack rolls against the creature currently marked by your _[[Hunter’s Mark\|Hunter’s Mark]]_.
+You have Advantage on attack rolls against the creature currently marked by your _[[Player Options/Spells/Detailed Spells/Hunter’s Mark\|Hunter’s Mark]]_.
 
 ---
 #### Level 18: Feral Senses
@@ -225,3 +227,249 @@ A Ranger subclass is a specialization that grants you features at certain Rangel
 - [[Player Options/Classes/Ranger/Ranger_SubClasses/Hunter\|Hunter]]
 - [[Player Options/Classes/Ranger/Ranger_SubClasses/Fey Wanderer\|Fey Wanderer]]
 - [[Player Options/Classes/Ranger/Ranger_SubClasses/Winter Walker\|Winter Walker]]
+
+---
+
+<!--lang:hu-->
+# Vándor (*Ranger*)
+*A vándorló harcos, akit az ősi mágia hat át*
+
+Távol a nyüzsgő városoktól, az ösvénytelen rengetegek fái között és a végtelen pusztákon a vándorok örök éberséggel járják a vadon vidékeit. A vándorok ragadozóként követik prédájukat, nesztelenül mozognak a természetben, és képesek elrejtőzni bozótban, kövek között, vagy bárhol, ahol árnyék adódik.
+
+A természethez fűződő kapcsolatuknak köszönhetően a vándorok ősi, természetes mágiát is képesek alkalmazni. Tudásukat és mágiájukat halálos pontossággal csiszolják, hogy megvédjék a világot a szörnyek és zsarnokok pusztításától.
+
+| Vándor Alapvető Tulajdonságai | <                                                                                                                                                     |
+| :---------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Elsődleges Tulajdonság**   | Ügyesség és Bölcsesség                                                                                                                                   |
+| **Életerő Kocka**            | D10 minden vándor szint után                                                                                                                             |
+| **Mentődobás Jártasságok**   | Erő és Ügyesség                                                                                                                                           |
+| **Képzettségek**             | Válassz 3-at: Állatidomítás, Atletika, Észlelés (Insight), Nyomozás, Természet, Észlelés (Perception), Rejtőzés, Túlélés                                 |
+| **Fegyver Jártasságok**      | Egyszerű és Harci fegyverek                                                                                                                              |
+| **Eszköz Jártasságok**       | Nincs                                                                                                                                                     |
+| **Páncél Jártasság**         | Könnyű és Közepes páncél, valamint Pajzsok                                                                                                               |
+| **Kezdő Felszerelés**        | A vagy B csomag (lásd angol rész)                                                                                                                        |
+
+## Vándorrá Válás
+
+#### 1. Szintű Karakterként
+- Megkapod a **Vándor Alapvető Tulajdonságai** táblázat minden elemét.
+- Megkapod a vándor **1. szintű osztályképességeit**.
+
+#### Többosztályú Vándorként
+- Megkapod az Életerő Kockát, a Harci fegyverek jártasságát, a vándor listájából egy tetszőleges képzettséget, valamint a Könnyű és Közepes páncél + Pajzsok jártasságát.  
+- Megkapod az 1. szintű vándor képességeket.
+
+## Vándor Osztályképességek
+
+| Szint | Jártasság Bónusz | Osztályképességek | Kedvelt Ellenség | Előkészített Varázslatok | 1 | 2 | 3 | 4 | 5 |
+| ----- | ---------------- | ----------------- | ---------------- | ------------------------- | - | - | - | - | - |
+| 1     | +2               | Varázshasználat, Kedvelt Ellenség, Fegyvermesterség | 2 | 2 | 2 | — | — | — | — |
+| 2     | +2               | Fürge Felfedező, Harcmodor | 2 | 3 | 2 | — | — | — | — |
+| 3     | +2               | Vándor Alosztály | 2 | 4 | 3 | — | — | — | — |
+| 4     | +2               | Tulajdonságfejlesztés | 2 | 5 | 3 | — | — | — | — |
+| 5     | +3               | Extra Támadás | 3 | 6 | 4 | 2 | — | — | — |
+| 6     | +3               | Vándorlás (Roving) | 3 | 6 | 4 | 2 | — | — | — |
+| 7     | +3               | Alosztály Képesség | 3 | 7 | 4 | 3 | — | — | — |
+| 8     | +3               | Tulajdonságfejlesztés | 3 | 7 | 4 | 3 | — | — | — |
+| 9     | +4               | Jártasság (Expertise) | 4 | 9 | 4 | 3 | 2 | — | — |
+| 10    | +4               | Kimeríthetetlen (Tireless) | 4 | 9 | 4 | 3 | 2 | — | — |
+| 11    | +4               | Alosztály Képesség | 4 | 10 | 4 | 3 | 3 | — | — |
+| 12    | +4               | Tulajdonságfejlesztés | 4 | 10 | 4 | 3 | 3 | — | — |
+| 13    | +5               | Kíméletlen Vadász | 5 | 11 | 4 | 3 | 3 | 1 | — |
+| 14    | +5               | Természet Fátyla | 5 | 11 | 4 | 3 | 3 | 1 | — |
+| 15    | +5               | Alosztály Képesség | 5 | 12 | 4 | 3 | 3 | 2 | — |
+| 16    | +5               | Tulajdonságfejlesztés | 5 | 12 | 4 | 3 | 3 | 2 | — |
+| 17    | +6               | Precíz Vadász | 6 | 14 | 4 | 3 | 3 | 3 | 1 |
+| 18    | +6               | Vadérzék (Feral Senses) | 6 | 14 | 4 | 3 | 3 | 3 | 1 |
+| 19    | +6               | Epikus Adomány | 6 | 15 | 4 | 3 | 3 | 3 | 2 |
+| 20    | +6               | Ellenségölő (Foe Slayer) | 6 | 15 | 4 | 3 | 3 | 3 | 2 |
+
+---
+
+#### 1. Szint: Varázshasználat
+A természet ősi mágikus eszenciáját csatornázod.
+
+- **Varázshelyek:** lásd a táblázatot.  
+- **Előkészített varázslatok:** kezdetben 2 db 1. szintű vándor varázslat (*Cure Wounds*, *Ensnaring Strike* ajánlott).  
+- **Változtatás:** hosszú pihenő után lecserélhetsz egyet.  
+- **Varázshasználati tulajdonság:** **Bölcsesség**.  
+- **Fókusz:** használhatsz **Druida Fókuszt**.
+
+---
+
+#### 1. Szint: Kedvelt Ellenség
+Mindig előkészítve van a _[[Player Options/Spells/Detailed Spells/Hunter’s Mark\|Hunter’s Mark]]_ varázslat. Naponta kétszer varázshely nélkül is használhatod.
+
+Használatainak száma nő bizonyos vándor szinteken.
+
+---
+
+#### 1. Szint: Fegyvermesterség
+Két általad ismert fegyver mesteri tulajdonságait használhatod. Hosszú pihenő után módosíthatod választásod.
+
+---
+
+#### 2. Szint: Fürge Felfedező (Deft Explorer)
+- **Jártasság:** egy választott képzettségedben Jártasságot (Expertise) szerzel.  
+- **Nyelvek:** két új nyelvet tanulsz meg.
+
+---
+
+#### 2. Szint: Harcmodor
+Harcmodor featet kapsz.
+
+**Druida Harcos:** két druida cantripet tanulsz meg (*Guidance*, *Starry Wisp* ajánlott). Ezek vándor varázslatnak számítanak.
+
+---
+
+#### 3. Szint: Vándor Alosztály
+Alosztályt választasz.
+
+A következő vándor alosztályok érhetők el:
+- [[Player Options/Classes/Ranger/Ranger_SubClasses/Beast Master\|Beast Master]](Beast Master)
+- [[Player Options/Classes/Ranger/Ranger_SubClasses/Gloom Stalker\|Gloom Stalker]](Gloom Stalker)
+- [[Player Options/Classes/Ranger/Ranger_SubClasses/Hunter\|Hunter]](Hunter)
+- [[Player Options/Classes/Ranger/Ranger_SubClasses/Fey Wanderer\|Fey Wanderer]](Fey Wanderer)
+- [[Player Options/Classes/Ranger/Ranger_SubClasses/Winter Walker\|Winter Walker]](Winter Walker)
+
+---
+
+#### 4. Szint: Tulajdonságfejlesztés
+Tulajdonságot növelő vagy más képességet szerzel.
+
+---
+
+#### 5. Szint: Extra Támadás
+Támadás akcióval kétszer támadhatsz.
+
+---
+
+#### 6. Szint: Vándorlás (Roving)
++10 láb mozgási sebesség (nem viselve nehéz páncélt). Mászás és úszás sebességed megegyezik a gyaloglásoddal.
+
+---
+
+#### 9. Szint: Jártasság
+Két további képzettségedben Jártasságot szerzel.
+
+---
+
+#### 10. Szint: Kimeríthetetlen (Tireless)
+- **Ideiglenes ÉP:** Magic akcióként 1d8 + Bölcsesség módosítónyi temp HP.  
+- **Kimerültség:** minden rövid pihenővel 1 szinttel csökken.
+
+---
+
+#### 13. Szint: Kíméletlen Vadász
+A sebzés nem szakítja meg a Concentration-t a _[[Player Options/Spells/Detailed Spells/Hunter’s Mark\|Hunter’s Mark]]_ varázslaton.
+
+---
+
+#### 14. Szint: Természet Fátyla (Nature’s Veil)
+Bónusz Akcióként Láthatatlanná válsz a következő köröd végéig.
+
+Használatok száma = Bölcsesség módosító.
+
+---
+
+#### 17. Szint: Precíz Vadász
+Előnyöd van a támadásokra az aktuálisan a _[[Player Options/Spells/Detailed Spells/Hunter’s Mark\|Hunter’s Mark]]_ által megjelölt célpont ellen.
+
+---
+
+#### 18. Szint: Vadérzék
+30 lábnyi **Blindsight**-ot kapsz.
+
+---
+
+#### 19. Szint: Epikus Adomány
+Epikus feat vagy tetszőleges más feat.
+
+---
+
+#### 20. Szint: Ellenségölő
+A _Hunter’s Mark_ sebzéskockája d10-re nő.
+
+---
+
+## Vándor Varázslista
+
+*(A varázsnevek maradnak angolul.)*
+
+### 1. szint
+| Spell | School | Special |
+| ----- | ------ | ------- |
+| Alarm | Abjuration | R |
+| Animal Friendship | Enchantment | — |
+| Cure Wounds | Abjuration | — |
+| Detect Magic | Divination | C, R |
+| Detect Poison and Disease | Divination | C, R |
+| Ensnaring Strike | Conjuration | C |
+| Entangle | Conjuration | C |
+| Fog Cloud | Conjuration | C |
+| Goodberry | Conjuration | — |
+| Hunter’s Mark | Divination | C |
+| Jump | Transmutation | — |
+| Longstrider | Transmutation | — |
+| Speak with Animals | Divination | R |
+
+### 2. szint
+| Spell | School | Special |
+| ----- | ------ | ------- |
+| Aid | Abjuration | — |
+| Animal Messenger | Enchantment | R |
+| Barkskin | Transmutation | — |
+| Darkvision | Transmutation | — |
+| Enhance Ability | Transmutation | C |
+| Find Traps | Divination | — |
+| Gust of Wind | Evocation | C |
+| Lesser Restoration | Abjuration | — |
+| Locate Animals or Plants | Divination | R |
+| Locate Object | Divination | C |
+| Magic Weapon | Transmutation | — |
+| Pass without Trace | Abjuration | C |
+| Protection from Poison | Abjuration | — |
+| Silence | Illusion | C, R |
+| Spike Growth | Transmutation | C |
+
+### 3. szint
+| Spell | School | Special |
+| ----- | ------ | ------- |
+| Conjure Animals | Conjuration | C |
+| Daylight | Evocation | — |
+| Dispel Magic | Abjuration | — |
+| Meld into Stone | Transmutation | R |
+| Nondetection | Abjuration | M |
+| Plant Growth | Transmutation | — |
+| Protection from Energy | Abjuration | C |
+| Revivify | Necromancy | M |
+| Speak with Plants | Transmutation | — |
+| Water Breathing | Transmutation | R |
+| Water Walk | Transmutation | R |
+| Wind Wall | Evocation | C |
+
+### 4. szint
+| Spell | School | Special |
+| ----- | ------ | ------- |
+| Conjure Woodland Beings | Conjuration | C |
+| Dominate Beast | Enchantment | C |
+| Freedom of Movement | Abjuration | — |
+| Locate Creature | Divination | C |
+| Stoneskin | Transmutation | C, M |
+
+### 5. szint
+| Spell | School | Special |
+| ----- | ------ | ------- |
+| Commune with Nature | Divination | R |
+| Greater Restoration | Abjuration | M |
+| Tree Stride | Conjuration | C |
+
+---
+## Vándor Alosztályok
+- [[Player Options/Classes/Ranger/Ranger_SubClasses/Beast Master\|Beast Master]](Beast Master)
+- [[Player Options/Classes/Ranger/Ranger_SubClasses/Gloom Stalker\|Gloom Stalker]](Gloom Stalker)
+- [[Player Options/Classes/Ranger/Ranger_SubClasses/Hunter\|Hunter]](Hunter)
+- [[Player Options/Classes/Ranger/Ranger_SubClasses/Fey Wanderer\|Fey Wanderer]](Fey Wanderer)
+- [[Player Options/Classes/Ranger/Ranger_SubClasses/Winter Walker\|Winter Walker]](Winter Walker)
+
+---

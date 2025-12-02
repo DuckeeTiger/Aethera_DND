@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-permalink":"barbarian","permalink":"/barbarian/"}
 ---
 
+<!--lang:en-->
+# Barbarian
 *A Fierce Warrior of Primal Rage*
 
 Barbarians are mighty warriors who are powered by primal forces of the multiverse that manifest as a Rage. More than a mere emotion—and not limited to anger—this Rage is an incarnation of a predator’s ferocity, a storm’s fury, and a sea’s turmoil.
@@ -19,6 +21,7 @@ Barbarians often serve as protectors and leaders in their communities. They char
 | **Weapon Proficiencies**        | Simple and Martial weapons                                                          |
 | **Armor Training**              | Light and Medium armor and Shields                                                  |
 | **Starting Equipment**          | Choose A or B: (A) Greataxe, 4 Handaxes, Explorer’s Pack and 15 GP; or (B) 75 GP    |
+
 ## Becoming a Barbarian
 
 #### As a Level 1 Character
@@ -28,7 +31,6 @@ Barbarians often serve as protectors and leaders in their communities. They char
 #### As a Multiclass Character
 - Gain the following traits from the Core Barbarian Traits table: Hit Point Die, proficiency with Martial weapons, and training with Shields.
 - Gain the Barbarian’s level 1 features, which are listed in the Barbarian Features table.
-
 
 ## Barbarian Class Features
 
@@ -96,7 +98,7 @@ You can throw aside all concern for defense to attack with increased ferocity. W
 
 ---
 #### Level 3: Barbarian Subclass
-You gain a Barbarian subclass of your choice. A subclass is a specialization that grants you features at certain Barbarian levels. For the rest of your career, you gain each of your subclass’s features that are of your Barbarian level or lower.
+You gain a Barbarian subclass of your choice. A subclass is a specialization that grants you features at certain Barbarian levels. For the rest of your career, you gain each of your subclass’s features that are of your Barbarian level or lower.
 
 ---
 #### Level 3: Primal Knowledge
@@ -106,7 +108,7 @@ In addition, while your Rage is active, you can channel primal power when you at
 
 ---
 #### Level 4: Ability Score Improvement
-You gain the Ability Score Improvement feat or another **feat** of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the Ability Score Improvement feat or another **feat** of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 
 ---
 #### Level 5: Extra Attack
@@ -140,7 +142,6 @@ Each time you use this feature after the first, the DC increases by 5. When you 
 #### Level 13: Improved Brutal Strike
 You have honed new ways to attack furiously. The following effects are now among your Brutal Strike options.
 - **Staggering Blow**. The target has Disadvantage on the next saving throw it makes, and it can’t make Opportunity Attacks until the start of your next turn.
-
 - **Sundering Blow**. Before the start of your next turn, the next attack roll made by another creature against the target gains a +5 bonus to the roll. An attack roll can gain only one Sundering Blow bonus.
 
 ---
@@ -159,7 +160,7 @@ If your total for a Strength check or Strength saving throw is less than your St
 
 ---
 #### Level 19: Epic Boon
-You gain an Epic Boon feat or another **feat** of your choice for which you qualify. Boon of Irresistible Offense is recommended.
+You gain an Epic Boon feat or another **feat** of your choice for which you qualify. Boon of Irresistible Offense is recommended.
 
 ---
 #### Level 20: Primal Champion
@@ -173,4 +174,178 @@ A Barbarian subclass is a specialization that grants you features at certain lev
 - [[Player Options/Classes/Barbarian/Barbarian_SubClasses/Path of the World Tree\|Path of the World Tree]]
 - [[Player Options/Classes/Barbarian/Barbarian_SubClasses/Path of the Zealot\|Path of the Zealot]]
 
+---
 
+<!--lang:hu-->
+# Barbár (*Barbarian*)
+*Vérvonalból fakadó ősi düh harcosa*
+
+A barbárok hatalmas harcosok, akiket a multiverzum ősi, elemi ereje hat át, ez pedig Düh („Rage”) formájában nyilvánul meg. Több ez puszta érzelemnél—és nem korlátozódik pusztán haragra—; a Düh egy ragadozó vadságának, egy vihar dühének és a tenger zabolátlan erejének megtestesülése.
+
+Néhány Barbár dühét félelmetes szellemként vagy tisztelt ős elődjeként személyesíti meg. Mások számára a világ fájdalmával és gyötrelmével való kapcsolatot jelenti, vad mágia szövevénye, vagy saját legmélyebb énjük kifejeződése. Minden Barbár számára a Düh az az erő, amely nemcsak harci képességeiket, hanem természetfeletti reflexeiket és kiélezett érzékeiket is táplálja.
+
+A barbárok gyakran szolgálnak közösségeik védelmezőiként és vezetőiként. Fejjel rohannak a veszélybe, hogy azok, akiket védenek, ne kerüljenek veszélybe. Bátorságuk által tökéletes kalandorok.
+
+| Barbár Alapvető Tulajdonságok | <                                                                                          |
+| :----------------------------- | :------------------------------------------------------------------------------------------- |
+| **Elsődleges Tulajdonság**     | Erő                                                                                          |
+| **Életerő Kocka**              | D12 minden Barbár szint után                                                                |
+| **Mentődobás Jártasságok**     | Erő és Állóképesség                                                                         |
+| **Képzettségek**               | Válassz 2-t: Állatismeret, Atlétika, Megfélemlítés, Természet, Észlelés vagy Túlélés        |
+| **Fegyver Jártasságok**        | Egyszerű és Harci fegyverek                                                                  |
+| **Páncél Jártasság**           | Könnyű és Közepes páncél, valamint Pajzs                                                     |
+| **Kezdő Felszerelés**          | Válassz A vagy B: (A) Nagyfejsze, 4 Kézifejsze, Felfedező Felszerelés és 15 arany; vagy (B) 75 arany |
+
+## Barbárrá Válás
+
+#### 1. Szintű Karakterként
+- Megkapod a Barbár Alapvető Tulajdonságok táblázat összes jellemzőjét.
+- Megkapod az 1. szintű Barbár képességeket, melyeket a Barbár Képességek táblázat sorol fel.
+
+#### Többosztályú Karakterként
+- Megkapod a következő jellemzőket: Életerő Kocka, Harci fegyver jártasság, valamint Pajzs használatának jártassága.
+- Megkapod az 1. szintű Barbár képességeket a Barbár Képességek táblázatból.
+
+## Barbár Osztályképességek
+
+Barbárként a következő képességeket szerzed meg a megjelölt szinteken. Ezeket a Barbár Képességek táblázata foglalja össze.
+
+| Szint | Járt. <br>Bónusz | Osztályképességek                       | Dühök | Düh <br>Sebzés | Fegyver <br>Használat |
+| ----- | ---------------- | ---------------------------------------- | ----- | -------------- | ---------------------- |
+| 1     | +2               | Düh, Páncéltalan Védelem, Fegyvermest.   | 2     | +2             | 2                      |
+| 2     | +2               | Veszélyérzék, Vakmerő Támadás            | 2     | +2             | 2                      |
+| 3     | +2               | Barbár Alosztály, Ősi Tudás              | 3     | +2             | 2                      |
+| 4     | +2               | Tulajdonságfejlesztés                    | 3     | +2             | 3                      |
+| 5     | +3               | Többtámadás, Gyors Mozgás                | 3     | +2             | 3                      |
+| 6     | +3               | Alosztály Képesség                       | 4     | +2             | 3                      |
+| 7     | +3               | Vadösztön, Ösztönös Ugrás                | 4     | +2             | 3                      |
+| 8     | +3               | Tulajdonságfejlesztés                    | 4     | +2             | 3                      |
+| 9     | +4               | Brutális Csapás                          | 4     | +3             | 3                      |
+| 10    | +4               | Alosztály Képesség                       | 4     | +3             | 4                      |
+| 11    | +4               | Könyörtelen Düh                          | 4     | +3             | 4                      |
+| 12    | +4               | Tulajdonságfejlesztés                    | 5     | +3             | 4                      |
+| 13    | +5               | Fejlettebb Brutális Csapás               | 5     | +3             | 4                      |
+| 14    | +5               | Alosztály Képesség                       | 5     | +3             | 4                      |
+| 15    | +5               | Állandó Düh                              | 5     | +3             | 4                      |
+| 17    | +6               | Fejlettebb Brutális Csapás               | 6     | +4             | 4                      |
+| 16    | +5               | Tulajdonságfejlesztés                    | 5     | +4             | 4                      |
+| 18    | +6               | Megtörhetetlen Erő                       | 6     | +4             | 4                      |
+| 19    | +6               | Epikus Adomány                           | 6     | +4             | 4                      |
+| 20    | +6               | Ősi Bajnok                               | 6     | +4             | 4                      |
+
+---
+#### 1. Szint: Düh
+Ősi, elemi erőt hívsz magadba, melyet Dühnek neveznek, és amely rendkívüli erőt és kitartást biztosít. Bónusz Akcióként léphetsz Dühbe, ha nem viselsz Nehéz Páncélt.
+
+A Barbár szinted alapján meghatározott számú alkalommal léphetsz Dühbe. Egy Rövid Pihenő végén visszanyersz egy elhasznált használatot, Hosszú Pihenő végén pedig az összeset.
+
+Amíg aktív, a Düh következő szabályok szerint működik:
+- **Sebzésellenállás**. Ellenállást szerzel Zúzó-, Szúró- és Vágó sebzés ellen.
+- **Düh Sebzés**. Amikor Erőt használva támadsz (fegyverrel vagy Fegyvertelen Támadással) és sebzést okozol, bónusz sebzést kapsz, amely szinteddel növekszik.
+- **Erő Előny**. Előnyöd van az Erő próbákra és Erő mentődobásokra.
+- **Nincs Koncentráció vagy Varázslat**. Nem tudsz Koncentrációt fenntartani és nem tudsz varázsolni.
+
+**Időtartam**. A Düh a következő köröd végéig tart, és véget ér, ha Nehéz Páncélt viselsz vagy mozgásképtelenné válsz. Ha a következő körödben még aktív, meghosszabbíthatod az alábbiak egyikével:
+- Támadásdobást teszel egy ellenfél ellen.
+- Ellenfelet kényszerítesz mentődobásra.
+- Bónusz Akciót használsz a Düh meghosszabbítására.
+
+Minden alkalommal a következő köröd végéig hosszabbodik meg. A Düh maximum 10 percig tarthat.
+
+---
+#### 1. Szint: Páncéltalan Védelem
+Ha nem viselsz páncélt, az Alap Védőértéked 10 + Ügyesség + Állóképesség módosító. Pajzsot használhatsz mellette.
+
+---
+#### 1. Szint: Fegyvermesterség
+A fegyverekkel szerzett kiképzésed két egyszerű vagy harci Közelharci fegyver mesteri tulajdonságának használatát teszi lehetővé. Minden Hosszú Pihenő után kicserélheted az egyik választásodat.
+
+Későbbi Barbár szinteken több fegyvermesteri tulajdonságot is használhatsz.
+
+---
+#### 2. Szint: Veszélyérzék
+Különleges érzékkel bírsz arra, amikor valami nincs rendben körülötted. Előnyöd van az Ügyesség mentődobásokra, kivéve, ha mozgásképtelen vagy.
+
+---
+#### 2. Szint: Vakmerő Támadás
+Félredobod a védekezést a nagyobb agresszióért. Az első támadásodkor eldöntheted, hogy vakmerően támadsz. Ekkor előnyöd van minden Erő alapú támadásodra a következő köröd elejéig, de közben ellenfeleidnek is előnye lesz rád.
+
+---
+#### 3. Szint: Barbár Alosztály
+Választasz egy Barbár alosztályt. Az alosztály képességeit a megfelelő szinteken kapod meg.
+
+---
+#### 3. Szint: Ősi Tudás
+Még egy képzettséget szerzel a Barbárok 1. szintjén elérhető listáról.
+
+Továbbá, Düh közben bizonyos próbáknál ősi erőt csatornázhatsz. A következő képzettségeket Erő próbával teheted meg, még ha általában nem azzal működnek: Akrobatika, Megfélemlítés, Észlelés, Lopakodás, Túlélés.
+
+---
+#### 4. Szint: Tulajdonságfejlesztés
+Tulajdonságfejlesztést vagy más **képességet** szerezhetsz. Ezt a 8., 12., és 16. szinten újra megkapod.
+
+---
+#### 5. Szint: Többtámadás
+Kétszer támadhatsz az Akciódból, nem csak egyszer.
+
+---
+#### 5. Szint: Gyors Mozgás
+Gyorsabban mozogsz (10 lábbal), ha nem viselsz Nehéz Páncélt.
+
+---
+#### 7. Szint: Vadösztön
+Előnyöd van a Kezdeményezés dobásodra.
+
+---
+#### 7. Szint: Ösztönös Ugrás
+A Dühbe lépéskor tett Bónusz Akció részeként Mozoghatsz a Sebességed feléig.
+
+---
+#### 9. Szint: Brutális Csapás
+Ha Vakmerő Támadást használsz, lemondhatsz az egyik Erő alapú támadásod előnyéről. Ha a támadás talál, +1d10 extra sebzést okozol, és választhatsz egy Brutális Csapás hatást:
+- **Erőteljes Ütés**. A célpont 15 lábbal hátralökődik. Te pedig a Sebességed feléig közelíthetsz felé büntetés nélkül.
+- **Ínkaszáló Ütés**. A célpont Sebessége 15 lábbal csökken a következő köröd elejéig. Csak a legutóbbi ilyen hatás számít.
+
+---
+#### 11. Szint: Könyörtelen Düh
+Ha 0 Életerőre esel Düh közben (és nem halsz meg azonnal), mentődobást tehetsz (Állóképesség, DC 10). Siker esetén az Életerőd a Barbár szinted kétszerese lesz.
+
+Minden használat után a DC +5-tel nő. Rövid vagy Hosszú Pihenő ezt visszaállítja 10-re.
+
+---
+#### 13. Szint: Fejlettebb Brutális Csapás
+Új Brutális Csapás hatások:
+- **Tántorító Ütés**. A célpontnak hátránya lesz a következő mentésére, és nem tehet Lehetőség Támadást a köröd elejéig.
+- **Hasító Ütés**. A következő, más által végzett támadás a célpontra +5 bónuszt kap. Egy támadás csak egy ilyen bónuszt kaphat.
+
+---
+#### 15. Szint: Állandó Düh
+Kezdeményezéskor visszanyered az összes Düh használatod. Hosszú Pihenőig egyszer teheted meg.
+
+A Dühöd olyan heves, hogy most már automatikusan 10 percig tart. Csak akkor ér véget idő előtt, ha Eszméletlen leszel vagy Nehéz Páncélt viselsz.
+
+---
+#### 17. Szint: Fejlettebb Brutális Csapás
+A Brutális Csapás extra sebzése 2d10-re nő, és két eltérő hatást is használhatsz.
+
+---
+#### 18. Szint: Megtörhetetlen Erő
+Ha egy Erő próbád vagy mentődobásod eredménye alacsonyabb lenne, mint az Erő értéked, használhatod magát az értéket.
+
+---
+#### 19. Szint: Epikus Adomány
+Epikus Adományt vagy más **képességet** választasz. Az Irresistible Offense ajánlott.
+
+---
+#### 20. Szint: Ősi Bajnok
+A megtestesült ősi erő vagy. Az Erő és Állóképesség értékeid +4-gyel nőnek, maximum 25-ig.
+
+## Barbár Alosztályok
+
+A Barbár alosztály specializáció, amely különböző szinteken ad új képességeket. A következő alosztályok érhetők el:
+- [[Player Options/Classes/Barbarian/Barbarian_SubClasses/Path of the Berserker\|Path of the Berserker]]
+- [[Player Options/Classes/Barbarian/Barbarian_SubClasses/Path of the Wild Heart\|Path of the Wild Heart]]
+- [[Player Options/Classes/Barbarian/Barbarian_SubClasses/Path of the World Tree\|Path of the World Tree]]
+- [[Player Options/Classes/Barbarian/Barbarian_SubClasses/Path of the Zealot\|Path of the Zealot]]
+
+---

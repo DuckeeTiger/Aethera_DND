@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/alarm/"}
 ---
 
+<!--lang:en-->
+# Alarm
+
 *1st level Abjuration (ritual) ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Ranger/Ranger\|Ranger]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
 **Casting Time:** 1 Min.
 **Range:** 30 feet
@@ -14,8 +17,8 @@ You set an alarm against intrusion. Choose a door, a window, or an area within r
 
 ---
 
-
-## Riasztás
+<!--lang:hu-->
+# Riasztás *(Alarm)*
 
 *1. szintű Elhárítás (rituálé) ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Ranger/Ranger\|Ranger]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
 **Varázslási Idő:** 1 Perc
@@ -26,3 +29,5 @@ You set an alarm against intrusion. Choose a door, a window, or an area within r
 Riasztást állítasz be behatolás ellen. Válassz egy ajtót, egy ablakot, vagy egy területet a hatótávon belül, amely nem nagyobb, mint egy 20 lábnyi Kocka. A varázslat végéig egy riasztás figyelmeztet téged, valahányszor egy lény megérinti vagy belép az őrzött területre. Amikor elvarázsolod a varázslatot, kijelölhetsz lényeket, amelyek nem indítják be a riasztást. Azt is kiválasztod, hogy a riasztás hallható vagy mentális legyen:
 - **Hallható Riasztás.** A riasztás egy kézi csengő hangját adja ki 10 másodpercig az őrzött terület 60 lábnyi körzetében.
 - **Mentális Riasztás.** Egy mentális jelzés figyelmeztet téged, ha az őrzött terület 1 mérföldön belül vagy. Ez a jelzés felébreszt, ha alszol.
+
+---

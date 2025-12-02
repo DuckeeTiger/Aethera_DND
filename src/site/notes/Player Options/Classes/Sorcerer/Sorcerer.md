@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-permalink":"sorcerer","permalink":"/sorcerer/"}
 ---
 
+<!--lang:en-->
+# Sorcerer
 *A Dazzling Mage Filled with Innate Magic*
 
 Sorcerers wield innate magic that is stamped into their being. Some Sorcerers can’t name the origin of their power, while others trace it to strange events in their personal or family history. The blessing of a dragon or a dryad at a baby’s birth or the strike of lightning from a clear sky might spark a Sorcerer’s gift. So too might the gift of a deity, exposure to the strange magic of another plane of existence, or a glimpse into the inner workings of reality. Whatever the origin, the result is an indelible mark on the Sorcerer, a churning magic that can be passed down through generations.
@@ -359,3 +361,393 @@ A Sorcerer subclass is a specialization that grants you features at certain Sorc
 - [[Player Options/Classes/Sorcerer/Sorcerer_SubClasses/Wild Magic Sorcery\|Wild Magic Sorcery]]
 - [[Player Options/Classes/Sorcerer/Sorcerer_SubClasses/Spellfire Sorcery\|Spellfire Sorcery]]
 - [[Player Options/Classes/Sorcerer/Sorcerer_SubClasses/Shadow Sorcerer\|Shadow Sorcerer]]
+
+---
+
+<!--lang:hu-->
+# Varázsló (*Sorcerer*)
+*Egy Veleszületett Mágiával Átitatott Ragyogó Mágus*
+
+A Varázslók velük született mágiát irányítanak, amely lényükbe van vésve. Egyes Varázslók nem tudják megnevezni erejük eredetét, míg mások személyes vagy családi történetük különös eseményeire vezetik vissza azt. Egy sárkány vagy dryád áldása egy újszülött fölött, vagy egy tiszta égboltból lecsapó villámcsapás is felébresztheti a varázserőt. Ugyanígy eredhet az ajándék egy istenségtől, egy másik létsík különös energiáitól vagy a valóság belső működésének futó megpillantásától. Bármi is legyen az eredet, az eredmény ugyanaz: kitörölhetetlen nyom a Varázslón, egy fortyogó mágia, amely akár generációkon át öröklődhet.
+
+A Varázslók nem tanulják a mágiát; a nyers, kavargó erő része a lényüknek. A Varázsló művészete abban rejlik, hogy megtanulja irányítani és csatornázni ezt a veleszületett mágiát, és így új, lenyűgöző módokon szabadíthatja fel erejét. Ahogy a Varázsló egyre inkább uralja veleszületett mágiáját, úgy válik egyre összhangba annak eredetével, különleges képességeket fejlesztve, amelyek annak forrását tükrözik.
+
+A Varázslók ritkák. Egyes családi vérvonalak minden generációban pontosan egy Varázslót adnak a világnak, míg máskor a mágia tehetsége csupán véletlenszerűen bukkan fel. Akik ezt az erőt hordozzák, hamar rájönnek, hogy a mágia nem szeret csöndben maradni: használni akarják.
+
+| A Varázsló Alaptulajdonságai | < |
+| :--------------------------- | :- |
+| **Elsődleges Főérték**       | Karizma |
+| **Életerő Kocka**            | D6 szintenként |
+| **Mentőképzettségek**        | Konstitúció, Karizma |
+| **Képzettségek**             | Válassz 2-t: Arcana, Deception, Insight, Intimidation, Persuasion vagy Religion |
+| **Fegyverhasználat**         | Egyszerű fegyverek |
+| **Eszközhasználat**          | Nincs |
+| **Páncélviselés**            | Nincs |
+| **Kezdő Felszerelés**        | Válassz A-t vagy B-t: (A) Dárda, 2 tőr, Arkán Fókusz (kristály), Felfedező Felszerelés, 28 arany; vagy (B) 50 arany |
+
+## Mágussá Válás
+
+#### 1. szintű karakterként
+- Megkapod az összes tulajdonságot a **Varázsló Alaptulajdonságai** táblázatból.
+- Megkapod a **Varázsló 1. szintű képességeit**, a **Varázsló Képességek** táblázat szerint.
+
+#### Többkasztos karakterként
+- Megkapod az Életerő Kockát az **Alaptulajdonságok** közül.
+- Megkapod a Varázsló **1. szintű képességeit**. A varázslathelyeket a többkasztos szabályok határozzák meg.
+
+## A Varázsló Képességei
+
+Ahogy Varázslóként szinteket lépsz, különféle osztályképességeket szerzel. Ezeket a **Varázsló Képességek** táblázat tartalmazza.
+
+| Szint | Prof. Bónusz | Osztályképességek | Mágia Pontok | Bájok | Felkészített Varázslatok | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+|------:|:-------------:|------------------|:------------:|:-----:|:-------------------------:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1 | +2 | Varázslás, Veleszületett Mágia | — | 4 | 2 | 2 | — | — | — | — | — | — | — | — |
+| 2 | +2 | Mágiaforrás, Metamágia | 2 | 4 | 4 | 3 | — | — | — | — | — | — | — | — |
+| 3 | +2 | Varázsló Alkaszt | 3 | 4 | 6 | 4 | 2 | — | — | — | — | — | — |
+| 4 | +2 | Főértékfejlesztés | 4 | 5 | 7 | 4 | 3 | — | — | — | — | — | — |
+| 5 | +3 | Varázslói Regeneráció | 5 | 5 | 9 | 4 | 3 | 2 | — | — | — | — | — |
+| 6 | +3 | Alk.képesség | 6 | 5 | 10 | 4 | 3 | 3 | — | — | — | — | — |
+| 7 | +3 | Megtestesült Mágia | 7 | 5 | 11 | 4 | 3 | 3 | 1 | — | — | — | — |
+| 8 | +3 | Főértékfejlesztés | 8 | 5 | 12 | 4 | 3 | 3 | 2 | — | — | — | — |
+| 9 | +4 | — | 9 | 5 | 14 | 4 | 3 | 3 | 3 | 1 | — | — | — |
+| 10 | +4 | Metamágia | 10 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | — | — | — |
+| 11 | +4 | — | 11 | 6 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — |
+| 12 | +4 | Főértékfejlesztés | 12 | 6 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — |
+| 13 | +5 | — | 13 | 6 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — |
+| 14 | +5 | Alk.képesség | 14 | 6 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — |
+| 15 | +5 | — | 15 | 6 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 16 | +5 | Főértékfejlesztés | 16 | 6 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 17 | +6 | Metamágia | 17 | 6 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 18 | +6 | Alk.képesség | 18 | 6 | 20 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 |
+| 19 | +6 | Epikus Áldás | 19 | 6 | 21 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 |
+| 20 | +6 | Arkán Megistenülés | 20 | 6 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 |
+
+---
+### 1. szint: Varázslás
+Veleszületett mágiádból merítve képes vagy varázslatokat létrehozni.
+
+**Bájok.** Négy Varázsló bűbájt ismersz. A *Light*, *Prestidigitation*, *Shocking Grasp* és *Sorcerous Burst* ajánlott. Szintlépéskor kicserélheted őket másikra.
+
+**Varázslathelyek.** A táblázat mutatja, hány helyed van. Mindet visszanyered egy Hosszú Pihenő után.
+
+**Felkészített varázslatok.** Két 1. szintű Varázsló varázslatot választasz (pl. *Burning Hands*, *Detect Magic*). A lista bővül, ahogy szintet lépsz.
+
+**Csere.** Szintlépéskor kicserélhetsz egy felkészített varázslatot.
+
+**Főérték.** A Karizma a varázslataid főértéke.
+
+**Fókusz.** Arkán Fókuszt használhatsz.
+
+---
+### 1. szint: Veleszületett Mágia
+Bizonyos múltbéli esemény örök mágikus bélyeget hagyott rajtad. Bónusz Akcióként 1 percre felszabadíthatod ezt az energiát:
+- A varázslataid mentő DC-je +1.
+- Előnyöd van a Varázsló varázslatok támadógurításaira.
+
+Naponta kétszer használhatod, Hosszú Pihenővel visszanyered.
+
+---
+### 2. szint: Metamágia
+Mágiád alakítható: kiválasztasz két Metamágia opciót (később többet is). Ezek felhasználásához Mágia Pontokat költesz.
+
+Egyszerre csak egy opció használható, kivéve ha másként szerepel.
+
+Szintlépéskor cserélhetsz.
+
+---
+### 3. szint: Varázsló Alkaszt
+Kiválasztasz egy alkasztot. Példák:
+- [[Player Options/Classes/Sorcerer/Sorcerer_SubClasses/Aberrant Sorcery\|Aberrant Sorcery]](Aberrant Sorcery)
+- [[Player Options/Classes/Sorcerer/Sorcerer_SubClasses/Clockwork Soul\|Clockwork Soul]](Clockwork Soul)
+- [[Player Options/Classes/Sorcerer/Sorcerer_SubClasses/Draconic Sorcery\|Draconic Sorcery]](Draconic Sorcery)
+- [[Player Options/Classes/Sorcerer/Sorcerer_SubClasses/Wild Magic Sorcery\|Wild Magic Sorcery]](Wild Magic Sorcery)
+
+Az alkaszt funkcióit megkapod a megfelelő szinteken.
+
+---
+### 4. szint: Főértékfejlesztés  
+ASI vagy más feat.
+
+---
+### 5. szint: Varázslói Regeneráció
+Rövid Pihenő során visszanyerhetsz Mágia Pontokat (max. a szinted fele). Egyszer használható hosszú pihenőig.
+
+---
+### 7. szint: Megtestesült Mágia
+Ha kifogytál a Veleszületett Mágia használatából, 2 Mágia Pontért újra aktiválhatod.
+
+Amíg aktív, minden varázslatra két Metamágia opciót is használhatsz.
+
+---
+### 19. szint: Epikus Áldás  
+Epikus Boon (pl. Dimensional Travel).
+
+---
+### 20. szint: Arkán Megistenülés  
+Amíg Veleszületett Mágia aktív, minden körödben egyszer használhatsz egy Metamágia opciót Mágia Pont költése nélkül.
+
+---
+## Metamágia Opciók
+
+### Careful Spell
+**Költség: 1 pont.** Védelmet biztosítasz választott célpontoknak egy mentőt igénylő varázslat ellen. Automatikusan sikeres mentőt kapnak.
+
+### Distant Spell
+**Költség: 1 pont.** Duplázod a varázslat hatótávját, vagy érintés helyett 30 láb lesz.
+
+### Empowered Spell
+**Költség: 1 pont.** Újradobsz néhány sebzéskockát.
+
+### Extended Spell
+**Költség: 1 pont.** Megduplázod a varázslat időtartamát.
+
+### Heightened Spell
+**Költség: 2 pont.** Egy célpont hátrányt kap a mentődobásaira.
+
+### Quickened Spell
+**Költség: 2 pont.** Akció helyett Bónusz Akcióval varázsolsz.
+
+### Seeking Spell
+**Költség: 1 pont.** Ha elmész egy varázslattámadással, újradobhatod.
+
+### Subtle Spell
+**Költség: 1 pont.** Nincs V, S vagy M komponens.
+
+### Transmuted Spell
+**Költség: 1 pont.** Megváltoztatod a sebzéstípusát (Acid, Cold, Fire, Lightning, Poison, Thunder).
+
+### Twinned Spell
+**Költség: 1 pont.** Egy célpontnál többet célozhatsz vele, mintha magasabb szintű lenne.
+
+---
+
+## A Varázsló Varázslatlista
+
+Ez a szakasz a Varázsló varázslatlistáját tartalmazza.  
+A varázslatok varázslatszint szerint, majd ábécérendben szerepelnek.  
+A **Special** oszlop jelölései: **C** = *Koncentráció*, **R** = *Rituálé*, **M** = *Speciális Material komponens szükséges*.
+
+---
+
+### Varázslói Bájok (0. szint)
+| Varázslat              | Iskola        | Special |
+| ---------------------- | ------------- | ------- |
+| Acid Splash            | Evocation     | —       |
+| Blade Ward             | Abjuration    | C       |
+| Chill Touch            | Necromancy    | —       |
+| Dancing Lights         | Illusion      | C       |
+| Elementalism           | Transmutation | —       |
+| Fire Bolt              | Evocation     | —       |
+| Friends                | Enchantment   | C       |
+| Light                  | Evocation     | —       |
+| Mage Hand              | Conjuration   | —       |
+| Mending                | Transmutation | —       |
+| Message                | Transmutation | —       |
+| Mind Sliver            | Enchantment   | —       |
+| Minor Illusion         | Illusion      | —       |
+| Poison Spray           | Necromancy    | —       |
+| Prestidigitation       | Transmutation | —       |
+| Ray of Frost           | Evocation     | —       |
+| Shocking Grasp         | Evocation     | —       |
+| Sorcerous Burst        | Evocation     | —       |
+| Thunderclap            | Evocation     | —       |
+| True Strike            | Divination    | —       |
+
+---
+
+### 1. szintű Varázslói Varázslatok
+| Varázslat              | Iskola        | Special |
+| ---------------------- | ------------- | ------- |
+| Burning Hands          | Evocation     | —       |
+| Charm Person           | Enchantment   | —       |
+| Chromatic Orb          | Evocation     | M       |
+| Color Spray            | Illusion      | —       |
+| Comprehend Languages   | Divination    | R       |
+| Detect Magic           | Divination    | C, R    |
+| Disguise Self          | Illusion      | —       |
+| Expeditious Retreat    | Transmutation | C       |
+| False Life             | Necromancy    | —       |
+| Feather Fall           | Transmutation | —       |
+| Fog Cloud              | Conjuration   | C       |
+| Grease                 | Conjuration   | —       |
+| Ice Knife              | Conjuration   | —       |
+| Jump                   | Transmutation | —       |
+| Mage Armor             | Abjuration    | —       |
+| Magic Missile          | Evocation     | —       |
+| Ray of Sickness        | Necromancy    | —       |
+| Shield                 | Abjuration    | —       |
+| Silent Image           | Illusion      | C       |
+| Sleep                  | Enchantment   | C       |
+| Thunderwave            | Evocation     | —       |
+| Witch Bolt             | Evocation     | C       |
+
+---
+
+### 2. szintű Varázslói Varázslatok
+| Varázslat              | Iskola        | Special |
+| ---------------------- | ------------- | ------- |
+| Alter Self             | Transmutation | C       |
+| Arcane Vigor           | Abjuration    | —       |
+| Blindness-Deafness     | Transmutation | —       |
+| Blur                   | Illusion      | C       |
+| Cloud of Daggers       | Conjuration   | C       |
+| Crown of Madness       | Enchantment   | C       |
+| Darkness               | Evocation     | C       |
+| Darkvision             | Transmutation | —       |
+| Detect Thoughts        | Divination    | C       |
+| Dragon's Breath        | Transmutation | C       |
+| Enhance Ability        | Transmutation | C       |
+| Enlarge/Reduce         | Transmutation | C       |
+| Flame Blade            | Evocation     | C       |
+| Flaming Sphere         | Evocation     | C       |
+| Gust of Wind           | Evocation     | C       |
+| Hold Person            | Enchantment   | C       |
+| Invisibility           | Illusion      | C       |
+| Knock                  | Transmutation | —       |
+| Levitate               | Transmutation | C       |
+| Magic Weapon           | Transmutation | —       |
+| Mind Spike             | Divination    | C       |
+| Mirror Image           | Illusion      | —       |
+| Misty Step             | Conjuration   | —       |
+| Phantasmal Force       | Illusion      | C       |
+| Scorching Ray          | Evocation     | —       |
+| See Invisibility       | Divination    | —       |
+| Shatter                | Evocation     | —       |
+| Spider Climb           | Transmutation | C       |
+| Suggestion             | Enchantment   | C       |
+| Web                    | Conjuration   | C       |
+
+---
+
+### 3. szintű Varázslói Varázslatok
+| Varázslat              | Iskola        | Special |
+| ---------------------- | ------------- | ------- |
+| Blink                  | Transmutation | —       |
+| Clairvoyance           | Divination    | C, M    |
+| Counterspell           | Abjuration    | —       |
+| Daylight               | Evocation     | —       |
+| Dispel Magic           | Abjuration    | —       |
+| Fear                   | Illusion      | C       |
+| Fireball               | Evocation     | —       |
+| Fly                    | Transmutation | C       |
+| Gaseous Form           | Transmutation | C       |
+| Haste                  | Transmutation | C       |
+| Hypnotic Pattern       | Illusion      | C       |
+| Lightning Bolt         | Evocation     | —       |
+| Major Image            | Illusion      | C       |
+| Protection from Energy | Abjuration    | C       |
+| Sleet Storm            | Conjuration   | C       |
+| Slow                   | Transmutation | C       |
+| Stinking Cloud         | Conjuration   | C       |
+| Tongues                | Divination    | —       |
+| Vampiric Touch         | Necromancy    | C       |
+| Water Breathing        | Transmutation | R       |
+| Water Walk             | Transmutation | R       |
+
+---
+
+### 4. szintű Varázslói Varázslatok
+| Varázslat              | Iskola        | Special |
+| ---------------------- | ------------- | ------- |
+| Banishment             | Abjuration    | C       |
+| Blight                 | Necromancy    | —       |
+| Charm Monster          | Enchantment   | —       |
+| Confusion              | Enchantment   | C       |
+| Dimension Door         | Conjuration   | —       |
+| Dominate Beast         | Enchantment   | C       |
+| Fire Shield            | Evocation     | —       |
+| Greater Invisibility   | Illusion      | C       |
+| Ice Storm              | Evocation     | —       |
+| Polymorph              | Transmutation | C       |
+| Stoneskin              | Transmutation | C, M    |
+| Vitriolic Sphere       | Evocation     | —       |
+| Wall of Fire           | Evocation     | C       |
+
+---
+
+### 5. szintű Varázslói Varázslatok
+| Varázslat              | Iskola        | Special |
+| ---------------------- | ------------- | ------- |
+| Animate Objects        | Transmutation | C       |
+| Bigby's Hand           | Evocation     | C       |
+| Cloudkill              | Conjuration   | C       |
+| Cone of Cold           | Evocation     | —       |
+| Creation               | Illusion      | —       |
+| Dominate Person        | Enchantment   | C       |
+| Hold Monster           | Enchantment   | C       |
+| Insect Plague          | Conjuration   | C       |
+| Seeming                | Illusion      | —       |
+| Synaptic Static        | Enchantment   | —       |
+| Telekinesis            | Transmutation | C       |
+| Teleportation Circle   | Conjuration   | M       |
+| Wall of Stone          | Evocation     | C       |
+
+---
+
+### 6. szintű Varázslói Varázslatok
+| Varázslat                  | Iskola        | Special |
+| -------------------------- | ------------- | ------- |
+| Arcane Gate               | Conjuration   | C       |
+| Chain Lightning           | Evocation     | —       |
+| Circle of Death           | Necromancy    | M       |
+| Disintegrate              | Transmutation | —       |
+| Eyebite                   | Necromancy    | C       |
+| Flesh to Stone            | Transmutation | C       |
+| Globe of Invulnerability  | Abjuration    | C       |
+| Mass Suggestion           | Enchantment   | —       |
+| Move Earth                | Transmutation | C       |
+| Otiluke's Freezing Sphere | Evocation     | —       |
+| Sunbeam                   | Evocation     | C       |
+| True Seeing               | Divination    | M       |
+
+---
+
+### 7. szintű Varázslói Varázslatok
+| Varázslat              | Iskola        | Special |
+| ---------------------- | ------------- | ------- |
+| Delayed Blast Fireball | Evocation     | C       |
+| Etherealness           | Conjuration   | —       |
+| Finger of Death        | Necromancy    | —       |
+| Fire Storm             | Evocation     | —       |
+| Plane Shift            | Conjuration   | M       |
+| Prismatic Spray        | Evocation     | —       |
+| Reverse Gravity        | Transmutation | C       |
+| Teleport               | Conjuration   | —       |
+
+---
+
+### 8. szintű Varázslói Varázslatok
+| Varázslat         | Iskola        | Special |
+| ----------------- | ------------- | ------- |
+| Demiplane         | Conjuration   | —       |
+| Dominate Monster  | Enchantment   | C       |
+| Earthquake        | Transmutation | C       |
+| Incendiary Cloud  | Conjuration   | C       |
+| Power Word Stun   | Enchantment   | —       |
+| Sunburst          | Evocation     | —       |
+
+---
+
+### 9. szintű Varázslói Varázslatok
+| Varázslat        | Iskola        | Special |
+| ---------------- | ------------- | ------- |
+| Gate             | Conjuration   | C, M    |
+| Meteor Swarm     | Evocation     | —       |
+| Power Word Kill  | Enchantment   | —       |
+| Time Stop        | Transmutation | —       |
+| Wish             | Conjuration   | —       |
+
+---
+
+## Varázsló Alkasztok
+
+A következő Varázsló alosztályok érhetők el:
+
+- [[Player Options/Classes/Sorcerer/Sorcerer_SubClasses/Aberrant Sorcery\|Aberrant Sorcery]](Aberrant Sorcery)
+- [[Player Options/Classes/Sorcerer/Sorcerer_SubClasses/Clockwork Soul\|Clockwork Soul]](Clockwork Soul)
+- [[Player Options/Classes/Sorcerer/Sorcerer_SubClasses/Draconic Sorcery\|Draconic Sorcery]](Draconic Sorcery)
+- [[Player Options/Classes/Sorcerer/Sorcerer_SubClasses/Wild Magic Sorcery\|Wild Magic Sorcery]](Wild Magic Sorcery)
+- [[Player Options/Classes/Sorcerer/Sorcerer_SubClasses/Spellfire Sorcery\|Spellfire Sorcery]](Spellfire Sorcery)
+- [[Player Options/Classes/Sorcerer/Sorcerer_SubClasses/Shadow Sorcerer\|Shadow Sorcerer]](Shadow Sorcerer)
+
+---

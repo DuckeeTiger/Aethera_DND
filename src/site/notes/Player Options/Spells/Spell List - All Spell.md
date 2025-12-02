@@ -140,7 +140,7 @@
 | 135 | [[Fear\|Fear]]                               | 3rd     | Action    | Illusion      | no     | V, S, M    | yes           |
 | 136 | [[Feather Fall\|Feather Fall]]                       | 1st     | Reaction  | Transmutation | no     | V, M       | no            |
 | 137 | [[Feign Death\|Feign Death]]                        | 3rd     | Action    | Necromancy    | yes    | V, S, M    | no            |
-| 138 | [[Find Familiar\|Find Familiar]]                      | 1st     | 1 Hr.     | Conjuration   | yes    | V, S, M    | no            |
+| 138 | [[Player Options/Spells/Detailed Spells/Find Familiar\|Find Familiar]]                      | 1st     | 1 Hr.     | Conjuration   | yes    | V, S, M    | no            |
 | 139 | [[Find Steed\|Find Steed]]                         | 2nd     | Action    | Conjuration   | no     | V, S       | no            |
 | 140 | [[Find Traps\|Find Traps]]                         | 2nd     | Action    | Divination    | no     | V, S       | no            |
 | 141 | [[Find the Path\|Find the Path]]                      | 6th     | 1 Min.    | Divination    | no     | V, S, M    | yes           |
@@ -322,7 +322,7 @@
 | 318 | [[Slow\|Slow]]                               | 3rd     | Action    | Transmutation | no     | V, S, M    | yes           |
 | 319 | [[Sorcerous Burst\|Sorcerous Burst]]                    | Cantrip | Action    | Evocation     | no     | V, S       | no            |
 | 320 | [[Spare the Dying\|Spare the Dying]]                    | Cantrip | Action    | Necromancy    | no     | V, S       | no            |
-| 321 | [[Speak with Animals\|Speak with Animals]]                 | 1st     | Action    | Divination    | yes    | V, S       | no            |
+| 321 | [[Player Options/Spells/Detailed Spells/Speak with Animals\|Speak with Animals]]                 | 1st     | Action    | Divination    | yes    | V, S       | no            |
 | 322 | [[Speak with Dead\|Speak with Dead]]                    | 3rd     | Action    | Necromancy    | no     | V, S, M    | no            |
 | 323 | [[Speak with Plants\|Speak with Plants]]                  | 3rd     | Action    | Transmutation | no     | V, S       | no            |
 | 324 | [[Spider Climb\|Spider Climb]]                       | 2nd     | Action    | Transmutation | no     | V, S, M    | yes           |

@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/alter-self/"}
 ---
 
+<!--lang:en-->
+# Alter Self
+
 *2nd level Transmutation ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
 **Casting Time:** Action
 **Range:** Self
@@ -15,16 +18,18 @@ You alter your physical form. Choose one of the following options. Its effects l
 
 ---
 
-
-#### Alakváltás
+<!--lang:hu-->
+# Alakváltás *(Alter Shelf)*
 
 *2. szintű Átváltoztatás ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
-**Varázslási Idő:** Akció
-**Hatótáv:** Önmagad
-**Összetevők:** V, S
+**Varázslási Idő:** Akció  
+**Hatótáv:** Önmagad  
+**Összetevők:** V, S  
 **Időtartam:** Koncentráció, legfeljebb 1 óra
 
 Megváltoztatod a fizikai formádat. Válassz az alábbi lehetőségek közül. Hatásai az időtartamra szólnak, mely alatt egy Mágikus akcióval lecserélheted a választott opciót egy másikra.
 - **Vízi Adaptáció.** Kopoltyúkat növesztesz és úszóhártyák nőnek az ujjaid között. Képes vagy víz alatt lélegezni, és úszási sebességed megegyezik a sebességeddel.
 - **Megjelenés Változtatása.** Megváltoztatod a megjelenésedet. Te döntöd el, hogyan nézel ki, beleértve a magasságodat, súlyodat, arcvonásaidat, hangod tónusát, hajad hosszát, színét és egyéb megkülönböztető jegyeidet. Megjelenhetsz egy másik faj tagjaként, bár a statisztikáid nem változnak. Nem jelenhetsz meg más méretű lényként, és az alapvető alakod változatlan marad; ha kétlábú vagy, nem használhatod ezt a varázslatot, hogy négylábúvá válj például. Az időtartamra egy Mágikus akcióval újra megváltoztathatod a megjelenésedet.
 - **Természetes Fegyverek.** Karmokat (Vágó), agyarakat (Szúró), szarvakat (Szúró) vagy patákat (Zúzó) növesztesz. Amikor Fegyvertelen Támadásodat használod az új növekménnyel sebzés okozására, az 1d6 sebzést okoz a zárójelben lévő típusból, a Fegyvertelen Támadásod normál sebzése helyett, és a varázslási képességed módosítóját használod a támadási és sebzési dobásokhoz az Erő helyett.
+
+---

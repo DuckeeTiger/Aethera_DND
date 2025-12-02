@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-permalink":"warlock","permalink":"/warlock/"}
 ---
 
+<!--lang:en-->
+# Warlock
 *An Occultist Empowered by Otherworldly Pacts*
 
 Warlocks quest for knowledge that lies hidden in the fabric of the multiverse. They often begin their search for magical power by delving into tomes of forbidden lore, dabbling in invocations meant to attract the power of extraplanar beings, or seeking places of power where the influence of these beings can be felt. In no time, each Warlock is drawn into a binding pact with a powerful patron. Drawing on the ancient knowledge of beings such as angels, archfey, demons, devils, hags, and alien entities of the Far Realm, Warlocks piece together arcane secrets to bolster their own power.
@@ -439,3 +441,525 @@ A Warlock subclass is a specialization that grants you features at certain Warlo
 - [[Player Options/Classes/Warlock/Warlock_SubClasses/Fiend Patron\|Fiend Patron]]
 - [[Player Options/Classes/Warlock/Warlock_SubClasses/Great Old One Patron\|Great Old One Patron]]
 - [[Player Options/Classes/Warlock/Warlock_SubClasses/Hexblade Patron\|Hexblade Patron]]
+
+---
+
+<!--lang:hu-->
+# Boszorkánymester (*Warlock*)
+*Egy Okkultista, akit Másvilági Paktumok Hatalmaznak Fel*
+
+A boszorkánymesterek olyan tudást kutatnak, amely a multiverzum szövetébe rejtve lapul. Gyakran tiltott tudás könyveibe merülve, másvilági lények figyelmét vonzó invokációkat gyakorolva vagy olyan helyeket keresve indulnak el, ahol ezeknek a lényeknek az ereje érzékelhető. Hamarosan mindegyik Boszorkánymester kapcsolatba kerül egy erős patrónussal, és velük kötött paktum adja mágikus hatalmuk forrását.
+
+A Boszorkánymesterek patrónusukat eszközként látják — egy útnak a mágikus hatalomhoz. Néhányan tisztelik vagy szeretik patrónusukat, mások kelletlenül szolgálják, megint mások pedig igyekeznek aláásni őket, miközben erejüket használják.
+
+Miután a paktum létrejött, a tudás és hatalom utáni vágy soha nem csillapodik. A legtöbb Boszorkánymester élete a még mélyebb titkok és nagyobb hatalom kereséséről szól — ami gyakran kalandhoz vezet.
+
+---
+
+## A Boszorkánymester Alaptulajdonságai
+
+| Core Warlock Traits | < |
+| :------------------ | :- |
+| **Elsődleges Főjellemző** | Karizma |
+| **Életerő Kocka** | D8 minden Boszorkánymester szint után |
+| **Mentődobás Jártasság** | Bölcsesség és Karizma |
+| **Képzettségek** | Válassz 2-t: Arcana, Deception, History, Intimidation, Investigation, Nature vagy Religion |
+| **Fegyver Jártasság** | Egyszerű fegyverek |
+| **Eszköz Jártasság** | Nincs |
+| **Páncélképzettség** | Könnyű páncél |
+| **Kezdő Felszerelés** | Válassz A vagy B opciót: (A) Bőr páncél, Sarló, 2 Tőr, Arkán Fókusz (gömb), Könyv (okkult tudás), Tudós Felszerelés, 15 GP; vagy (B) 100 GP |
+
+---
+
+## Boszorkánymester Lesz
+
+#### Kezdőkarakterként (1. szint):
+- Megkapod az összes tulajdonságot a **Boszorkánymester Alaptulajdonságai** táblából.
+- Megkapod az 1. szintű Boszorkánymester képességeket, amelyeket a **Boszorkánymester Képességek** táblázat tartalmaz.
+
+#### Többkasztos karakterként:
+- Megkapod az Életerő Kockát és a Könnyű páncélzat jártasságát.
+- Megkapod az 1. szintű Boszorkánymester képességeket. A varázslathelyek számát a multiclass szabályok alapján határozzák meg.
+
+---
+
+## Boszorkánymester Osztályképességek
+
+| Szint | Jártassági Bónusz | Osztályképességek | Eldritch Invocations | Cantrips | Elkészített Varázslatok |
+|------|------------------|------------------|----------------------|----------|--------------------------|
+| 1 | +2 | Eldritch Invocations, Pact Magic | 1 | 2 | 2 |
+| 2 | +2 | Magical Cunning | 3 | 2 | 3 |
+| 3 | +2 | Warlock Subclass | 3 | 2 | 4 |
+| 4 | +2 | Képességpont Növelés | 3 | 3 | 5 |
+| 5 | +3 | — | 5 | 3 | 6 |
+| 6 | +3 | Alkaszt képesség | 5 | 3 | 7 |
+| 7 | +3 | — | 6 | 3 | 8 |
+| 8 | +3 | Képességpont Növelés | 6 | 3 | 9 |
+| 9 | +4 | Contact Patron | 7 | 3 | 10 |
+| 10 | +4 | Alkaszt képesség | 7 | 4 | 10 |
+| 11 | +4 | Mystic Arcanum (6. szintű varázslat) | 7 | 4 | 11 |
+| 12 | +4 | Képességpont Növelés | 8 | 4 | 11 |
+| 13 | +5 | Mystic Arcanum (7. szintű varázslat) | 8 | 4 | 12 |
+| 14 | +5 | Alkaszt képesség | 8 | 4 | 12 |
+| 15 | +5 | Mystic Arcanum (8. szintű varázslat) | 9 | 4 | 13 |
+| 16 | +5 | Képességpont Növelés | 9 | 4 | 13 |
+| 17 | +6 | Mystic Arcanum (9. szintű varázslat) | 9 | 4 | 14 |
+| 18 | +6 | — | 10 | 4 | 14 |
+| 19 | +6 | Epic Boon | 10 | 4 | 15 |
+| 20 | +6 | Eldritch Master | 10 | 4 | 15 |
+
+---
+
+### 1. szint: Eldritch Invocations
+Tiltott tudás töredékeit tártad fel — olyan invokációkat, amelyek maradandó mágiát vagy más különleges képességet adnak neked. Egy tetszőleges invokációval kezded (például a *Pact of the Tome*).
+
+**Előfeltételek:** Ha egy invokációnak követelménye van (pl. min. 5. szintű Boszorkánymester), akkor csak akkor tanulhatod meg.
+
+**Cserélés:** Minden szintlépéskor lecserélhetsz egy invokációt másikra, ha megfelelsz a követelményeinek. Nem cserélheted le, ha egy másik általad ismert invokáció előfeltétele.
+
+Nem választhatod ugyanazt az invokációt többször, hacsak a leírása másképp nem rendelkezik.
+
+---
+
+### 1. szint: Pact Magic
+Okult szertartás révén paktumot kötöttél egy titokzatos entitással. E paktum konkrét ereje: varázslatok használata.
+
+**Cantrip-ek:** 2 Boszorkánymester cantripet ismersz. Minden szintlépéskor lecserélhetsz egyet.
+
+**Varázslathelyek:** Csak 1–5. szint közötti varázslataid vannak, és minden Pact Magic varázslathelyed ugyanolyan szintű.  
+A Boszorkánymester táblázat mutatja az aktuális slotok szintjét.  
+Minden Short vagy Long Rest után visszanyered az összeset.
+
+**Elkészített varázslatok:**  
+Először 2 darab 1. szintű Boszorkánymester varázslatot készítesz elő. A szám növekszik, ahogy szinted nő.
+
+Tetszőleges Warlock varázslatot választhatsz, amelynek szintje nem magasabb, mint amit a táblázat Slot Level oszlopa mutat.
+
+**Csere:** Szintlépéskor lecserélhetsz egy előkészített varázslatot egy másikra.
+
+**Varázsló Fókusz:** Használhatsz Arcane Focus-t fókuszként.
+
+---
+
+### 2. szint: Magical Cunning
+Egy 1 perces szertartással visszanyerhetsz elköltött Pact Magic varázslathelyeket — legfeljebb a maximális slotjaid felét (felfelé kerekítve).  
+Egyszer használhatod Long Restenként.
+
+---
+
+### 3. szint: Boszorkánymester Alkaszt
+Válassz egy alkasztot (patront). A későbbiekben minden alkasztképességet megkapsz, amikor eléred a megfelelő szintet.
+
+---
+
+### 4. szint: Képességpont Növelés
+Növelhetsz képességpontot vagy választhatsz egy featet.  
+8., 12. és 16. szinten újra megkapod.
+
+---
+
+### 9. szint: Contact Patron
+Mostantól közvetlenül kommunikálhatsz patrónusoddal.  
+Mindig előkészítve van a *Contact Other Plane* varázslat, amit Slot nélkül is elvarázsolhatsz, és automatikusan sikerül a mentődobásod.
+
+Egyszer használhatod Long Restenként.
+
+---
+
+### 11. szint: Mystic Arcanum
+Patrónusod egy mágikus titkot, úgynevezett arcanumot ad neked.  
+Válassz egy 6. szintű Warlock varázslatot, amit slot nélkül elvarázsolhatsz egyszer Long Restenként.
+
+Később újabb arcanumokat kapsz (13. szint – 7. szintű varázslat; 15. szint – 8. szint; 17. szint – 9. szint).
+
+Minden szintlépéskor kicserélheted az arcanumodat egy másik azonos szintű Warlock varázslatra.
+
+---
+
+### 19. szint: Epic Boon
+Szerezz egy Epic Boon featet (vagy más, előfeltételnek megfelelő featet).
+
+---
+
+### 20. szint: Eldritch Master
+Ha használod a Magical Cunning képességet, **az összes** Pact Magic slotodat visszanyered.
+
+---
+
+
+## Boszorkánymester Eldritch Invocation Lehetőségek
+
+### Agonizing Blast
+*Előfeltétel: 2+ szintű Boszorkánymester, egy Boszorkánymester cantrip, amely sebzést okoz*
+
+Válassz egy ismert Warlock cantripet, amely sebzést okoz. A varázslat sebzési dobásához hozzáadhatod a Karizma módosítódat.
+
+**Ismételhető.** Újra felveheted, másik ilyen cantripre.
+
+---
+
+### Armor of Shadows
+A *Mage Armor* varázslatot magadra tudod varázsolni slot nélkül.
+
+---
+
+### Ascendant Step
+*Előfeltétel: 5+ szintű Boszorkánymester*
+
+A *Levitate* varázslatot önmagadra slot nélkül varázsolhatod.
+
+---
+
+### Devil’s Sight
+*Előfeltétel: 2+ szintű Boszorkánymester*
+
+120 láb távolságig normálisan látsz félhomályban és mágikus/nem mágikus sötétben is.
+
+---
+
+### Devouring Blade
+*Előfeltétel: 12+ szintű Boszorkánymester, Thirsting Blade invokáció*
+
+A Thirsting Blade által adott Extra Attack **két** plusz támadást biztosít, nem egyet.
+
+---
+
+### Eldritch Mind
+Előnyt kapsz minden **Koncentrációt fenntartó** Konstitúció mentődobáson.
+
+---
+
+### Eldritch Smite
+*Előfeltétel: 5+ szint, Pact of the Blade invokáció*
+
+Körönként egyszer, amikor a paktumfegyvereddel eltalálsz egy célpontot, elköthetsz egy Pact Magic slotot, hogy extra sebzést okozz:
+
+- 1d8 Erő (Force) sebzés + minden slot szint után további 1d8  
+- A célpont ha Huge méretű vagy kisebb, **Prone** állapotba kerülhet
+
+---
+
+### Eldritch Spear
+*Előfeltétel: 2+ szintű Boszorkánymester, sebző cantrip 10+ láb hatótávval*
+
+A kiválasztott cantrip hatótávja megnő:  
+**30 × (Boszorkánymester szinted)** lábbal.
+
+**Ismételhető.**
+
+---
+
+### Fiendish Vigor
+*Előfeltétel: 2+ szintű Boszorkánymester*
+
+A *False Life* varázslatot slot nélkül önmagadra varázsolhatod, a sebzéskocka maximális értékével.
+
+---
+
+### Gaze of Two Minds
+*Előfeltétel: 5+ szintű Boszorkánymester*
+
+Bonus Actionnel megérintesz egy hajlandó lényt, és a köröd végéig az ő érzékein keresztül érzékelsz.  
+Fenntarthatod újabb Bonus Actionökkel.
+
+A lény speciális érzékeit is megkapod, és varázsolhatsz úgy, mintha a te helyeden vagy az ő helyén állnál (ha max. 60 lábon belül vagytok).
+
+---
+
+### Gift of the Depths
+*Előfeltétel: 5+ szintű Boszorkánymester*
+
+- Tudsz víz alatt lélegezni.  
+- Úszási sebességed megegyezik a gyalogos sebességeddel.  
+- A *Water Breathing* varázslatot egyszer slot nélkül használhatod (Long Restenként).
+
+---
+
+### Gift of the Protectors
+*Előfeltétel: 9+ szintű Boszorkánymester, Pact of the Tome*
+
+A Book of Shadows egy új lapot kap. Egy lény Actiont használva ráírhatja a nevét (max. Karizma módosítónyi név).
+
+Ha egy rajta szereplő lény 0 HP-ra esne, akkor **1 HP-ra** esik vissza, kivéve ha egy csapás megöli.  
+Ez Long Restig egyszer működik.
+
+A nevet Magic Actionnel törölheted.
+
+---
+
+### Investment of the Chain Master
+*Előfeltétel: 5+ szintű Boszorkánymester, Pact of the Chain*
+
+A familiárod a következő bónuszokat kapja:
+
+- **Repülési vagy Úszási sebesség**: 40 láb  
+- **Quick Attack**: Bonus Actionnel támadhat  
+- **Sebzéstípus módosítása**: A familiáris fizikai sebzést okozhat Nekrotikus/Radiáns típusban  
+- **Mentődobás DC**: A te Spell Save DC-d  
+- **Resistance**: Reakcióval sebezhetetlenné teszed a sebzés feléig
+
+---
+
+### Lessons of the First Ones
+*Előfeltétel: 2+ szintű Boszorkánymester*
+
+Megtanulsz egy tetszőleges **Origin featet**.
+
+**Ismételhető.**
+
+---
+
+### Lifedrinker
+*Előfeltétel: 9+ szintű Boszorkánymester, Pact of the Blade*
+
+Körönként egyszer, amikor eltalálsz egy lényt a paktumfegyverrel:
+
+- extra **1d6** Necrotic / Psychic / Radiant sebzést okozol (választásod szerint)  
+- elköthető egy Hit Die, és visszanyersz annyi HP-t, amennyi a dobásod + CON módosítód
+
+---
+
+### Mask of Many Faces
+*Előfeltétel: 2+ szintű Boszorkánymester*
+
+A *Disguise Self* varázslatot slot nélkül használhatod.
+
+---
+
+### Master of Myriad Forms
+*Előfeltétel: 5+ szint*
+
+Az *Alter Self* varázslatot slot nélkül használhatod.
+
+---
+
+### Misty Visions
+*Előfeltétel: 2+ szint*
+
+A *Silent Image* varázslatot slot nélkül használhatod.
+
+---
+
+### One with Shadows
+*Előfeltétel: 5+ szint*
+
+Félhomályban vagy sötétben slot nélkül varázsolhatod az *Invisibility* varázslatot magadra.
+
+---
+
+### Otherworldly Leap
+*Előfeltétel: 2+ szint*
+
+A *Jump* varázslatot slot nélkül magadra varázsolhatod.
+
+---
+
+### Pact of the Blade
+Bonus Actionnel paktumfegyvert idézhetsz — bármely egyszerű vagy harci közelharci fegyvert, vagy mágikus fegyverrel köthetsz kapcsolatot.
+
+- A fegyverrel jártasságot kapsz  
+- A fegyver lehet **Spellcasting Focus**  
+- A támadás/dmg dobások Karizmát használhatnak  
+- Sebzéstípusát átválthatod: Necrotic / Psychic / Radiant
+
+A kapcsolat megszűnik, ha új fegyvert kötöd, ha a fegyver > 5 lábra kerül tőled 1 percre, vagy ha meghalsz.
+
+---
+
+### Pact of the Chain
+Megtanulod a *Find Familiar* varázslatot, Magic Actionnel slot nélkül használhatod.
+
+Speciális familiárisok elérhetők:  
+Imp, Pseudodragon, Quasit, Skeleton, Slaad Tadpole, Sphinx of Wonder, Sprite, Venomous Snake.
+
+Továbbá: az Attack action alatt feláldozhatod egyik támadásod, hogy a familiáris támadjon a Reactionjével.
+
+---
+
+### Pact of the Tome
+Rövid vagy Hosszú Pihenő végén előidézed a **Book of Shadows**-t.
+
+- **3 cantripet**, és **2 rituális 1. szintű varázslatot** választasz bármely listáról  
+- Ezek előkészítve lesznek, és Warlock varázslatként funkcionálnak  
+- A könyv Spellcasting Focusként is használható
+
+---
+
+### Repelling Blast
+*Előfeltétel: 2+ szintű Boszorkánymester, sebző cantrip támadódobással*
+
+Ha eltalálsz egy Large vagy kisebb lényt a választott cantrippel, 10 lábbal hátralökheted.
+
+**Ismételhető.**
+
+---
+
+### Thirsting Blade
+*Előfeltétel: 5+ szint, Pact of the Blade*
+
+Extra Attack képességet kapsz — **csak a paktumfegyverhez**.
+
+---
+
+### Visions of Distant Realms
+*Előfeltétel: 9+ szint*
+
+Az *Arcane Eye* varázslatot slot nélkül varázsolhatod.
+
+---
+
+### Whispers of the Grave
+*Előfeltétel: 7+ szint*
+
+A *Speak with Dead* varázslatot slot nélkül használhatod.
+
+---
+
+### Witch Sight
+*Előfeltétel: 15+ szint*
+
+**Látótávolságod 30 láb Truesight**.
+
+---
+
+## Boszorkánymester Varázslatlista
+
+### Warlock Cantrips (0. szint)
+| Spell | School | Special |
+|-------|---------|---------|
+| Blade Ward | Abjuration | — |
+| Chill Touch | Necromancy | — |
+| Eldritch Blast | Evocation | — |
+| Mage Hand | Conjuration | — |
+| Minor Illusion | Illusion | — |
+| Poison Spray | Conjuration | — |
+| Prestidigitation | Transmutation | — |
+| True Strike | Divination | — |
+
+---
+
+### 1. szintű Warlock varázslatok
+| Spell | School | Special |
+|-------|---------|---------|
+| [[Player Options/Spells/Detailed Spells/Armor of Agathys\|Armor of Agathys]] | Abjuration | — |
+| [[Player Options/Spells/Detailed Spells/Arms of Hadar\|Arms of Hadar]] | Conjuration | — |
+| [[Player Options/Spells/Detailed Spells/Charm Person\|Charm Person]] | Enchantment | — |
+| [[Player Options/Spells/Detailed Spells/Comprehend Languages\|Comprehend Languages]] | Divination | R |
+| [[Expeditious Retreat\|Expeditious Retreat]] | Transmutation | C |
+| [[Hellish Rebuke\|Hellish Rebuke]] | Evocation | — |
+| [[Illusory Script\|Illusory Script]] | Illusion | R |
+| [[Protection from Evil and Good\|Protection from Evil and Good]] | Abjuration | C |
+| [[Unseen Servant\|Unseen Servant]] | Conjuration | R |
+| [[Witch Bolt\|Witch Bolt]] | Evocation | C |
+
+---
+
+### 2. szintű Warlock varázslatok
+| Spell | School | Special |
+|-------|---------|---------|
+| [[Darkness\|Darkness]] | Evocation | C |
+| [[Enthrall\|Enthrall]] | Enchantment | — |
+| [[Hold Person\|Hold Person]] | Enchantment | C |
+| [[Invisibility\|Invisibility]] | Illusion | C |
+| [[Mirror Image\|Mirror Image]] | Illusion | — |
+| [[Misty Step\|Misty Step]] | Conjuration | — |
+| [[Ray of Enfeeblement\|Ray of Enfeeblement]] | Necromancy | C |
+| [[Shatter\|Shatter]] | Evocation | — |
+| [[Spider Climb\|Spider Climb]] | Transmutation | C |
+| [[Suggestion\|Suggestion]] | Enchantment | C |
+
+---
+
+### 3. szintű Warlock varázslatok
+| Spell | School | Special |
+|-------|---------|---------|
+| [[Player Options/Spells/Detailed Spells/Counterspell\|Counterspell]] | Abjuration | — |
+| [[Dispel Magic\|Dispel Magic]] | Abjuration | — |
+| [[Fear\|Fear]] | Illusion | C |
+| [[Fly\|Fly]] | Transmutation | C |
+| [[Gaseous Form\|Gaseous Form]] | Transmutation | C |
+| [[Hypnotic Pattern\|Hypnotic Pattern]] | Illusion | C |
+| [[Magic Circle\|Magic Circle]] | Abjuration | M |
+| [[Major Image\|Major Image]] | Illusion | C |
+| [[Remove Curse\|Remove Curse]] | Abjuration | — |
+| [[Tongues\|Tongues]] | Divination | — |
+| [[Vampiric Touch\|Vampiric Touch]] | Necromancy | C |
+
+---
+
+### 4. szintű Warlock varázslatok
+| Spell | School | Special |
+|-------|---------|---------|
+| [[Player Options/Spells/Detailed Spells/Banishment\|Banishment]] | Abjuration | C |
+| [[Player Options/Spells/Detailed Spells/Blight\|Blight]] | Necromancy | — |
+| [[Dimension Door\|Dimension Door]] | Conjuration | — |
+| [[Hallucinatory Terrain\|Hallucinatory Terrain]] | Illusion | C |
+
+---
+
+### 5. szintű Warlock varázslatok
+| Spell | School | Special |
+|-------|---------|---------|
+| [[Player Options/Spells/Detailed Spells/Contact Other Plane\|Contact Other Plane]] | Divination | R |
+| [[Dream\|Dream]] | Illusion | — |
+| [[Hold Monster\|Hold Monster]] | Enchantment | C |
+| [[Scrying\|Scrying]] | Divination | C, M |
+
+---
+
+### 6. szintű Warlock varázslatok
+| Spell | School | Special |
+|-------|---------|---------|
+| [[Player Options/Spells/Detailed Spells/Circle of Death\|Circle of Death]] | Necromancy | — |
+| [[Player Options/Spells/Detailed Spells/Conjure Fey\|Conjure Fey]] | Conjuration | C |
+| [[Player Options/Spells/Detailed Spells/Create Undead\|Create Undead]] | Necromancy | — |
+| [[Eyebite\|Eyebite]] | Enchantment | C |
+| [[Flesh to Stone\|Flesh to Stone]] | Transmutation | C |
+| [[Mass Suggestion\|Mass Suggestion]] | Enchantment | C |
+| [[True Seeing\|True Seeing]] | Divination | M |
+
+---
+
+### 7. szintű Warlock varázslatok
+| Spell | School | Special |
+|-------|---------|---------|
+| [[Etherealness\|Etherealness]] | Transmutation | — |
+| [[Finger of Death\|Finger of Death]] | Necromancy | — |
+| [[Forcecage\|Forcecage]] | Evocation | M |
+| [[Plane Shift\|Plane Shift]] | Conjuration | M |
+
+---
+
+### 8. szintű Warlock varázslatok
+| Spell | School | Special |
+|-------|---------|---------|
+| [[Demiplane\|Demiplane]] | Conjuration | — |
+| [[Dominate Monster\|Dominate Monster]] | Enchantment | C |
+| [[Feeblemind\|Feeblemind]] | Enchantment | — |
+| [[Glibness\|Glibness]] | Transmutation | — |
+| [[Power Word Stun\|Power Word Stun]] | Enchantment | — |
+
+---
+
+### 9. szintű Warlock varázslatok
+| Spell | School | Special |
+|-------|---------|---------|
+| [[Player Options/Spells/Detailed Spells/Astral Projection\|Astral Projection]] | Necromancy | M |
+| [[Foresight\|Foresight]] | Divination | M |
+| [[Imprisonment\|Imprisonment]] | Abjuration | M |
+| [[Power Word Kill\|Power Word Kill]] | Enchantment | — |
+| [[True Polymorph\|True Polymorph]] | Transmutation | C |
+
+---
+
+## Warlock Alkasztok (Patrons)
+A Boszorkánymester alkaszt egy patrónushoz kötött specializációt jelent.
+
+- [[Player Options/Classes/Warlock/Warlock_SubClasses/Archfey Patron\|Archfey Patron]](Archfey Patron)
+- [[Player Options/Classes/Warlock/Warlock_SubClasses/Celestial Patron\|Celestial Patron]](Celestial Patron)
+- [[Player Options/Classes/Warlock/Warlock_SubClasses/Fiend Patron\|Fiend Patron]](Fiend Patron)
+- [[Player Options/Classes/Warlock/Warlock_SubClasses/Great Old One Patron\|Great Old One Patron]](Great Old One Patron)
+- [[Player Options/Classes/Warlock/Warlock_SubClasses/Hexblade Patron\|Hexblade Patron]](Hexblade Patron)
+
+---
+

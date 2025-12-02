@@ -7,10 +7,10 @@
 Barbarians who follow the Path of the Wild Heart view themselves as kin to the animal inhabitants of the natural world. They learn magical means to connect and communicate with animals, and their Rage heightens their connection to animals as it fills them with supernatural might.
 
 #### Level 3: Animal Speaker
-You can cast the _[[Player Options/Spells/Detailed Spells/Beast Sense\|Beast Sense]]_ and _[[Speak with Animals\|Speak with Animals]]_ spells, but only as Rituals. Wisdom is your spellcasting ability for them.
+You can cast the _[[Player Options/Spells/Detailed Spells/Beast Sense\|Beast Sense]]_ and _[[Player Options/Spells/Detailed Spells/Speak with Animals\|Speak with Animals]]_ spells, but only as Rituals. Wisdom is your spellcasting ability for them.
 
 #### Level 3: Rage of the Wilds
-Your Rage taps into the primal power of animals. Whenever you activate your Rage, you gain one of the follwing options of your choice.
+Your Rage taps into the primal power of animals. Whenever you activate your Rage, you gain one of the follwoing options of your choice.
 
 - **Bear:** While your Rage is active, you have Resistance to every damage type except Force, Necrotic, Psychic, and Radiant.
 - **Eagle:** When you activate your Rage, you can take the Disengage and Dash actions as part of that Bonus Action. While your Rage is active, you can take a Bonus Action to take both of those actions.

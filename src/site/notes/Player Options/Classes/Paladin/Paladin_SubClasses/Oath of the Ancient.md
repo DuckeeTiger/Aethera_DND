@@ -18,7 +18,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells                                       |
 | ------------- | -------------------------------------------- |
-| 3             | [[Ensnaring Strike\|Ensnaring Strike]], [[Speak with Animals\|Speak with Animals]] |
+| 3             | [[Ensnaring Strike\|Ensnaring Strike]], [[Player Options/Spells/Detailed Spells/Speak with Animals\|Speak with Animals]] |
 | 5             | [[Misty Step\|Misty Step]], [[Moonbeam\|Moonbeam]]                 |
 | 9             | [[Plant Growth\|Plant Growth]], [[Protection from Energy\|Protection from Energy]] |
 | 13            | [[Ice Storm\|Ice Storm]], [[Stoneskin\|Stoneskin]]                 |

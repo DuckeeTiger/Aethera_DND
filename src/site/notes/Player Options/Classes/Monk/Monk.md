@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-permalink":"monk","permalink":"/monk/"}
 ---
 
+<!--lang:en-->
+# Monk
 *A Martial Artist of Supernatural Focus*
 
 Monks use rigorous combat training and mental discipline to align themselves with the multiverse and focus their internal reservoirs of power. Different Monks conceptualize this power in various ways: as breath, energy, life force, essence, or self, for example. Whether channeled as a striking display of martial prowess or as a subtler manifestation of defense and speed, this power infuses all that a Monk does. 
@@ -181,3 +183,197 @@ A Monk subclass is a specialization that grants you features at certain Monk lev
 - [[Player Options/Classes/Monk/Monk_SubClasses/Warrior of Mercy\|Warrior of Mercy]]
 - [[Player Options/Classes/Monk/Monk_SubClasses/Warrior of Shadow\|Warrior of Shadow]]
 - [[Player Options/Classes/Monk/Monk_SubClasses/Warrior of Elements\|Warrior of Elements]]
+
+---
+
+<!--lang:hu-->
+# Szerzetes (*Monk*)
+*A természetfeletti fókusz harcművésze*
+
+A szerzetesek szigorú harci kiképzést és mentális fegyelmet alkalmaznak, hogy összhangba kerüljenek a multiverzummal és belső erejük forrásával. Ezt az erőt különbözőképpen értelmezik: leheletként, energiaként, életerőként, esszenciaként vagy a „belső énjükként”. Legyen ez az erő egy látványos harci megnyilvánulás vagy a védekezés és sebesség finom kifejezése, minden szerzetes tetteiben jelen van.
+
+A szerzetesek belső erejüket rendkívüli, sőt természetfeletti hatások létrehozására használják. Fegyverrel vagy puszta kézzel egyaránt képesek villámgyors és erőteljes csapásokat mérni. Egy szerzetes kezében még a legegyszerűbb fegyver is kifinomult harci eszközzé válik.
+
+Sok szerzetes úgy találja, hogy a visszavonult, aszketikus életstílus segíti őket a testi és szellemi fókusz fejlesztésében. Mások úgy gondolják, hogy a világ nyüzsgése és káosza erősíti eltökéltségüket és fegyelmüket.
+
+A szerzetesek a kalandokat gyakran saját testi és lelki fejlődésük próbáiként élik meg. Céljuk nem csupán szörnyek legyőzése vagy kincsek megszerzése, hanem hogy élő fegyverré váljanak.
+
+| Szerzetes Alapvető Tulajdonságai | <                                                                                                                                                       |
+| :------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Elsődleges Tulajdonság**      | Ügyesség és Bölcsesség                                                                                                                                   |
+| **Életerő Kocka**                | D8 minden szerzetes szint után                                                                                                                           |
+| **Mentődobás Jártasságok**       | Erő és Ügyesség                                                                                                                                          |
+| **Képzettségek**                 | Válassz 2-t: Akrobatika, Atletika, Történelem, Észlelés (Insight), Vallás vagy Rejtőzés (Stealth)                                                        |
+| **Fegyver Jártasságok**          | Egyszerű fegyverek és könnyű tulajdonsággal rendelkező Harci (Martial) fegyverek                                                                          |
+| **Eszköz Jártasság**             | Válassz egyféle Művészszerszámot vagy Hangszert                                                                                                          |
+| **Páncél Jártasság**             | Nincs                                                                                                                                                     |
+| **Kezdő Felszerelés**            | A vagy B csomag (lásd az angol részben)                                                                                                                   |
+
+## Szerzetessé Válás
+
+##### 1. Szintű Szerzetesként
+- Megkapod a **Szerzetes Alapvető Tulajdonságai** minden elemét.
+- Megkapod a szerzetes **1. szintű osztályképességeit**, ahogy a **Szerzetes Képességek** táblázat felsorolja.
+
+##### Többosztályú Szerzetesként
+- Megkapod az Életerő Kockát.
+- Megkapod a szerzetes **1. szintű képességeit**.
+
+## Szerzetes Osztályképességek
+
+A megadott szinteken a szerzetes a következő képességeket szerzi meg.
+
+| Szint | Jártasság Bónusz | Osztályképességek                          | Harci Művészet | Fókuszpontok | Páncéltalan Mozgás |
+| ----- | ---------------- | ------------------------------------------- | -------------- | ------------ | ------------------ |
+| 1     | +2               | Harci Művészet, Páncéltalan Védelem         | 1d6            | —            | —                  |
+| 2     | +2               | Szerzetesi Fókusz, Páncéltalan Mozgás, Ritka Anyagcsere | 1d6 | 2 | +10 láb |
+| 3     | +2               | Támadások Eltérítése, Szerzetes Alosztály  | 1d6            | 3            | +10 láb            |
+| 4     | +2               | Tulajdonságfejlesztés, Lassú Esés           | 1d6            | 4            | +10 láb            |
+| 5     | +3               | Extra Támadás, Kábító Csapás               | 1d8            | 5            | +10 láb            |
+| 6     | +3               | Erősített Ütések, Alosztály Képesség       | 1d8            | 6            | +15 láb            |
+| 7     | +3               | Kitérés (Evasion)                           | 1d8            | 7            | +15 láb            |
+| 8     | +3               | Tulajdonságfejlesztés                      | 1d8            | 8            | +15 láb            |
+| 9     | +4               | Akrobatikus Mozgás                          | 1d8            | 9            | +15 láb            |
+| 10    | +4               | Fokozott Fókusz, Öngyógyítás                | 1d8            | 10           | +20 láb            |
+| 11    | +4               | Alosztály Képesség                          | 1d10           | 11           | +20 láb            |
+| 12    | +4               | Tulajdonságfejlesztés                      | 1d10           | 12           | +20 láb            |
+| 13    | +5               | Energia Eltérítése                          | 1d10           | 13           | +20 láb            |
+| 14    | +5               | Fegyelmezett Túlélő                         | 1d10           | 14           | +25 láb            |
+| 15    | +5               | Tökéletes Fókusz                            | 1d10           | 15           | +25 láb            |
+| 16    | +5               | Tulajdonságfejlesztés                      | 1d10           | 16           | +25 láb            |
+| 17    | +6               | Alosztály Képesség                          | 1d12           | 17           | +25 láb            |
+| 18    | +6               | Felsőbbrendű Védelem                        | 1d12           | 18           | +30 láb            |
+| 19    | +6               | Epikus Adomány                              | 1d12           | 19           | +30 láb            |
+| 20    | +6               | Test és Elme                                | 1d12           | 20           | +30 láb            |
+
+---
+#### 1. Szint: Harci Művészet
+A harci művészet gyakorlása révén mesterévé válsz az Ökölcsapásoknak és a Szerzetesi fegyvereknek, amelyek a következők:
+- Egyszerű közelharci fegyverek
+- Könnyű tulajdonságú Harci közelharci fegyverek
+
+Ha nem viselsz páncélt és nem tartasz Pajzsot, a következő előnyöket élvezed:
+- **_Bónusz Ökölcsapás._** Bónusz Akcióként adhatsz le egy Ökölcsapást.
+- **_Harci Művészet Kocka._** Ökölcsapásod vagy szerzetes fegyvereid sebzéséhez a szintjeiddel növekvő dobókockát használhatsz (1d6 kezdésként).
+- **_Ügyes Támadások._** Erő helyett az Ügyesség módosítódat használhatod támadásra és sebzésre. Ha Megszorítást (Grapple) vagy Lökést (Shove) alkalmazol, a mentődobás DC-je is Ügyességből számolható.
+
+---
+#### 1. Szint: Páncéltalan Védelem
+Ha nincs rajtad páncél és nem tartasz Pajzsot, az AC-d = 10 + Ügyesség + Bölcsesség módosítóid.
+
+---
+#### 2. Szint: Szerzetesi Fókusz
+Fókuszpontok formájában különleges energiát használsz, amelyekkel erősíted más szerzetesi képességeidet.
+
+Alap fókuszképességeid:
+- **_Flurry of Blows_** — 1 fókuszpontért két Ökölcsapást adsz le Bónusz Akcióként.
+- **_Patient Defense_** — Bónusz Akcióként Disengage-et hajtasz végre; 1 fókuszpontért egyszerre Disengage és Dodge.
+- **_Step of the Wind_** — Bónusz Akcióként Dash; 1 fókuszpontért Dash + Disengage, és ugrótávod megduplázódik.
+
+Fókuszpontjaid Rövid vagy Hosszú Pihenővel teljesen visszatérnek.
+
+Mentődobásokhoz szükséges DC = 8 + Bölcsesség módosító + Jártasság bónusz.
+
+---
+#### 2. Szint: Páncéltalan Mozgás
+Páncél vagy Pajzs nélkül +10 láb sebességet kapsz (szintlépésekkel nő).
+
+---
+#### 2. Szint: Ritka Anyagcsere (Uncanny Metabolism)
+Kezdeményezéskor visszanyerhetsz minden fókuszpontot, és visszagyógyítasz annyi ÉP-t, mint szerzetes szinted + Harci Művészet kockád dobása.
+
+Csak Hosszú Pihenőnként egyszer használható.
+
+---
+#### 3. Szint: Támadások Eltérítése
+Ha Bludgeoning, Piercing vagy Slashing sebzést elszenvedő támadás eltalál, Reakcióként csökkentheted a sebzést 1d10 + Ügyesség módosító + Szerzetes szint értékkel.
+
+Ha 0-ra csökkented, 1 fókuszpontért visszairányíthatod a támadást egy lényre.
+
+---
+#### 3. Szint: Szerzetes Alosztály
+Választasz egy szerzetesi alosztályt. Ezek elérhetők:
+
+- [[Player Options/Classes/Monk/Monk_SubClasses/Warrior of the Open Hand\|Warrior of the Open Hand]](Warrior of the Open Hand)
+- [[Player Options/Classes/Monk/Monk_SubClasses/Warrior of Mercy\|Warrior of Mercy]](Warrior of Mercy)
+- [[Player Options/Classes/Monk/Monk_SubClasses/Warrior of Shadow\|Warrior of Shadow]](Warrior of Shadow)
+- [[Player Options/Classes/Monk/Monk_SubClasses/Warrior of Elements\|Warrior of Elements]](Warrior of Elements)
+
+---
+#### 4. Szint: Tulajdonságfejlesztés
+Tulajdonságfejlesztést vagy képességet szerezhetsz.
+
+---
+#### 4. Szint: Lassú Esés
+Ha esel, Reakcióként a szerzetes szinted × 5 értékével csökkentheted a sebzést.
+
+---
+#### 5. Szint: Extra Támadás
+Többször (kétszer) támadhatsz egyetlen Támadás akcióval.
+
+---
+#### 5. Szint: Kábító Csapás (Stunning Strike)
+Találat esetén 1 fókuszpontot elkölthetsz, hogy a cél Konstitúciós mentőt tegyen. Sikertelen mentőnél Stunned állapot a következő körödig; sikeresnél a cél Sebessége feleződik, és ellene a következő támadás Előnyt élvez.
+
+---
+#### 6. Szint: Erősített Ütések
+Ökölcsapásaid Force sebzést okozhatnak, vagy maradhatnak az eredeti sebzéstípusnál.
+
+---
+#### 7. Szint: Kitérés (Evasion)
+Dex mentődobású terület-hatásoknál siker esetén 0 sebzés, sikertelen esetén fél sebzés.
+
+Nem működik, ha Incapacitated vagy.
+
+---
+#### 9. Szint: Akrobatikus Mozgás
+Páncél és Pajzs nélkül függőleges felületeken és vízen mozoghatsz anélkül, hogy leesnél.
+
+---
+#### 10. Szint: Fokozott Fókusz
+A három fő fókuszképességed javul:
+
+- **Flurry of Blows** — 1 pontért 3 Ökölcsapás  
+- **Patient Defense** — ideiglenes ÉP = Harci Művészet kocka * 2  
+- **Step of the Wind** — egy önkéntes L vagy kisebb lényt is vihetsz magaddal
+
+---
+#### 10. Szint: Öngyógyítás (Self-Restoration)
+Minden köröd végén eltávolíthatsz magadról 1 állapotot: Charmed, Frightened vagy Poisoned.
+
+Emellett nem kapsz Exhaustiont étel/ital hiányától.
+
+---
+#### 13. Szint: Energia Eltérítése
+Mostantól bármilyen sebzéstípus ellen használhatod a Támadások Eltérítését.
+
+---
+#### 14. Szint: Fegyelmezett Túlélő
+Minden mentődobásban jártasságot szerzel.
+
+Ha elrontasz egy mentőt, 1 fókuszpontért újradobhatod (az új eredményt kell használni).
+
+---
+#### 15. Szint: Tökéletes Fókusz
+Kezdeményezéskor, ha nem használod az Uncanny Metabolism képességet, visszanyersz fókuszpontokat 4-ig, ha 3 vagy kevesebb van.
+
+---
+#### 18. Szint: Felsőbbrendű Védelem
+Köröd kezdetén 3 fókuszpontért 1 percre minden sebzés ellen ellenállást kapsz **Force kivételével**, amíg nem leszel Incapacitated.
+
+---
+#### 19. Szint: Epikus Adomány
+Epikus Adományt vagy más képességet szerezhetsz (ajánlott: *Boon of Irresistible Offense*).
+
+---
+#### 20. Szint: Test és Elme
+Ügyesség és Bölcsesség értékeid +4-et nőnek, maximum 25-ig.
+
+## Szerzetes Alosztályok
+
+- [[Player Options/Classes/Monk/Monk_SubClasses/Warrior of the Open Hand\|Warrior of the Open Hand]](Warrior of the Open Hand)
+- [[Player Options/Classes/Monk/Monk_SubClasses/Warrior of Mercy\|Warrior of Mercy]](Warrior of Mercy)
+- [[Player Options/Classes/Monk/Monk_SubClasses/Warrior of Shadow\|Warrior of Shadow]](Warrior of Shadow)
+- [[Player Options/Classes/Monk/Monk_SubClasses/Warrior of Elements\|Warrior of Elements]](Warrior of Elements)
+
+---

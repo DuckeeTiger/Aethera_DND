@@ -15,12 +15,13 @@ This spell can physically repair a magic item, but it can't restore magic to suc
 ---
 
 ## Javítás
-*Segédvarázslat Átváltoztatás ([[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Cleric/Cleric\|Cleric]], [[Player Options/Classes/Druid/Druid\|Druid]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
+
+*Cantrip szintű Átváltoztatás ([[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Cleric/Cleric\|Cleric]], [[Player Options/Classes/Druid/Druid\|Druid]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
 **Varázslási idő:** 1 perc
 **Hatótáv:** Érintés
 **Komponensek:** V, S, M (két mágneskő)
 **Időtartam:** Azonnali
 
-Ez a varázslat kijavít egyetlen törést vagy szakadást egy általad megérintett tárgyon, például egy törött láncszemen, egy törött kulcs két felén, egy szakadt köpenyen vagy egy szivárgó boroszacskón. Amíg a törés vagy szakadás legfeljebb 1 láb nagyságú bármelyik dimenzióban, addig kijavítod, nyom nélkül eltüntetve a korábbi sérülést.
+Ez a varázslat kijavít egyetlen törést vagy szakadást egy általad megérintett tárgyon, például egy törött láncszemen, egy törött kulcs két felén, egy szakadt köpenyen vagy egy szivárgó boros zacskón. Amíg a törés vagy szakadás legfeljebb 1 láb nagyságú bármelyik dimenzióban, addig kijavítod, nyom nélkül eltüntetve a korábbi sérülést.
 
 Ez a varázslat fizikailag kijavíthat egy mágikus tárgyat, de nem állíthatja vissza a mágiát egy ilyen tárgyba.

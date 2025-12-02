@@ -33,7 +33,7 @@
 | [[Faerie Fire\|Faerie Fire]]                   | 1st   | Action    | Evocation     | no     | V          | yes           |
 | [[False Life\|False Life]]                    | 1st   | Action    | Necromancy    | no     | V, S, M    | no            |
 | [[Feather Fall\|Feather Fall]]                  | 1st   | Reaction  | Transmutation | no     | V, M       | no            |
-| [[Find Familiar\|Find Familiar]]                 | 1st   | 1 Hr.     | Conjuration   | yes    | V, S, M    | no            |
+| [[Player Options/Spells/Detailed Spells/Find Familiar\|Find Familiar]]                 | 1st   | 1 Hr.     | Conjuration   | yes    | V, S, M    | no            |
 | [[Fog Cloud\|Fog Cloud]]                     | 1st   | Action    | Conjuration   | no     | V, S       | yes           |
 | [[Goodberry\|Goodberry]]                     | 1st   | Action    | Conjuration   | no     | V, S, M    | no            |
 | [[Grease\|Grease]]                        | 1st   | Action    | Conjuration   | no     | V, S, M    | no            |
@@ -61,7 +61,7 @@
 | [[Shield of Faith\|Shield of Faith]]               | 1st   | Bonus     | Abjuration    | no     | V, S, M    | yes           |
 | [[Silent Image\|Silent Image]]                  | 1st   | Action    | Illusion      | no     | V, S, M    | yes           |
 | [[Sleep\|Sleep]]                         | 1st   | Action    | Enchantment   | no     | V, S, M    | yes           |
-| [[Speak with Animals\|Speak with Animals]]            | 1st   | Action    | Divination    | yes    | V, S       | no            |
+| [[Player Options/Spells/Detailed Spells/Speak with Animals\|Speak with Animals]]            | 1st   | Action    | Divination    | yes    | V, S       | no            |
 | [[Tasha's Hideous Laughter\|Tasha's Hideous Laughter]]      | 1st   | Action    | Enchantment   | no     | V, S, M    | yes           |
 | [[Tenser's Floating Disk\|Tenser's Floating Disk]]        | 1st   | Action    | Conjuration   | yes    | V, S, M    | no            |
 | [[Thunderous Smite\|Thunderous Smite]]              | 1st   | Bonus     | Evocation     | no     | V          | no            |

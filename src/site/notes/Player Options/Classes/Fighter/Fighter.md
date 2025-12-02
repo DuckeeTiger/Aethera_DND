@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-permalink":"fighter","permalink":"/fighter/"}
 ---
 
+<!--lang:en-->
+# Fighter
 *A Master of All Arms and Armor*
 
 Fighters rule many battlefields. Questing knights, royal champions, elite soldiers, and hardened mercenaries—as Fighters, they all share an unparalleled prowess with weapons and armor. And they are well acquainted with death, both meting it out and defying it.
@@ -134,3 +136,148 @@ A Fighter subclass is a specialization that grants you features at certain Fight
 - [[Player Options/Classes/Fighter/Fighter_SubClasses/Battle Master\|Battle Master]]
 - [[Player Options/Classes/Fighter/Fighter_SubClasses/Psi Warrior\|Psi Warrior]]
 - [[Player Options/Classes/Fighter/Fighter_SubClasses/Eldritch Knight\|Eldritch Knight]]
+
+---
+
+<!--lang:hu-->
+# Harcos (*Fighter*)
+*A Fegyverek és Páncélok Mestere*
+
+A harcosok uralják a csatamezőket. Kóbor lovagok, királyi bajnokok, elit katonák vagy edzett zsoldosok—mind osztoznak a fegyverek és páncélok páratlan mesterségében. Jól ismerik a halált is: mind a kiosztását, mind a túlélését.
+
+A harcosok számos fegyvertechnikát elsajátítanak, és egy jól felszerelt harcosnak mindig van megfelelő eszköze bármely harci helyzetben. A páncél minden formáját is magabiztosan viselik. Ezen túl minden harcos egy adott harci stílusra szakosodik: némelyek az íjászatban jeleskednek, mások két fegyverrel küzdenek, vagy épp mágiával erősítik harci tudásukat. Ez az általános jártasság és mély specializáció kombinációja teszi a harcosokat kiemelkedő harcosokká.
+
+| Harcos Alapvető Tulajdonságai | <                                                                                                                                                                                                                   |
+| :----------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Elsődleges Tulajdonság**    | Erő és Ügyesség                                                                                                                                                                                                    |
+| **Életerő Kocka**             | D10 minden Harcos szint után                                                                                                                                                                                       |
+| **Mentődobás Jártasságok**    | Erő és Állóképesség                                                                                                                                                                                                |
+| **Képzettségek**              | Válassz 2-t: Akrobatika, Állatismeret, Atletika, Történelem, Észlelés (Insight), Megfélemlítés, Meggyőzés, Figyelem (Perception) vagy Túlélés                                                                    |
+| **Fegyver Jártasságok**       | Egyszerű és Harci (Martial) fegyverek                                                                                                                                                                              |
+| **Eszköz Jártasság**          | Nincs                                                                                                                                                                                                              |
+| **Páncél Jártasság**          | Könnyű, Közepes és Nehéz páncél, valamint Pajzsok                                                                                                                                                                  |
+| **Kezdő Felszerelés**         | A, B vagy C csomag (lásd az angol részben)                                                                                                                                                                         |
+
+## Harcossá Válás
+
+##### 1. Szintű Harcosként
+- Megkapod a **Harcos Alapvető Tulajdonságai** minden elemét.
+- Megkapod a Harcos **1. szintű osztályképességeit**, ahogyan a **Harcos Képességek** táblázat mutatja.
+
+##### Többosztályú Harcosként
+- Megkapod az Életerő Kockát, a Harci fegyverek jártasságát, valamint Könnyű és Közepes páncél, illetve Pajzs használatát.
+- Megkapod a Harcos **1. szintű képességeit**.
+
+## Harcos Osztályképességek
+
+A Harcos a megadott szinteken az alábbi képességeket szerzi meg.
+
+|Szint|Jártasság Bónusz|Osztályképességek|Második Szél|Fegyvermesterség|
+|---|---|---|---|---|
+|1|+2|Harci Stílus, Második Szél, Fegyvermesterség|2|3|
+|2|+2|Cselekvéssereg (egyszer), Taktikai Elme|2|3|
+|3|+2|Harcos Alosztály|2|3|
+|4|+2|Tulajdonságfejlesztés|3|4|
+|5|+3|Extra Támadás, Taktikai Elmozdulás|3|4|
+|6|+3|Tulajdonságfejlesztés|3|4|
+|7|+3|Alosztály Képesség|3|4|
+|8|+3|Tulajdonságfejlesztés|3|4|
+|9|+4|Megszeghetetlen (egyszer), Taktikai Mester|3|4|
+|10|+4|Alosztály Képesség|4|5|
+|11|+4|Két Extra Támadás|4|5|
+|12|+4|Tulajdonságfejlesztés|4|5|
+|13|+5|Megszeghetetlen (kétszer), Tanult Támadások|4|5|
+|14|+5|Tulajdonságfejlesztés|4|5|
+|15|+5|Alosztály Képesség|4|5|
+|16|+5|Tulajdonságfejlesztés|4|6|
+|17|+6|Cselekvéssereg (kétszer), Megszeghetetlen (háromszor)|4|6|
+|18|+6|Alosztály Képesség|4|6|
+|19|+6|Epikus Adomány|4|6|
+|20|+6|Három Extra Támadás|4|6|
+
+---
+#### 1. Szint: Harci Stílus
+Megszerzed egy választott Harci Stílus képességét (lásd: Képességek). Ajánlott: *Defense*.
+
+Szintlépéskor kicserélheted egy másik Harci Stílusra.
+
+---
+#### 1. Szint: Második Szél (Second Wind)
+Fizikai és mentális tartalékaidra támaszkodhatsz. Bónusz Akcióként 1d10 + Harcos szintednyi ÉP-t gyógyítasz.
+
+Kétszer használhatod. Rövid Pihenő után 1 használat, Hosszú Pihenő után mind visszatér.
+
+Magasabb szinteken több használatot kapsz.
+
+---
+#### 1. Szint: Fegyvermesterség
+Három egyszerű vagy harci fegyver **mesteri tulajdonságát** használhatod. Hosszú Pihenőkor gyakorlással egy választást lecserélhetsz.
+
+Magasabb szinteken több fegyvermesterséget használsz.
+
+---
+#### 2. Szint: Cselekvéssereg (Action Surge)
+Túlléped a normál határaidat. A körödben egy extra akciót kapsz (kivéve: Mágia akció).
+
+Használat után Rövid vagy Hosszú Pihenő szükséges. 17. szinten már kétszer használhatod, de körönként legfeljebb egyszer.
+
+---
+#### 2. Szint: Taktikai Elme
+Taktikus gondolkodásod van. Ha elrontasz egy képességpróbát, elköthetsz egy Második Szél használatot, hogy +1d10-et hozzáadj a dobáshoz. Ha még így is elbukod, nem fogy el a Második Szél.
+
+---
+#### 3. Szint: Harcos Alosztály
+Választasz egy harcos alosztályt. Az alábbiak állnak rendelkezésre:
+
+- [[Player Options/Classes/Fighter/Fighter_SubClasses/Champion\|Champion]](Champion)
+- [[Player Options/Classes/Fighter/Fighter_SubClasses/Battle Master\|Battle Master]](Battle Master)
+- [[Player Options/Classes/Fighter/Fighter_SubClasses/Psi Warrior\|Psi Warrior]](Psi Warrior)
+- [[Player Options/Classes/Fighter/Fighter_SubClasses/Eldritch Knight\|Eldritch Knight]](Eldritch Knight)
+
+---
+#### 4. Szint: Tulajdonságfejlesztés
+Tulajdonságfejlesztést vagy más képességet kapsz.
+
+---
+#### 5. Szint: Extra Támadás
+Körönként két támadást tehetsz az Akciódból.
+
+---
+#### 5. Szint: Taktikai Elmozdulás
+Amikor Bónusz Akcióként aktiválod a Második Szelet, fél sebességeddel elmozdulhatsz, anélkül hogy lehetőségi támadást provokálnál.
+
+---
+#### 9. Szint: Megszeghetetlen (Indomitable)
+Ha elrontasz egy mentődobást, újradobhatod, + Harcos szinted bónusszal. Az új eredményt kell használni. Hosszú Pihenőig nem használhatod újra.
+
+13. szinten kétszer, 17. szinten háromszor használhatod két Hosszú Pihenő között.
+
+---
+#### 9. Szint: Taktikai Mester
+Ha egy olyan fegyverrel támadsz, amelynek a mesteri tulajdonságát használhatod, lecserélheted azt **Push**, **Sap** vagy **Slow** tulajdonságra az adott támadásra.
+
+---
+#### 11. Szint: Két Extra Támadás
+Most már **háromszor** támadhatsz egyetlen Támadás akcióval.
+
+---
+#### 13. Szint: Tanult Támadások
+Ha egy kreatúra ellen támadsz és elvéted, a következő támadásodra **Előnyöd** lesz ellene a következő köröd végéig.
+
+---
+#### 19. Szint: Epikus Adomány
+Epikus Adományt vagy más képességet szerezhetsz (ajánlott: *Boon of Combat Prowess*).
+
+---
+#### 20. Szint: Három Extra Támadás
+Most már **négyszer** támadhatsz egyetlen Támadás akcióval.
+
+## Harcos Alosztályok
+A következő harcos alosztályok érhetők el:
+
+- [[Player Options/Classes/Fighter/Fighter_SubClasses/Champion\|Champion]](Champion)
+- [[Player Options/Classes/Fighter/Fighter_SubClasses/Battle Master\|Battle Master]](Battle Master)
+- [[Player Options/Classes/Fighter/Fighter_SubClasses/Psi Warrior\|Psi Warrior]](Psi Warrior)
+- [[Player Options/Classes/Fighter/Fighter_SubClasses/Eldritch Knight\|Eldritch Knight]](Eldritch Knight)
+
+---

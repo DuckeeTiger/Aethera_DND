@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-permalink":"druid","permalink":"/druid/"}
 ---
 
+<!--lang:en-->
+# Druid
 *A Nature Priest of Primal Power*
 
 Druids belong to ancient orders that call on the forces of nature. Harnessing the magic of animals, plants, and the four elements, Druids heal, transform into animals, and wield elemental destruction.
@@ -222,7 +224,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | [[Longstrider\|Longstrider]]                   | Transmutation | —       |
 | [[Protection from Evil and Good\|Protection from Evil and Good]] | Abjuration    | C, M    |
 | [[Purify Food and Drink\|Purify Food and Drink]]         | Transmutation | R       |
-| [[Speak with Animals\|Speak with Animals]]            | Divination    | R       |
+| [[Player Options/Spells/Detailed Spells/Speak with Animals\|Speak with Animals]]            | Divination    | R       |
 | [[Thunderwave\|Thunderwave]]                   | Evocation     | —       |
 
 #### Level 2 Druid Spells
@@ -367,3 +369,378 @@ A Druid subclass is a specialization that grants you features at certain Druid l
 - [[Player Options/Classes/Druid/Druid_SubClasses/Circle of the Moon\|Circle of the Moon]]
 - [[Player Options/Classes/Druid/Druid_SubClasses/Circle of the Sea\|Circle of the Sea]]
 - [[Player Options/Classes/Druid/Druid_SubClasses/Circle of the Stars\|Circle of the Stars]]
+
+---
+
+<!--lang:hu-->
+# Druida (*Druid*)
+*A Természet Ősi Erejének Papja*
+
+A druidák ősi rendekhez tartoznak, melyek a természet erőit hívják segítségül. Az állatok, a növények és a négy elem mágiáját irányítva a druidák gyógyítanak, állatalakot öltenek, és elemi pusztítást zúdítanak ellenfeleikre.
+
+A természetet mindennél jobban tisztelve a druidák erejüket magából a természetből, egy természet-istenségtől vagy mindkettőtől kapják. Gyakran más druidákkal együtt végzik a szertartásokat, melyek az évszakok és más természetes ciklusok változását jelzik.
+
+A druidák feladata a növény- és állatvilág törékeny ökológiai egyensúlyának védelme, és annak biztosítása, hogy az emberek harmóniában éljenek a természettel. Gyakran őriznek szent helyeket vagy felügyelik az érintetlen természet régióit, de ha nagyobb veszély fenyeget, akkor kalandorként lépnek fel, hogy szembeszálljanak vele.
+
+| A Druida Alapvető Tulajdonságai | <                                                                                                                                  |
+| :------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------- |
+| **Elsődleges Tulajdonság**     | Bölcsesség                                                                                                                        |
+| **Életerő Kocka**               | D8 minden druida szint után                                                                                                       |
+| **Mentődobás Jártasságok**     | Intelligencia és Bölcsesség                                                                                                       |
+| **Képzettségek**                | Válassz 2-t: Állatismeret, Arkánum, Észlelés (Insight), Gyógyítás (Medicine), Természet, Figyelem (Perception), Vallás vagy Túlélés |
+| **Fegyver Jártasságok**         | Egyszerű fegyverek                                                                                                                |
+| **Eszköz Jártasság**            | Gyógyfőzetkészítő Felszerelés (Herbalism Kit)                                                                                     |
+| **Páncél Jártasság**            | Könnyű páncél és Pajzsok                                                                                                          |
+| **Kezdő Felszerelés**           | A vagy B: (A) Bőrpáncél, Pajzs, Sarló, Druida Fókusz (Bot), Felfedező Felszerelés, Gyógyfőzetkészítő készlet, 9 arany; vagy (B) 50 arany |
+
+## Druida Lesz
+
+##### 1. Szintű Druidaként
+- Megkapod az összes tulajdonságot a **Druida Alapvető Tulajdonságai** táblázatból.
+- Megkapod a Druida **1. szintű Képességeit**, ahogy a **Druida Képességei** táblázat felsorolja.
+
+##### Többosztályú Druidaként
+- Megkapod az Életerő Kockát, valamint a Könnyű páncél és Pajzs használatának képességét.
+- Megkapod a Druida **1. szintű Képességeit**. A többosztályúság szabályai alapján számítsd ki a varázshelyeidet.
+
+## Druida Osztályképességek
+
+A Druida a megadott szinteken az alábbi képességeket szerzi meg, ahogy a táblázat felsorolja.
+
+### Druida Képességek
+
+|Szint|Jártasság Bónusz|Osztályképességek|Vad Alak|Kánttripek|Előkészített Varázslatok|1|2|3|4|5|6|7|8|9|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|1|+2|Varázslás, Druidic, Ősi Rend|—|2|4|2|—|—|—|—|—|—|—|—|
+|2|+2|Vad Alak, Vad Társ|2|2|5|3|—|—|—|—|—|—|—|—|
+|3|+2|Druida Alosztály|2|2|6|4|2|—|—|—|—|—|—|—|
+|4|+2|Tulajdonságfejlesztés|2|3|7|4|3|—|—|—|—|—|—|—|
+|5|+3|Vad Megújulás|2|3|9|4|3|2|—|—|—|—|—|—|
+|6|+3|Alosztály Képesség|3|3|10|4|3|3|—|—|—|—|—|—|
+|7|+3|Elemi Düh|3|3|11|4|3|3|1|—|—|—|—|—|
+|8|+3|Tulajdonságfejlesztés|3|3|12|4|3|3|2|—|—|—|—|—|
+|9|+4|—|3|3|14|4|3|3|3|1|—|—|—|—|
+|10|+4|Alosztály Képesség|3|4|15|4|3|3|3|2|—|—|—|—|
+|11|+4|—|3|4|16|4|3|3|3|2|1|—|—|—|
+|12|+4|Tulajdonságfejlesztés|3|4|16|4|3|3|3|2|1|—|—|—|
+|13|+5|—|3|4|17|4|3|3|3|2|1|1|—|—|
+|14|+5|Alosztály Képesség|3|4|17|4|3|3|3|2|1|1|—|—|
+|15|+5|Fejlett Elemi Düh|3|4|18|4|3|3|3|2|1|1|1|—|
+|16|+5|Tulajdonságfejlesztés|3|4|18|4|3|3|3|2|1|1|1|—|
+|17|+6|—|4|4|19|4|3|3|3|2|1|1|1|1|
+|18|+6|Bestia Varázslatok|4|4|20|4|3|3|3|3|1|1|1|1|
+|19|+6|Epikus Adomány|4|4|21|4|3|3|3|3|2|1|1|1|
+|20|+6|Ősdruida|4|4|22|4|3|3|3|3|2|2|1|1|
+
+---
+#### 1. Szint: Varázslás
+Megtanultad a természet misztikus erőin keresztül varázsolni. A varázslás szabályai a „Varázslatok” részben találhatók. Az alábbiakban leírjuk, hogyan alkalmazod ezeket a Druida varázslatokkal.
+
+**_Kánttripek._** Két kánttripet ismersz a druida varázslistáról. Ajánlottak: *Druidcraft* és *Produce Flame*.
+
+Szintlépéskor lecserélhetsz egy kánttripet egy másikra.
+
+4. és 10. szinten további kánttripeket tanulsz.
+
+**_Varázshelyek._** A táblázat mutatja, hány varázshelyed van. Hosszú Pihenőkor visszatérnek.
+
+**_Előkészített 1+ szintű varázslatok._** Kezdetben négy 1. szintű varázslatot készítesz elő a druida varázslistáról (ajánlottak: [[Player Options/Spells/Detailed Spells/Animal Friendship\|Animal Friendship]], [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]], [[Faerie Fire\|Faerie Fire]], [[Thunderwave\|Thunderwave]]).
+
+A listád a szinted növekedésével nő.
+
+**_Előkészített listád cseréje._** Hosszú Pihenő után átalakíthatod az előkészített varázslatok listáját.
+
+**_Varázslási Tulajdonság._** A Bölcsesség.
+
+**_Varázslási Fókusz._** Druida fókuszt használhatsz.
+
+---
+#### 1. Szint: Druida Nyelv (Druidic)
+Ismered a Druidic nevű titkos nyelvet. Ennek megtanulásával képessé váltál kommunikálni az állatokkal is: a *Speak with Animals* varázslatot mindig előkészítve tartod.
+
+Rejtett üzeneteket is hagyhatsz Druidic nyelven. A nyelvet ismerők automatikusan felismerik. Mások egy DC 15 Intelligencia (Investigation) próbával észrevehetik, de megfejteni nem tudják.
+
+---
+#### 1. Szint: Ősi Rend
+Egy ősi szerepnek szenteled magad:
+
+**_Mágus._** Egy további druida kánttripet ismersz, és Bölcsesség módosítód hozzáadódik az Arkánum vagy Természet próbákhoz.
+
+**_Őr._** Harci kiképzést kaptál: jártasság Harci fegyverekben és Közepes páncélokban.
+
+---
+#### 2. Szint: Vad Alak (Wild Shape)
+A természet erejével állat formáját veheted fel. Bónusz Akcióként egy általad ismert Bestia alakká változol (lásd „Ismert Formák”). A forma fenntartható órákban mérve a druida szinted feléig, vagy amíg újra használod a Vad Alakot, Cselekvésképtelenné válsz, vagy meghalsz. Bónusz Akcióval előbb is kiléphetsz belőle.
+
+**_Használatok Száma._** Kétszer használhatod. Rövid Pihenőkor 1-et, Hosszú Pihenőkor mindet visszanyered.
+
+**_Ismert Formák._** Négy Bestia formát ismersz, max 1/4 FK-ig, repülés nélkül. Ajánlott: Patkány, Hátasló, Pók, Farkas.
+
+A szintlépésed növeli az ismeretek számát és FK maximumát.
+
+##### Bestia Formák
+|Druida Szint|Ismert Formák|Max FK|Repülés|
+|---|---|---|---|
+|2|4|1/4|Nem|
+|4|6|1/2|Nem|
+|8|8|1|Igen|
+
+**_Szabályok Alakváltás Közben._**
+
+**Ideiglenes Életerő.** Vad Alak felvételekor ideiglenes ÉP-t kapsz = druida szinted.
+
+**Játékszabályok.** A Bestia statisztikáit használod, kivéve: lénytípusod, ÉP-d, ÉP-kockáid, Int–Wis–Cha értékeid, osztályképességeid, nyelveid, képzettségeid. A magasabb értéket használod, ha a bestia jobb.
+
+**Varázslás tiltva.** Nem varázsolhatsz, de a koncentrációd nem törik meg.
+
+**Tárgyak.** A DM eldönti, mi hordható. A felszerelés leesik, eggyé válik a formával, vagy marad. Nem változik méretet.
+
+---
+#### 2. Szint: Vad Társ (Wild Companion)
+Természetszellemet idézhetsz, amely állatformát öltve segít neked. Varázslatos Akcióként spell slotot vagy Vad Alak használatot költhetsz a *Find Familiar* varázslat elmondására.
+
+A familiáris Tündér (Fey) lesz, és Hosszú Pihenővel eltűnik.
+
+---
+#### 3. Szint: Druida Alosztály
+Választasz egy druidakört. Az alábbit részletezi a leírás után: **Circle of the Land**  
+(alosztály linkek szabálya szerint:)
+
+- [[Player Options/Classes/Druid/Druid_SubClasses/Circle of Land\|Circle of Land]](Circle of Land)
+- [[Player Options/Classes/Druid/Druid_SubClasses/Circle of the Moon\|Circle of the Moon]](Circle of the Moon)
+- [[Player Options/Classes/Druid/Druid_SubClasses/Circle of the Sea\|Circle of the Sea]](Circle of the Sea)
+- [[Player Options/Classes/Druid/Druid_SubClasses/Circle of the Stars\|Circle of the Stars]](Circle of the Stars)
+
+---
+#### 4. Szint: Tulajdonságfejlesztés
+Tulajdonságfejlesztést vagy más képességet szerezhetsz.
+
+---
+#### 5. Szint: Vad Megújulás
+Ha nincs több Vad Alak használatod, körönként egyszer spell slot költésével visszakaphatsz egyet.
+
+Emellett egy használatot spell slotra válthatsz, de csak Hosszú Pihenő után ismételheted.
+
+---
+#### 7. Szint: Elemi Düh
+Az elemek ereje járja át testedet.
+
+**_Erőteljes Varázslás._** A druida kánttripek sebzéséhez hozzáadod a Bölcsesség módosítód.
+
+**_Ősi Csapás._** Körönként egyszer, amikor fegyverrel vagy Bestia formával találsz, +1d8 Hideg, Tűz, Villám vagy Mennydörgés sebzés (ütésenként választod).
+
+---
+#### 15. Szint: Fejlett Elemi Düh
+A választott opció erősebbé válik:
+
+**_Erőteljes Varázslás._** Ha a kánttrip hatótávja ≥ 10 láb, +300 lábbal nő.
+
+**_Ősi Csapás._** A sebzés +2d8-ra nő.
+
+---
+#### 18. Szint: Bestia Varázslatok
+Vad Alakban is varázsolhatsz, kivéve ha az anyagi komponens értékes vagy fogyó.
+
+---
+#### 19. Szint: Epikus Adomány
+Epikus Adományt vagy más képességet kapsz (ajánlott: *Boon of Dimensional Travel*).
+
+---
+#### 20. Szint: Ősdruida
+A természet ereje örökké áramlik benned.
+
+**_Örökzöld Vad Alak._** Kezdeményezéskor, ha nincs Vad Alak használatod, visszakapsz egyet.
+
+**_Természet Mágusa._** Vad Alak használatokat spell slotra válthatsz: minden használat 2 spell szintet ér.
+
+**_Hosszú Élet._** Tíz év alatt csak egy évet öregszel.
+
+## Druida Varázslista
+
+*(A varázslatnevek változatlanul maradnak.)*
+
+### Kánttripek (0. szint)
+| Spell               | School        | Special |
+| ------------------- | ------------- | ------- |
+| [[Player Options/Spells/Detailed Spells/Druidcraft\|Druidcraft]]      | Transmutation | —       |
+| [[Player Options/Spells/Detailed Spells/Elementalism\|Elementalism]]    | Transmutation | —       |
+| [[Player Options/Spells/Detailed Spells/Guidance\|Guidance]]        | Divination    | C       |
+| [[Player Options/Spells/Detailed Spells/Mending\|Mending]]         | Transmutation | —       |
+| [[Player Options/Spells/Detailed Spells/Message\|Message]]         | Transmutation | —       |
+| [[Player Options/Spells/Detailed Spells/Poison Spray\|Poison Spray]]    | Necromancy    | —       |
+| [[Player Options/Spells/Detailed Spells/Produce Flame\|Produce Flame]]   | Conjuration   | —       |
+| [[Resistance\|Resistance]]      | Abjuration    | C       |
+| [[Shillelagh\|Shillelagh]]      | Transmutation | —       |
+| [[Spare the Dying\|Spare the Dying]] | Necromancy    | —       |
+| [[Starry Wisp\|Starry Wisp]]     | Evocation     | —       |
+| [[Thorn Whip\|Thorn Whip]]      | Transmutation | —       |
+| [[Thunderclap\|Thunderclap]]     | Evocation     | —       |
+
+### 1. Szintű Druida Varázslatok
+| Spell                             | School        | Special |
+| --------------------------------- | ------------- | ------- |
+| [[Player Options/Spells/Detailed Spells/Animal Friendship\|Animal Friendship]]             | Enchantment   | —       |
+| [[Player Options/Spells/Detailed Spells/Charm Person\|Charm Person]]                  | Enchantment   | —       |
+| [[Player Options/Spells/Detailed Spells/Create or Destroy Water\|Create or Destroy Water]]       | Transmutation | —       |
+| [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]]                   | Abjuration    | —       |
+| [[Detect Magic\|Detect Magic]]                  | Divination    | C, R    |
+| [[Detect Poison and Disease\|Detect Poison and Disease]]     | Divination    | C, R    |
+| [[Entangle\|Entangle]]                      | Conjuration   | C       |
+| [[Faerie Fire\|Faerie Fire]]                   | Evocation     | C       |
+| [[Fog Cloud\|Fog Cloud]]                     | Conjuration   | C       |
+| [[Goodberry\|Goodberry]]                     | Conjuration   | —       |
+| [[Healing Word\|Healing Word]]                  | Abjuration    | —       |
+| [[Ice Knife\|Ice Knife]]                     | Conjuration   | —       |
+| [[Jump\|Jump]]                          | Transmutation | —       |
+| [[Longstrider\|Longstrider]]                   | Transmutation | —       |
+| [[Protection from Evil and Good\|Protection from Evil and Good]] | Abjuration    | C, M    |
+| [[Purify Food and Drink\|Purify Food and Drink]]         | Transmutation | R       |
+| [[Player Options/Spells/Detailed Spells/Speak with Animals\|Speak with Animals]]            | Divination    | R       |
+| [[Thunderwave\|Thunderwave]]                   | Evocation     | —       |
+
+### 2. Szintű Druida Varázslatok
+| Spell                        | School        | Special |
+| ---------------------------- | ------------- | ------- |
+| [[Player Options/Spells/Detailed Spells/Aid\|Aid]]                      | Abjuration    | —       |
+| [[Player Options/Spells/Detailed Spells/Animal Messenger\|Animal Messenger]]         | Enchantment   | R       |
+| [[Player Options/Spells/Detailed Spells/Augury\|Augury]]                   | Divination    | R, M    |
+| [[Player Options/Spells/Detailed Spells/Barkskin\|Barkskin]]                 | Transmutation | —       |
+| [[Player Options/Spells/Detailed Spells/Beast Sense\|Beast Sense]]              | Divination    | C, R    |
+| [[Player Options/Spells/Detailed Spells/Continual Flame\|Continual Flame]]          | Evocation     | M       |
+| [[Darkvision\|Darkvision]]               | Transmutation | —       |
+| [[Enhance Ability\|Enhance Ability]]          | Transmutation | C       |
+| [[Enlarge-Reduce\|Enlarge-Reduce]]           | Transmutation | C       |
+| [[Find Traps\|Find Traps]]               | Divination    | —       |
+| [[Flame Blade\|Flame Blade]]              | Evocation     | C       |
+| [[Flaming Sphere\|Flaming Sphere]]           | Evocation     | C       |
+| [[Gust of Wind\|Gust of Wind]]             | Evocation     | C       |
+| [[Heat Metal\|Heat Metal]]               | Transmutation | C       |
+| [[Hold Person\|Hold Person]]              | Enchantment   | C       |
+| [[Lesser Restoration\|Lesser Restoration]]       | Abjuration    | —       |
+| [[Locate Animals or Plants\|Locate Animals or Plants]] | Divination    | R       |
+| [[Locate Object\|Locate Object]]            | Divination    | C       |
+| [[Moonbeam\|Moonbeam]]                 | Evocation     | C       |
+| [[Pass without Trace\|Pass without Trace]]       | Abjuration    | C       |
+| [[Protection from Poison\|Protection from Poison]]   | Abjuration    | —       |
+| [[Spike Growth\|Spike Growth]]             | Transmutation | C       |
+| [[Summon Beast\|Summon Beast]]             | Conjuration   | C, M    |
+
+### 3. Szintű Druida Varázslatok
+| Spell                      | School        | Special |
+| -------------------------- | ------------- | ------- |
+| [[Player Options/Spells/Detailed Spells/Aura of Vitality\|Aura of Vitality]]       | Abjuration    | C       |
+| [[Player Options/Spells/Detailed Spells/Call Lightning\|Call Lightning]]         | Conjuration   | C       |
+| [[Player Options/Spells/Detailed Spells/Conjure Animals\|Conjure Animals]]        | Conjuration   | C       |
+| [[Daylight\|Daylight]]               | Evocation     | —       |
+| [[Dispel Magic\|Dispel Magic]]           | Abjuration    | —       |
+| [[Elemental Weapon\|Elemental Weapon]]       | Transmutation | C       |
+| [[Feign Death\|Feign Death]]            | Necromancy    | R       |
+| [[Meld into Stone\|Meld into Stone]]        | Transmutation | R       |
+| [[Plant Growth\|Plant Growth]]           | Transmutation | —       |
+| [[Protection from Energy\|Protection from Energy]] | Abjuration    | C       |
+| [[Revivify\|Revivify]]               | Necromancy    | M       |
+| [[Sleet Storm\|Sleet Storm]]            | Conjuration   | C       |
+| [[Speak with Plants\|Speak with Plants]]      | Transmutation | —       |
+| [[Summon Fey\|Summon Fey]]             | Conjuration   | C, M    |
+| [[Player Options/Spells/Detailed Spells/Water Breathing\|Water Breathing]]        | Transmutation | R       |
+| [[Water Walk\|Water Walk]]             | Transmutation | R       |
+| [[Wind Wall\|Wind Wall]]              | Evocation     | C       |
+
+### 4. Szintű Druida Varázslatok
+| Spell                        | School        | Special |
+| ---------------------------- | ------------- | ------- |
+| [[Player Options/Spells/Detailed Spells/Blight\|Blight]]                   | Necromancy    | —       |
+| [[Player Options/Spells/Detailed Spells/Charm Monster\|Charm Monster]]            | Enchantment   | —       |
+| [[Player Options/Spells/Detailed Spells/Confusion\|Confusion]]                | Enchantment   | C       |
+| [[Player Options/Spells/Detailed Spells/Conjure Minor Elementals\|Conjure Minor Elementals]] | Conjuration   | C       |
+| [[Player Options/Spells/Detailed Spells/Conjure Woodland Beings\|Conjure Woodland Beings]]  | Conjuration   | C       |
+| [[Player Options/Spells/Detailed Spells/Control Water\|Control Water]]            | Transmutation | C       |
+| [[Divination\|Divination]]               | Divination    | R, M    |
+| [[Dominate Beast\|Dominate Beast]]           | Enchantment   | C       |
+| [[Fire Shield\|Fire Shield]]              | Evocation     | —       |
+| [[Fount of Moonlight\|Fount of Moonlight]]       | Evocation     | C       |
+| [[Freedom of Movement\|Freedom of Movement]]      | Abjuration    | —       |
+| [[Giant Insect\|Giant Insect]]             | Conjuration   | C       |
+| [[Grasping Vine\|Grasping Vine]]            | Conjuration   | C       |
+| [[Hallucinatory Terrain\|Hallucinatory Terrain]]    | Illusion      | —       |
+| [[Ice Storm\|Ice Storm]]                | Evocation     | —       |
+| [[Locate Creature\|Locate Creature]]          | Divination    | C       |
+| [[Polymorph\|Polymorph]]                | Transmutation | C       |
+| [[Stone Shape\|Stone Shape]]              | Transmutation | —       |
+| [[Stoneskin\|Stoneskin]]                | Transmutation | C, M    |
+| [[Summon Elemental\|Summon Elemental]]         | Conjuration   | C, M    |
+| [[Wall of Fire\|Wall of Fire]]             | Evocation     | C       |
+
+### 5. Szintű Druida Varázslatok
+| Spell                   | School        | Special |
+| ----------------------- | ------------- | ------- |
+| [[Player Options/Spells/Detailed Spells/Antilife Shell\|Antilife Shell]]      | Abjuration    | C       |
+| [[Player Options/Spells/Detailed Spells/Awaken\|Awaken]]              | Transmutation | M       |
+| [[Player Options/Spells/Detailed Spells/Commune with Nature\|Commune with Nature]] | Divination    | R       |
+| [[Player Options/Spells/Detailed Spells/Cone of Cold\|Cone of Cold]]        | Evocation     | —       |
+| [[Player Options/Spells/Detailed Spells/Conjure Elemental\|Conjure Elemental]]   | Conjuration   | C       |
+| [[Player Options/Spells/Detailed Spells/Contagion\|Contagion]]           | Necromancy    | —       |
+| [[Geas\|Geas]]                | Enchantment   | —       |
+| [[Greater Restoration\|Greater Restoration]] | Abjuration    | M       |
+| [[Insect Plague\|Insect Plague]]       | Conjuration   | C       |
+| [[Mass Cure Wounds\|Mass Cure Wounds]]    | Abjuration    | —       |
+| [[Planar Binding\|Planar Binding]]      | Abjuration    | M       |
+| [[Reincarnate\|Reincarnate]]         | Necromancy    | M       |
+| [[Scrying\|Scrying]]             | Divination    | C, M    |
+| [[Tree Stride\|Tree Stride]]         | Conjuration   | C       |
+| [[Wall of Stone\|Wall of Stone]]       | Evocation     | C       |
+
+### 6. Szintű Druida Varázslatok
+| Spell                    | School        | Special |
+| ------------------------ | ------------- | ------- |
+| [[Player Options/Spells/Detailed Spells/Conjure Fey\|Conjure Fey]]          | Conjuration   | C       |
+| [[Find the Path\|Find the Path]]        | Divination    | C, M    |
+| [[Flesh to Stone\|Flesh to Stone]]       | Transmutation | C       |
+| [[Heal\|Heal]]                 | Abjuration    | —       |
+| [[Heroes’ Feast\|Heroes’ Feast]]        | Conjuration   | M       |
+| [[Move Earth\|Move Earth]]           | Transmutation | C       |
+| [[Sunbeam\|Sunbeam]]              | Evocation     | C       |
+| [[Transport via Plants\|Transport via Plants]] | Conjuration   | —       |
+| [[Wall of Thorns\|Wall of Thorns]]       | Conjuration   | C       |
+| [[Wind Walk\|Wind Walk]]            | Transmutation | —       |
+
+### 7. Szintű Druida Varázslatok
+| Spell               | School        | Special |
+| ------------------- | ------------- | ------- |
+| [[Fire Storm\|Fire Storm]]      | Evocation     | —       |
+| [[Mirage Arcane\|Mirage Arcane]]   | Illusion      | —       |
+| [[Plane Shift\|Plane Shift]]     | Conjuration   | M       |
+| [[Regenerate\|Regenerate]]      | Transmutation | —       |
+| [[Reverse Gravity\|Reverse Gravity]] | Transmutation | C       |
+| [[Symbol\|Symbol]]          | Abjuration    | M       |
+
+### 8. Szintű Druida Varázslatok
+| Spell                  | School        | Special |
+| ---------------------- | ------------- | ------- |
+| Animal Shapes          | Transmutation | —       |
+| [[Player Options/Spells/Detailed Spells/Antipathy-Sympathy\|Antipathy-Sympathy]] | Enchantment   | —       |
+| [[Player Options/Spells/Detailed Spells/Befuddlement\|Befuddlement]]       | Enchantment   | —       |
+| [[Player Options/Spells/Detailed Spells/Control Weather\|Control Weather]]    | Transmutation | C       |
+| [[Earthquake\|Earthquake]]         | Transmutation | C       |
+| [[Incendiary Cloud\|Incendiary Cloud]]   | Conjuration   | C       |
+| [[Sunburst\|Sunburst]]           | Evocation     | —       |
+| [[Tsunami\|Tsunami]]            | Conjuration   | C       |
+
+### 9. Szintű Druida Varázslatok
+| Spell                  | School        | Special |
+| ---------------------- | ------------- | ------- |
+| [[Foresight\|Foresight]]          | Divination    | —       |
+| [[Shapechange\|Shapechange]]        | Transmutation | C, M    |
+| [[Storm of Vengeance\|Storm of Vengeance]] | Conjuration   | C       |
+| [[True Resurrection\|True Resurrection]]  | Necromancy    | M       |
+
+## Druida Alosztályok
+
+A következő druida körök érhetők el:
+
+- [[Player Options/Classes/Druid/Druid_SubClasses/Circle of Land\|Circle of Land]](Circle of Land)  
+- [[Player Options/Classes/Druid/Druid_SubClasses/Circle of the Moon\|Circle of the Moon]](Circle of the Moon)  
+- [[Player Options/Classes/Druid/Druid_SubClasses/Circle of the Sea\|Circle of the Sea]](Circle of the Sea)  
+- [[Player Options/Classes/Druid/Druid_SubClasses/Circle of the Stars\|Circle of the Stars]](Circle of the Stars)  
+
+---

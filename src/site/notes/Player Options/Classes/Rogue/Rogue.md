@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-permalink":"rogue","permalink":"/rogue/"}
 ---
 
+<!--lang:en-->
+# Rogue
 *A Dexterous Expert in Stealth and Subterfuge*
 
 Rogues rely on cunning, stealth, and their foes’ vulnerabilities to get the upper hand in any situation. They have a knack for finding the solution to just about any problem. A few even learn magical tricks to supplement their other abilities. Many Rogues focus on stealth and deception, while others refine skills that help them in a dungeon environment, such as climbing, finding and disarming traps, and opening locks.
@@ -152,3 +154,177 @@ A Rogue subclass is a specialization that grants you features at certain Rouge l
 - [[Player Options/Classes/Rogue/Rogue_SubClasses/Assassin\|Assassin]]
 - [[Player Options/Classes/Rogue/Rogue_SubClasses/Soulknife\|Soulknife]]
 - [[Player Options/Classes/Rogue/Rogue_SubClasses/Thief\|Thief]]
+
+---
+
+<!--lang:hu-->
+# Tolvaj (*Rogue*)
+*Egy ravasz szakértő a lopakodás és megtévesztés mesterségében*
+
+A tolvajok ravaszságukra, lopakodásukra és ellenfeleik gyenge pontjaira támaszkodnak, hogy fölénybe kerüljenek bármilyen helyzetben. Kiválóan találnak megoldást szinte bármilyen problémára, és néhányuk még mágikus trükköket is elsajátít, hogy kiegészítse képességeit. Sok tolvaj a lopakodásra és a megtévesztésre összpontosít, míg mások olyan készségeket fejlesztenek, amelyek a kazamaták világában hasznosak—mászás, csapdák felkutatása és hatástalanítása, zárak kinyitása.
+
+Harcban a tolvajok a finom, pontos csapásokat részesítik előnyben a nyers erő helyett. Inkább egyetlen precíz ütést mérnek, mintsem hogy csapások tömegével fárasszák le ellenfelüket.
+
+Egyes tolvajok bűnözőként kezdték, mások pedig éppen eszüket használták a bűn elleni harcra. Kapcsolatuk a törvénnyel változatos lehet, de akár bűnöző, akár igazságtevő, a legkiválóbb tolvajok ravaszságát sem közönséges bűnözők, sem törvény emberei nem tudják felülmúlni.
+
+| Tolvaj Alapvető Jellemzői    | <                                                                                                                                         |
+| :--------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Elsődleges Tulajdonság**  | Ügyesség                                                                                                                                     |
+| **Életerő Kocka**           | D8 minden tolvaj szinten                                                                                                                     |
+| **Mentődobás Jártasságok**  | Ügyesség és Intelligencia                                                                                                                   |
+| **Képzettségek**            | Válassz 4-et: Akrobatika, Atletika, Megtévesztés, Észlelés (Insight), Megfélemlítés, Nyomozás, Figyelem (Perception), Meggyőzés, Zsebmetszés, Lopakodás |
+| **Fegyver Jártasságok**     | Egyszerű fegyverek és olyan Harci fegyverek, amelyek rendelkeznek a Finesse vagy Light tulajdonsággal                                       |
+| **Eszköz Jártasságok**      | Tolvajszerszámok                                                                                                                             |
+| **Páncél Képzettség**       | Könnyű páncél                                                                                                                                |
+| **Kezdő Felszerelés**       | A vagy B csomag (lásd angol rész)                                                                                                            |
+
+## Tolvajjá Válás
+
+#### 1. szintű Tolvaj
+- Megkapod a **Tolvaj Alapvető Jellemzői** táblázat minden elemét.  
+- Megkapod a tolvaj **1. szintű képességeit**.
+
+#### Többosztályos Belépés
+- Megkapod: Életerő Kocka, egy általad választott tolvaj képzettség, **tolvajszerszám jártasság**, **könnyű páncél jártasság**, valamint az 1. szintű képességeket.
+
+## Tolvaj Osztályképességek
+
+| Szint | Jártasság Bónusz | Osztályképességek | Rejtett Támadás |
+| ----- | ---------------- | ----------------- | ---------------- |
+| 1     | +2               | Jártasság (Expertise), Rejtett Támadás, Tolvajnyelv, Fegyvermesterség | 1d6 |
+| 2     | +2               | Ravasz Akció | 1d6 |
+| 3     | +2               | Tolvaj Alosztály, Biztos Célzás | 2d6 |
+| 4     | +2               | Tulajdonságfejlesztés | 2d6 |
+| 5     | +3               | Ravasz Csapás, Hihetetlen Kitérés | 3d6 |
+| 6     | +3               | Jártasság | 3d6 |
+| 7     | +3               | Kitérés, Megbízható Tehetség | 4d6 |
+| 8     | +3               | Tulajdonságfejlesztés | 4d6 |
+| 9     | +4               | Alosztály Képesség | 5d6 |
+| 10    | +4               | Fejlett Ravasz Csapás | 5d6 |
+| 11    | +4               | Alosztály Képesség | 6d6 |
+| 12    | +4               | Tulajdonságfejlesztés | 6d6 |
+| 13    | +5               | Álnok Csapások | 7d6 |
+| 14    | +5               | Alosztály Képesség | 7d6 |
+| 15    | +5               | Csúszós Elme | 8d6 |
+| 16    | +5               | Tulajdonságfejlesztés | 8d6 |
+| 17    | +6               | Alosztály Képesség | 9d6 |
+| 18    | +6               | Megfoghatatlan | 9d6 |
+| 19    | +6               | Tulajdonságfejlesztés | 10d6 |
+| 20    | +6               | Szerencse Csapása | 10d6 |
+
+---
+
+#### 1. Szint: Jártasság (Expertise)
+Két általad ismert képzettségben Jártasságot szerzel (*Sleight of Hand* és *Stealth* ajánlott).  
+6. szinten további kettőt választhatsz.
+
+---
+
+#### 1. Szint: Rejtett Támadás
+Mesterien csapsz le, amikor az ellenfél figyelmetlen.  
+Körönként egyszer extra **1d6** sebzést okozhatsz, ha:
+- **Előnyöd van** a támadódobásra, **vagy**
+- egy szövetségesed 5 lábon belül van a célponttól, nem cselekvőképtelen, és **nincs hátrányod** a támadásra.
+
+A sebzés nő szintenként.
+
+---
+
+#### 1. Szint: Tolvajnyelv
+Megtanulod a tolvajok titkos nyelvét és egy további nyelvet tetszés szerint.
+
+---
+
+#### 1. Szint: Fegyvermesterség
+Két fegyver mesteri tulajdonságát használhatod. Hosszú pihenő után cserélheted a választást.
+
+---
+
+#### 2. Szint: Ravasz Akció
+Bónusz Akcióként **Dash**, **Disengage** vagy **Hide** akciót hajthatsz végre.
+
+---
+
+#### 3. Szint: Tolvaj Alosztály
+Alosztályt választasz.
+
+---
+
+#### 3. Szint: Biztos Célzás (Steady Aim)
+Bónusz Akcióként előnyt adsz a következő támadásodra, ha ebben a körben még nem mozogtál. Aktiválás után a mozgásod 0 lesz a kör végéig.
+
+---
+
+#### 4. Szint: Tulajdonságfejlesztés
+Tulajdonságot növelő vagy egyéb képességet szerzel.
+
+---
+
+#### 5. Szint: Ravasz Csapás (Cunning Strike)
+A Rejtett Támadásod speciális hatásokat idézhet elő.  
+A hatás költsége: Sneak Attack dobókockák lemondása.
+
+- **Méreg (1d6):** A célpontnak Konstitúció mentőt kell dobnia, sikertelen dobásnál 1 percig *Poisoned*.  
+- **Földre rántás (1d6):** A célpont (Large vagy kisebb) Dex mentőt dob vagy *Prone* lesz.  
+- **Visszavonulás (1d6):** A támadás után fél sebességgel mozoghatsz OA nélkül.
+
+---
+
+#### 5. Szint: Hihetetlen Kitérés
+Reakcióként megfelezheted az ellened irányuló találat sebzését.
+
+---
+
+#### 7. Szint: Kitérés (Evasion)
+Dex mentőnél siker esetén nem sebződsz, sikertelennél csak felet kapsz. Nem működik, ha cselekvőképtelen vagy.
+
+---
+
+#### 7. Szint: Megbízható Tehetség
+Ha képzettséghez vagy eszközhöz tartozó dobásnál 9-et vagy kevesebbet dobsz d20-on, úgy számít, mintha 10-et dobtál volna.
+
+---
+
+#### 11. Szint: Fejlett Ravasz Csapás
+Akár **két** külön Cunning Strike hatást is hozzáadhatsz, mindkettő költségét megfizetve.
+
+---
+
+#### 14. Szint: Álnok Csapások
+Új Cunning Strike lehetőségek:
+
+- **Kábítás (2d6):** Con mentő—sikertelen esetén a célpont következő körében csak *mozoghat*, vagy *akciót*, vagy *bónusz akciót* tehet.  
+- **Kiütés (6d6):** Con mentő—sikertelen esetén a célpont *Unconscious* 1 percig vagy amíg sebzést kap.  
+- **Elhomályosítás (3d6):** Dex mentő—sikertelen esetén a cél *Blinded* a következő kör végéig.
+
+---
+
+#### 15. Szint: Csúszós Elme
+Bölcsesség és Karizma mentődobásokban is jártasságot szerzel.
+
+---
+
+#### 18. Szint: Megfoghatatlan (Elusive)
+Egy ellenfél sem kaphat előnyt ellened, kivéve ha cselekvőképtelen vagy.
+
+---
+
+#### 19. Szint: Epikus Adomány
+Epikus feat vagy más szabadon választható feat.
+
+---
+
+#### 20. Szint: Szerencse Csapása
+Ha elrontasz egy d20 próbát, 20-ra módosíthatod.
+
+Egyszer használható, utána rövid vagy hosszú pihenő kell.
+
+---
+
+## Tolvaj Alosztályok
+- [[Player Options/Classes/Rogue/Rogue_SubClasses/Arcane Trickster\|Arcane Trickster]](Arcane Trickster)
+- [[Player Options/Classes/Rogue/Rogue_SubClasses/Assassin\|Assassin]](Assassin)
+- [[Player Options/Classes/Rogue/Rogue_SubClasses/Soulknife\|Soulknife]](Soulknife)
+- [[Player Options/Classes/Rogue/Rogue_SubClasses/Thief\|Thief]](Thief)
+
+---

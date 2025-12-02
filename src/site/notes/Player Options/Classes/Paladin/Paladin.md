@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-permalink":"paladin","permalink":"/paladin/"}
 ---
 
+<!--lang:en-->
+# Paladin
 *A Devout Warrior of Sacred Oaths*
 
 Paladins are united by their oaths to stand against the forces of annihilation and corruption. Whether sworn before a god’s altar, in a sacred glade before nature spirits, or in a moment of desperation and grief with the dead as the only witnesses, a Paladin’s oath is a powerful bond. It is a source of power that turns a devout warrior into a blessed champion.
@@ -247,3 +249,241 @@ A Paladin subclass is a specialization that grants you features at certain Palad
 - [[Player Options/Classes/Paladin/Paladin_SubClasses/Oath of Glory\|Oath of Glory]]
 - [[Player Options/Classes/Paladin/Paladin_SubClasses/Oath of the Ancient\|Oath of the Ancient]]
 - [[Player Options/Classes/Paladin/Paladin_SubClasses/Oath of Vengeance\|Oath of Vengeance]]
+
+---
+
+<!--lang:hu-->
+# Lovag (*Paladin*)
+*A szent eskük odaadó harcosa*
+
+A lovagok szent esküik által egyesülnek, hogy szembeszálljanak a pusztulás és romlottság erőivel. Legyen az eskü egy isten oltára előtt tett fogadalom, egy szent ligetben kimondott ígéret a természet szellemeinek, vagy kétségbeesés és gyász szülte fogadalom a holtak csendes tanúsága mellett—egy lovag esküje hatalmas kötelék. Ez az erőforrás alakítja a hithű harcost áldott bajnokká.
+
+A lovagok katonai kiképzésben részesülnek, fegyverek és páncélok széles repertoárját sajátítják el. Mégis, harci képességeik másodlagosak ahhoz a mágikus hatalomhoz képest, amellyel gyógyítanak, elpusztítják ellenségeiket, és védelmezik a gyengéket, illetve szövetségeseiket.
+
+A lovag életét szinte szükségszerűen a kalandozás jellemzi, mert egy lovag mindig a kozmosz frontvonalán áll a megsemmisülés ellen vívott küzdelemben. Míg a világ seregeiben ritkák a kiváló harcosok, még kevesebben viselik valóban a lovagok hivatását. Akiket azonban elhív az eskü ereje, elhagyják korábbi életüket, és kardot, pajzsot és mágiát ragadnak.
+
+| Lovag Alapvető Tulajdonságai | <                                                                                                                  |
+| :--------------------------- | :------------------------------------------------------------------------------------------------------------------ |
+| **Elsődleges Tulajdonság**  | Erő és Karizma                                                                                                      |
+| **Életerő Kocka**           | D10 minden lovag szint után                                                                                          |
+| **Mentődobás Jártasságok**  | Bölcsesség és Karizma                                                                                                |
+| **Képzettségek**            | Válassz 2-t: Atletika, Észlelés (Insight), Megfélemlítés, Gyógyítás (Medicine), Meggyőzés vagy Vallás                |
+| **Fegyver Jártasságok**     | Egyszerű és Harci fegyverek                                                                                          |
+| **Eszköz Jártasságok**      | Nincs                                                                                                                |
+| **Páncél Jártasság**        | Könnyű, Közepes és Nehéz páncél, valamint Pajzsok                                                                    |
+| **Kezdő Felszerelés**       | A vagy B csomag (lásd az angol részben)                                                                              |
+
+## Lovaggá Válás
+
+#### 1. Szintű Lovagként
+- Megkapod a **Lovag Alapvető Tulajdonságai** elemeit.
+- Megkapod az 1. szintű lovag osztályképességeket.
+
+#### Többosztályú Lovagként
+- Megkapod az Életerő Kockát, a **Harci fegyverek** jártasságát, valamint a **Könnyű & Közepes páncél** és **Pajzs** használatát.
+- Megkapod a lovag 1. szintű osztályképességeit.
+
+## Lovag Osztályképességek
+
+Az alábbi táblázat sorolja fel a lovag által megszerezhető képességeket.
+
+| Szint | Jártasság Bónusz | Osztályképességek | Isteni Csatorna | Előkészített Varázslatok | 1 | 2 | 3 | 4 | 5 |
+| ----- | ---------------- | ----------------- | ---------------- | ------------------------- | - | - | - | - | - |
+| 1     | +2               | Gyógyító Érintés, Varázshasználat, Fegyvermesterség | — | 2 | 2 | — | — | — | — |
+| 2     | +2               | Harcmodor, Lovagi Csapás | — | 3 | 2 | — | — | — | — |
+| 3     | +2               | Isteni Csatorna, Lovag Alosztály | 2 | 4 | 3 | — | — | — | — |
+| 4     | +2               | Tulajdonságfejlesztés | 2 | 5 | 3 | — | — | — | — |
+| 5     | +3               | Extra Támadás, Hűséges Paripa | 2 | 6 | 4 | 2 | — | — | — |
+| 6     | +3               | Védelmező Aura | 2 | 6 | 4 | 2 | — | — | — |
+| 7     | +3               | Alosztály képesség | 2 | 7 | 4 | 3 | — | — | — |
+| 8     | +3               | Tulajdonságfejlesztés | 2 | 7 | 4 | 3 | — | — | — |
+| 9     | +4               | Ellenség Megintése | 2 | 9 | 4 | 3 | 2 | — | — |
+| 10    | +4               | Bátorság Aurája | 2 | 9 | 4 | 3 | 2 | — | — |
+| 11    | +4               | Sugárzó Csapások | 3 | 10 | 4 | 3 | 3 | — | — |
+| 12    | +4               | Tulajdonságfejlesztés | 3 | 10 | 4 | 3 | 3 | — | — |
+| 13    | +5               | — | 3 | 11 | 4 | 3 | 3 | 1 | — |
+| 14    | +5               | Gyógyító Érintés Fejlesztve | 3 | 11 | 4 | 3 | 3 | 1 | — |
+| 15    | +5               | Alosztály képesség | 3 | 12 | 4 | 3 | 3 | 2 | — |
+| 16    | +5               | Tulajdonságfejlesztés | 3 | 12 | 4 | 3 | 3 | 2 | — |
+| 17    | +6               | — | 3 | 14 | 4 | 3 | 3 | 3 | 1 |
+| 18    | +6               | Aura Kiterjesztése | 3 | 14 | 4 | 3 | 3 | 3 | 1 |
+| 19    | +6               | Epikus Adomány | 3 | 15 | 4 | 3 | 3 | 3 | 2 |
+| 20    | +6               | Alosztály képesség | 3 | 15 | 4 | 3 | 3 | 3 | 2 |
+
+---
+#### 1. Szint: Gyógyító Érintés (Lay On Hands)
+Áldott érintéseddel gyógyíthatsz. Gyógyítási tartalékod = 5 × lovag szinted. Bónusz Akcióként megérinthetsz egy lényt (akár magadat), és annyi ÉP-t gyógyítasz, amennyit a tartalék enged.
+
+5 ÉP elköltésével eltávolíthatod a **Poisoned** állapotot a lényről.
+
+---
+#### 1. Szint: Varázshasználat
+Imával és meditációval tanultad meg a mágia használatát.
+
+- **Varázshelyek.** A Paladin táblázat mutatja, mennyi varázshelyed van.
+- **Előkészített Varázslatok.** Kezdetben 2 darab 1. szintű lovag varázslatot készíthetsz elő (ajánlott: *Heroism*, *Searing Smite*).
+- **Változtatás.** Hosszú pihenő után egy előkészített varázslatot lecserélhetsz másik lovag varázslatra.
+- **Varázsmentő DC és bónusz.** A varázshasználatod tulajdonsága a **Karizma**.
+- **Fókusz.** Használhatsz **Szent Szimbólumot** fókuszként.
+
+---
+#### 1. Szint: Fegyvermesterség
+Két általad ismert fegyver mesteri tulajdonságait használhatod. Hosszú pihenő után megváltoztathatod választásodat.
+
+---
+#### 2. Szint: Harcmodor
+Harcmodor képességet (featet) kapsz.
+
+**Áldott Harcos.** Két pap cantripet tanulsz meg (ajánlott: *Guidance*, *Sacred Flame*). Ezek lovag varázslatnak számítanak.
+
+---
+#### 2. Szint: Lovagi Csapás
+Mindig előkészítve van a **Divine Smite**. Egyszer varázshely elköltése nélkül is használhatod.
+
+---
+#### 3. Szint: Isteni Csatorna (Channel Divinity)
+Isteni energiát csatornázol különleges hatások létrehozására. Kétszer használhatod, rövid pihenővel 1 használat visszatér.
+
+**Isteni Érzékelés (Divine Sense).** Bónusz Akcióként 60 lábon belül érzékeled a **Celestial**, **Fiend**, **Undead** lényeket, valamint a szentelt/megszentségtelenített területeket (mint *Hallow*).
+
+---
+#### 3. Szint: Lovag Alosztály
+Választasz egy lovagi esküt.
+
+A következő alosztályok érhetők el:
+- [[Player Options/Classes/Paladin/Paladin_SubClasses/Oath of Devotion\|Oath of Devotion]](Oath of Devotion)
+- [[Player Options/Classes/Paladin/Paladin_SubClasses/Oath of Glory\|Oath of Glory]](Oath of Glory)
+- [[Player Options/Classes/Paladin/Paladin_SubClasses/Oath of the Ancient\|Oath of the Ancient]](Oath of the Ancient)
+- [[Player Options/Classes/Paladin/Paladin_SubClasses/Oath of Vengeance\|Oath of Vengeance]](Oath of Vengeance)
+
+> [!info] Esküszegés
+> Ha a lovag megszegi esküjét, általában bűnbánatot gyakorol, majd feloldozás után folytatja útját.  
+> Ha szándékosan és ismételten megszegi, a DM-mel egyeztess: lehet, hogy más alosztályba vagy más osztályba kell lépnie.
+
+---
+#### 4. Szint: Tulajdonságfejlesztés
+Tulajdonságot növelő vagy egyéb featet szerezhetsz.
+
+---
+#### 5. Szint: Extra Támadás
+Támadás akcióval kétszer támadhatsz.
+
+---
+#### 5. Szint: Hűséges Paripa
+Mindig előkészítve van a **Find Steed**.
+
+Egyszer varázshely nélkül is használhatod.
+
+---
+#### 6. Szint: Védelmező Aura
+10 láb sugarú aura, mely mentődobás bónuszt ad = Karizma módosítód.
+
+---
+#### 9. Szint: Ellenség Megintése (Abjure Foes)
+Magic akcióként megfélemlíthetsz több ellenséget, Wisdom mentőt tesznek, sikertelenül **Frightened** lesznek.
+
+---
+#### 10. Szint: Bátorság Aurája
+A te aurádban Immunisak a **Frightened** állapotra.
+
+---
+#### 11. Szint: Sugárzó Csapások
+Közelharci támadásaid +1d8 Radiant sebzést okoznak.
+
+---
+#### 14. Szint: Gyógyító Érintés Fejlesztve
+A Gyógyító Érintés használatakor eltávolíthatod a következő állapotokat (5 ÉP / állapot):  
+**Blinded, Charmed, Deafened, Frightened, Paralyzed, Stunned**
+
+---
+#### 18. Szint: Aura Kiterjesztése
+A Védelmező Aura sugara 30 lábra nő.
+
+---
+#### 19. Szint: Epikus Adomány
+Epikus feat (ajánlott: *Boon of Truesight*).
+
+---
+
+## Lovag Varázslista
+
+*(A varázsnevek maradnak angolul.)*
+
+### 1. Szintű Lovag Varázslatok
+| Spell | School | Special |
+| ----- | ------ | ------- |
+| [[Player Options/Spells/Detailed Spells/Bless\|Bless]] | Enchantment | C, M |
+| [[Player Options/Spells/Detailed Spells/Command\|Command]] | Enchantment | — |
+| [[Player Options/Spells/Detailed Spells/Compelled Duel\|Compelled Duel]] | Enchantment | C |
+| [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]] | Abjuration | — |
+| [[Detect Evil and Good\|Detect Evil and Good]] | Divination | C |
+| [[Detect Magic\|Detect Magic]] | Divination | C, R |
+| [[Detect Poison and Disease\|Detect Poison and Disease]] | Divination | C, R |
+| [[Divine Favor\|Divine Favor]] | Transmutation | — |
+| [[Divine Smite\|Divine Smite]] | Evocation | — |
+| [[Heroism\|Heroism]] | Enchantment | C |
+| [[Protection from Evil and Good\|Protection from Evil and Good]] | Abjuration | C, M |
+| [[Purify Food and Drink\|Purify Food and Drink]] | Transmutation | R |
+| [[Searing Smite\|Searing Smite]] | Evocation | — |
+| [[Shield of Faith\|Shield of Faith]] | Abjuration | C |
+| [[Thunderous Smite\|Thunderous Smite]] | Evocation | — |
+| [[Player Options/Spells/Detailed Spells/Wrathful Smite\|Wrathful Smite]] | Necromancy | — |
+
+### 2. Szintű Lovag Varázslatok
+| Spell | School | Special |
+| ----- | ------ | ------- |
+| [[Player Options/Spells/Detailed Spells/Aid\|Aid]] | Abjuration | — |
+| [[Find Steed\|Find Steed]] | Conjuration | — |
+| [[Gentle Repose\|Gentle Repose]] | Necromancy | R, M |
+| [[Lesser Restoration\|Lesser Restoration]] | Abjuration | — |
+| [[Locate Object\|Locate Object]] | Divination | C |
+| [[Magic Weapon\|Magic Weapon]] | Transmutation | — |
+| [[Prayer of Healing\|Prayer of Healing]] | Abjuration | — |
+| [[Protection from Poison\|Protection from Poison]] | Abjuration | — |
+| [[Shining Smite\|Shining Smite]] | Transmutation | C |
+| [[Warding Bond\|Warding Bond]] | Abjuration | M |
+| [[Zone of Truth\|Zone of Truth]] | Enchantment | — |
+
+### 3. Szintű Lovag Varázslatok
+| Spell | School | Special |
+| ----- | ------ | ------- |
+| [[Player Options/Spells/Detailed Spells/Aura of Vitality\|Aura of Vitality]] | Abjuration | C |
+| [[Player Options/Spells/Detailed Spells/Blinding Smite\|Blinding Smite]] | Evocation | — |
+| [[Player Options/Spells/Detailed Spells/Create Food and Water\|Create Food and Water]] | Conjuration | — |
+| [[Crusader’s Mantle\|Crusader’s Mantle]] | Transmutation | C |
+| [[Daylight\|Daylight]] | Evocation | — |
+| [[Dispel Magic\|Dispel Magic]] | Abjuration | — |
+| [[Elemental Weapon\|Elemental Weapon]] | Transmutation | C |
+| [[Magic Circle\|Magic Circle]] | Abjuration | M |
+| [[Remove Curse\|Remove Curse]] | Abjuration | — |
+| [[Revivify\|Revivify]] | Necromancy | M |
+
+### 4. Szintű Lovag Varázslatok
+| Spell | School | Special |
+| ----- | ------ | ------- |
+| [[Player Options/Spells/Detailed Spells/Aura of Life\|Aura of Life]] | Abjuration | C |
+| [[Player Options/Spells/Detailed Spells/Aura of Purity\|Aura of Purity]] | Abjuration | C |
+| [[Player Options/Spells/Detailed Spells/Banishment\|Banishment]] | Abjuration | C |
+| [[Death Ward\|Death Ward]] | Abjuration | — |
+| [[Locate Creature\|Locate Creature]] | Divination | C |
+| [[Staggering Smite\|Staggering Smite]] | Enchantment | — |
+
+### 5. Szintű Lovag Varázslatok
+| Spell | School | Special |
+| ----- | ------ | ------- |
+| [[Player Options/Spells/Detailed Spells/Banishing Smite\|Banishing Smite]] | Conjuration | C |
+| [[Player Options/Spells/Detailed Spells/Circle of Power\|Circle of Power]] | Abjuration | C |
+| [[Destructive Wave\|Destructive Wave]] | Evocation | — |
+| [[Dispel Evil and Good\|Dispel Evil and Good]] | Abjuration | C |
+| [[Geas\|Geas]] | Enchantment | — |
+| [[Greater Restoration\|Greater Restoration]] | Abjuration | M |
+| [[Raise Dead\|Raise Dead]] | Necromancy | M |
+| [[Summon Celestial\|Summon Celestial]] | Conjuration | — |
+
+## Lovag Alosztályok
+- [[Player Options/Classes/Paladin/Paladin_SubClasses/Oath of Devotion\|Oath of Devotion]](Oath of Devotion)
+- [[Player Options/Classes/Paladin/Paladin_SubClasses/Oath of Glory\|Oath of Glory]](Oath of Glory)
+- [[Player Options/Classes/Paladin/Paladin_SubClasses/Oath of the Ancient\|Oath of the Ancient]](Oath of the Ancient)
+- [[Player Options/Classes/Paladin/Paladin_SubClasses/Oath of Vengeance\|Oath of Vengeance]](Oath of Vengeance)
+
+---

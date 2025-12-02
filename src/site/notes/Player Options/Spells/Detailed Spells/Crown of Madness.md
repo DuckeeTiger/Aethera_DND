@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/crown-of-madness/"}
 ---
 
-
 *Level 2 Enchantment ([[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Warlock/Warlock\|Warlock]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
 **Casting Time:** Action
 **Range:** 120 feet

@@ -2,6 +2,9 @@
 {"dg-publish":true,"dg-permalink":"cleric","permalink":"/cleric/"}
 ---
 
+<!--lang:en-->
+# Cleric
+
 Clerics draw power from the realms of the gods and harness it to work miracles. Blessed by a deity, a pantheon, or another immortal entity, a Cleric can reach out to the divine magic of the Outer Planes—where gods dwell—and channel it to bolster people and battle foes.
  
 Because their power is a divine gift, Clerics typically associate themselves with temples dedicated to the deity or other immortal force that unlocked their magic. Harnessing divine magic doesn’t rely on specific training, yet Clerics might learn prayers and rites that help them draw on power from the Outer Planes.
@@ -289,3 +292,324 @@ A Cleric subclass is a specialization that grants you features at certain Cleric
 - [[Player Options/Classes/Cleric/Cleric_SubClasses/Light Domain\|Light Domain]]
 - [[Player Options/Classes/Cleric/Cleric_SubClasses/Trickery Domain\|Trickery Domain]]
 - [[Player Options/Classes/Cleric/Cleric_SubClasses/Life Domain\|Life Domain]]
+
+---
+
+<!--lang:hu-->
+# Pap (*Cleric*)
+
+A papok az istenek birodalmaiból merítik hatalmukat, és ezzel csodákat hajtanak végre. Egy istenség, egy panteon vagy más halhatatlan lény által megáldva a pap képes elérni a Külső Síkok isteni mágiáját—ahol az istenek lakoznak—és ezen erővel képes támogatni szövetségeseit vagy szembeszállni ellenségeivel.
+
+Mivel hatalmuk isteni ajándék, a papok rendszerint olyan templomokhoz vagy szentélyekhez kötődnek, amelyek az általuk tisztelt istenségnek vagy halhatatlan erőnek vannak szentelve. A papi mágia használata nem igényel formális kiképzést, mégis sok pap elsajátít imákat és szertartásokat, amelyek segítik őket az isteni erő elérésében.
+
+Nem minden templomi szolgáló pap. Sok pap csupán egyszerű hivatást követ, imádságokkal és szertartásokkal szolgálva istenét, de varázserő nélkül. Sokan állítják magukról, hogy az istenek akaratát közvetítik, ám igen kevesen képesek felhasználni ezen istenek hatalmát úgy, ahogyan egy pap megteheti.
+
+| Pap Alapvető Tulajdonságai     | <                                                                                               |
+| ------------------------------- | ----------------------------------------------------------------------------------------------- |
+| **Elsődleges Tulajdonság**      | Bölcsesség                                                                                     |
+| **Életerő Kocka**               | D8 minden Pap szint után                                                                        |
+| **Mentődobás Jártasságok**      | Bölcsesség és Karizma                                                                           |
+| **Képzettségek**                | Válassz 2-t: Történelem, Észlelés (Insight), Gyógyítás (Medicine), Meggyőzés (Persuasion) vagy Vallás |
+| **Fegyver Jártasságok**         | Egyszerű fegyverek                                                                              |
+| **Eszköz Jártasságok**          | Nincs                                                                                           |
+| **Páncél Jártasság**            | Könnyű és Közepes páncél, valamint Pajzsok                                                      |
+| **Kezdő Felszerelés**           | A vagy B csomag: (A) Páncéling, Pajzs, Buzogány, Szent Szimbólum, Pap Felszerelés és 7 arany; vagy (B) 110 arany |
+
+## Pappá Válás
+
+#### 1. Szintű Karakterként
+- Megkapod a **Pap Alapvető Tulajdonságai** táblázat összes elemét.
+- Megkapod a Pap **1. szintű Képességeit**, ahogyan a **Pap Képességei** táblázat felsorolja.
+
+#### Többosztályú Karakterként
+- Megkapod a következő tulajdonságokat a Pap Alapvető Tulajdonságai közül: Életerő Kocka, valamint Könnyű és Közepes páncél, illetve Pajzsok használata.
+- Megkapod a Pap **1. szintű Képességeit**. A többosztályúság szabályai alapján számítsd ki a varázshelyeidet.
+
+## Pap Osztályképességek
+
+A megadott szinteken a Pap a következő képességeket szerzi meg. A részletek a **Pap Képességei** táblázatban találhatók.
+
+| Szint | Jártasság Bónusz | Osztályképességek           | Isteni Csatornák | Kánttripek | Előkészített Varázslatok | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| ----- | ---------------- | --------------------------- | ---------------- | ---------- | ------------------------- | - | - | - | - | - | - | - | - | - |
+| 1     | +2               | Varázslás, Isteni Rend      | —                | 3          | 4                         | 2 | — | — | — | — | — | — | — | — |
+| 2     | +2               | Isteni Csatorna             | 2                | 3          | 5                         | 3 | — | — | — | — | — | — | — | — |
+| 3     | +2               | Pap Alosztály               | 2                | 3          | 6                         | 4 | 2 | — | — | — | — | — | — | — |
+| 4     | +2               | Tulajdonságfejlesztés       | 2                | 4          | 7                         | 4 | 3 | — | — | — | — | — | — | — |
+| 5     | +3               | Undead Perzselése           | 2                | 4          | 9                         | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6     | +3               | Alosztály Képesség          | 3                | 4          | 10                        | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7     | +3               | Áldott Csapások             | 3                | 4          | 11                        | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8     | +3               | Tulajdonságfejlesztés       | 3                | 4          | 12                        | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9     | +4               | —                            | 3                | 4          | 14                        | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10    | +4               | Isteni Beavatkozás          | 3                | 5          | 15                        | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11    | +4               | —                            | 3                | 5          | 16                        | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12    | +4               | Tulajdonságfejlesztés       | 3                | 5          | 16                        | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13    | +5               | —                            | 3                | 5          | 17                        | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14    | +5               | Fejlettebb Áldott Csapások  | 3                | 5          | 17                        | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15    | +5               | —                            | 3                | 5          | 18                        | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16    | +5               | Tulajdonságfejlesztés       | 3                | 5          | 18                        | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17    | +6               | Alosztály Képesség          | 3                | 5          | 19                        | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18    | +6               | —                            | 4                | 5          | 20                        | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19    | +6               | Epikus Adomány               | 4                | 5          | 21                        | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20    | +6               | Nagyobb Isteni Beavatkozás  | 4                | 5          | 22                        | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+
+---
+#### 1. Szint: Varázslás
+Megtannultál imával és meditációval varázsolni. A varázslás szabályai a könyv 7. fejezetében találhatók. Az alábbiak azt mutatják meg, hogyan alkalmazod ezeket a Pap varázslatokkal.
+
+**Kánttripek.** Három kánttripet ismersz a Pap varázslistáról. Ajánlottak: *Guidance*, *Sacred Flame*, *Thaumaturgy*. Szintlépéskor egy kánttripet másikra cserélhetsz.
+
+4. és 10. szinten egy újabb kánttripedet tanulsz.
+
+**Varázshelyek.** A táblázat mutatja, hány varázshelyed van. Hosszú Pihenő végén mind visszatér.
+
+**Előkészített 1+ szintű varázslatok.** Kezdetben négy 1. szintű varázslatot készítesz elő (ajánlottak: *Bless*, *Cure Wounds*, *Guiding Bolt*, *Shield of Faith*).  
+A szinted növekedésével az előkészített varázslatok száma nő.
+
+**Előkészített listád módosítása.** Minden Hosszú Pihenő után átállíthatod az előkészített varázslataid listáját.
+
+**Varázslási Tulajdonság.** A Bölcsesség.
+
+**Varázslási Fókusz.** Szent Szimbólumot használhatsz fókuszként.
+
+---
+#### 1. Szint: Isteni Rend
+Egy szent szerepnek szenteled magad:
+
+* **Védelmező.** Jártasságot szerzel Harci fegyverekben és Nehéz páncélban.  
+* **Thaumaturg.** Egy extra Pap kánttripet ismersz, és Bölcsesség módosítód hozzáadódik az Arcana vagy Religion próbákhoz (minimum +1).
+
+---
+#### 2. Szint: Isteni Csatorna
+Képes vagy közvetlenül a Külső Síkokról csatornázni az isteni energiát.
+
+Kezdésként két lehetőséged van: **Divine Spark** és **Turn Undead**.
+
+* **Divine Spark.** Varázslatos Akció; 1d8 + Bölcsesség módosító gyógyítás vagy Radiant/Necrotic sebzés (mentődobással). A kockák száma nő 7., 13. és 18. szinten.  
+* **Turn Undead.** Varázslatos Akció; a 30 lábon belüli Undead lények Bölcsesség mentődobást tesznek. Sikertelenségnél 1 percre Megfélemlített + Cselekvésképtelen lesznek, és menekülni próbálnak.
+
+---
+#### 3. Szint: Pap Alosztály
+Választasz egy Pap alosztályt. A következők elérhetők:
+
+- [[Player Options/Classes/Cleric/Cleric_SubClasses/Life Domain\|Life Domain]](Life Domain)  
+- [[Player Options/Classes/Cleric/Cleric_SubClasses/Light Domain\|Light Domain]](Light Domain)  
+- [[Player Options/Classes/Cleric/Cleric_SubClasses/Trickery Domain\|Trickery Domain]](Trickery Domain)  
+- [[Player Options/Classes/Cleric/Cleric_SubClasses/War Domain\|War Domain]](War Domain)
+
+---
+#### 4. Szint: Tulajdonságfejlesztés
+Tulajdonságfejlesztést vagy egy képességet szerezhetsz.
+
+---
+#### 5. Szint: Undead Perzselése
+A Turn Undead használatakor annyi d8-at dobsz, amennyi a Bölcsesség módosítód (minimum 1d8). Minden Undead, amely elbukja a mentést, Radiant sebzést szenved el.
+
+---
+#### 7. Szint: Áldott Csapások
+Az isteni erő átitatja a támadásaidat.
+
+* **Divine Strike.** Minden körödben egyszer +1d8 Radiant vagy Necrotic sebzést adhatsz egy fegyveres támadáshoz.  
+* **Potent Spellcasting.** A Pap kánttripeid sebzéséhez hozzáadod a Bölcsesség módosítódat.
+
+---
+#### 10. Szint: Isteni Beavatkozás
+Varázslatos Akcióként elmondhatsz egy tetszőleges 5. szintű vagy alacsonyabb Pap varázslatot **varázshely és összetevők nélkül**.  
+Hosszú Pihenő után használhatod újra.
+
+---
+#### 14. Szint: Fejlettebb Áldott Csapások
+A választott lehetőséged erősödik:
+
+* Divine Strike → +2d8 sebzés  
+* Potent Spellcasting → ideiglenes életerőt adhatsz magadnak vagy másnak (értéke: 2 × Bölcsesség módosító)
+
+---
+#### 19. Szint: Epikus Adomány
+Egy Epikus Adományt vagy más képességet szerezhetsz (ajánlott: Boon of Fate).
+
+---
+#### 20. Szint: Nagyobb Isteni Beavatkozás
+Használhatod a **Wish** varázslatot az Isteni Beavatkozás részeként.  
+Ezután **2d4 Hosszú Pihenőt** kell kivárnod, mielőtt újra használhatnád.
+
+## Pap Varázslista
+
+*(A varázslatnevek változtatás nélkül maradnak.)*
+
+### Cleric Cantrips (0. szint)
+| Spell                | School        | Special |
+| -------------------- | ------------- | ------- |
+| [[Player Options/Spells/Detailed Spells/Guidance\|Guidance]]         | Divination    | C       |
+| [[Player Options/Spells/Detailed Spells/Light\|Light]]            | Evocation     | —       |
+| [[Player Options/Spells/Detailed Spells/Mending\|Mending]]          | Transmutation | —       |
+| [[Resistance\|Resistance]]       | Abjuration    | C       |
+| [[Sacred Flame\|Sacred Flame]]     | Evocation     | —       |
+| [[Spare the Dying\|Spare the Dying]]  | Necromancy    | —       |
+| [[Thaumaturgy\|Thaumaturgy]]      | Transmutation | —       |
+| [[Toll the Dead\|Toll the Dead]]    | Necromancy    |         |
+| [[Word of Radiance\|Word of Radiance]] | Evocation     |         |
+
+### 1. Szintű Pap Varázslatok
+*(Spell names unchanged.)*
+
+| Spell                           | School        | Special |
+| ------------------------------- | ------------- | ------- |
+| [[Player Options/Spells/Detailed Spells/Bane\|Bane]]                        | Enchantment   | C       |
+| [[Player Options/Spells/Detailed Spells/Bless\|Bless]]                       | Enchantment   | C, M    |
+| [[Player Options/Spells/Detailed Spells/Command\|Command]]                     | Enchantment   | —       |
+| [[Player Options/Spells/Detailed Spells/Create or Destroy Water\|Create or Destroy Water]]     | Transmutation | —       |
+| [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]]                 | Abjuration    | —       |
+| [[Detect Evil and Good\|Detect Evil and Good]]        | Divination    | C       |
+| [[Detect Magic\|Detect Magic]]                | Divination    | C, R    |
+| [[Detect Poison and Disease\|Detect Poison and Disease]]   | Divination    | C, R    |
+| [[Guiding Bolt\|Guiding Bolt]]                | Evocation     | —       |
+| [[Healing Word\|Healing Word]]                | Abjuration    | —       |
+| [[Inflict Wounds\|Inflict Wounds]]              | Necromancy    | —       |
+| [[Protection from Evil and Good\|Protection from Evil and Good]] | Abjuration  | C, M    |
+| [[Purify Food and Drink\|Purify Food and Drink]]       | Transmutation | R       |
+| [[Sanctuary\|Sanctuary]]                   | Abjuration    | —       |
+| [[Shield of Faith\|Shield of Faith]]             | Abjuration    | C       |
+
+### 2. Szintű Pap Varázslatok
+
+| Spell                 | School        | Special |
+| ----------------------| ------------- | ------- |
+| [[Player Options/Spells/Detailed Spells/Aid\|Aid]]               | Abjuration    | —       |
+| [[Player Options/Spells/Detailed Spells/Augury\|Augury]]            | Divination    | R, M    |
+| [[Blindness/Deafness\|Blindness/Deafness]]| Transmutation | —       |
+| [[Player Options/Spells/Detailed Spells/Calm Emotions\|Calm Emotions]]     | Enchantment   | C       |
+| [[Player Options/Spells/Detailed Spells/Continual Flame\|Continual Flame]]   | Evocation     | M       |
+| [[Enhance Ability\|Enhance Ability]]   | Transmutation | C       |
+| [[Find Traps\|Find Traps]]        | Divination    | —       |
+| [[Gentle Repose\|Gentle Repose]]     | Necromancy    | R, M    |
+| [[Hold Person\|Hold Person]]       | Enchantment   | C       |
+| [[Lesser Restoration\|Lesser Restoration]]| Abjuration    | —       |
+| [[Locate Object\|Locate Object]]     | Divination    | C       |
+| [[Prayer of Healing\|Prayer of Healing]] | Abjuration    | —       |
+| [[Protection from Poison\|Protection from Poison]] | Abjuration | —      |
+| [[Silence\|Silence]]           | Illusion      | C, R    |
+| [[Spiritual Weapon\|Spiritual Weapon]]  | Evocation     | C       |
+| [[Warding Bond\|Warding Bond]]      | Abjuration    | M       |
+| [[Zone of Truth\|Zone of Truth]]     | Enchantment   | —       |
+
+### 3. Szintű Pap Varázslatok
+
+| Spell                     | School        | Special |
+| --------------------------| ------------- | ------- |
+| [[Player Options/Spells/Detailed Spells/Animate Dead\|Animate Dead]]          | Necromancy    | —       |
+| [[Player Options/Spells/Detailed Spells/Aura of Vitality\|Aura of Vitality]]      | Abjuration    | C       |
+| [[Player Options/Spells/Detailed Spells/Beacon of Hope\|Beacon of Hope]]        | Abjuration    | C       |
+| [[Player Options/Spells/Detailed Spells/Bestow Curse\|Bestow Curse]]          | Necromancy    | C       |
+| [[Player Options/Spells/Detailed Spells/Clairvoyance\|Clairvoyance]]          | Divination    | C, M    |
+| [[Player Options/Spells/Detailed Spells/Create Food and Water\|Create Food and Water]] | Conjuration   | —       |
+| [[Daylight\|Daylight]]              | Evocation     | —       |
+| [[Dispel Magic\|Dispel Magic]]          | Abjuration    | —       |
+| [[Feign Death\|Feign Death]]           | Necromancy    | R       |
+| [[Glyph of Warding\|Glyph of Warding]]      | Abjuration    | M       |
+| [[Magic Circle\|Magic Circle]]          | Abjuration    | M       |
+| [[Mass Healing Word\|Mass Healing Word]]     | Abjuration    | —       |
+| [[Meld into Stone\|Meld into Stone]]       | Transmutation | R       |
+| [[Protection from Energy\|Protection from Energy]]| Abjuration    | C       |
+| [[Remove Curse\|Remove Curse]]          | Abjuration    | —       |
+| [[Revivify\|Revivify]]              | Necromancy    | M       |
+| [[Sending\|Sending]]               | Divination    | —       |
+| [[Speak with Dead\|Speak with Dead]]       | Necromancy    | —       |
+| [[Spirit Guardians\|Spirit Guardians]]      | Conjuration   | C       |
+| [[Tongues\|Tongues]]               | Divination    | —       |
+| [[Water Walk\|Water Walk]]            | Transmutation | R       |
+
+### 4. Szintű Pap Varázslatok
+
+| Spell                     | School        | Special |
+| ------------------------- | ------------- | ------- |
+| [[Player Options/Spells/Detailed Spells/Aura of Life\|Aura of Life]]          | Abjuration    | C       |
+| [[Player Options/Spells/Detailed Spells/Aura of Purity\|Aura of Purity]]        | Abjuration    | C       |
+| [[Player Options/Spells/Detailed Spells/Banishment\|Banishment]]            | Abjuration    | C       |
+| [[Player Options/Spells/Detailed Spells/Control Water\|Control Water]]         | Transmutation | C       |
+| [[Death Ward\|Death Ward]]            | Abjuration    | —       |
+| [[Divination\|Divination]]            | Divination    | R, M    |
+| [[Freedom of Movement\|Freedom of Movement]]   | Abjuration    | —       |
+| [[Guardian of Faith\|Guardian of Faith]]     | Conjuration   | —       |
+| [[Locate Creature\|Locate Creature]]       | Divination    | C       |
+| [[Stone Shape\|Stone Shape]]           | Transmutation | —       |
+
+### 5. Szintű Pap Varázslatok
+
+| Spell                 | School        | Special |
+| --------------------- | ------------- | ------- |
+| [[Player Options/Spells/Detailed Spells/Circle of Power\|Circle of Power]]   | Abjuration    | C       |
+| [[Player Options/Spells/Detailed Spells/Commune\|Commune]]           | Divination    | R       |
+| [[Player Options/Spells/Detailed Spells/Contagion\|Contagion]]         | Necromancy    | —       |
+| [[Dispel Evil and Good\|Dispel Evil and Good]] | Abjuration | C       |
+| [[Flame Strike\|Flame Strike]]      | Evocation     | —       |
+| [[Geas\|Geas]]              | Enchantment   | —       |
+| [[Greater Restoration\|Greater Restoration]] | Abjuration   | M       |
+| [[Hallow\|Hallow]]            | Abjuration    | M       |
+| [[Insect Plague\|Insect Plague]]     | Conjuration   | C       |
+| [[Legend Lore\|Legend Lore]]       | Divination    | M       |
+| [[Mass Cure Wounds\|Mass Cure Wounds]]  | Abjuration    | —       |
+| [[Planar Binding\|Planar Binding]]    | Abjuration    | M       |
+| [[Raise Dead\|Raise Dead]]        | Necromancy    | M       |
+| [[Scrying\|Scrying]]           | Divination    | C, M    |
+| [[Summon Celestial\|Summon Celestial]]  | Conjuration   | C, M    |
+
+### 6. Szintű Pap Varázslatok
+
+| Spell              | School        | Special |
+| ------------------ | ------------- | ------- |
+| [[Player Options/Spells/Detailed Spells/Blade Barrier\|Blade Barrier]]  | Evocation     | C       |
+| [[Player Options/Spells/Detailed Spells/Create Undead\|Create Undead]]  | Necromancy    | M       |
+| [[Find the Path\|Find the Path]]  | Divination    | C, M    |
+| [[Forbiddance\|Forbiddance]]    | Abjuration    | R, M    |
+| [[Harm\|Harm]]           | Necromancy    | —       |
+| [[Heal\|Heal]]           | Abjuration    | —       |
+| [[Heroes' Feast\|Heroes' Feast]]  | Conjuration   | M       |
+| [[Planar Ally\|Planar Ally]]    | Conjuration   | —       |
+| [[Sunbeam\|Sunbeam]]        | Evocation     | C       |
+| [[True Seeing\|True Seeing]]    | Divination    | M       |
+| [[Word of Recall\|Word of Recall]] | Conjuration   | —       |
+
+### 7. Szintű Pap Varázslatok
+
+| Spell                | School        | Special |
+| -------------------- | ------------- | ------- |
+| [[Player Options/Spells/Detailed Spells/Conjure Celestial\|Conjure Celestial]]| Conjuration   | C       |
+| [[Divine Word\|Divine Word]]      | Evocation     | —       |
+| [[Etherealness\|Etherealness]]     | Conjuration   | —       |
+| [[Fire Storm\|Fire Storm]]       | Evocation     | —       |
+| [[Plane Shift\|Plane Shift]]      | Conjuration   | M       |
+| [[Power Word Fortify\|Power Word Fortify]]| Enchantment   | —       |
+| [[Regenerate\|Regenerate]]       | Transmutation | —       |
+| [[Resurrection\|Resurrection]]     | Necromancy    | M       |
+| [[Symbol\|Symbol]]           | Abjuration    | M       |
+
+### 8. Szintű Pap Varázslatok
+
+| Spell                | School        | Special |
+| -------------------- | ------------- | ------- |
+| [[Player Options/Spells/Detailed Spells/Antimagic Field\|Antimagic Field]]  | Abjuration    | C       |
+| [[Player Options/Spells/Detailed Spells/Control Weather\|Control Weather]]  | Transmutation | C       |
+| [[Earthquake\|Earthquake]]       | Transmutation | C       |
+| [[Holy Aura\|Holy Aura]]        | Abjuration    | C, M    |
+| [[Sunburst\|Sunburst]]         | Evocation     | —       |
+
+### 9. Szintű Pap Varázslatok
+
+| Spell                | School        | Special |
+| ---------------------| ------------- | ------- |
+| [[Player Options/Spells/Detailed Spells/Astral Projection\|Astral Projection]]| Necromancy    | M       |
+| [[Gate\|Gate]]             | Conjuration   | C, M    |
+| [[Mass Heal\|Mass Heal]]        | Abjuration    | —       |
+| [[Power Word Heal\|Power Word Heal]]  | Enchantment   | —       |
+| [[True Resurrection\|True Resurrection]]| Necromancy    | M       |
+
+## Pap Alosztályok
+
+A következő pap alosztályok érhetők el:
+
+- [[Player Options/Classes/Cleric/Cleric_SubClasses/War Domain\|War Domain]](War Domain)  
+- [[Player Options/Classes/Cleric/Cleric_SubClasses/Light Domain\|Light Domain]](Light Domain)  
+- [[Player Options/Classes/Cleric/Cleric_SubClasses/Trickery Domain\|Trickery Domain]](Trickery Domain)  
+- [[Player Options/Classes/Cleric/Cleric_SubClasses/Life Domain\|Life Domain]](Life Domain)  
+
+---

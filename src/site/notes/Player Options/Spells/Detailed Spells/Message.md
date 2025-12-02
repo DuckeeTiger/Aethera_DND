@@ -14,7 +14,8 @@ You can cast this spell through solid objects if you are familiar with the targe
 ---
 
 ## Üzenet
-*Segédvarázslat Átváltoztatás ([[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Druid/Druid\|Druid]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
+
+Cantrip szintű Átváltoztatás ([[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Druid/Druid\|Druid]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
 **Varázslási idő:** Akció
 **Hatótáv:** 120 láb
 **Komponensek:** S, M (egy rézhuzal)

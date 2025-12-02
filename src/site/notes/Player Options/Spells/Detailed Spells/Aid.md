@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/aid/"}
 ---
 
+<!--lang:en-->
+# Aid
+
 *2nd level Abjuration ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Cleric/Cleric\|Cleric]], [[Player Options/Classes/Druid/Druid\|Druid]], [[Player Options/Classes/Paladin/Paladin\|Paladin]], [[Player Options/Classes/Ranger/Ranger\|Ranger]])*
 **Casting Time:** Action
 **Range:** 30 feet
@@ -14,7 +17,8 @@ Choose up to three creatures within range. Each target's Hit Point maximum and c
 
 ---
 
-## Segítség
+<!--lang:hu-->
+# Segítség *(Aid)*
 
 *2. szintű Elhárítás ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Cleric/Cleric\|Cleric]], [[Player Options/Classes/Druid/Druid\|Druid]], [[Player Options/Classes/Paladin/Paladin\|Paladin]], [[Player Options/Classes/Ranger/Ranger\|Ranger]])*
 **Varázslási Idő:** Akció
@@ -24,4 +28,6 @@ Choose up to three creatures within range. Each target's Hit Point maximum and c
 
 Válassz legfeljebb három lényt a hatótávon belül. Minden célpont Életerő maximuma és aktuális Életerő pontjai 5-tel nőnek az időtartamra.
 
-**Magasabb szintű varázslatfoglalat használata.** Minden célpont Életerő pontjai 5-tel nőnek minden 2. szint feletti varázslatfoglalat szintjéért.
+**Magasabb szintű Spell Slot használata.** Minden célpont Életerő pontjai 5-tel nőnek minden 2. szint feletti varázslatfoglalat szintjéért.
+
+---

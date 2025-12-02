@@ -4,26 +4,30 @@
 
 # Choose Your Class
 
-|                     Barbarian                      |        Bard        |        Cleric        |
-| :------------------------------------------------: | :----------------: | :------------------: |
-| ![barbarian.png\|190](/img/user/assets/images/barbarian.png) | ![bard.png\|190](/img/user/assets/images/bard.png) | ![cleric.png\|190](/img/user/assets/images/cleric.png) |
+|               Barbarian               |               Bard               |               Cleric               |
+| :-----------------------------------: | :------------------------------: | :--------------------------------: |
+| ![[assets/images/barbarian.png\|190]] | ![[assets/images/bard.png\|190]] | ![[assets/images/cleric.png\|190]] |
 
 ---
 
-|        Druid        |        Fighter        |        Monk        |
-| :-----------------: | :-------------------: | :----------------: |
-| ![druid.png\|190](/img/user/assets/images/druid.png) | ![fighter.png\|190](/img/user/assets/images/fighter.png) | ![monkbarbarian.png\|190](/img/user/assets/images/monk.png) |
+|        Druid        |         Fighter         |          Monk           |
+| :-----------------: | :---------------------: | :---------------------: |
+| ![[assets/images/druid.png\|190]] | ![[assets/images/fighter.png\|190]] | ![[assets/images/monk.png\|190]] |
 
 ---
 
-|               Paladin               |               Ranger               |               Rogue               |
-| :---------------------------------: | :--------------------------------: | :-------------------------------: |
-| ![paladin.png\|190](/img/user/assets/images/paladin.png) | ![ranger.png\|190](/img/user/assets/images/ranger.png) | ![rogue.png\|190](/img/user/assets/images/rogue.png) |
+|         Paladin         |         Ranger          |          Rogue          |
+| :---------------------: | :---------------------: | :---------------------: |
+| ![[paladin.png\|190]] | ![[ranger.png\|190]] | ![[rogue.png\|190]] |
 
 ---
 
-|               Sorcerer               |               Warlock               |               Wizard               |
-| :---------------------------------: | :--------------------------------: | :-------------------------------: |
-| ![sorcerer.png\|190](/img/user/assets/images/sorcerer.png) | ![warlock.png\|190](/img/user/assets/images/warlock.png) | ![wizard.png\|190](/img/user/assets/images/wizard.png) |
+|        Sorcerer         |         Warlock         |         Wizard          |
+| :---------------------: | :---------------------: | :---------------------: |
+| ![[sorcerer.png\|190]] | ![[warlock.png\|190]] | ![[wizard.png\|190]] |
 
 ---
+
+
+
+
