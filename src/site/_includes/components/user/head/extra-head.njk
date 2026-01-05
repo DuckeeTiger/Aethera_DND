@@ -101,6 +101,16 @@
 (function(){
   const STORAGE_KEY = 'dg-lang';
 
+  // Re-render lucide icons (needed after language toggle replaces innerHTML)
+  function rerenderLucide(reason){
+    try {
+      if (window.lucide && typeof window.lucide.createIcons === "function") {
+        window.lucide.createIcons();
+        console.log('[DG ICONS] Lucide icons re-rendered (' + reason + ')');
+      }
+    } catch(e){}
+  }
+
   // Wrap <!--lang:en--> / <!--lang:hu--> sections in <div data-lang-block="...">
   function ensureLangBlocks() {
     if (document.querySelector('[data-lang-block]')) {
@@ -188,6 +198,9 @@
 
     updateLangButtons(lang);
 
+    // Re-render Lucide icons (especially important after ensureLangBlocks changes innerHTML)
+    rerenderLucide('applyLang');
+
     try { localStorage.setItem(STORAGE_KEY, lang); } catch(e){}
     console.log(
       '[DG LANG] Applied',
@@ -215,6 +228,11 @@
       if (e.key === STORAGE_KEY && (e.newValue === 'en' || e.newValue === 'hu')) {
         applyLang(e.newValue, 'storage');
       }
+    });
+
+    // If Lucide loads late, try once more after load
+    window.addEventListener('load', function(){
+      rerenderLucide('window-load');
     });
   });
 })();
