@@ -112,26 +112,26 @@
 > - **Spellcasting Focus:** You can use a **Druidic Focus**.
 
 >[!ranger-feature] Favored Enemy
-You always have the _[[Player Options/Spells/Detailed Spells/Hunter's Mark\|Hunter's Mark]]_ spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest.
+> You always have the _[[Player Options/Spells/Detailed Spells/Hunter's Mark\|Hunter's Mark]]_ spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest.
 >
-The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favored Enemy column of the Ranger Features table.
+> The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favored Enemy column of the Ranger Features table.
 
 >[!ranger-feature] Weapon Mastery
-Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Longbows and Shortswords.
+> Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Longbows and Shortswords.
 >
-Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Longswords.
+> Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Longswords.
 
 ### Level 2
 
 >[!ranger-feature] Deft Explorer
-Thanks to your travels, you gain the following benefits.
+> Thanks to your travels, you gain the following benefits.
 >- _**Expertise.**_ Choose one of your skill proficiencies with which you lack Expertise. You gain Expertise in that skill.
 >- _**Languages.**_ You know two languages of your choice from the language tables in "Character Creation".
 
 >[!ranger-feature] Fighting Style
-You gain a Fighting Style feat of your choice (see "Feats"). Instead of choosing one of those feats, you can choose the option below.
+> You gain a Fighting Style feat of your choice (see "Feats"). Instead of choosing one of those feats, you can choose the option below.
 >
-_**Druidic Warrior.**_ You learn two Druid cantrips of your choice (see the Druid class’s section for a list of Druid spells). _Guidance_ and _Starry Wisp_ are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
+> _**Druidic Warrior.**_ You learn two Druid cantrips of your choice (see the Druid class’s section for a list of Druid spells). _Guidance_ and _Starry Wisp_ are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
 
 ---
 

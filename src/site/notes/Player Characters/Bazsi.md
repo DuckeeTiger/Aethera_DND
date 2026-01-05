@@ -105,12 +105,12 @@
 > - **Spellcasting Focus:** You can use a **Druidic Focus**.
 
 > [!druid-feature] Druidic
-You know Druidic, the secret language of Druids. While learning this ancient tongue, you also unlocked the magic of communicating with animals; you always have the [[Player Options/Spells/Detailed Spells/Speak with Animals\|Speak with Animals]] spell prepared.
+> You know Druidic, the secret language of Druids. While learning this ancient tongue, you also unlocked the magic of communicating with animals; you always have the [[Player Options/Spells/Detailed Spells/Speak with Animals\|Speak with Animals]] spell prepared.
 >
-You can use Druidic to leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message’s presence with a successful DC 15 Intelligence (Investigation) check but can’t decipher it without magic.
+> You can use Druidic to leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message’s presence with a successful DC 15 Intelligence (Investigation) check but can’t decipher it without magic.
 
 > [!druid-feature] Primal Order
-You have dedicated yourself to one of the following sacred roles of your choice.
+> You have dedicated yourself to one of the following sacred roles of your choice.
 >
 >- **_Magician._** You know one extra cantrip from the Druid spell list. In addition, your mystical connection to nature gives you a bonus to your Intelligence (Arcana or Nature) checks. The bonus equals your Wisdom modifier (minimum bonus of +1).
 >
@@ -128,9 +128,9 @@ You have dedicated yourself to one of the following sacred roles of your choice.
 > - **Combat:** Gain **Temporary HP = your Druid level**
 
 > [!druid-feature] Wild Companion
-You can summon a nature spirit that assumes an animal form to aid you. As a Magic action, you can expend a spell slot or a use of Wild Shape to cast the Find Familiar spell without Material components.
+> You can summon a nature spirit that assumes an animal form to aid you. As a Magic action, you can expend a spell slot or a use of Wild Shape to cast the Find Familiar spell without Material components.
 >
-When you cast the spell in this way, the familiar is Fey and disappears when you finish a Long Rest.
+> When you cast the spell in this way, the familiar is Fey and disappears when you finish a Long Rest.
 
 ---
 

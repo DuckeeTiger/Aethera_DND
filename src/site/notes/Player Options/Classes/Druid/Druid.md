@@ -64,35 +64,35 @@ As a Druid, you gain the following class features when you reach the specified D
 ---
 #### Level 1: 
 > [!druid-feature] Spellcasting
-You have learned to cast spells through studying the mystical forces of nature. See “Spells” for the rules on spellcasting. The information below details how you use those rules with Druid spells, which appear on the Druid spell list later in the class’s description.
+> You have learned to cast spells through studying the mystical forces of nature. See “Spells” for the rules on spellcasting. The information below details how you use those rules with Druid spells, which appear on the Druid spell list later in the class’s description.
 >
-**_Cantrips._** You know two cantrips of your choice from the Druid spell list. Druidcraft and Produce Flame are recommended.
+> **_Cantrips._** You know two cantrips of your choice from the Druid spell list. Druidcraft and Produce Flame are recommended.
 >
-Whenever you gain a Druid level, you can replace one of your cantrips with another cantrip of your choice from the Druid spell list.
+> Whenever you gain a Druid level, you can replace one of your cantrips with another cantrip of your choice from the Druid spell list.
 >
-When you reach Druid levels 4 and 10, you learn another cantrip of your choice from the Druid spell list, as shown in the Cantrips column of the Druid Features table.
+> When you reach Druid levels 4 and 10, you learn another cantrip of your choice from the Druid spell list, as shown in the Cantrips column of the Druid Features table.
 >
-**_Spell Slots._** The Druid Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+> **_Spell Slots._** The Druid Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 >
-**_Prepared Spells of Level 1+._** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Druid spell list. [[Player Options/Spells/Detailed Spells/Animal Friendship\|Animal Friendship]], [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]], [[Faerie Fire\|Faerie Fire]], and [[Thunderwave\|Thunderwave]] are recommended.
+> **_Prepared Spells of Level 1+._** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Druid spell list. [[Player Options/Spells/Detailed Spells/Animal Friendship\|Animal Friendship]], [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]], [[Faerie Fire\|Faerie Fire]], and [[Thunderwave\|Thunderwave]] are recommended.
 >
-The number of spells on your list increases as you gain Druid levels, as shown in the Prepared Spells column of the Druid Features table. Whenever that number increases, choose additional spells from the Druid spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 3 Druid, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
+> The number of spells on your list increases as you gain Druid levels, as shown in the Prepared Spells column of the Druid Features table. Whenever that number increases, choose additional spells from the Druid spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 3 Druid, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 >
-If another Druid feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Druid spells for you.
+> If another Druid feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Druid spells for you.
 >
-**_Changing Your Prepared Spells._** Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells with other Druid spells for which you have spell slots.
+> **_Changing Your Prepared Spells._** Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells with other Druid spells for which you have spell slots.
 >
-**_Spellcasting Ability._** Wisdom is your spellcasting ability for your Druid spells.
+> **_Spellcasting Ability._** Wisdom is your spellcasting ability for your Druid spells.
 >
-**_Spellcasting Focus._** You can use a Druidic Focus as a Spellcasting Focus for your Druid spells.
+> **_Spellcasting Focus._** You can use a Druidic Focus as a Spellcasting Focus for your Druid spells.
 
 > [!druid-feature] Druidic
-You know Druidic, the secret language of Druids. While learning this ancient tongue, you also unlocked the magic of communicating with animals; you always have the [[Player Options/Spells/Detailed Spells/Speak with Animals\|Speak with Animals]] spell prepared.
+> You know Druidic, the secret language of Druids. While learning this ancient tongue, you also unlocked the magic of communicating with animals; you always have the [[Player Options/Spells/Detailed Spells/Speak with Animals\|Speak with Animals]] spell prepared.
 >
-You can use Druidic to leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message’s presence with a successful DC 15 Intelligence (Investigation) check but can’t decipher it without magic.
+> You can use Druidic to leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message’s presence with a successful DC 15 Intelligence (Investigation) check but can’t decipher it without magic.
 
 > [!druid-feature] Primal Order
-You have dedicated yourself to one of the following sacred roles of your choice.
+> You have dedicated yourself to one of the following sacred roles of your choice.
 >
 >- **_Magician._** You know one extra cantrip from the Druid spell list. In addition, your mystical connection to nature gives you a bonus to your Intelligence (Arcana or Nature) checks. The bonus equals your Wisdom modifier (minimum bonus of +1).
 >
@@ -101,17 +101,17 @@ You have dedicated yourself to one of the following sacred roles of your choice.
 ---
 #### Level 2: 
 > [!druid-feature] Wild Shape
-The power of nature allows you to assume the form of an animal. As a Bonus Action, you shape-shift into a Beast form that you have learned for this feature (see “Known Forms” below). You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, have the Incapacitated condition, or die. You can also leave the form early as a Bonus Action.
+> The power of nature allows you to assume the form of an animal. As a Bonus Action, you shape-shift into a Beast form that you have learned for this feature (see “Known Forms” below). You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, have the Incapacitated condition, or die. You can also leave the form early as a Bonus Action.
 >
-**_Number of Uses._** You can use Wild Shape twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
+> **_Number of Uses._** You can use Wild Shape twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
 >
-You gain additional uses when you reach certain Druid levels, as shown in the Wild Shape column of the Druid Features table.
+> You gain additional uses when you reach certain Druid levels, as shown in the Wild Shape column of the Druid Features table.
 >
-**_Known Forms._** You know four Beast forms for this feature, chosen from among Beast stat blocks that have a maximum Challenge Rating of 1/4 and that lack a Fly Speed (see appendix B for stat block options). The Rat, Riding Horse, Spider, and Wolf are recommended. Whenever you finish a Long Rest, you can replace one of your known forms with another eligible form.
+> **_Known Forms._** You know four Beast forms for this feature, chosen from among Beast stat blocks that have a maximum Challenge Rating of 1/4 and that lack a Fly Speed (see appendix B for stat block options). The Rat, Riding Horse, Spider, and Wolf are recommended. Whenever you finish a Long Rest, you can replace one of your known forms with another eligible form.
 >
-When you reach certain Druid levels, your number of known forms and the maximum Challenge Rating for those forms increases, as shown in the Beast Shapes table. In addition, starting at level 8, you can adopt a form that has a Fly Speed.
+> When you reach certain Druid levels, your number of known forms and the maximum Challenge Rating for those forms increases, as shown in the Beast Shapes table. In addition, starting at level 8, you can adopt a form that has a Fly Speed.
 >
-When choosing known forms, you may look in the Monster Manual or elsewhere for eligible Beasts if the Dungeon Master permits you to do so.
+> When choosing known forms, you may look in the Monster Manual or elsewhere for eligible Beasts if the Dungeon Master permits you to do so.
 >
 >##### Beast Shapes
 |Druid Level|Known Forms|Max CR|Fly Speed|
@@ -120,7 +120,7 @@ When choosing known forms, you may look in the Monster Manual or elsewhere for
 |4|6|1/2|No|
 |8|8|1|Yes|
 >
-**_Rules While Shape-Shifted._** While in a form, you retain your personality, memories, and ability to speak, and the following rules apply:
+> **_Rules While Shape-Shifted._** While in a form, you retain your personality, memories, and ability to speak, and the following rules apply:
 >
 >- **Temporary Hit Points.** When you assume a Wild Shape form, you gain a number of Temporary Hit Points equal to your Druid level.
 >- **Game Statistics.** Your game statistics are replaced by the Beast’s stat block, but you retain your creature type; Hit Points; Hit Point Dice; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your skill and saving throw proficiencies and use your Proficiency Bonus for them, in addition to gaining the proficiencies of the creature. If a skill or saving throw modifier in the Beast’s stat block is higher than yours, use the one in the stat block.
@@ -128,63 +128,63 @@ When choosing known forms, you may look in the Monster Manual or elsewhere for
 > - **Objects.** Your ability to handle objects is determined by the form’s limbs rather than your own. In addition, you choose whether your equipment falls in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it’s practical for the new form to wear a piece of equipment based on the creature’s size and shape. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with the form. Equipment that merges with the form has no effect while you’re in that form.
 
 > [!druid-feature] Wild Companion
-You can summon a nature spirit that assumes an animal form to aid you. As a Magic action, you can expend a spell slot or a use of Wild Shape to cast the Find Familiar spell without Material components.
+> You can summon a nature spirit that assumes an animal form to aid you. As a Magic action, you can expend a spell slot or a use of Wild Shape to cast the Find Familiar spell without Material components.
 >
-When you cast the spell in this way, the familiar is Fey and disappears when you finish a Long Rest.
+> When you cast the spell in this way, the familiar is Fey and disappears when you finish a Long Rest.
 
 ---
 #### Level 3: 
 > [!druid-feature] Druid Subclass
-You gain a Druid subclass of your choice. The Circle of the Land subclass is detailed after this class’s description. A subclass is a specialization that grants you features at certain Druid levels. For the rest of your career, you gain each of your subclass’s features that are of your Druid level or lower.
+> You gain a Druid subclass of your choice. The Circle of the Land subclass is detailed after this class’s description. A subclass is a specialization that grants you features at certain Druid levels. For the rest of your career, you gain each of your subclass’s features that are of your Druid level or lower.
 
 ---
 #### Level 4: 
 > [!druid-feature] Ability Score Improvement
-You gain the Ability Score Improvement feat (see “Feats”) or another feat of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
+> You gain the Ability Score Improvement feat (see “Feats”) or another feat of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
 
 ---
 #### Level 5:
 > [!druid-feature] Wild Resurgence
-Once on each of your turns, if you have no uses of Wild Shape left, you can give yourself one use by expending a spell slot (no action required).
+> Once on each of your turns, if you have no uses of Wild Shape left, you can give yourself one use by expending a spell slot (no action required).
 >
-In addition, you can expend one use of Wild Shape (no action required) to give yourself a level 1 spell slot, but you can’t do so again until you finish a Long Rest.
+> In addition, you can expend one use of Wild Shape (no action required) to give yourself a level 1 spell slot, but you can’t do so again until you finish a Long Rest.
 
 ---
 #### Level 7: 
 > [!druid-feature] Elemental Fury
-The might of the elements flows through you. You gain one of the following options of your choice.
+> The might of the elements flows through you. You gain one of the following options of your choice.
 > - **_Potent Spellcasting._** Add your Wisdom modifier to the damage you deal with any Druid cantrip.
- > - **_Primal Strike._** Once on each of your turns when you hit a creature with an attack roll using a weapon or a Beast form’s attack in Wild Shape, you can cause the target to take an extra 1d8 Cold, Fire, Lightning, or Thunder damage (choose when you hit).
+> - **_Primal Strike._** Once on each of your turns when you hit a creature with an attack roll using a weapon or a Beast form’s attack in Wild Shape, you can cause the target to take an extra 1d8 Cold, Fire, Lightning, or Thunder damage (choose when you hit).
 
 ---
 #### Level 15:
 > [!druid-feature] Improved Elemental Fury
-The option you chose for Elemental Fury grows more powerful, as detailed below.
+> The option you chose for Elemental Fury grows more powerful, as detailed below.
 >
-**_Potent Spellcasting._** When you cast a Druid cantrip with a range of 10 feet or greater, the spell’s range increases by 300 feet.
+> **_Potent Spellcasting._** When you cast a Druid cantrip with a range of 10 feet or greater, the spell’s range increases by 300 feet.
 >
-**_Primal Strike._** The extra damage of your Primal Strike increases to 2d8.
+> **_Primal Strike._** The extra damage of your Primal Strike increases to 2d8.
 
 ---
 #### Level 18: 
 > [!druid-feature] Beast Spells
-While using Wild Shape, you can cast spells in Beast form, except for any spell that has a Material component with a cost specified or that consumes its Material component.
+> While using Wild Shape, you can cast spells in Beast form, except for any spell that has a Material component with a cost specified or that consumes its Material component.
 
 ---
 #### Level 19: 
 > [!druid-feature] Epic Boon
-You gain an Epic Boon feat (see “Feats”) or another feat of your choice for which you qualify. Boon of Dimensional Travel is recommended.
+> You gain an Epic Boon feat (see “Feats”) or another feat of your choice for which you qualify. Boon of Dimensional Travel is recommended.
 
 ---
 #### Level 20: 
 > [!druid-feature] Archdruid
-The vitality of nature constantly blooms within you, granting you the following benefits.
+> The vitality of nature constantly blooms within you, granting you the following benefits.
 >
-**_Evergreen Wild Shape._** Whenever you roll Initiative and have no uses of Wild Shape left, you regain one expended use of it.
+> **_Evergreen Wild Shape._** Whenever you roll Initiative and have no uses of Wild Shape left, you regain one expended use of it.
 >
-**_Nature Magician._** You can convert uses of Wild Shape into a spell slot (no action required). Choose a number of your unexpended uses of Wild Shape and convert them into a single spell slot, with each use contributing 2 spell levels. For example, if you convert two uses of Wild Shape, you produce a level 4 spell slot. Once you use this benefit, you can’t do so again until you finish a Long Rest.
+> **_Nature Magician._** You can convert uses of Wild Shape into a spell slot (no action required). Choose a number of your unexpended uses of Wild Shape and convert them into a single spell slot, with each use contributing 2 spell levels. For example, if you convert two uses of Wild Shape, you produce a level 4 spell slot. Once you use this benefit, you can’t do so again until you finish a Long Rest.
 >
-**_Longevity._** The primal magic that you wield causes you to age more slowly. For every ten years that pass, your body ages only one year.
+> **_Longevity._** The primal magic that you wield causes you to age more slowly. For every ten years that pass, your body ages only one year.
 
 ## Druid Spell List
 
@@ -437,33 +437,33 @@ A Druida a megadott szinteken az alábbi képességeket szerzi meg, ahogy a táb
 ---
 #### 1. Szint: 
 > [!druid-feature] Varázslás
-Megtanultad a természet misztikus erőin keresztül varázsolni. A varázslás szabályai a „Varázslatok” részben találhatók. Az alábbiakban leírjuk, hogyan alkalmazod ezeket a Druida varázslatokkal.
+> Megtanultad a természet misztikus erőin keresztül varázsolni. A varázslás szabályai a „Varázslatok” részben találhatók. Az alábbiakban leírjuk, hogyan alkalmazod ezeket a Druida varázslatokkal.
 >
-**_Cantrips._** Két Cantrip-et ismersz a druida varázslistáról. Ajánlottak: *Druidcraft* és *Produce Flame*.
+> **_Cantrips._** Két Cantrip-et ismersz a druida varázslistáról. Ajánlottak: *Druidcraft* és *Produce Flame*.
 >
-Szintlépéskor lecserélhetsz egy Cantrip-et egy másikra.
+> Szintlépéskor lecserélhetsz egy Cantrip-et egy másikra.
 >
-4 és 10 szinten további Cantrip-ket tanulsz.
+> 4 és 10 szinten további Cantrip-ket tanulsz.
 >
-**_Varázshelyek._** A táblázat mutatja, hány varázshelyed van. Hosszú Pihenőkor visszatérnek.
+> **_Varázshelyek._** A táblázat mutatja, hány varázshelyed van. Hosszú Pihenőkor visszatérnek.
 >
-**_Előkészített 1+ szintű varázslatok._** Kezdetben négy 1. szintű varázslatot készítesz elő a druida varázslistáról (ajánlottak: [[Player Options/Spells/Detailed Spells/Animal Friendship\|Animal Friendship]], [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]], [[Faerie Fire\|Faerie Fire]], [[Thunderwave\|Thunderwave]]).
+> **_Előkészített 1+ szintű varázslatok._** Kezdetben négy 1. szintű varázslatot készítesz elő a druida varázslistáról (ajánlottak: [[Player Options/Spells/Detailed Spells/Animal Friendship\|Animal Friendship]], [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]], [[Faerie Fire\|Faerie Fire]], [[Thunderwave\|Thunderwave]]).
 >
-A listád a szinted növekedésével nő.
+> A listád a szinted növekedésével nő.
 >
-**_Előkészített listád cseréje._** Hosszú Pihenő után átalakíthatod az előkészített varázslatok listáját.
+> **_Előkészített listád cseréje._** Hosszú Pihenő után átalakíthatod az előkészített varázslatok listáját.
 >
 **_Varázslási Tulajdonság._** A Bölcsesség.
 >
-**_Varázslási Fókusz._** Druida fókuszt használhatsz.
+> **_Varázslási Fókusz._** Druida fókuszt használhatsz.
 
 > [!druid-feature] Druida Nyelv (Druidic)
-Ismered a Druidic nevű titkos nyelvet. Ennek megtanulásával képessé váltál kommunikálni az állatokkal is: a *Speak with Animals* varázslatot mindig előkészítve tartod.
+> Ismered a Druidic nevű titkos nyelvet. Ennek megtanulásával képessé váltál kommunikálni az állatokkal is: a *Speak with Animals* varázslatot mindig előkészítve tartod.
 > 
-Rejtett üzeneteket is hagyhatsz Druidic nyelven. A nyelvet ismerők automatikusan felismerik. Mások egy DC 15 Intelligencia (Investigation) próbával észrevehetik, de megfejteni nem tudják.
+> Rejtett üzeneteket is hagyhatsz Druidic nyelven. A nyelvet ismerők automatikusan felismerik. Mások egy DC 15 Intelligencia (Investigation) próbával észrevehetik, de megfejteni nem tudják.
 
 > [!druid-feature] Ősi Rend
-Egy ősi szerepnek szenteled magad:
+> Egy ősi szerepnek szenteled magad:
 >
 >- **_Mágus._** Egy további druida kánttripet ismersz, és Bölcsesség módosítód hozzáadódik az Arkánum vagy Természet próbákhoz.
 >- **_Őr._** Harci kiképzést kaptál: jártasság Harci fegyverekben és Közepes páncélokban.
@@ -471,13 +471,13 @@ Egy ősi szerepnek szenteled magad:
 ---
 #### 2. Szint: 
 > [!druid-feature] Vad Alak (Wild Shape)
-A természet erejével állat formáját veheted fel. Bónusz Akcióként egy általad ismert Bestia alakká változol (lásd „Ismert Formák”). A forma fenntartható órákban mérve a druida szinted feléig, vagy amíg újra használod a Vad Alakot, Cselekvésképtelenné válsz, vagy meghalsz. Bónusz Akcióval előbb is kiléphetsz belőle.
+> A természet erejével állat formáját veheted fel. Bónusz Akcióként egy általad ismert Bestia alakká változol (lásd „Ismert Formák”). A forma fenntartható órákban mérve a druida szinted feléig, vagy amíg újra használod a Vad Alakot, Cselekvésképtelenné válsz, vagy meghalsz. Bónusz Akcióval előbb is kiléphetsz belőle.
 >
-**_Használatok Száma._** Kétszer használhatod. Rövid Pihenőkor 1-et, Hosszú Pihenőkor mindet visszanyered.
+> **_Használatok Száma._** Kétszer használhatod. Rövid Pihenőkor 1-et, Hosszú Pihenőkor mindet visszanyered.
 >
-**_Ismert Formák._** Négy Bestia formát ismersz, max 1/4 FK-ig, repülés nélkül. Ajánlott: Patkány, Hátasló, Pók, Farkas.
+> **_Ismert Formák._** Négy Bestia formát ismersz, max 1/4 FK-ig, repülés nélkül. Ajánlott: Patkány, Hátasló, Pók, Farkas.
 >
-A szintlépésed növeli az ismeretek számát és FK maximumát.
+> A szintlépésed növeli az ismeretek számát és FK maximumát.
 >
 >##### Bestia Formák
 | Druida Szint | Ismert Formák | Max FK | Repülés |
@@ -486,21 +486,21 @@ A szintlépésed növeli az ismeretek számát és FK maximumát.
 | 4            | 6             | 1/2    | Nem     |
 | 8            | 8             | 1      | Igen    |
 >
-**_Szabályok Alakváltás Közben:_**
+> **_Szabályok Alakváltás Közben:_**
 >- **Ideiglenes Életerő.** Vad Alak felvételekor ideiglenes ÉP-t kapsz = druida szinted.
 >- **Játékszabályok.** A Bestia statisztikáit használod, kivéve: lénytípusod, ÉP-d, ÉP-kockáid, Int–Wis–Cha értékeid, osztályképességeid, nyelveid, képzettségeid. A magasabb értéket használod, ha a bestia jobb.
 >- **Varázslás tiltva.** Nem varázsolhatsz, de a koncentrációd nem törik meg.
 >- **Tárgyak.** A DM eldönti, mi hordható. A felszerelés leesik, eggyé válik a formával, vagy marad. Nem változik méretet.
 
 > [!druid-feature] Vad Társ (Wild Companion)
-Természetszellemet idézhetsz, amely állatformát öltve segít neked. Varázslatos Akcióként spell slotot vagy Vad Alak használatot költhetsz a *Find Familiar* varázslat elmondására.
+> Természetszellemet idézhetsz, amely állatformát öltve segít neked. Varázslatos Akcióként spell slotot vagy Vad Alak használatot költhetsz a *Find Familiar* varázslat elmondására.
 >
-A familiáris Tündér (Fey) lesz, és Hosszú Pihenővel eltűnik.
+> A familiáris Tündér (Fey) lesz, és Hosszú Pihenővel eltűnik.
 
 ---
 #### 3. szint:
 > [!druid-feature] Druida Alosztály
-Választasz egy druidakört:
+> Választasz egy druidakört:
 >
 >- [[Player Options/Classes/Druid/Druid_SubClasses/Circle of Land\|Circle of Land]](Circle of Land)
 >- [[Player Options/Classes/Druid/Druid_SubClasses/Circle of the Moon\|Circle of the Moon]](Circle of the Moon)
@@ -510,53 +510,53 @@ Választasz egy druidakört:
 ---
 #### 4. Szint: 
 > [!druid-feature] Tulajdonságfejlesztés
-Tulajdonságfejlesztést vagy más képességet szerezhetsz.
+> Tulajdonságfejlesztést vagy más képességet szerezhetsz.
 
 ---
 #### 5. Szint: 
 > [!druid-feature] Vad Megújulás
-Ha nincs több Vad Alak használatod, körönként egyszer spell slot költésével visszakaphatsz egyet.
+> Ha nincs több Vad Alak használatod, körönként egyszer spell slot költésével visszakaphatsz egyet.
 >
-Emellett egy használatot spell slotra válthatsz, de csak Hosszú Pihenő után ismételheted.
+> Emellett egy használatot spell slotra válthatsz, de csak Hosszú Pihenő után ismételheted.
 
 ---
 #### 7. Szint: 
 > [!druid-feature] Elemi Düh
-Az elemek ereje járja át testedet.
+> Az elemek ereje járja át testedet.
 >
-**_Erőteljes Varázslás._** A druida kánttripek sebzéséhez hozzáadod a Bölcsesség módosítód.
+> **_Erőteljes Varázslás._** A druida kánttripek sebzéséhez hozzáadod a Bölcsesség módosítód.
 >
-**_Ősi Csapás._** Körönként egyszer, amikor fegyverrel vagy Bestia formával találsz, +1d8 Hideg, Tűz, Villám vagy Mennydörgés sebzés (ütésenként választod).
+> **_Ősi Csapás._** Körönként egyszer, amikor fegyverrel vagy Bestia formával találsz, +1d8 Hideg, Tűz, Villám vagy Mennydörgés sebzés (ütésenként választod).
 
 ---
 #### 15. Szint: 
 > [!druid-feature] Fejlett Elemi Düh
-A választott opció erősebbé válik:
+> A választott opció erősebbé válik:
 >
-**_Erőteljes Varázslás._** Ha a kánttrip hatótávja ≥ 10 láb, +300 lábbal nő.
+> **_Erőteljes Varázslás._** Ha a kánttrip hatótávja ≥ 10 láb, +300 lábbal nő.
 >
-**_Ősi Csapás._** A sebzés +2d8-ra nő.
+> **_Ősi Csapás._** A sebzés +2d8-ra nő.
 
 ---
 #### 18. Szint: 
 > [!druid-feature] Bestia Varázslatok
-Vad Alakban is varázsolhatsz, kivéve ha az anyagi komponens értékes vagy fogyó.
+> Vad Alakban is varázsolhatsz, kivéve ha az anyagi komponens értékes vagy fogyó.
 
 ---
 #### 19. Szint: 
 > [!druid-feature] Epikus Adomány
-Epikus Adományt vagy más képességet kapsz (ajánlott: *Boon of Dimensional Travel*).
+> Epikus Adományt vagy más képességet kapsz (ajánlott: *Boon of Dimensional Travel*).
 
 ---
 #### 20. Szint: 
 > [!druid-feature] Ősdruida
-A természet ereje örökké áramlik benned.
+> A természet ereje örökké áramlik benned.
 >
-**_Örökzöld Vad Alak._** Kezdeményezéskor, ha nincs Vad Alak használatod, visszakapsz egyet.
+> **_Örökzöld Vad Alak._** Kezdeményezéskor, ha nincs Vad Alak használatod, visszakapsz egyet.
 >
-**_Természet Mágusa._** Vad Alak használatokat spell slotra válthatsz: minden használat 2 spell szintet ér.
+> **_Természet Mágusa._** Vad Alak használatokat spell slotra válthatsz: minden használat 2 spell szintet ér.
 >
-**_Hosszú Élet._** Tíz év alatt csak egy évet öregszel.
+> **_Hosszú Élet._** Tíz év alatt csak egy évet öregszel.
 
 ## Druida Varázslista
 
