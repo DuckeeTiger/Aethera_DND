@@ -13,7 +13,7 @@
     if (body){
       body.setAttribute('data-theme', next);
       body.classList.remove('theme-dark','theme-light');
-      body.classList.add(next === 'dark' ? 'theme-dark' : 'light');
+      body.classList.add(next === 'dark' ? 'theme-dark' : 'theme-light');
     }
 
     try { localStorage.setItem('dg-theme', next); } catch(e){}
@@ -101,7 +101,6 @@
 (function(){
   const STORAGE_KEY = 'dg-lang';
 
-  // Re-render lucide icons (needed after language toggle replaces innerHTML)
   function rerenderLucide(reason){
     try {
       if (window.lucide && typeof window.lucide.createIcons === "function") {
@@ -111,7 +110,6 @@
     } catch(e){}
   }
 
-  // Wrap <!--lang:en--> / <!--lang:hu--> sections in <div data-lang-block="...">
   function ensureLangBlocks() {
     if (document.querySelector('[data-lang-block]')) {
       return;
@@ -172,7 +170,6 @@
 
   function updateLangButtons(lang) {
     document.querySelectorAll('[data-lang-toggle]').forEach(btn => {
-      // Only a flag icon, no text
       if (!btn.querySelector('.lang-toggle-icon')) {
         btn.innerHTML = '<span class="lang-toggle-icon" aria-hidden="true"></span>';
       }
@@ -192,13 +189,10 @@
     const hasAnyLangBlocks = document.querySelector('[data-lang-block]') != null;
     const hasTargetLang = document.querySelector('[data-lang-block="' + lang + '"]') != null;
 
-    // IMPORTANT: always set data-lang so the flag CSS works on every page,
-    // even when there are no lang blocks.
     root.setAttribute('data-lang', lang);
 
     updateLangButtons(lang);
 
-    // Re-render Lucide icons (especially important after ensureLangBlocks changes innerHTML)
     rerenderLucide('applyLang');
 
     try { localStorage.setItem(STORAGE_KEY, lang); } catch(e){}
@@ -230,7 +224,6 @@
       }
     });
 
-    // If Lucide loads late, try once more after load
     window.addEventListener('load', function(){
       rerenderLucide('window-load');
     });
