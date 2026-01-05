@@ -213,4 +213,16 @@ html[data-lang="hu"] .lang-toggle-icon {
   --callout-icon: lucide-wand;
 }
 
+.callout-title-inner {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.callout-title-icon {
+  width: 1em;
+  height: 1em;
+  flex: 0 0 auto;
+}
+
 }
