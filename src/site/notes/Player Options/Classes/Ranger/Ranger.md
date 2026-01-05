@@ -99,7 +99,7 @@ As a Ranger, you gain the following class features when you reach the specified 
 >[!ranger-feature] Ranger Subclass
 > You gain a Ranger subclass of your choice. A subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass’s features that are of your Ranger level or lower.
 >
->The following warlock patrons are available for you:
+>The following Ranger subclasses are available for you:
 >- [[Player Options/Classes/Ranger/Ranger_SubClasses/Beast Master\|Beast Master]]
 >- [[Player Options/Classes/Ranger/Ranger_SubClasses/Gloom Stalker\|Gloom Stalker]]
 >- [[Player Options/Classes/Ranger/Ranger_SubClasses/Hunter\|Hunter]]

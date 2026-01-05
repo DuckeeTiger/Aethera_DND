@@ -93,7 +93,7 @@
 
 ### Level 1
 
->[!ranger-feature] Spellcasting
+>[!druid-feature] Spellcasting
 >You can cast Druid spells, drawing magic from nature.
 > 
 > - **Spell Slots:** Use spell slots shown on the [[Player Options/Classes/Druid/Druid\|Druid]] table (regain all on a Long Rest).
