@@ -345,6 +345,23 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addTransform("callout-block", function (str) {
     const parsed = parse(str, { comment: true });
 
+    const calloutIconMap = {
+      "barbarian-feature": "axe",
+      "bard-feature": "guitar",
+      "cleric-feature": "sparkles",
+      "druid-feature": "paw-print",
+      "fighter-feature": "swords",
+      "monk-feature": "eclipse",
+      "paladin-feature": "shield-half",
+      "ranger-feature": "sword",
+      "rogue-feature": "venetian-mask",
+      "sorcerer-feature": "flame",
+      "warlock-feature": "eye",
+      "wizard-feature": "atom",
+      "species-feature": "shell",
+      "spells": "wand"
+      };
+
     const transformCalloutBlocks = (
       blockquotes = parsed.querySelectorAll("blockquote")
     ) => {
@@ -379,7 +396,10 @@ module.exports = function (eleventyConfig) {
 
             calloutType = callout;
             calloutMetaData = metaData;
-            titleDiv = `<div class="callout-title"><div class="callout-title-inner">${titleText}</div>${fold}</div>`;
+            const iconName = calloutIconMap[String(callout).toLowerCase()];
+            const iconHtml = iconName ? `<i class="callout-title-icon" icon-name="${iconName}" aria-hidden="true"></i>` : "";
+            titleDiv = `<div class="callout-title"><div class="callout-title-inner">${iconHtml}${titleText}</div>${fold}</div>`;
+
             return "";
           }
         );
