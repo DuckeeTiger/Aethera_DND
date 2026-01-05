@@ -140,4 +140,77 @@ html[data-lang="hu"] .lang-toggle-icon {
   .filetree-toolbar {
     justify-content: center;
   }
+
+  /* ===== CUSTOM CALLOUTS ===== */
+
+.callout[data-callout="barbarian-feature"] {
+  --callout-color: 152, 103, 58;
+  --callout-icon: lucide-axe;
+}
+
+.callout[data-callout="bard-feature"] {
+  --callout-color: 152, 58, 48;
+  --callout-icon: lucide-guitar;
+}
+
+.callout[data-callout="cleric-feature"] {
+  --callout-color: 136, 152, 58;
+  --callout-icon: lucide-sparkles;
+}
+
+.callout[data-callout="druid-feature"] {
+  --callout-color: 58, 152, 76;
+  --callout-icon: lucide-paw-print;
+}
+
+.callout[data-callout="fighter-feature"] {
+  --callout-color: 152, 58, 90;
+  --callout-icon: lucide-swords;
+}
+
+.callout[data-callout="monk-feature"] {
+  --callout-color: 58, 152, 150;
+  --callout-icon: lucide-eclipse;
+}
+
+.callout[data-callout="paladin-feature"] {
+  --callout-color: 152, 148, 58;
+  --callout-icon: lucide-shield-half;
+}
+
+.callout[data-callout="ranger-feature"] {
+  --callout-color: 58, 152, 76;
+  --callout-icon: lucide-sword;
+}
+
+.callout[data-callout="rogue-feature"] {
+  --callout-color: 62, 60, 61;
+  --callout-icon: lucide-venetian-mask;
+}
+
+.callout[data-callout="sorcerer-feature"] {
+  --callout-color: 152, 58, 58;
+  --callout-icon: lucide-flame;
+}
+
+.callout[data-callout="warlock-feature"] {
+  --callout-color: 127, 74, 207;
+  --callout-icon: lucide-eye;
+}
+
+.callout[data-callout="wizard-feature"] {
+  --callout-color: 83, 58, 152;
+  --callout-icon: lucide-atom;
+}
+
+.callout[data-callout="species-feature"] {
+  --callout-color: 155, 170, 217;
+  --callout-icon: lucide-shell;
+}
+
+.callout[data-callout="spells"] {
+  --callout-color: 255, 0, 234;
+  --callout-icon: lucide-wand;
+}
+
 }
