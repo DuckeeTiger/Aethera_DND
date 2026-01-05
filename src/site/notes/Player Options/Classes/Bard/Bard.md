@@ -232,7 +232,7 @@ This section presents the bard spell list...
 | [[Player Options/Spells/Detailed Spells/Nondetection\|Nondetection]]       | Abjuration    | M       |
 | [[Player Options/Spells/Detailed Spells/Plant Growth\|Plant Growth]]       | Transmutation |         |
 | [[Sending\|Sending]]            | Divination    |         |
-| [[Slow\|Slow]]               | Transmutation | C       |
+| [[Player Options/Weapon Properties/Vex\|Vex]]               | Transmutation | C       |
 | [[Speak with Dead\|Speak with Dead]]    | Necromancy    |         |
 | [[Player Options/Spells/Detailed Spells/Speak with Plants\|Speak with Plants]]  | Transmutation |         |
 | [[Stinking Cloud\|Stinking Cloud]]     | Conjuration   | C       |
@@ -562,7 +562,7 @@ A következő lista a Bárdok számára elérhető varázslatokat mutatja, szint
 | [[Player Options/Spells/Detailed Spells/Nondetection\|Nondetection]]       | Abjuration    | M       |
 | [[Player Options/Spells/Detailed Spells/Plant Growth\|Plant Growth]]       | Transmutation |         |
 | [[Sending\|Sending]]            | Divination    |         |
-| [[Slow\|Slow]]               | Transmutation | C       |
+| [[Player Options/Weapon Properties/Vex\|Vex]]               | Transmutation | C       |
 | [[Speak with Dead\|Speak with Dead]]    | Necromancy    |         |
 | [[Player Options/Spells/Detailed Spells/Speak with Plants\|Speak with Plants]]  | Transmutation |         |
 | [[Stinking Cloud\|Stinking Cloud]]     | Conjuration   | C       |

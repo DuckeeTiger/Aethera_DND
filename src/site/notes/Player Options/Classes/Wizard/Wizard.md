@@ -257,7 +257,7 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | [[Remove Curse\|Remove Curse]]           | Abjuration    | —       |
 | [[Sending\|Sending]]                | Divination    | —       |
 | [[Sleet Storm\|Sleet Storm]]            | Conjuration   | C       |
-| [[Slow\|Slow]]                   | Transmutation | C       |
+| [[Player Options/Weapon Properties/Vex\|Vex]]                   | Transmutation | C       |
 | [[Speak with Dead\|Speak with Dead]]        | Necromancy    | —       |
 | [[Stinking Cloud\|Stinking Cloud]]         | Conjuration   | C       |
 | [[Tongues\|Tongues]]                | Divination    | —       |
@@ -667,7 +667,7 @@ A **Special** oszlop jelölései:
 | [[Remove Curse\|Remove Curse]]           | Abjuration    | —       |
 | [[Sending\|Sending]]                | Divination    | —       |
 | [[Sleet Storm\|Sleet Storm]]            | Conjuration   | C       |
-| [[Slow\|Slow]]                   | Transmutation | C       |
+| [[Player Options/Weapon Properties/Vex\|Vex]]                   | Transmutation | C       |
 | [[Speak with Dead\|Speak with Dead]]        | Necromancy    | —       |
 | [[Stinking Cloud\|Stinking Cloud]]         | Conjuration   | C       |
 | [[Tongues\|Tongues]]                | Divination    | —       |

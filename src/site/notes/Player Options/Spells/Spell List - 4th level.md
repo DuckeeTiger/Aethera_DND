@@ -45,7 +45,7 @@
 |[[Player Options/Spells/Detailed Spells/Revivify\|Revivify]]|3rd|Action|Necromancy|no|V, S, M|no|
 |[[Sending\|Sending]]|3rd|Action|Divination|no|V, S, M|no|
 |[[Sleet Storm\|Sleet Storm]]|3rd|Action|Conjuration|no|V, S, M|yes|
-|[[Slow\|Slow]]|3rd|Action|Transmutation|no|V, S, M|yes|
+|[[Player Options/Weapon Properties/Vex\|Vex]]|3rd|Action|Transmutation|no|V, S, M|yes|
 |[[Speak with Dead\|Speak with Dead]]|3rd|Action|Necromancy|no|V, S, M|no|
 |[[Player Options/Spells/Detailed Spells/Speak with Plants\|Speak with Plants]]|3rd|Action|Transmutation|no|V, S|no|
 |[[Spirit Guardians\|Spirit Guardians]]|3rd|Action|Conjuration|no|V, S, M|yes|

@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/player-options/feats/crafter/"}
 ---
 
+<!--lang:en-->
+# Crafter
 *Origin Feat*
 
 You gain the following benefits.
@@ -19,3 +21,26 @@ You gain the following benefits.
 | Tinker's Tools | Bell, Shovel, Tinder Box |
 | Weaver's Tools | Basket, Rope, Net, Tent |
 | Woodcarver's Tools | Club, Greatclub, Quarterstaff |
+
+---
+<!--lang:hu-->
+# Kézműves _(Crafter)_
+_Eredet Feat_
+
+Az alábbi előnyökre teszel szert:
+- **Szerszámjártasság.** Jártasságot kapsz három különböző, általad választott **Kézműves Szerszámban** a **Gyors Barkácsolás** táblázatból.
+- **Kedvezmény.** Amikor nem mágikus tárgyat vásárolsz, **20% kedvezményt** kapsz az árából.
+- **Gyors Barkácsolás.** Egy **Hosszú Pihenés** befejezésekor elkészíthetsz egy felszerelési tárgyat a **Gyors Barkácsolás** táblázatból, feltéve hogy rendelkezel a megfelelő szerszámmal és jártassággal. A tárgy a következő Hosszú Pihenésed végéig tart; ekkor szétesik.
+
+|Kézműves Szerszámok|Elkészíthető Tárgy|
+|---|---|
+|Ácsszerszámok|Létra, Fáklya|
+|Bőrműves szerszámok|Tok, Zsák|
+|Kőműves szerszámok|Csigasor|
+|Fazekas szerszámok|Korsó, Lámpa|
+|Kovácsszerszámok|Csapágygolyók, Vödör, Caltrops, Kampós kötél|
+|Tinker szerszámok|Harang, Lapát, Tűzszerszám|
+|Szövőszerszámok|Kosár, Kötél, Háló, Sátor|
+|Faműves szerszámok|Bunkósbot, Nagy bunkósbot, Bot|
+
+---

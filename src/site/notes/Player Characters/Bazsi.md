@@ -81,10 +81,10 @@
 >[!species-feature] _Resourceful:_ 
 >- You gain Heroic Inspiration whenever you finish a Long Rest.
 
->[!species-feature] _Skillful_:
+>[!species-feature] _Skillful:_
 >- You gain proficiency in one skill of your choice.
 
->[!species-feature] _Versatile_
+>[!species-feature] _Versatile:_
 >- You gain an Origin feat of your choice.
 
 ---
@@ -128,7 +128,7 @@
 > - **Combat:** Gain **Temporary HP = your Druid level**
 
 > [!druid-feature] Wild Companion
-> You can summon a nature spirit that assumes an animal form to aid you. As a Magic action, you can expend a spell slot or a use of Wild Shape to cast the Find Familiar spell without Material components.
+> You can summon a nature spirit that assumes an animal form to aid you. As a Magic action, you can expend a spell slot or a use of Wild Shape to cast the [[Player Options/Spells/Detailed Spells/Find Familiar\|Find Familiar]] spell without Material components.
 >
 > When you cast the spell in this way, the familiar is Fey and disappears when you finish a Long Rest.
 
@@ -190,5 +190,5 @@
 #### Cantrip
 - 
 #### Level 1
-- 
-- 
+- [[Player Options/Spells/Detailed Spells/Speak with Animals\|Speak with Animals]]
+- [[Player Options/Spells/Detailed Spells/Find Familiar\|Find Familiar]]

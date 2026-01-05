@@ -81,7 +81,7 @@
 >[!species-feature] *Darkvision:* 
 >- You have Darkvision with a range of 60 feet.
 
->[!species-feature] ***Otherworldly Presence***:
+>[!species-feature] *Otherworldly Presence:*
 >- You know the [[Thaumaturgy\|Thaumaturgy]] cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Fiendish Legacy Trait.
 
 >[!species-feature] *Chthonic Tiefling Spec:*

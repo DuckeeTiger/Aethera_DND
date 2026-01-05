@@ -319,7 +319,7 @@
 | 315 | [[Simulacrum\|Simulacrum]]                         | 7th     | 12 Hr.    | Illusion      | no     | V, S, M    | no            |
 | 316 | [[Sleep\|Sleep]]                              | 1st     | Action    | Enchantment   | no     | V, S, M    | yes           |
 | 317 | [[Sleet Storm\|Sleet Storm]]                        | 3rd     | Action    | Conjuration   | no     | V, S, M    | yes           |
-| 318 | [[Slow\|Slow]]                               | 3rd     | Action    | Transmutation | no     | V, S, M    | yes           |
+| 318 | [[Player Options/Weapon Properties/Vex\|Vex]]                               | 3rd     | Action    | Transmutation | no     | V, S, M    | yes           |
 | 319 | [[Sorcerous Burst\|Sorcerous Burst]]                    | Cantrip | Action    | Evocation     | no     | V, S       | no            |
 | 320 | [[Spare the Dying\|Spare the Dying]]                    | Cantrip | Action    | Necromancy    | no     | V, S       | no            |
 | 321 | [[Player Options/Spells/Detailed Spells/Speak with Animals\|Speak with Animals]]                 | 1st     | Action    | Divination    | yes    | V, S       | no            |

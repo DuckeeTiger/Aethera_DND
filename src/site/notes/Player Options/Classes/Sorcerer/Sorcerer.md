@@ -271,7 +271,7 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 | [[Major Image\|Major Image]]          | Illusion      | C       |
 | [[Player Options/Spells/Detailed Spells/Protection from Energy\|Protection from Energy]] | Abjuration    | C       |
 | [[Sleet Storm\|Sleet Storm]]          | Conjuration   | C       |
-| [[Slow\|Slow]]                 | Transmutation | C       |
+| [[Player Options/Weapon Properties/Vex\|Vex]]                 | Transmutation | C       |
 | [[Stinking Cloud\|Stinking Cloud]]       | Conjuration   | C       |
 | [[Tongues\|Tongues]]              | Divination    | —       |
 | [[Vampiric Touch\|Vampiric Touch]]       | Necromancy    | C       |

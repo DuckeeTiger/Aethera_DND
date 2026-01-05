@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/player-characters/tomi/"}
 ---
 
-<!--lang:en-->
+[[]]<!--lang:en-->
 # Tomi
 
 ## Overview
 
 - **Species:** Wood Elf
-- **Class:** Ranger
+- **Class:** [[Player Options/Classes/Ranger/Ranger\|Ranger]]
 - **Background:** 
 - **Level:** 1
 
@@ -81,7 +81,7 @@
 >[!species-feature] *Darkvision:* 
 >- You have Darkvision with a range of 60 feet.
 
->[!species-feature] _Fey Ancestry_:
+>[!species-feature] *Fey Ancestry:*
 >- You have Advantage on saving throws you make to avoid or end the Charmed condition.
 
 >[!species-feature] *Keen Senses:*
@@ -129,7 +129,7 @@
 >- _**Languages.**_ You know two languages of your choice from the language tables in "Character Creation".
 
 >[!ranger-feature] Fighting Style
-> You gain a Fighting Style feat of your choice (see "Feats"). Instead of choosing one of those feats, you can choose the option below.
+> You gain a Fighting Style feat of your choice (see "[[Player Options/Feats/Feat List\|Feats]]"). Instead of choosing one of those feats, you can choose the option below.
 >
 > _**Druidic Warrior.**_ You learn two Druid cantrips of your choice (see the Druid class’s section for a list of Druid spells). _Guidance_ and _Starry Wisp_ are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
 
