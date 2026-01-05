@@ -9,7 +9,10 @@ const htmlMinifier = require("html-minifier-terser");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
-const { userMarkdownSetup, userEleventySetup } = require("./src/helpers/userSetup");
+const {
+  userMarkdownSetup,
+  userEleventySetup,
+} = require("./src/helpers/userSetup");
 
 const Image = require("@11ty/eleventy-img");
 function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
@@ -27,10 +30,8 @@ function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
 }
 
 function getAnchorLink(filePath, linkTitle) {
-  const { attributes, innerHTML } = getAnchorAttributes(filePath, linkTitle);
-  return `<a ${Object.keys(attributes)
-    .map((key) => `${key}="${attributes[key]}"`)
-    .join(" ")}>${innerHTML}</a>`;
+  const {attributes, innerHTML} = getAnchorAttributes(filePath, linkTitle);
+  return `<a ${Object.keys(attributes).map(key => `${key}="${attributes[key]}"`).join(" ")}>${innerHTML}</a>`;
 }
 
 function getAnchorAttributes(filePath, linkTitle) {
@@ -46,7 +47,6 @@ function getAnchorAttributes(filePath, linkTitle) {
   const title = linkTitle ? linkTitle : fileName;
   let permalink = `/notes/${slugify(filePath)}`;
   let deadLink = false;
-
   try {
     const startPath = "./src/site/notes/";
     const fullPath = fileName.endsWith(".md")
@@ -54,11 +54,13 @@ function getAnchorAttributes(filePath, linkTitle) {
       : `${startPath}${fileName}.md`;
     const file = fs.readFileSync(fullPath, "utf8");
     const frontMatter = matter(file);
-
     if (frontMatter.data.permalink) {
       permalink = frontMatter.data.permalink;
     }
-    if (frontMatter.data.tags && frontMatter.data.tags.indexOf("gardenEntry") != -1) {
+    if (
+      frontMatter.data.tags &&
+      frontMatter.data.tags.indexOf("gardenEntry") != -1
+    ) {
       permalink = "/";
     }
     if (frontMatter.data.noteIcon) {
@@ -71,54 +73,30 @@ function getAnchorAttributes(filePath, linkTitle) {
   if (deadLink) {
     return {
       attributes: {
-        class: "internal-link is-unresolved",
-        href: "/404",
-        target: "",
+        "class": "internal-link is-unresolved",
+        "href": "/404",
+        "target": "",
       },
       innerHTML: title,
-    };
+    }
   }
-
   return {
     attributes: {
-      class: "internal-link",
-      target: "",
+      "class": "internal-link",
+      "target": "",
       "data-note-icon": noteIcon,
-      href: `${permalink}${headerLinkPath}`,
+      "href": `${permalink}${headerLinkPath}`,
     },
     innerHTML: title,
-  };
+  }
 }
 
 const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
-
-/**
- * Shared callout icon map for both:
- * - blockquote callouts (> [!type])
- * - fence callouts (```ad-type)
- */
-const CALLOUT_ICON_MAP = {
-  "barbarian-feature": "axe",
-  "bard-feature": "guitar",
-  "cleric-feature": "sparkles",
-  "druid-feature": "paw-print",
-  "fighter-feature": "swords",
-  "monk-feature": "eclipse",
-  "paladin-feature": "shield-half",
-  "ranger-feature": "sword",
-  "rogue-feature": "venetian-mask",
-  "sorcerer-feature": "flame",
-  "warlock-feature": "eye",
-  "wizard-feature": "atom",
-  "species-feature": "shell",
-  "spells": "wand-2",
-};
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
   });
-
   let markdownLib = markdownIt({
     breaks: true,
     html: true,
@@ -131,7 +109,7 @@ module.exports = function (eleventyConfig) {
     .use(require("markdown-it-footnote"))
     .use(function (md) {
       // hashtag links
-      md.renderer.rules.hashtag_open = function () {
+      md.renderer.rules.hashtag_open = function (tokens, idx) {
         return '<a class="tag" onclick="toggleTagSearch(this)">';
       };
     })
@@ -164,36 +142,29 @@ module.exports = function (eleventyConfig) {
         function (tokens, idx, options, env, self) {
           return self.renderToken(tokens, idx, options, env, self);
         };
-
       md.renderer.rules.fence = (tokens, idx, options, env, slf) => {
         const token = tokens[idx];
-
         if (token.info === "mermaid") {
           const code = token.content.trim();
           return `<pre class="mermaid">${code}</pre>`;
         }
-
         if (token.info === "transclusion") {
           const code = token.content.trim();
           return `<div class="transclusion">${md.render(code)}</div>`;
         }
-
-        // Fence-style callouts: ```ad-xxx
         if (token.info.startsWith("ad-")) {
           const code = token.content.trim();
-          const parts = code.split("\n");
-
+          const parts = code.split("\n")
           let titleLine;
           let collapse;
-          let collapsible = false;
-          let collapsed = true;
-          let icon;  // kept for future compatibility
-          let color; // kept for future compatibility
-          let nbLinesToSkip = 0;
-
+          let collapsible = false
+          let collapsed = true
+          let icon;
+          let color;
+          let nbLinesToSkip = 0
           for (let i = 0; i < 4; i++) {
             if (parts[i] && parts[i].trim()) {
-              let line = parts[i] && parts[i].trim().toLowerCase();
+              let line = parts[i] && parts[i].trim().toLowerCase()
               if (line.startsWith("title:")) {
                 titleLine = line.substring(6);
                 nbLinesToSkip++;
@@ -201,10 +172,10 @@ module.exports = function (eleventyConfig) {
                 icon = line.substring(5);
                 nbLinesToSkip++;
               } else if (line.startsWith("collapse:")) {
-                collapsible = true;
+                collapsible = true
                 collapse = line.substring(9);
-                if (collapse && collapse.trim().toLowerCase() === "open") {
-                  collapsed = false;
+                if (collapse && collapse.trim().toLowerCase() == 'open') {
+                  collapsed = false
                 }
                 nbLinesToSkip++;
               } else if (line.startsWith("color:")) {
@@ -213,39 +184,24 @@ module.exports = function (eleventyConfig) {
               }
             }
           }
-
-          const calloutType = token.info.substring(3).toLowerCase();
-
-          const foldDiv = collapsible
-            ? `<div class="callout-fold">
-              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-chevron-down">
-                <polyline points="6 9 12 15 18 9"></polyline>
-              </svg>
-            </div>`
-            : "";
-
-          // Prefer our map; if you later want to support "icon:" metadata, you can extend this
-          const mappedIcon = CALLOUT_ICON_MAP[calloutType];
-          const iconName = mappedIcon ? mappedIcon : null;
-
-          const iconHtml = iconName
-            ? `<i class="callout-title-icon" icon-name="${iconName}" aria-hidden="true"></i>`
-            : "";
-
+          const foldDiv = collapsible ? `<div class="callout-fold">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-chevron-down">
+              <polyline points="6 9 12 15 18 9"></polyline>
+          </svg>
+          </div>` : "";
           const titleDiv = titleLine
-            ? `<div class="callout-title"><div class="callout-title-inner">${iconHtml}${titleLine}</div>${foldDiv}</div>`
+            ? `<div class="callout-title"><div class="callout-title-inner">${titleLine}</div>${foldDiv}</div>`
             : "";
-
-          let collapseClasses = titleLine && collapsible ? "is-collapsible" : "";
+          let collapseClasses = titleLine && collapsible ? 'is-collapsible' : ''
           if (collapsible && collapsed) {
-            collapseClasses += " is-collapsed";
+            collapseClasses += " is-collapsed"
           }
 
-          let res = `<div data-callout-metadata class="callout ${collapseClasses}" data-callout="${calloutType}">
-${titleDiv}
-<div class="callout-content">${md.render(parts.slice(nbLinesToSkip).join("\n"))}</div></div>`;
-
-          return res;
+          let res = `<div data-callout-metadata class="callout ${collapseClasses}" data-callout="${token.info.substring(3)
+            }">${titleDiv}\n<div class="callout-content">${md.render(
+              parts.slice(nbLinesToSkip).join("\n")
+            )}</div></div>`;
+          return res
         }
 
         // Other languages
@@ -258,7 +214,6 @@ ${titleDiv}
         function (tokens, idx, options, env, self) {
           return self.renderToken(tokens, idx, options, env, self);
         };
-
       md.renderer.rules.image = (tokens, idx, options, env, self) => {
         const imageName = tokens[idx].content;
         //"image.png|metadata?|width"
@@ -295,7 +250,6 @@ ${titleDiv}
         function (tokens, idx, options, env, self) {
           return self.renderToken(tokens, idx, options, env, self);
         };
-
       md.renderer.rules.link_open = function (tokens, idx, options, env, self) {
         const aIndex = tokens[idx].attrIndex("target");
         const classIndex = tokens[idx].attrIndex("class");
@@ -332,6 +286,7 @@ ${titleDiv}
           return match;
         }
         const [fileLink, linkTitle] = p1.split("|");
+
         return getAnchorLink(fileLink, linkTitle);
       })
     );
@@ -377,20 +332,22 @@ ${titleDiv}
     for (const dataViewJsLink of parsed.querySelectorAll("a[data-href].internal-link")) {
       const notePath = dataViewJsLink.getAttribute("data-href");
       const title = dataViewJsLink.innerHTML;
-      const { attributes, innerHTML } = getAnchorAttributes(notePath, title);
+      const {attributes, innerHTML} = getAnchorAttributes(notePath, title);
       for (const key in attributes) {
         dataViewJsLink.setAttribute(key, attributes[key]);
       }
       dataViewJsLink.innerHTML = innerHTML;
     }
+
     return str && parsed.innerHTML;
   });
 
-  // Blockquote-style callouts: > [!type]
   eleventyConfig.addTransform("callout-block", function (str) {
     const parsed = parse(str, { comment: true });
 
-    const transformCalloutBlocks = (blockquotes = parsed.querySelectorAll("blockquote")) => {
+    const transformCalloutBlocks = (
+      blockquotes = parsed.querySelectorAll("blockquote")
+    ) => {
       for (const blockquote of blockquotes) {
         transformCalloutBlocks(blockquote.querySelectorAll("blockquote"));
 
@@ -402,39 +359,37 @@ ${titleDiv}
         let isCollapsable;
         let isCollapsed;
         const calloutMeta = /\[!([\w-]*)\|?(\s?.*)\](\+|\-){0,1}(\s?.*)/;
-
         if (!content.match(calloutMeta)) {
           continue;
         }
 
-        content = content.replace(calloutMeta, function (metaInfoMatch, callout, metaData, collapse, title) {
-          isCollapsable = Boolean(collapse);
-          isCollapsed = collapse === "-";
+        content = content.replace(
+          calloutMeta,
+          function (metaInfoMatch, callout, metaData, collapse, title) {
+            isCollapsable = Boolean(collapse);
+            isCollapsed = collapse === "-";
+            const titleText = title.replace(/(<\/{0,1}\w+>)/, "")
+              ? title
+              : `${callout.charAt(0).toUpperCase()}${callout
+                .substring(1)
+                .toLowerCase()}`;
+            const fold = isCollapsable
+              ? `<div class="callout-fold"><i icon-name="chevron-down"></i></div>`
+              : ``;
 
-          const titleText = title.replace(/(<\/{0,1}\w+>)/, "")
-            ? title
-            : `${callout.charAt(0).toUpperCase()}${callout.substring(1).toLowerCase()}`;
+            calloutType = callout;
+            calloutMetaData = metaData;
 
-          const fold = isCollapsable
-            ? `<div class="callout-fold"><i icon-name="chevron-down"></i></div>`
-            : ``;
+            // No injected icon here: DG/Obsidian callout icon is handled by CSS var --callout-icon
+            titleDiv = `<div class="callout-title"><div class="callout-title-inner">${titleText}</div>${fold}</div>`;
 
-          calloutType = callout;
-          calloutMetaData = metaData;
-
-          const iconName = CALLOUT_ICON_MAP[String(callout).toLowerCase()];
-          const iconHtml = iconName
-            ? `<i class="callout-title-icon" icon-name="${iconName}" aria-hidden="true"></i>`
-            : "";
-
-          titleDiv = `<div class="callout-title"><div class="callout-title-inner">${iconHtml}${titleText}</div>${fold}</div>`;
-          return "";
-        });
+            return "";
+          }
+        );
 
         if (content === "\n<p>\n") {
           content = "";
         }
-
         let contentDiv = content ? `\n<div class="callout-content">${content}</div>` : "";
 
         blockquote.tagName = "div";
@@ -448,6 +403,7 @@ ${titleDiv}
     };
 
     transformCalloutBlocks();
+
     return str && parsed.innerHTML;
   });
 
@@ -462,34 +418,31 @@ ${titleDiv}
       media="(max-width:480px)"
       srcset="${meta.jpeg[0].url}"
       />
-      `;
-
+      `
     if (meta.webp && meta.webp[1] && meta.webp[1].url) {
       html += `<source
         media="(max-width:1920px)"
         srcset="${meta.webp[1].url}"
         type="image/webp"
-        />`;
+        />`
     }
     if (meta.jpeg && meta.jpeg[1] && meta.jpeg[1].url) {
       html += `<source
         media="(max-width:1920px)"
         srcset="${meta.jpeg[1].url}"
-        />`;
+        />`
     }
-
     html += `<img
       class="${cls.toString()}"
       src="${src}"
       alt="${alt}"
       width="${width}"
       />`;
-
     imageTag.innerHTML = html;
   }
 
   eleventyConfig.addTransform("picture", function (str) {
-    if (process.env.USE_FULL_RESOLUTION_IMAGES === "true") {
+    if(process.env.USE_FULL_RESOLUTION_IMAGES === "true"){
       return str;
     }
     const parsed = parse(str, { comment: true });
@@ -498,7 +451,7 @@ ${titleDiv}
       if (src && src.startsWith("/") && !src.endsWith(".svg")) {
         const cls = imageTag.classList.value;
         const alt = imageTag.getAttribute("alt");
-        const width = imageTag.getAttribute("width") || "";
+        const width = imageTag.getAttribute("width") || '';
 
         try {
           const meta = transformImage(
@@ -528,7 +481,9 @@ ${titleDiv}
       t.innerHTML = `<table>${inner}</table>`;
     }
 
-    for (const t of parsed.querySelectorAll(".cm-s-obsidian > .block-language-dataview > table")) {
+    for (const t of parsed.querySelectorAll(
+      ".cm-s-obsidian > .block-language-dataview > table"
+    )) {
       t.classList.add("dataview");
       t.classList.add("table-view-table");
       t.querySelector("thead")?.classList.add("table-view-thead");
@@ -551,7 +506,7 @@ ${titleDiv}
     ) {
       return htmlMinifier.minify(content, {
         useShortDoctype: true,
-        removeComments: false, // KEEP COMMENTS (needed for <!--lang:xx-->)
+        removeComments: false,   // <-- KEEP COMMENTS (needed for <!--lang:xx-->)
         collapseWhitespace: true,
         conservativeCollapse: true,
         preserveLineBreaks: true,
@@ -582,7 +537,7 @@ ${titleDiv}
       return "";
     }
   });
-
+  
   eleventyConfig.addFilter("jsonify", function (variable) {
     return JSON.stringify(variable) || '""';
   });
