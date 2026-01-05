@@ -18,11 +18,11 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells                                       |
 | ------------- | -------------------------------------------- |
-| 3             | [[Ensnaring Strike\|Ensnaring Strike]], [[Player Options/Spells/Detailed Spells/Speak with Animals\|Speak with Animals]] |
+| 3             | [[Player Options/Spells/Detailed Spells/Ensnaring Strike\|Ensnaring Strike]], [[Player Options/Spells/Detailed Spells/Speak with Animals\|Speak with Animals]] |
 | 5             | [[Misty Step\|Misty Step]], [[Moonbeam\|Moonbeam]]                 |
-| 9             | [[Plant Growth\|Plant Growth]], [[Protection from Energy\|Protection from Energy]] |
-| 13            | [[Ice Storm\|Ice Storm]], [[Stoneskin\|Stoneskin]]                 |
-| 17            | [[Player Options/Spells/Detailed Spells/Commune with Nature\|Commune with Nature]], [[Tree Stride\|Tree Stride]]     |
+| 9             | [[Player Options/Spells/Detailed Spells/Plant Growth\|Plant Growth]], [[Player Options/Spells/Detailed Spells/Protection from Energy\|Protection from Energy]] |
+| 13            | [[Ice Storm\|Ice Storm]], [[Player Options/Spells/Detailed Spells/Stoneskin\|Stoneskin]]                 |
+| 17            | [[Player Options/Spells/Detailed Spells/Commune with Nature\|Commune with Nature]], [[Player Options/Spells/Detailed Spells/Tree Stride\|Tree Stride]]     |
 #### Level 7: Aura of Warding
 Ancient magic lies so heavily upon you that it forms an eldritch ward, blunting energy from beyond the Material Plane; you and your allies have Resistance to Necrotic, Psychic, and Radiant damage while in your Aura of Protection. 
 

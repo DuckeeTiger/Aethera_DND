@@ -14,7 +14,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 | Cleric Level | Prepared Spells                                                             |
 | ------------ | --------------------------------------------------------------------------- |
 | 3            | [[Player Options/Spells/Detailed Spells/Burning Hands\|Burning Hands]], [[Faerie Fire\|Faerie Fire]], [[Scorching Ray\|Scorching Ray]], [[See Invisibility\|See Invisibility]] |
-| 5            | [[Daylight\|Daylight]], [[Fireball\|Fireball]]                                                  |
+| 5            | [[Player Options/Spells/Detailed Spells/Daylight\|Daylight]], [[Fireball\|Fireball]]                                                  |
 | 7            | [[Player Options/Spells/Detailed Spells/Arcane Eye\|Arcane Eye]], [[Wall of Fire\|Wall of Fire]]                                            |
 | 9            | [[Flame Strike\|Flame Strike]], [[Scrying\|Scrying]]                                               |
 

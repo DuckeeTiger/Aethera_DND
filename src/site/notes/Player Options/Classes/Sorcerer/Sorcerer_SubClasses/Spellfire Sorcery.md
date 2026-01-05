@@ -19,9 +19,9 @@ When you reach a Sorcerer level specified in the Spellfire Spells table, you the
 | Sorcerer Level | Spells                                                                       |
 | -------------- | ---------------------------------------------------------------------------- |
 | 3              | [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]], [[Guiding Bolt\|Guiding Bolt]], [[Lesser Restoration,\|Lesser Restoration,]] [[Scorching Ray\|Scorching Ray]] |
-| 5              | [[Player Options/Spells/Detailed Spells/Aura of Vitality\|Aura of Vitality]], [[Dispel Magic\|Dispel Magic]]                                       |
+| 5              | [[Player Options/Spells/Detailed Spells/Aura of Vitality\|Aura of Vitality]], [[Player Options/Spells/Detailed Spells/Dispel Magic\|Dispel Magic]]                                       |
 | 7              | [[Fire Shield\|Fire Shield]], [[Wall of Fire\|Wall of Fire]]                                            |
-| 9              | [[Greater Restoration\|Greater Restoration]], [[Flame Strike\|Flame Strike]]                                    |
+| 9              | [[Player Options/Spells/Detailed Spells/Greater Restoration\|Greater Restoration]], [[Flame Strike\|Flame Strike]]                                    |
 
 #### Level 6: Absorb Spells
 You always have [[Player Options/Spells/Detailed Spells/Counterspell\|Counterspell]] prepared. 

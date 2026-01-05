@@ -15,9 +15,9 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells                                |
 | ------------- | ------------------------------------- |
-| 3             | [[Player Options/Spells/Detailed Spells/Bane\|Bane]], [[Player Options/Spells/Detailed Spells/Hunter’s Mark\|Hunter’s Mark]]           |
+| 3             | [[Player Options/Spells/Detailed Spells/Bane\|Bane]], [[Hunter’s Mark 1\|Hunter’s Mark 1]]           |
 | 5             | [[Hold Person\|Hold Person]], [[Misty Step\|Misty Step]]       |
-| 9             | [[Haste\|Haste]], [[Protection from Energy\|Protection from Energy]] |
+| 9             | [[Haste\|Haste]], [[Player Options/Spells/Detailed Spells/Protection from Energy\|Protection from Energy]] |
 | 13            | [[Player Options/Spells/Detailed Spells/Banishment\|Banishment]], [[Dimension Door\|Dimension Door]]    |
 | 17            | [[Hold Monster\|Hold Monster]], [[Scrying\|Scrying]]         |
 

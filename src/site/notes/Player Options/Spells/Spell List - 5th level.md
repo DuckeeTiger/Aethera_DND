@@ -18,8 +18,8 @@
 |[[Player Options/Spells/Detailed Spells/Counterspell\|Counterspell]]|3rd|Reaction|Abjuration|no|S|no|
 |[[Player Options/Spells/Detailed Spells/Create Food and Water\|Create Food and Water]]|3rd|Action|Conjuration|no|V, S|no|
 |[[Player Options/Spells/Detailed Spells/Crusader's Mantle\|Crusader's Mantle]]|3rd|Action|Evocation|no|V|yes|
-|[[Daylight\|Daylight]]|3rd|Action|Evocation|no|V, S|no|
-|[[Dispel Magic\|Dispel Magic]]|3rd|Action|Abjuration|no|V, S|no|
+|[[Player Options/Spells/Detailed Spells/Daylight\|Daylight]]|3rd|Action|Evocation|no|V, S|no|
+|[[Player Options/Spells/Detailed Spells/Dispel Magic\|Dispel Magic]]|3rd|Action|Abjuration|no|V, S|no|
 |[[Elemental Weapon\|Elemental Weapon]]|3rd|Action|Transmutation|no|V, S|yes|
 |[[Fear\|Fear]]|3rd|Action|Illusion|no|V, S, M|yes|
 |[[Feign Death\|Feign Death]]|3rd|Action|Necromancy|yes|V, S, M|no|
@@ -36,18 +36,18 @@
 |[[Magic Circle\|Magic Circle]]|3rd|1 Min.|Abjuration|no|V, S, M|no|
 |[[Major Image\|Major Image]]|3rd|Action|Illusion|no|V, S, M|yes|
 |[[Mass Healing Word\|Mass Healing Word]]|3rd|Bonus|Abjuration|no|V|no|
-|[[Meld into Stone\|Meld into Stone]]|3rd|Action|Transmutation|yes|V, S|no|
-|[[Nondetection\|Nondetection]]|3rd|Action|Abjuration|no|V, S, M|no|
+|[[Player Options/Spells/Detailed Spells/Meld into Stone\|Meld into Stone]]|3rd|Action|Transmutation|yes|V, S|no|
+|[[Player Options/Spells/Detailed Spells/Nondetection\|Nondetection]]|3rd|Action|Abjuration|no|V, S, M|no|
 |[[Phantom Steed\|Phantom Steed]]|3rd|1 Min.|Illusion|yes|V, S|no|
-|[[Plant Growth\|Plant Growth]]|3rd|Action|Transmutation|no|V, S|no|
-|[[Protection from Energy\|Protection from Energy]]|3rd|Action|Abjuration|no|V, S|yes|
+|[[Player Options/Spells/Detailed Spells/Plant Growth\|Plant Growth]]|3rd|Action|Transmutation|no|V, S|no|
+|[[Player Options/Spells/Detailed Spells/Protection from Energy\|Protection from Energy]]|3rd|Action|Abjuration|no|V, S|yes|
 |[[Remove Curse\|Remove Curse]]|3rd|Action|Abjuration|no|V, S|no|
-|[[Revivify\|Revivify]]|3rd|Action|Necromancy|no|V, S, M|no|
+|[[Player Options/Spells/Detailed Spells/Revivify\|Revivify]]|3rd|Action|Necromancy|no|V, S, M|no|
 |[[Sending\|Sending]]|3rd|Action|Divination|no|V, S, M|no|
 |[[Sleet Storm\|Sleet Storm]]|3rd|Action|Conjuration|no|V, S, M|yes|
 |[[Slow\|Slow]]|3rd|Action|Transmutation|no|V, S, M|yes|
 |[[Speak with Dead\|Speak with Dead]]|3rd|Action|Necromancy|no|V, S, M|no|
-|[[Speak with Plants\|Speak with Plants]]|3rd|Action|Transmutation|no|V, S|no|
+|[[Player Options/Spells/Detailed Spells/Speak with Plants\|Speak with Plants]]|3rd|Action|Transmutation|no|V, S|no|
 |[[Spirit Guardians\|Spirit Guardians]]|3rd|Action|Conjuration|no|V, S, M|yes|
 |[[Stinking Cloud\|Stinking Cloud]]|3rd|Action|Conjuration|no|V, S, M|yes|
 |[[Summon Fey\|Summon Fey]]|3rd|Action|Conjuration|no|V, S, M|yes|
@@ -55,5 +55,5 @@
 |[[Tongues\|Tongues]]|3rd|Action|Divination|no|V, M|no|
 |[[Vampiric Touch\|Vampiric Touch]]|3rd|Action|Necromancy|no|V, S|yes|
 |[[Player Options/Spells/Detailed Spells/Water Breathing\|Water Breathing]]|3rd|Action|Transmutation|yes|V, S, M|no|
-|[[Water Walk\|Water Walk]]|3rd|Action|Transmutation|yes|V, S, M|no|
-|[[Wind Wall\|Wind Wall]]|3rd|Action|Evocation|no|V, S, M|yes|
+|[[Player Options/Spells/Detailed Spells/Water Walk\|Water Walk]]|3rd|Action|Transmutation|yes|V, S, M|no|
+|[[Player Options/Spells/Detailed Spells/Wind Wall\|Wind Wall]]|3rd|Action|Evocation|no|V, S, M|yes|

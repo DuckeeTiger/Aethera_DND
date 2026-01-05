@@ -12,10 +12,10 @@ When you reach a Sorcerer level specified in the Clockwork Spells table, you the
 #### Clockwork Spells
 | Sorcerer Level | Spells                                                                        |
 | -------------- | ----------------------------------------------------------------------------- |
-| 3              | [[Player Options/Spells/Detailed Spells/Aid\|Aid]], [[Player Options/Spells/Detailed Spells/Alarm\|Alarm]], [[Lesser Restoration\|Lesser Restoration]], [[Protection from Evil and Good\|Protection from Evil and Good]] |
-| 5              | [[Dispel Magic\|Dispel Magic]], [[Protection from Energy\|Protection from Energy]]                                  |
-| 7              | [[Freedom of Movement\|Freedom of Movement]], [[Summon Construct\|Summon Construct]]                                 |
-| 9              | [[Greater Restoration\|Greater Restoration]], [[Wall of Force\|Wall of Force]]                                    |
+| 3              | [[Player Options/Spells/Detailed Spells/Aid\|Aid]], [[Player Options/Spells/Detailed Spells/Alarm\|Alarm]], [[Player Options/Spells/Detailed Spells/Lesser Restoration\|Lesser Restoration]], [[Protection from Evil and Good\|Protection from Evil and Good]] |
+| 5              | [[Player Options/Spells/Detailed Spells/Dispel Magic\|Dispel Magic]], [[Player Options/Spells/Detailed Spells/Protection from Energy\|Protection from Energy]]                                  |
+| 7              | [[Player Options/Spells/Detailed Spells/Freedom of Movement\|Freedom of Movement]], [[Summon Construct\|Summon Construct]]                                 |
+| 9              | [[Player Options/Spells/Detailed Spells/Greater Restoration\|Greater Restoration]], [[Wall of Force\|Wall of Force]]                                    |
 |                |                                                                               |
 
 In addition, consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your Sorcerer spells.

@@ -11,10 +11,10 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells                                                                                          |
 | ------------- | ----------------------------------------------------------------------------------------------- |
-| 3             | [[Player Options/Spells/Detailed Spells/Aid\|Aid]], [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]], [[Guiding Bolt\|Guiding Bolt]], [[Lesser Restoration\|Lesser Restoration]], [[Player Options/Spells/Detailed Spells/Light\|Light]], [[Sacred Flame\|Sacred Flame]] |
-| 5             | [[Daylight\|Daylight]], [[Revivify\|Revivify]]                                                                      |
+| 3             | [[Player Options/Spells/Detailed Spells/Aid\|Aid]], [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]], [[Guiding Bolt\|Guiding Bolt]], [[Player Options/Spells/Detailed Spells/Lesser Restoration\|Lesser Restoration]], [[Player Options/Spells/Detailed Spells/Light\|Light]], [[Sacred Flame\|Sacred Flame]] |
+| 5             | [[Player Options/Spells/Detailed Spells/Daylight\|Daylight]], [[Player Options/Spells/Detailed Spells/Revivify\|Revivify]]                                                                      |
 | 7             | [[Guardian of Faith\|Guardian of Faith]], [[Wall of Fire\|Wall of Fire]]                                                         |
-| 9             | [[Greater Restoration\|Greater Restoration]], [[Summon Celestial\|Summon Celestial]]                                                   |
+| 9             | [[Player Options/Spells/Detailed Spells/Greater Restoration\|Greater Restoration]], [[Summon Celestial\|Summon Celestial]]                                                   |
 
 #### Level 3: Healing Light
 You gain the ability to channel celestial energy to heal wounds. You have a pool of d6s to fuel this healing. The number of dice in the pool equals 1 plus your Warlock level. As a Bonus Action, you can heal yourself or one creature you can see within 60 feet of yourself, expending dice from the pool. The maximum number of dice you can expend at once equals your Charisma modifier (minimum of one die). Roll the dice you expend, and restore a number of Hit Points equal to the roll’s total. Your pool regains all expended dice when you finish a Long Rest.

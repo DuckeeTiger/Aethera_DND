@@ -63,22 +63,26 @@ As a Wizard, you gain the following class features when you reach the specified 
 
 
 ---
-#### Level 1: Spellcasting
+### Level 1: Spellcasting
 As a student of arcane magic, you have learned to cast spells. See “Spells” for the rules on spellcasting. The information below details how you use those rules with Wizard spells, which appear in the Wizard spell list later in the class’s description.
 
-**_Cantrips._** You know three Wizard cantrips of your choice. Light, Mage Hand, and Ray of Frost are recommended. Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.
+#### Cantrips 
+You know three Wizard cantrips of your choice. Light, Mage Hand, and Ray of Frost are recommended. Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.
 
 When you reach Wizard levels 4 and 10, you learn another Wizard cantrip of your choice, as shown in the Cantrips column of the Wizard Features table.
 
-**_Spellbook._** Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds, contains 100 pages, and can be read only by you or someone casting Identify. You determine the book’s appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.
+#### Spellbook 
+Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds, contains 100 pages, and can be read only by you or someone casting Identify. You determine the book’s appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.
 
 The book contains the level 1+ spells you know. It starts with six level 1 Wizard spells of your choice. Detect Magic, Feather Fall, Mage Armor, Magic Missile, Sleep, and Thunderwave are recommended.
 
 Whenever you gain a Wizard level after 1, add two Wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown in the Wizard Features table. The spells are the culmination of arcane research you do regularly.
 
-**_Spell Slots._** The Wizard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+#### Spell Slots 
+The Wizard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-**_Prepared Spells of Level 1+._** You prepare the list of level 1+ spells that are available for you to cast with this feature. To do so, choose four spells from your spellbook. The chosen spells must be of a level for which you have spell slots.
+#### Prepared Spells of Level 1+
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To do so, choose four spells from your spellbook. The chosen spells must be of a level for which you have spell slots.
 
 The number of spells on your list increases as you gain Wizard levels, as shown in the Prepared Spells column of the Wizard Features table. Whenever that number increases, choose additional Wizard spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 3 Wizard, your list of prepared spells can include six spells of levels 1 and 2 in any combination, chosen from your spellbook.
 
@@ -101,44 +105,44 @@ The spells you add to your spellbook as you gain levels reflect your ongoing mag
 If you lose your spellbook, you can use the same procedure to transcribe the Wizard spells that you have prepared into a new spellbook. Filling out the remainder of the new book requires you to find new spells to do so. For this reason, many wizards keep a backup spellbook.
 
 ---
-#### Level 1: Ritual Adept
+### Level 1: Ritual Adept
 You can cast any spell as a Ritual if that spell has the Ritual tag and the spell is in your spellbook. You needn’t have the spell prepared, but you must read from the book to cast a spell in this way.
 
 ---
-#### Level 1: Arcane Recovery
+### Level 1: Arcane Recovery
 You can regain some of your magical energy by studying your spellbook. When you finish a Short Rest, you can choose expended spell slots to recover. The spell slots can have a combined level equal to no more than half your Wizard level (round up), and none of the slots can be level 6 or higher. For example, if you’re a level 4 Wizard, you can recover up to two levels’ worth of spell slots, regaining either one level 2 spell slot or two level 1 spell slots.
 
 Once you use this feature, you can’t do so again until you finish a Long Rest.
 
 ---
-#### Level 2: Scholar
+### Level 2: Scholar
 While studying magic, you also specialized in another field of study. Choose one of the following skills in which you have proficiency: Arcana, History, Investigation, Medicine, Nature, or Religion. You have Expertise in the chosen skill.
 
 ---
-#### Level 3: Wizard Subclass
-You gain a Wizard subclass of your choice. The Evoker subclass is detailed after this class’s description. A subclass is a specialization that grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass’s features that are of your Wizard level or lower.
+### Level 3: Wizard Subclass
+You gain a Wizard subclass of your choice.  A subclass is a specialization that grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass’s features that are of your Wizard level or lower.
 
 ---
-#### Level 4: Ability Score Improvement
+### Level 4: Ability Score Improvement
 You gain the Ability Score Improvement feat (see “Feats”) or another feat of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
 
 ---
-#### Level 5: Memorize Spell
+### Level 5: Memorize Spell
 Whenever you finish a Short Rest, you can study your spellbook and replace one of the level 1+ Wizard spells you have prepared for your Spellcasting feature with another level 1+ spell from the book.
 
 ---
-#### Level 18: Spell Mastery
+### Level 18: Spell Mastery
 You have achieved such mastery over certain spells that you can cast them at will. Choose a level 1 and a level 2 spell in your spellbook that have a casting time of an action. You always have those spells prepared, and you can cast them at their lowest level without expending a spell slot. To cast either spell at a higher level, you must expend a spell slot.
 
 Whenever you finish a Long Rest, you can study your spellbook and replace one of those spells with an eligible spell of the same level from the book.
 
 ---
-#### Level 19: Epic Boon
+### Level 19: Epic Boon
 You gain an Epic Boon feat (see “Feats”) or another feat of your choice for which you qualify. Boon of Spell Recall is recommended.
 
 ---
-#### Level 20: Signature Spells
-Choose two level 3 spells in your spellbook as your signature spells. You always have these spells prepared, and you can cast each of them once at level 3 without expending a spell slot. When you do so, you can’t cast them in this way again until you finish a Short or Long Rest. To cast either spell at a higher level, you must expend a spell slot.
+### Level 20: Signature Spells
+Choose **two** level 3 spells in your spellbook as your signature spells. You always have these spells prepared, and you can cast each of them once at level 3 without expending a spell slot. When you do so, you can’t cast them in this way again until you finish a Short or Long Rest. To cast either spell at a higher level, you must expend a spell slot.
 
 ## Wizard Spell List
 
@@ -172,18 +176,18 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | [[Player Options/Spells/Detailed Spells/Charm Person\|Charm Person]]                  | Enchantment   | —       |
 | [[Player Options/Spells/Detailed Spells/Color Spray\|Color Spray]]                   | Illusion      | —       |
 | [[Player Options/Spells/Detailed Spells/Comprehend Languages\|Comprehend Languages]]          | Divination    | R       |
-| [[Detect Magic\|Detect Magic]]                  | Divination    | C, R    |
+| [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]]                  | Divination    | C, R    |
 | [[Disguise Self\|Disguise Self]]                 | Illusion      | —       |
 | [[Expeditious Retreat\|Expeditious Retreat]]           | Transmutation | C       |
 | [[False Life\|False Life]]                    | Necromancy    | –       |
 | [[Feather Fall\|Feather Fall]]                  | Transmutation | —       |
 | [[Player Options/Spells/Detailed Spells/Find Familiar\|Find Familiar]]                 | Conjuration   | R, M    |
-| [[Fog Cloud\|Fog Cloud]]                     | Conjuration   | C       |
+| [[Player Options/Spells/Detailed Spells/Fog Cloud\|Fog Cloud]]                     | Conjuration   | C       |
 | [[Grease\|Grease]]                        | Conjuration   | —       |
 | [[Identify\|Identify]]                      | Divination    | R, M    |
 | [[Illusory Script\|Illusory Script]]               | Illusion      | R, M    |
-| [[Jump\|Jump]]                          | Transmutation | —       |
-| [[Longstrider\|Longstrider]]                   | Transmutation | —       |
+| [[Player Options/Spells/Detailed Spells/Jump\|Jump]]                          | Transmutation | —       |
+| [[zz_Templates/Spell Template\|Spell Template]]                   | Transmutation | —       |
 | [[Mage Armor\|Mage Armor]]                    | Abjuration    | —       |
 | [[Magic Missile\|Magic Missile]]                 | Evocation     | —       |
 | [[Protection from Evil and Good\|Protection from Evil and Good]] | Abjuration    | C, M    |
@@ -203,20 +207,20 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | [[Player Options/Spells/Detailed Spells/Blur\|Blur]]                | Illusion      | C       |
 | [[Player Options/Spells/Detailed Spells/Continual Flame\|Continual Flame]]     | Evocation     | M       |
 | [[Darkness\|Darkness]]            | Evocation     | C       |
-| [[Darkvision\|Darkvision]]          | Transmutation | —       |
+| [[Player Options/Spells/Detailed Spells/Darkvision\|Darkvision]]          | Transmutation | —       |
 | [[Detect Thoughts\|Detect Thoughts]]     | Divination    | C       |
-| [[Enhance Ability\|Enhance Ability]]     | Transmutation | C       |
+| [[Player Options/Spells/Detailed Spells/Enhance Ability\|Enhance Ability]]     | Transmutation | C       |
 | [[Enlarge/Reduce\|Enlarge/Reduce]]      | Transmutation | C       |
 | [[Flaming Sphere\|Flaming Sphere]]      | Evocation     | C       |
 | [[Gentle Repose\|Gentle Repose]]       | Necromancy    | R, M    |
-| [[Gust of Wind\|Gust of Wind]]        | Evocation     | C       |
+| [[Player Options/Spells/Detailed Spells/Gust of Wind\|Gust of Wind]]        | Evocation     | C       |
 | [[Hold Person\|Hold Person]]         | Enchantment   | C       |
 | [[Invisibility\|Invisibility]]        | Illusion      | C       |
 | [[Knock\|Knock]]               | Transmutation | —       |
 | [[Levitate\|Levitate]]            | Transmutation | C       |
-| [[Locate Object\|Locate Object]]       | Divination    | C       |
+| [[Player Options/Spells/Detailed Spells/Locate Object\|Locate Object]]       | Divination    | C       |
 | [[Magic Mouth\|Magic Mouth]]         | Illusion      | R, M    |
-| [[Magic Weapon\|Magic Weapon]]        | Transmutation | —       |
+| [[Player Options/Spells/Detailed Spells/Magic Weapon\|Magic Weapon]]        | Transmutation | —       |
 | [[Mirror Image\|Mirror Image]]        | Illusion      | —       |
 | [[Misty Step\|Misty Step]]          | Conjuration   | —       |
 | [[Ray of Enfeeblement\|Ray of Enfeeblement]] | Necromancy    | C       |
@@ -236,7 +240,7 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | [[Player Options/Spells/Detailed Spells/Blink\|Blink]]                  | Transmutation | —       |
 | [[Player Options/Spells/Detailed Spells/Clairvoyance\|Clairvoyance]]           | Divination    | C, M    |
 | [[Player Options/Spells/Detailed Spells/Counterspell\|Counterspell]]           | Abjuration    | —       |
-| [[Dispel Magic\|Dispel Magic]]           | Abjuration    | —       |
+| [[Player Options/Spells/Detailed Spells/Dispel Magic\|Dispel Magic]]           | Abjuration    | —       |
 | [[Fear\|Fear]]                   | Illusion      | C       |
 | [[Fireball\|Fireball]]               | Evocation     | —       |
 | [[Fly\|Fly]]                    | Transmutation | C       |
@@ -247,9 +251,9 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | [[Lightning Bolt\|Lightning Bolt]]         | Evocation     | —       |
 | [[Magic Circle\|Magic Circle]]           | Abjuration    | M       |
 | [[Major Image\|Major Image]]            | Illusion      | C       |
-| [[Nondetection\|Nondetection]]           | Abjuration    | M       |
+| [[Player Options/Spells/Detailed Spells/Nondetection\|Nondetection]]           | Abjuration    | M       |
 | [[Phantom Steed\|Phantom Steed]]          | Illusion      | R       |
-| [[Protection from Energy\|Protection from Energy]] | Abjuration    | C       |
+| [[Player Options/Spells/Detailed Spells/Protection from Energy\|Protection from Energy]] | Abjuration    | C       |
 | [[Remove Curse\|Remove Curse]]           | Abjuration    | —       |
 | [[Sending\|Sending]]                | Divination    | —       |
 | [[Sleet Storm\|Sleet Storm]]            | Conjuration   | C       |
@@ -276,11 +280,11 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | [[Greater Invisibility\|Greater Invisibility]]     | Illusion      | C       |
 | [[Hallucinatory Terrain\|Hallucinatory Terrain]]    | Illusion      | —       |
 | [[Ice Storm\|Ice Storm]]                | Evocation     | —       |
-| [[Locate Creature\|Locate Creature]]          | Divination    | C       |
+| [[Player Options/Spells/Detailed Spells/Locate Creature\|Locate Creature]]          | Divination    | C       |
 | [[Phantasmal Killer\|Phantasmal Killer]]        | Illusion      | C       |
 | [[Polymorph\|Polymorph]]                | Transmutation | C       |
 | [[Stone Shape\|Stone Shape]]              | Transmutation | —       |
-| [[Stoneskin\|Stoneskin]]                | Transmutation | C, M    |
+| [[Player Options/Spells/Detailed Spells/Stoneskin\|Stoneskin]]                | Transmutation | C, M    |
 | [[Wall of Fire\|Wall of Fire]]             | Evocation     | C       |
 
 #### Level 5 Wizard Spells
@@ -392,7 +396,7 @@ A Wizard subclass is a specialization that grants you features at certain Wizard
 
 A Varázslókat a mágia belső működésének kimerítő tanulmányozása határozza meg. Olyan varázslatokat idéznek meg, amelyek robbanó tüzet, cikázó villámot, alattomos illúziókat és látványos átváltozásokat hoznak létre. Mágikus erejük lényeket idéz más síkokról, bepillantást enged a jövőbe vagy védelmező energiamezőket teremt. Leghatalmasabb varázslataik képesek egy anyagot egy másikká alakítani, meteorokat idézni az égből vagy kapukat nyitni más világokba.
 
-A legtöbb Varázsló tudományos, kutató szemlélettel közelíti meg a mágiát. A mágia elméleti alapjait vizsgálják, különösen a varázslatok iskolák szerinti felosztását. Híres Varázslók – mint [[Bigby\|Bigby]](Bigby), [[Tasha\|Tasha]](Tasha), [[Mordenkainen\|Mordenkainen]](Mordenkainen) és [[Yolande\|Yolande]](Yolande) – kutatásaikra építve ikonikus varázslatokat alkottak, melyeket ma a multiverzum minden világában használnak.
+A legtöbb Varázsló tudományos, kutató szemlélettel közelíti meg a mágiát. A mágia elméleti alapjait vizsgálják, különösen a varázslatok iskolák szerinti felosztását. Híres Varázslók – mint Bigby, Tasha, Mordenkainen és Yolande – kutatásaikra építve ikonikus varázslatokat alkottak, melyeket ma a multiverzum minden világában használnak.
 
 A Varázsló legközelebb a hétköznapi élethez akkor kerül, ha bölcsészként vagy oktatóként dolgozik. Mások tanácsadóként, katonai szolgálatban vagy akár bűnözőként használják a mágiát.
 
@@ -448,19 +452,19 @@ A Varázsló a következő képességeket kapja meg, amikor eléri a megfelelő 
 
 ---
 
-### **1. szint: Spellcasting**
+### 1. szint: Spellcasting
 
 A mágia tudományának tanulmányozása révén megtanultál varázsolni. Lásd a „Spells” fejezetet a varázslás szabályaiért. Az alábbiakban láthatod, hogyan használod ezeket a szabályokat a Varázsló varázslatokkal.
 
-#### **Cantripek**
+#### Cantripek
 Három Varázsló cantripet ismersz. A *Light*, *Mage Hand* és *Ray of Frost* ajánlott.
 
 Minden Long Rest után lecserélhetsz egy általad ismert cantripet egy másik Wizard cantripre.
 
 A 4. és 10. szinten egy-egy új cantripet tanulsz.
 
-#### **Spellbook**
-Varázslótanonc éveid egy egyedi varázskönyv megalkotásában csúcsosodtak ki. A könyv Tiny méretű tárgy, 100 oldalas, 3 font súlyú, és csak te vagy az, aki olvasni tudja (vagy aki *Identify*-t használ).
+#### Spellbook
+Varázslótanonc éveid egy egyedi varázskönyv megalkotásában csúcsosodtak ki. A könyv Tiny méretű tárgy, 100 oldalas, 3 font súlyú, és csak te vagy az, aki olvasni tudja (vagy aki [[Identify\|Identify]]-t használ).
 
 A könyv 6 darab 1. szintű Varászló varázslattal indul. Ajánlottak: *Detect Magic*, *Feather Fall*, *Mage Armor*, *Magic Missile*, *Sleep*, *Thunderwave*.
 
@@ -471,71 +475,68 @@ Minden további szinten 2 új Wizard varázslattal bővül a könyv, a spell slo
 - **Másolat készítése saját könyvből:** 1 óra & 10 GP per spell level  
 - **Ha elveszik a könyv:** új könyvet írhat a Wizard a PREPARED spelljeiből.
 
-#### **Spell Slots**
+#### Spell Slots
 A Wizard Features táblázat mutatja a rendelkezésedre álló spell slotokat.
 
-#### **Előkészített varázslatok**
+#### Előkészített varázslatok 1-es szint felett
 Kiválasztasz X darab varázslatot a spellbookból (az X értéke a táblázat Prepared Spells oszlopában szerepel).
 
 Long Resttel cserélheted őket.
 
-#### **Spellcasting Ability**
+#### Spellcasting Ability
 A varázslataid **Intelligence** alapján működnek.
 
-#### **Spellcasting Focus**
+#### Spellcasting Focus
 Használhatsz *Arcane Focus*-t vagy a *spellbook*-odat fókuszként.
 
 ---
 
-### **1. szint: Ritual Adept**
+### 1. szint: Ritual Adept
 Bármely, Ritual taggel rendelkező varázslatot rituáléként varázsolhatsz, ha szerepel a spellbookodban – még akkor is, ha nincs előkészítve.
 
 ---
 
-### **1. szint: Arcane Recovery**
+### 1. szint: Arcane Recovery
 A Short Rest végén visszanyerhetsz spell slotokat: összértékük nem lehet nagyobb, mint a Varázsló szinted fele (felfelé kerekítve).  
 Nem használható 6. szintű vagy magasabb slotra.
 
 ---
 
-### **2. szint: Scholar**
+### 2. szint: Scholar
 Egy olyan képzettségben szerzel Expertise-t, amelyben már van proficiency-d: Arcana, History, Investigation, Medicine, Nature vagy Religion.
 
 ---
 
-### **3. szint: Wizard Subclass**
-Kiválasztod a varázslói alosztályodat, például [[Player Options/Classes/Wizard/Wizard_SubClasses/Evoker\|Evoker]](Evoker). A későbbi szinteken megkapod a hozzá tartozó képességeket.
+### 3. szint: Wizard Subclass
+Kiválasztod a Wizard Subclass-od (specializáció). A későbbi szinteken megkapod a hozzá tartozó képességeket.
 
 ---
 
-### **4. szint: Ability Score Improvement**
+### 4. szint: Ability Score Improvement
 Képességpont-növelés vagy feat.  
 Ugyanezt kapod a 8., 12. és 16. szinten.
 
 ---
 
-### **5. szint: Memorize Spell**
+### 5. szint: Memorize Spell
 Short Rest után kicserélhetsz egy előkészített Wizard spell-t a spellbookod egy másik varázslatára.
 
 ---
 
-### **18. szint: Spell Mastery**
+### 18. szint: Spell Mastery
 Egy 1. és egy 2. szintű akció-idővel rendelkező spell-t választasz: ezeket slot nélkül, tetszés szerint varázsolhatod alap szinten.
 
 ---
 
-### **19. szint: Epic Boon**
+### 19. szint: Epic Boon
 Epic Boon vagy más feat. Ajánlott: *Boon of Spell Recall*.
 
 ---
 
-### **20. szint: Signature Spells**
-Kiválasztasz **két** 3. szintű varázslatot a spellbookból:
+### 20. szint: Signature Spells
+Kiválasztasz **két** 3. szintű varázslatot a spellbookból amik az úgynevezett Signature Spelljeid lesznek.
 - mindig elő vannak készítve  
-- 1× varázsolhatod őket slot nélkül  
-- Short vagy Long Rest után újratöltődnek  
-
----
+- 1× varázsolhatod őket slot nélkül 3. szinten  Short/Long Restenként
 
 ## Varázsló Varázslatlista *(Wizard Spell List)*
 
@@ -548,7 +549,8 @@ A **Special** oszlop jelölései:
 
 ---
 
-#### **Cantripek (0. szintű varázslatok)**
+#### Cantripek (0. szintű varázslatok)
+
 | Spell                | School        | Special |
 | -------------------- | ------------- | ------- |
 | [[Player Options/Spells/Detailed Spells/Acid Splash\|Acid Splash]]      | Evocation     | —       |
@@ -569,7 +571,8 @@ A **Special** oszlop jelölései:
 
 ---
 
-#### **1. szintű Varázsló Varázslatok**
+#### 1. szintű Varázsló Varázslatok
+
 | Spell                             | School        | Special |
 | --------------------------------- | ------------- | ------- |
 | [[Player Options/Spells/Detailed Spells/Alarm\|Alarm]]                         | Abjuration    | R       |
@@ -577,18 +580,18 @@ A **Special** oszlop jelölései:
 | [[Player Options/Spells/Detailed Spells/Charm Person\|Charm Person]]                  | Enchantment   | —       |
 | [[Player Options/Spells/Detailed Spells/Color Spray\|Color Spray]]                   | Illusion      | —       |
 | [[Player Options/Spells/Detailed Spells/Comprehend Languages\|Comprehend Languages]]          | Divination    | R       |
-| [[Detect Magic\|Detect Magic]]                  | Divination    | C, R    |
+| [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]]                  | Divination    | C, R    |
 | [[Disguise Self\|Disguise Self]]                 | Illusion      | —       |
 | [[Expeditious Retreat\|Expeditious Retreat]]           | Transmutation | C       |
 | [[False Life\|False Life]]                    | Necromancy    | —       |
 | [[Feather Fall\|Feather Fall]]                  | Transmutation | —       |
 | [[Player Options/Spells/Detailed Spells/Find Familiar\|Find Familiar]]                 | Conjuration   | R, M    |
-| [[Fog Cloud\|Fog Cloud]]                     | Conjuration   | C       |
+| [[Player Options/Spells/Detailed Spells/Fog Cloud\|Fog Cloud]]                     | Conjuration   | C       |
 | [[Grease\|Grease]]                        | Conjuration   | —       |
 | [[Identify\|Identify]]                      | Divination    | R, M    |
 | [[Illusory Script\|Illusory Script]]               | Illusion      | R, M    |
-| [[Jump\|Jump]]                          | Transmutation | —       |
-| [[Longstrider\|Longstrider]]                   | Transmutation | —       |
+| [[Player Options/Spells/Detailed Spells/Jump\|Jump]]                          | Transmutation | —       |
+| [[zz_Templates/Spell Template\|Spell Template]]                   | Transmutation | —       |
 | [[Mage Armor\|Mage Armor]]                    | Abjuration    | —       |
 | [[Magic Missile\|Magic Missile]]                 | Evocation     | —       |
 | [[Protection from Evil and Good\|Protection from Evil and Good]] | Abjuration    | C, M    |
@@ -600,7 +603,8 @@ A **Special** oszlop jelölései:
 
 ---
 
-#### **2. szintű Varázsló Varázslatok**
+#### 2. szintű Varázsló Varázslatok
+
 | Spell                   | School        | Special |
 | ----------------------- | ------------- | ------- |
 | [[Player Options/Spells/Detailed Spells/Alter Self\|Alter Self]]          | Transmutation | C       |
@@ -610,20 +614,20 @@ A **Special** oszlop jelölései:
 | [[Player Options/Spells/Detailed Spells/Blur\|Blur]]                | Illusion      | C       |
 | [[Player Options/Spells/Detailed Spells/Continual Flame\|Continual Flame]]     | Evocation     | M       |
 | [[Darkness\|Darkness]]            | Evocation     | C       |
-| [[Darkvision\|Darkvision]]          | Transmutation | —       |
+| [[Player Options/Spells/Detailed Spells/Darkvision\|Darkvision]]          | Transmutation | —       |
 | [[Detect Thoughts\|Detect Thoughts]]     | Divination    | C       |
-| [[Enhance Ability\|Enhance Ability]]     | Transmutation | C       |
+| [[Player Options/Spells/Detailed Spells/Enhance Ability\|Enhance Ability]]     | Transmutation | C       |
 | [[Enlarge/Reduce\|Enlarge/Reduce]]      | Transmutation | C       |
 | [[Flaming Sphere\|Flaming Sphere]]      | Evocation     | C       |
 | [[Gentle Repose\|Gentle Repose]]       | Necromancy    | R, M    |
-| [[Gust of Wind\|Gust of Wind]]        | Evocation     | C       |
+| [[Player Options/Spells/Detailed Spells/Gust of Wind\|Gust of Wind]]        | Evocation     | C       |
 | [[Hold Person\|Hold Person]]         | Enchantment   | C       |
 | [[Invisibility\|Invisibility]]        | Illusion      | C       |
 | [[Knock\|Knock]]               | Transmutation | —       |
 | [[Levitate\|Levitate]]            | Transmutation | C       |
-| [[Locate Object\|Locate Object]]       | Divination    | C       |
+| [[Player Options/Spells/Detailed Spells/Locate Object\|Locate Object]]       | Divination    | C       |
 | [[Magic Mouth\|Magic Mouth]]         | Illusion      | R, M    |
-| [[Magic Weapon\|Magic Weapon]]        | Transmutation | —       |
+| [[Player Options/Spells/Detailed Spells/Magic Weapon\|Magic Weapon]]        | Transmutation | —       |
 | [[Mirror Image\|Mirror Image]]        | Illusion      | —       |
 | [[Misty Step\|Misty Step]]          | Conjuration   | —       |
 | [[Ray of Enfeeblement\|Ray of Enfeeblement]] | Necromancy    | C       |
@@ -637,7 +641,8 @@ A **Special** oszlop jelölései:
 
 ---
 
-#### **3. szintű Varázsló Varázslatok**
+#### 3. szintű Varázsló Varázslatok
+
 | Spell                      | School        | Special |
 | -------------------------- | ------------- | ------- |
 | [[Player Options/Spells/Detailed Spells/Animate Dead\|Animate Dead]]           | Necromancy    | —       |
@@ -645,7 +650,7 @@ A **Special** oszlop jelölései:
 | [[Player Options/Spells/Detailed Spells/Blink\|Blink]]                  | Transmutation | —       |
 | [[Player Options/Spells/Detailed Spells/Clairvoyance\|Clairvoyance]]           | Divination    | C, M    |
 | [[Player Options/Spells/Detailed Spells/Counterspell\|Counterspell]]           | Abjuration    | —       |
-| [[Dispel Magic\|Dispel Magic]]           | Abjuration    | —       |
+| [[Player Options/Spells/Detailed Spells/Dispel Magic\|Dispel Magic]]           | Abjuration    | —       |
 | [[Fear\|Fear]]                   | Illusion      | C       |
 | [[Fireball\|Fireball]]               | Evocation     | —       |
 | [[Fly\|Fly]]                    | Transmutation | C       |
@@ -656,9 +661,9 @@ A **Special** oszlop jelölései:
 | [[Lightning Bolt\|Lightning Bolt]]         | Evocation     | —       |
 | [[Magic Circle\|Magic Circle]]           | Abjuration    | M       |
 | [[Major Image\|Major Image]]            | Illusion      | C       |
-| [[Nondetection\|Nondetection]]           | Abjuration    | M       |
+| [[Player Options/Spells/Detailed Spells/Nondetection\|Nondetection]]           | Abjuration    | M       |
 | [[Phantom Steed\|Phantom Steed]]          | Illusion      | R       |
-| [[Protection from Energy\|Protection from Energy]] | Abjuration    | C       |
+| [[Player Options/Spells/Detailed Spells/Protection from Energy\|Protection from Energy]] | Abjuration    | C       |
 | [[Remove Curse\|Remove Curse]]           | Abjuration    | —       |
 | [[Sending\|Sending]]                | Divination    | —       |
 | [[Sleet Storm\|Sleet Storm]]            | Conjuration   | C       |
@@ -671,7 +676,8 @@ A **Special** oszlop jelölései:
 
 ---
 
-#### **4. szintű Varázsló Varázslatok**
+#### 4. szintű Varázsló Varázslatok
+
 | Spell                        | School        | Special |
 | ---------------------------- | ------------- | ------- |
 | [[Player Options/Spells/Detailed Spells/Arcane Eye\|Arcane Eye]]               | Divination    | C       |
@@ -687,16 +693,17 @@ A **Special** oszlop jelölései:
 | [[Greater Invisibility\|Greater Invisibility]]     | Illusion      | C       |
 | [[Hallucinatory Terrain\|Hallucinatory Terrain]]    | Illusion      | —       |
 | [[Ice Storm\|Ice Storm]]                | Evocation     | —       |
-| [[Locate Creature\|Locate Creature]]          | Divination    | C       |
+| [[Player Options/Spells/Detailed Spells/Locate Creature\|Locate Creature]]          | Divination    | C       |
 | [[Phantasmal Killer\|Phantasmal Killer]]        | Illusion      | C       |
 | [[Polymorph\|Polymorph]]                | Transmutation | C       |
 | [[Stone Shape\|Stone Shape]]              | Transmutation | —       |
-| [[Stoneskin\|Stoneskin]]                | Transmutation | C, M    |
+| [[Player Options/Spells/Detailed Spells/Stoneskin\|Stoneskin]]                | Transmutation | C, M    |
 | [[Wall of Fire\|Wall of Fire]]             | Evocation     | C       |
 
 ---
 
-#### **5. szintű Varázsló Varázslatok**
+#### 5. szintű Varázsló Varázslatok
+
 | Spell                    | School        | Special |
 | ------------------------ | ------------- | ------- |
 | [[Player Options/Spells/Detailed Spells/Animate Objects\|Animate Objects]]      | Transmutation | C       |
@@ -723,7 +730,8 @@ A **Special** oszlop jelölései:
 
 ---
 
-#### **6. szintű Varázsló Varázslatok**
+#### 6. szintű Varázsló Varázslatok
+
 | Spell                        | School        | Special |
 | ---------------------------- | ------------- | ------- |
 | [[Player Options/Spells/Detailed Spells/Chain Lightning\|Chain Lightning]]          | Evocation     | —       |
@@ -745,7 +753,8 @@ A **Special** oszlop jelölései:
 
 ---
 
-#### **7. szintű Varázsló Varázslatok**
+#### 7. szintű Varázsló Varázslatok
+
 | Spell               | School        | Special |
 | ------------------- | ------------- | ------- |
 | 3                   | Evocation     | C       |
@@ -764,7 +773,8 @@ A **Special** oszlop jelölései:
 
 ---
 
-#### **8. szintű Varázsló Varázslatok**
+#### 8. szintű Varázsló Varázslatok
+
 | Spell                  | School        | Special |
 | ---------------------- | ------------- | ------- |
 | [[Player Options/Spells/Detailed Spells/Antimagic Field\|Antimagic Field]]    | Abjuration    | C       |
@@ -781,7 +791,8 @@ A **Special** oszlop jelölései:
 
 ---
 
-#### **9. szintű Varázsló Varázslatok**
+#### 9. szintű Varázsló Varázslatok
+
 | Spell                 | School        | Special |
 | --------------------- | ------------- | ------- |
 | [[Player Options/Spells/Detailed Spells/Astral Projection\|Astral Projection]] | Necromancy    | M       |
@@ -804,10 +815,10 @@ A **Special** oszlop jelölései:
 A Varázsló alosztályok olyan specializációk, amelyek meghatározott szinteken bővítik a képességeidet.  
 Elérhető alosztályok:
 
-- [[Player Options/Classes/Wizard/Wizard_SubClasses/Abjurer\|Abjurer]](Abjurer)
-- [[Player Options/Classes/Wizard/Wizard_SubClasses/Diviner\|Diviner]](Diviner)
-- [[Player Options/Classes/Wizard/Wizard_SubClasses/Evoker\|Evoker]](Evoker)
-- [[Player Options/Classes/Wizard/Wizard_SubClasses/Illusionist\|Illusionist]](Illusionist)
-- [[Player Options/Classes/Wizard/Wizard_SubClasses/Bladesinger\|Bladesinger]](Bladesinger)
+- [[Player Options/Classes/Wizard/Wizard_SubClasses/Abjurer\|Abjurer]]
+- [[Player Options/Classes/Wizard/Wizard_SubClasses/Diviner\|Diviner]]
+- [[Player Options/Classes/Wizard/Wizard_SubClasses/Evoker\|Evoker]]
+- [[Player Options/Classes/Wizard/Wizard_SubClasses/Illusionist\|Illusionist]]
+- [[Player Options/Classes/Wizard/Wizard_SubClasses/Bladesinger\|Bladesinger]]
 
 ---

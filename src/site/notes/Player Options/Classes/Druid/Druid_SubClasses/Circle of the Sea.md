@@ -12,7 +12,7 @@ When you reach a Druid level specified in the Circle of the Sea Spells table, yo
 
 | Druid Level | Prepared Spells                                                                 |
 | ----------- | ------------------------------------------------------------------------------- |
-| 3           | [[Fog Cloud\|Fog Cloud]], [[Gust of Wind\|Gust of Wind]], [[Ray of Frost\|Ray of Frost]], [[Shatter\|Shatter]], [[Thunderwave\|Thunderwave]] |
+| 3           | [[Player Options/Spells/Detailed Spells/Fog Cloud\|Fog Cloud]], [[Player Options/Spells/Detailed Spells/Gust of Wind\|Gust of Wind]], [[Ray of Frost\|Ray of Frost]], [[Shatter\|Shatter]], [[Thunderwave\|Thunderwave]] |
 | 5           | [[Lightning Bolt\|Lightning Bolt]], [[Player Options/Spells/Detailed Spells/Water Breathing\|Water Breathing]]                                         |
 | 7           | [[Player Options/Spells/Detailed Spells/Control Water\|Control Water]], [[Ice Storm\|Ice Storm]]                                                |
 | 9           | [[Player Options/Spells/Detailed Spells/Conjure Elemental\|Conjure Elemental]], [[Hold Monster\|Hold Monster]]                                         |

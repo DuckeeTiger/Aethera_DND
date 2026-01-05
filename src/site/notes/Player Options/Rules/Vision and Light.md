@@ -26,6 +26,6 @@ The presence or absence of light determines the category of illumination in an a
 Some creatures have special senses that help them perceive things in certain situations. The rules glossary defines the following special senses:
 
 - [[Blindsight\|Blindsight]]
-- [[Darkvision\|Darkvision]]
+- [[Player Options/Spells/Detailed Spells/Darkvision\|Darkvision]]
 - [[Tremorsense\|Tremorsense]]
 - [[Truesight\|Truesight]]

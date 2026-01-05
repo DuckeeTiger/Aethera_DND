@@ -22,8 +22,8 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | ------------- | ------------------------------------------------------ |
 | 3             | [[Protection from Evil and Good\|Protection from Evil and Good]], [[Shield of Faith\|Shield of Faith]] |
 | 5             | [[Player Options/Spells/Detailed Spells/Aid\|Aid]], [[Zone of Truth\|Zone of Truth]]                             |
-| 9             | [[Player Options/Spells/Detailed Spells/Beacon of Hope\|Beacon of Hope]], [[Dispel Magic\|Dispel Magic]]                   |
-| 13            | [[Freedom of Movement\|Freedom of Movement]], [[Guardian of Faith\|Guardian of Faith]]         |
+| 9             | [[Player Options/Spells/Detailed Spells/Beacon of Hope\|Beacon of Hope]], [[Player Options/Spells/Detailed Spells/Dispel Magic\|Dispel Magic]]                   |
+| 13            | [[Player Options/Spells/Detailed Spells/Freedom of Movement\|Freedom of Movement]], [[Guardian of Faith\|Guardian of Faith]]         |
 | 17            | [[Player Options/Spells/Detailed Spells/Commune\|Commune]], [[Flame Strike\|Flame Strike]]                          |
 
 ##### Level 3: Sacred Weapon

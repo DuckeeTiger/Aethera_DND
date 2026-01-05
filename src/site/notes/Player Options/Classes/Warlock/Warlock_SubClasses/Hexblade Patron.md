@@ -9,9 +9,9 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells                                                                      |
 | ------------- | --------------------------------------------------------------------------- |
-| 3             | [[Player Options/Spells/Detailed Spells/Arcane Vigor\|Arcane Vigor]], [[Hex\|Hex]], [[Magic Weapon\|Magic Weapon]], [[Shield\|Shield]], [[Player Options/Spells/Detailed Spells/Wrathful Smite\|Wrathful Smite]] |
-| 5             | [[Player Options/Spells/Detailed Spells/Conjure Barrage\|Conjure Barrage]], [[Dispel Magic\|Dispel Magic]]                                       |
-| 7             | [[Freedom of Movement\|Freedom of Movement]], [[Staggering Smite\|Staggering Smite]]                               |
+| 3             | [[Player Options/Spells/Detailed Spells/Arcane Vigor\|Arcane Vigor]], [[Hex\|Hex]], [[Player Options/Spells/Detailed Spells/Magic Weapon\|Magic Weapon]], [[Shield\|Shield]], [[Player Options/Spells/Detailed Spells/Wrathful Smite\|Wrathful Smite]] |
+| 5             | [[Player Options/Spells/Detailed Spells/Conjure Barrage\|Conjure Barrage]], [[Player Options/Spells/Detailed Spells/Dispel Magic\|Dispel Magic]]                                       |
+| 7             | [[Player Options/Spells/Detailed Spells/Freedom of Movement\|Freedom of Movement]], [[Staggering Smite\|Staggering Smite]]                               |
 | 9             | [[Player Options/Spells/Detailed Spells/Animate Objects\|Animate Objects]], [[Steel Wind Strike\|Steel Wind Strike]]                                  |
 
 #### Level 3: Hexblade Manifest

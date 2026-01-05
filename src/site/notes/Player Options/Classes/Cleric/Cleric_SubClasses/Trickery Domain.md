@@ -19,8 +19,8 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells                                                               |
 | ------------ | ----------------------------------------------------------------------------- |
-| 3            | [[Player Options/Spells/Detailed Spells/Charm Person\|Charm Person]], [[Disguise Self\|Disguise Self]], [[Invisibility\|Invisibility]], [[Pass without Trace\|Pass without Trace]] |
-| 5            | [[Hypnotic Pattern\|Hypnotic Pattern]], [[Nondetection\|Nondetection]]                                        |
+| 3            | [[Player Options/Spells/Detailed Spells/Charm Person\|Charm Person]], [[Disguise Self\|Disguise Self]], [[Invisibility\|Invisibility]], [[Player Options/Spells/Detailed Spells/Pass without Trace\|Pass without Trace]] |
+| 5            | [[Hypnotic Pattern\|Hypnotic Pattern]], [[Player Options/Spells/Detailed Spells/Nondetection\|Nondetection]]                                        |
 | 7            | [[Player Options/Spells/Detailed Spells/Confusion\|Confusion]], [[Dimension Door\|Dimension Door]]                                             |
 | 9            | [[Dominate Person\|Dominate Person]], [[Modify Memory\|Modify Memory]]                                        |
 

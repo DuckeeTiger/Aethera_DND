@@ -202,15 +202,15 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 | [[Player Options/Spells/Detailed Spells/Chromatic Orb\|Chromatic Orb]]        | Evocation     | M       |
 | [[Player Options/Spells/Detailed Spells/Color Spray\|Color Spray]]          | Illusion      | —       |
 | [[Player Options/Spells/Detailed Spells/Comprehend Languages\|Comprehend Languages]] | Divination    | R       |
-| [[Detect Magic\|Detect Magic]]         | Divination    | C, R    |
+| [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]]         | Divination    | C, R    |
 | [[Disguise Self\|Disguise Self]]        | Illusion      | —       |
 | [[Expeditious Retreat\|Expeditious Retreat]]  | Transmutation | C       |
 | [[False Life\|False Life]]           | Necromancy    | —       |
 | [[Feather Fall\|Feather Fall]]         | Transmutation | —       |
-| [[Fog Cloud\|Fog Cloud]]            | Conjuration   | C       |
+| [[Player Options/Spells/Detailed Spells/Fog Cloud\|Fog Cloud]]            | Conjuration   | C       |
 | [[Grease\|Grease]]               | Conjuration   | —       |
 | [[Ice Knife\|Ice Knife]]            | Conjuration   | —       |
-| [[Jump\|Jump]]                 | Transmutation | —       |
+| [[Player Options/Spells/Detailed Spells/Jump\|Jump]]                 | Transmutation | —       |
 | [[Mage Armor\|Mage Armor]]           | Abjuration    | —       |
 | [[Magic Missile\|Magic Missile]]        | Evocation     | —       |
 | [[Ray of Sickness\|Ray of Sickness]]      | Necromancy    | —       |
@@ -230,19 +230,19 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 | [[Player Options/Spells/Detailed Spells/Cloud of Daggers\|Cloud of Daggers]]     | Conjuration   | C       |
 | [[Player Options/Spells/Detailed Spells/Crown of Madness\|Crown of Madness]]     | Enchantment   | C       |
 | [[Darkness\|Darkness]]             | Evocation     | C       |
-| [[Darkvision\|Darkvision]]           | Transmutation | —       |
+| [[Player Options/Spells/Detailed Spells/Darkvision\|Darkvision]]           | Transmutation | —       |
 | [[Detect Thoughts\|Detect Thoughts]]      | Divination    | C       |
 | [[Dragon's Breath\|Dragon's Breath]]      | Transmutation | C       |
-| [[Enhance Ability\|Enhance Ability]]      | Transmutation | C       |
+| [[Player Options/Spells/Detailed Spells/Enhance Ability\|Enhance Ability]]      | Transmutation | C       |
 | [[Enlarge/Reduce\|Enlarge/Reduce]]       | Transmutation | C       |
 | [[Flame Blade\|Flame Blade]]          | Evocation     | C       |
 | [[Flaming Sphere\|Flaming Sphere]]       | Evocation     | C       |
-| [[Gust of Wind\|Gust of Wind]]         | Evocation     | C       |
+| [[Player Options/Spells/Detailed Spells/Gust of Wind\|Gust of Wind]]         | Evocation     | C       |
 | [[Hold Person\|Hold Person]]          | Enchantment   | C       |
 | [[Invisibility\|Invisibility]]         | Illusion      | C       |
 | [[Knock\|Knock]]                | Transmutation | —       |
 | [[Levitate\|Levitate]]             | Transmutation | C       |
-| [[Magic Weapon\|Magic Weapon]]         | Transmutation | —       |
+| [[Player Options/Spells/Detailed Spells/Magic Weapon\|Magic Weapon]]         | Transmutation | —       |
 | [[Mind Spike\|Mind Spike]]           | Divination    | C       |
 | [[Mirror Image\|Mirror Image]]         | Illusion      | —       |
 | [[Misty Step\|Misty Step]]           | Conjuration   | —       |
@@ -259,8 +259,8 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 | [[Player Options/Spells/Detailed Spells/Blink\|Blink]]                | Transmutation | —       |
 | [[Player Options/Spells/Detailed Spells/Clairvoyance\|Clairvoyance]]         | Divination    | C, M    |
 | [[Player Options/Spells/Detailed Spells/Counterspell\|Counterspell]]         | Abjuration    | —       |
-| [[Daylight\|Daylight]]             | Evocation     | —       |
-| [[Dispel Magic\|Dispel Magic]]         | Abjuration    | —       |
+| [[Player Options/Spells/Detailed Spells/Daylight\|Daylight]]             | Evocation     | —       |
+| [[Player Options/Spells/Detailed Spells/Dispel Magic\|Dispel Magic]]         | Abjuration    | —       |
 | [[Fear\|Fear]]                 | Illusion      | C       |
 | [[Fireball\|Fireball]]             | Evocation     | —       |
 | [[Fly\|Fly]]                  | Transmutation | C       |
@@ -269,14 +269,14 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 | [[Hypnotic Pattern\|Hypnotic Pattern]]     | Illusion      | C       |
 | [[Lightning Bolt\|Lightning Bolt]]       | Evocation     | —       |
 | [[Major Image\|Major Image]]          | Illusion      | C       |
-| [[Protection from Energy\|Protection from Energy]] | Abjuration    | C       |
+| [[Player Options/Spells/Detailed Spells/Protection from Energy\|Protection from Energy]] | Abjuration    | C       |
 | [[Sleet Storm\|Sleet Storm]]          | Conjuration   | C       |
 | [[Slow\|Slow]]                 | Transmutation | C       |
 | [[Stinking Cloud\|Stinking Cloud]]       | Conjuration   | C       |
 | [[Tongues\|Tongues]]              | Divination    | —       |
 | [[Vampiric Touch\|Vampiric Touch]]       | Necromancy    | C       |
 | [[Player Options/Spells/Detailed Spells/Water Breathing\|Water Breathing]]      | Transmutation | R       |
-| [[Water Walk\|Water Walk]]           | Transmutation | R       |
+| [[Player Options/Spells/Detailed Spells/Water Walk\|Water Walk]]           | Transmutation | R       |
 #### Level 4 Sorcerer Spells
 | Spell                    | School        | Special |
 | :----------------------- | :------------ | :------ |
@@ -285,12 +285,12 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 | [[Player Options/Spells/Detailed Spells/Charm Monster\|Charm Monster]]        | Enchantment   | —       |
 | [[Player Options/Spells/Detailed Spells/Confusion\|Confusion]]            | Enchantment   | C       |
 | [[Dimension Door\|Dimension Door]]       | Conjuration   | —       |
-| [[Dominate Beast\|Dominate Beast]]       | Enchantment   | C       |
+| [[Player Options/Spells/Detailed Spells/Dominate Beast\|Dominate Beast]]       | Enchantment   | C       |
 | [[Fire Shield\|Fire Shield]]          | Evocation     | —       |
 | [[Greater Invisibility\|Greater Invisibility]] | Illusion      | C       |
 | [[Ice Storm\|Ice Storm]]            | Evocation     | —       |
 | [[Polymorph\|Polymorph]]            | Transmutation | C       |
-| [[Stoneskin\|Stoneskin]]            | Transmutation | C, M    |
+| [[Player Options/Spells/Detailed Spells/Stoneskin\|Stoneskin]]            | Transmutation | C, M    |
 | [[Vitriolic Sphere\|Vitriolic Sphere]]     | Evocation     | —       |
 | [[Wall of Fire\|Wall of Fire]]         | Evocation     | C       |
 #### Level 5 Sorcerer Spells

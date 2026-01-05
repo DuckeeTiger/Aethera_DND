@@ -22,7 +22,7 @@ Once you create the ward, you can’t create it again until you finish a Long Re
 When a creature that you can see within 30 feet of yourself takes damage, you can take a Reaction to cause your Arcane Ward to absorb that damage. If this damage reduces the ward to 0 Hit Points, the warded creature takes any remaining damage. If that creature has any Resistances or Vulnerabilities, apply them before reducing the ward’s Hit Points.
 
 #### Level 10: Spell Breaker
-You always have the [[Player Options/Spells/Detailed Spells/Counterspell\|Counterspell]] and [[Dispel Magic\|Dispel Magic]] spells prepared. In addition, you can cast [[Dispel Magic\|Dispel Magic]] as a Bonus Action, and you can add your Proficiency Bonus to its ability check. 
+You always have the [[Player Options/Spells/Detailed Spells/Counterspell\|Counterspell]] and [[Player Options/Spells/Detailed Spells/Dispel Magic\|Dispel Magic]] spells prepared. In addition, you can cast [[Player Options/Spells/Detailed Spells/Dispel Magic\|Dispel Magic]] as a Bonus Action, and you can add your Proficiency Bonus to its ability check. 
 
 When you cast either spell with a spell slot, that slot isn’t expended if the spell fails to stop a spell.
 

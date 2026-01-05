@@ -17,10 +17,10 @@ Your connection to this divine domain ensures you always have certain spells rea
 ##### Life Domain Spells
 | Cleric Level | Prepared Spells                                             |
 | ------------ | ----------------------------------------------------------- |
-| 3            | [[Player Options/Spells/Detailed Spells/Aid\|Aid]], [[Player Options/Spells/Detailed Spells/Bless\|Bless]], [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]], [[Lesser Restoration\|Lesser Restoration]] |
-| 5            | [[Mass Healing Word\|Mass Healing Word]], [[Revivify\|Revivify]]                         |
+| 3            | [[Player Options/Spells/Detailed Spells/Aid\|Aid]], [[Player Options/Spells/Detailed Spells/Bless\|Bless]], [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]], [[Player Options/Spells/Detailed Spells/Lesser Restoration\|Lesser Restoration]] |
+| 5            | [[Mass Healing Word\|Mass Healing Word]], [[Player Options/Spells/Detailed Spells/Revivify\|Revivify]]                         |
 | 7            | [[Player Options/Spells/Detailed Spells/Aura of Life\|Aura of Life]], [[Death Ward\|Death Ward]]                            |
-| 9            | [[Greater Restoration\|Greater Restoration]], [[Mass Cure Wounds\|Mass Cure Wounds]]               |
+| 9            | [[Player Options/Spells/Detailed Spells/Greater Restoration\|Greater Restoration]], [[Mass Cure Wounds\|Mass Cure Wounds]]               |
 
 ##### Level 3: Preserve Life
 As a Magic action, you present your Holy Symbol and expend a use of your Channel Divinity to evoke healing energy that can restore a number of Hit Points equal to five times your Cleric level. Choose Bloodied creatures within 30 feet of yourself (which can include you), and divide those Hit Points among them. This feature can restore a creature to no more than half its Hit Point maximum.

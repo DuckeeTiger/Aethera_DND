@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/barkskin/"}
 ---
 
+<!--lang:en-->
+# Barkskin
 *2nd level Transmutation ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Druid/Druid\|Druid]], [[Player Options/Classes/Ranger/Ranger\|Ranger]])*
 **Casting Time:** Bonus Action
 **Range:** Touch
@@ -12,8 +14,8 @@ You touch a willing creature. Until the spell ends, the target's skin assumes a 
 
 ---
 
-
-## Fakéregbőr
+<!--lang:hu-->
+# Fakéregbőr (Barkskin)
 
 *2. szintű Átváltoztatás ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Druid/Druid\|Druid]], [[Player Options/Classes/Ranger/Ranger\|Ranger]])*
 **Varázslási Idő:** Bónusz Akció

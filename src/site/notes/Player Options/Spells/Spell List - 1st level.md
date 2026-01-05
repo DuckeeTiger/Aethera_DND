@@ -21,21 +21,21 @@
 | [[Player Options/Spells/Detailed Spells/Create or Destroy Water\|Create or Destroy Water]]       | 1st   | Action    | Transmutation | no     | V, S, M    | no            |
 | [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]]                   | 1st   | Action    | Abjuration    | no     | V, S       | no            |
 | [[Detect Evil and Good\|Detect Evil and Good]]          | 1st   | Action    | Divination    | no     | V, S       | yes           |
-| [[Detect Magic\|Detect Magic]]                  | 1st   | Action    | Divination    | yes    | V, S       | yes           |
-| [[Detect Poison and Disease\|Detect Poison and Disease]]     | 1st   | Action    | Divination    | yes    | V, S, M    | yes           |
+| [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]]                  | 1st   | Action    | Divination    | yes    | V, S       | yes           |
+| [[Player Options/Spells/Detailed Spells/Detect Poison and Disease\|Detect Poison and Disease]]     | 1st   | Action    | Divination    | yes    | V, S, M    | yes           |
 | [[Disguise Self\|Disguise Self]]                 | 1st   | Action    | Illusion      | no     | V, S       | no            |
 | [[Dissonant Whispers\|Dissonant Whispers]]            | 1st   | Action    | Enchantment   | no     | V          | no            |
 | [[Divine Favor\|Divine Favor]]                  | 1st   | Bonus     | Transmutation | no     | V, S       | no            |
 | [[Divine Smite\|Divine Smite]]                  | 1st   | Bonus     | Transmutation | no     | V          | no            |
-| [[Ensnaring Strike\|Ensnaring Strike]]              | 1st   | Bonus     | Conjuration   | no     | V          | yes           |
-| [[Entangle\|Entangle]]                      | 1st   | Action    | Conjuration   | no     | V, S       | yes           |
+| [[Player Options/Spells/Detailed Spells/Ensnaring Strike\|Ensnaring Strike]]              | 1st   | Bonus     | Conjuration   | no     | V          | yes           |
+| [[Player Options/Spells/Detailed Spells/Entangle\|Entangle]]                      | 1st   | Action    | Conjuration   | no     | V, S       | yes           |
 | [[Expeditious Retreat\|Expeditious Retreat]]           | 1st   | Bonus     | Transmutation | no     | V, S       | yes           |
 | [[Faerie Fire\|Faerie Fire]]                   | 1st   | Action    | Evocation     | no     | V          | yes           |
 | [[False Life\|False Life]]                    | 1st   | Action    | Necromancy    | no     | V, S, M    | no            |
 | [[Feather Fall\|Feather Fall]]                  | 1st   | Reaction  | Transmutation | no     | V, M       | no            |
 | [[Player Options/Spells/Detailed Spells/Find Familiar\|Find Familiar]]                 | 1st   | 1 Hr.     | Conjuration   | yes    | V, S, M    | no            |
-| [[Fog Cloud\|Fog Cloud]]                     | 1st   | Action    | Conjuration   | no     | V, S       | yes           |
-| [[Goodberry\|Goodberry]]                     | 1st   | Action    | Conjuration   | no     | V, S, M    | no            |
+| [[Player Options/Spells/Detailed Spells/Fog Cloud\|Fog Cloud]]                     | 1st   | Action    | Conjuration   | no     | V, S       | yes           |
+| [[Player Options/Spells/Detailed Spells/Goodberry\|Goodberry]]                     | 1st   | Action    | Conjuration   | no     | V, S, M    | no            |
 | [[Grease\|Grease]]                        | 1st   | Action    | Conjuration   | no     | V, S, M    | no            |
 | [[Guiding Bolt\|Guiding Bolt]]                  | 1st   | Action    | Evocation     | no     | V, S       | no            |
 | [[Hail of Thorns\|Hail of Thorns]]                | 1st   | Bonus     | Conjuration   | no     | V          | no            |
@@ -43,13 +43,13 @@
 | [[Hellish Rebuke\|Hellish Rebuke]]                | 1st   | Reaction  | Evocation     | no     | V, S       | no            |
 | [[Heroism\|Heroism]]                       | 1st   | Action    | Enchantment   | no     | V, S       | yes           |
 | [[Hex\|Hex]]                           | 1st   | Bonus     | Enchantment   | no     | V, S, M    | yes           |
-| [[Hunter's Mark\|Hunter's Mark]]                 | 1st   | Bonus     | Divination    | no     | V          | yes           |
+| [[Player Options/Spells/Detailed Spells/Hunter's Mark\|Hunter's Mark]]                 | 1st   | Bonus     | Divination    | no     | V          | yes           |
 | [[Ice Knife\|Ice Knife]]                     | 1st   | Action    | Conjuration   | no     | S, M       | no            |
 | [[Identify\|Identify]]                      | 1st   | 1 Min.    | Divination    | yes    | V, S, M    | no            |
 | [[Illusory Script\|Illusory Script]]               | 1st   | 1 Min.    | Illusion      | yes    | S, M       | no            |
 | [[Inflict Wounds\|Inflict Wounds]]                | 1st   | Action    | Necromancy    | no     | V, S       | no            |
-| [[Jump\|Jump]]                          | 1st   | Bonus     | Transmutation | no     | V, S, M    | no            |
-| [[Longstrider\|Longstrider]]                   | 1st   | Action    | Transmutation | no     | V, S, M    | no            |
+| [[Player Options/Spells/Detailed Spells/Jump\|Jump]]                          | 1st   | Bonus     | Transmutation | no     | V, S, M    | no            |
+| [[zz_Templates/Spell Template\|Spell Template]]                   | 1st   | Action    | Transmutation | no     | V, S, M    | no            |
 | [[Mage Armor\|Mage Armor]]                    | 1st   | Action    | Abjuration    | no     | V, S, M    | no            |
 | [[Magic Missile\|Magic Missile]]                 | 1st   | Action    | Evocation     | no     | V, S       | no            |
 | [[Protection from Evil and Good\|Protection from Evil and Good]] | 1st   | Action    | Abjuration    | no     | V, S, M    | yes           |

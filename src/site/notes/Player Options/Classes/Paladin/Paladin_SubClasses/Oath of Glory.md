@@ -19,9 +19,9 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | Paladin Level | Spells                                        |
 | ------------- | --------------------------------------------- |
 | 3             | [[Guiding Bolt\|Guiding Bolt]], [[Heroism\|Heroism]]                 |
-| 5             | [[Enhance Ability\|Enhance Ability]], [[Magic Weapon\|Magic Weapon]]         |
-| 9             | [[Haste\|Haste]], [[Protection from Energy\|Protection from Energy]]         |
-| 13            | [[Player Options/Spells/Detailed Spells/Compulsion\|Compulsion]], [[Freedom of Movement\|Freedom of Movement]]       |
+| 5             | [[Player Options/Spells/Detailed Spells/Enhance Ability\|Enhance Ability]], [[Player Options/Spells/Detailed Spells/Magic Weapon\|Magic Weapon]]         |
+| 9             | [[Haste\|Haste]], [[Player Options/Spells/Detailed Spells/Protection from Energy\|Protection from Energy]]         |
+| 13            | [[Player Options/Spells/Detailed Spells/Compulsion\|Compulsion]], [[Player Options/Spells/Detailed Spells/Freedom of Movement\|Freedom of Movement]]       |
 | 17            | [[Legend Lore\|Legend Lore]], [[Yolande’s Regal Presence\|Yolande’s Regal Presence]] |
 
 #### Level 3: Peerless Athlete

@@ -170,7 +170,7 @@ This section presents the bard spell list...
 | [[Player Options/Spells/Detailed Spells/Command\|Command]]                  | Enchantment   |         |
 | [[Player Options/Spells/Detailed Spells/Comprehend Languages\|Comprehend Languages]]     | Divination    | R       |
 | [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]]              | Abjuration    |         |
-| [[Detect Magic\|Detect Magic]]             | Divination    | C, R    |
+| [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]]             | Divination    | C, R    |
 | [[Disguise Self\|Disguise Self]]            | Illusion      |         |
 | [[Dissonant Whispers\|Dissonant Whispers]]       | Enchantment   |         |
 | [[Faerie Fire\|Faerie Fire]]              | Evocation     | C       |
@@ -179,7 +179,7 @@ This section presents the bard spell list...
 | [[Heroism\|Heroism]]                  | Enchantment   | C       |
 | [[Identify\|Identify]]                 | Divination    | R, M    |
 | [[Illusory Script\|Illusory Script]]          | Illusion      | R, M    |
-| [[Longstrider\|Longstrider]]              | Transmutation |         |
+| [[zz_Templates/Spell Template\|Spell Template]]              | Transmutation |         |
 | [[Silent Image\|Silent Image]]             | Illusion      | C       |
 | [[Sleep\|Sleep]]                    | Enchantment   | C       |
 | [[Player Options/Spells/Detailed Spells/Speak with Animals\|Speak with Animals]]       | Divination    | R       |
@@ -197,22 +197,22 @@ This section presents the bard spell list...
 | [[Player Options/Spells/Detailed Spells/Cloud of Daggers\|Cloud of Daggers]]         | Conjuration   | C       |
 | [[Player Options/Spells/Detailed Spells/Crown of Madness\|Crown of Madness]]         | Enchantment   | C       |
 | [[Detect Thoughts\|Detect Thoughts]]          | Divination    | C       |
-| [[Enhance Ability\|Enhance Ability]]          | Transmutation | C       |
+| [[Player Options/Spells/Detailed Spells/Enhance Ability\|Enhance Ability]]          | Transmutation | C       |
 | [[Enlarge/Reduce\|Enlarge/Reduce]]           | Transmutation | C       |
 | [[Enthrall\|Enthrall]]                 | Enchantment   | C       |
 | [[Heat Metal\|Heat Metal]]               | Transmutation | C       |
 | [[Hold Person\|Hold Person]]              | Enchantment   | C       |
 | [[Invisibility\|Invisibility]]             | Illusion      | C       |
 | [[Knock\|Knock]]                    | Transmutation |         |
-| [[Lesser Restoration\|Lesser Restoration]]       | Abjuration    |         |
-| [[Locate Animals or Plants\|Locate Animals or Plants]] | Divination    | R       |
-| [[Locate Object\|Locate Object]]            | Divination    | C       |
+| [[Player Options/Spells/Detailed Spells/Lesser Restoration\|Lesser Restoration]]       | Abjuration    |         |
+| [[Player Options/Spells/Detailed Spells/Locate Animals or Plants\|Locate Animals or Plants]] | Divination    | R       |
+| [[Player Options/Spells/Detailed Spells/Locate Object\|Locate Object]]            | Divination    | C       |
 | [[Magic Mouth\|Magic Mouth]]              | Illusion      | R, M    |
 | [[Mirror Image\|Mirror Image]]             | Illusion      |         |
 | [[Player Options/Spells/Detailed Spells/Phantasmal Force\|Phantasmal Force]]         | Illusion      | C       |
 | [[See Invisibility\|See Invisibility]]         | Divination    |         |
 | [[Shatter\|Shatter]]                  | Evocation     |         |
-| [[Silence\|Silence]]                  | Illusion      | C, R    |
+| [[Player Options/Spells/Detailed Spells/Silence\|Silence]]                  | Illusion      | C, R    |
 | [[Suggestion\|Suggestion]]               | Enchantment   | C       |
 | [[Zone of Truth\|Zone of Truth]]            | Enchantment   |         |
 
@@ -221,7 +221,7 @@ This section presents the bard spell list...
 | ---------------------- | ------------- | ------- |
 | [[Player Options/Spells/Detailed Spells/Bestow Curse\|Bestow Curse]]       | Necromancy    | C       |
 | [[Player Options/Spells/Detailed Spells/Clairvoyance\|Clairvoyance]]       | Divination    | C, M    |
-| [[Dispel Magic\|Dispel Magic]]       | Abjuration    |         |
+| [[Player Options/Spells/Detailed Spells/Dispel Magic\|Dispel Magic]]       | Abjuration    |         |
 | [[Fear\|Fear]]               | Illusion      | C       |
 | [[Feign Death\|Feign Death]]        | Necromancy    | R       |
 | [[Glyph of Warding\|Glyph of Warding]]   | Abjuration    | M       |
@@ -229,12 +229,12 @@ This section presents the bard spell list...
 | [[Leomund's Tiny Hut\|Leomund's Tiny Hut]] | Evocation     | R       |
 | [[Major Image\|Major Image]]        | Illusion      | C       |
 | [[Mass Healing Word\|Mass Healing Word]]  | Abjuration    |         |
-| [[Nondetection\|Nondetection]]       | Abjuration    | M       |
-| [[Plant Growth\|Plant Growth]]       | Transmutation |         |
+| [[Player Options/Spells/Detailed Spells/Nondetection\|Nondetection]]       | Abjuration    | M       |
+| [[Player Options/Spells/Detailed Spells/Plant Growth\|Plant Growth]]       | Transmutation |         |
 | [[Sending\|Sending]]            | Divination    |         |
 | [[Slow\|Slow]]               | Transmutation | C       |
 | [[Speak with Dead\|Speak with Dead]]    | Necromancy    |         |
-| [[Speak with Plants\|Speak with Plants]]  | Transmutation |         |
+| [[Player Options/Spells/Detailed Spells/Speak with Plants\|Speak with Plants]]  | Transmutation |         |
 | [[Stinking Cloud\|Stinking Cloud]]     | Conjuration   | C       |
 | [[Tounges\|Tounges]]            | Divination    |         |
 
@@ -246,10 +246,10 @@ This section presents the bard spell list...
 | [[Player Options/Spells/Detailed Spells/Confusion\|Confusion]]             | Enchantment   | C       |
 | [[Dimension Door\|Dimension Door]]        | Conjuration   |         |
 | [[Fount of Moonlight\|Fount of Moonlight]]    | Evocation     | C       |
-| [[Freedom of Movement\|Freedom of Movement]]   | Abjuration    |         |
+| [[Player Options/Spells/Detailed Spells/Freedom of Movement\|Freedom of Movement]]   | Abjuration    |         |
 | [[Greater Invisibility\|Greater Invisibility]]  | Illusion      | C       |
 | [[Hallucinatory Terrain\|Hallucinatory Terrain]] | Illusion      |         |
-| [[Locate Creature\|Locate Creature]]       | Divination    | C       |
+| [[Player Options/Spells/Detailed Spells/Locate Creature\|Locate Creature]]       | Divination    | C       |
 | [[Phantasmal Killer\|Phantasmal Killer]]     | Illusion      | C       |
 | [[Polymorph\|Polymorph]]             | Transmutation | C       |
 
@@ -261,7 +261,7 @@ This section presents the bard spell list...
 | [[Dominate Person\|Dominate Person]]          | Enchantment   | C       |
 | [[Dream\|Dream]]                    | Illusion      |         |
 | [[Geas\|Geas]]                     | Enchantment   |         |
-| [[Greater Restoration\|Greater Restoration]]      | Abjuration    | M       |
+| [[Player Options/Spells/Detailed Spells/Greater Restoration\|Greater Restoration]]      | Abjuration    | M       |
 | [[Hold Monster\|Hold Monster]]             | Enchantment   | C       |
 | [[Legend Lore\|Legend Lore]]              | Divination    | M       |
 | [[Mass Cure Wounds\|Mass Cure Wounds]]         | Abjuration    |         |
@@ -498,7 +498,7 @@ A következő lista a Bárdok számára elérhető varázslatokat mutatja, szint
 | [[Player Options/Spells/Detailed Spells/Command\|Command]]                  | Enchantment   |         |
 | [[Player Options/Spells/Detailed Spells/Comprehend Languages\|Comprehend Languages]]     | Divination    | R       |
 | [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]]              | Abjuration    |         |
-| [[Detect Magic\|Detect Magic]]             | Divination    | C, R    |
+| [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]]             | Divination    | C, R    |
 | [[Disguise Self\|Disguise Self]]            | Illusion      |         |
 | [[Dissonant Whispers\|Dissonant Whispers]]       | Enchantment   |         |
 | [[Faerie Fire\|Faerie Fire]]              | Evocation     | C       |
@@ -507,7 +507,7 @@ A következő lista a Bárdok számára elérhető varázslatokat mutatja, szint
 | [[Heroism\|Heroism]]                  | Enchantment   | C       |
 | [[Identify\|Identify]]                 | Divination    | R, M    |
 | [[Illusory Script\|Illusory Script]]          | Illusion      | R, M    |
-| [[Longstrider\|Longstrider]]              | Transmutation |         |
+| [[zz_Templates/Spell Template\|Spell Template]]              | Transmutation |         |
 | [[Silent Image\|Silent Image]]             | Illusion      | C       |
 | [[Sleep\|Sleep]]                    | Enchantment   | C       |
 | [[Player Options/Spells/Detailed Spells/Speak with Animals\|Speak with Animals]]       | Divination    | R       |
@@ -526,22 +526,22 @@ A következő lista a Bárdok számára elérhető varázslatokat mutatja, szint
 | [[Player Options/Spells/Detailed Spells/Cloud of Daggers\|Cloud of Daggers]]         | Conjuration   | C       |
 | [[Player Options/Spells/Detailed Spells/Crown of Madness\|Crown of Madness]]         | Enchantment   | C       |
 | [[Detect Thoughts\|Detect Thoughts]]          | Divination    | C       |
-| [[Enhance Ability\|Enhance Ability]]          | Transmutation | C       |
+| [[Player Options/Spells/Detailed Spells/Enhance Ability\|Enhance Ability]]          | Transmutation | C       |
 | [[Enlarge/Reduce\|Enlarge/Reduce]]           | Transmutation | C       |
 | [[Enthrall\|Enthrall]]                 | Enchantment   | C       |
 | [[Heat Metal\|Heat Metal]]               | Transmutation | C       |
 | [[Hold Person\|Hold Person]]              | Enchantment   | C       |
 | [[Invisibility\|Invisibility]]             | Illusion      | C       |
 | [[Knock\|Knock]]                    | Transmutation |         |
-| [[Lesser Restoration\|Lesser Restoration]]       | Abjuration    |         |
-| [[Locate Animals or Plants\|Locate Animals or Plants]] | Divination    | R       |
-| [[Locate Object\|Locate Object]]            | Divination    | C       |
+| [[Player Options/Spells/Detailed Spells/Lesser Restoration\|Lesser Restoration]]       | Abjuration    |         |
+| [[Player Options/Spells/Detailed Spells/Locate Animals or Plants\|Locate Animals or Plants]] | Divination    | R       |
+| [[Player Options/Spells/Detailed Spells/Locate Object\|Locate Object]]            | Divination    | C       |
 | [[Magic Mouth\|Magic Mouth]]              | Illusion      | R, M    |
 | [[Mirror Image\|Mirror Image]]             | Illusion      |         |
 | [[Player Options/Spells/Detailed Spells/Phantasmal Force\|Phantasmal Force]]         | Illusion      | C       |
 | [[See Invisibility\|See Invisibility]]         | Divination    |         |
 | [[Shatter\|Shatter]]                  | Evocation     |         |
-| [[Silence\|Silence]]                  | Illusion      | C, R    |
+| [[Player Options/Spells/Detailed Spells/Silence\|Silence]]                  | Illusion      | C, R    |
 | [[Suggestion\|Suggestion]]               | Enchantment   | C       |
 | [[Zone of Truth\|Zone of Truth]]            | Enchantment   |         |
 
@@ -551,7 +551,7 @@ A következő lista a Bárdok számára elérhető varázslatokat mutatja, szint
 | ---------------------- | ------------- | ------- |
 | [[Player Options/Spells/Detailed Spells/Bestow Curse\|Bestow Curse]]       | Necromancy    | C       |
 | [[Player Options/Spells/Detailed Spells/Clairvoyance\|Clairvoyance]]       | Divination    | C, M    |
-| [[Dispel Magic\|Dispel Magic]]       | Abjuration    |         |
+| [[Player Options/Spells/Detailed Spells/Dispel Magic\|Dispel Magic]]       | Abjuration    |         |
 | [[Fear\|Fear]]               | Illusion      | C       |
 | [[Feign Death\|Feign Death]]        | Necromancy    | R       |
 | [[Glyph of Warding\|Glyph of Warding]]   | Abjuration    | M       |
@@ -559,12 +559,12 @@ A következő lista a Bárdok számára elérhető varázslatokat mutatja, szint
 | [[Leomund's Tiny Hut\|Leomund's Tiny Hut]] | Evocation     | R       |
 | [[Major Image\|Major Image]]        | Illusion      | C       |
 | [[Mass Healing Word\|Mass Healing Word]]  | Abjuration    |         |
-| [[Nondetection\|Nondetection]]       | Abjuration    | M       |
-| [[Plant Growth\|Plant Growth]]       | Transmutation |         |
+| [[Player Options/Spells/Detailed Spells/Nondetection\|Nondetection]]       | Abjuration    | M       |
+| [[Player Options/Spells/Detailed Spells/Plant Growth\|Plant Growth]]       | Transmutation |         |
 | [[Sending\|Sending]]            | Divination    |         |
 | [[Slow\|Slow]]               | Transmutation | C       |
 | [[Speak with Dead\|Speak with Dead]]    | Necromancy    |         |
-| [[Speak with Plants\|Speak with Plants]]  | Transmutation |         |
+| [[Player Options/Spells/Detailed Spells/Speak with Plants\|Speak with Plants]]  | Transmutation |         |
 | [[Stinking Cloud\|Stinking Cloud]]     | Conjuration   | C       |
 | [[Tounges\|Tounges]]            | Divination    |         |
 
@@ -577,10 +577,10 @@ A következő lista a Bárdok számára elérhető varázslatokat mutatja, szint
 | [[Player Options/Spells/Detailed Spells/Confusion\|Confusion]]             | Enchantment   | C       |
 | [[Dimension Door\|Dimension Door]]        | Conjuration   |         |
 | [[Fount of Moonlight\|Fount of Moonlight]]    | Evocation     | C       |
-| [[Freedom of Movement\|Freedom of Movement]]   | Abjuration    |         |
+| [[Player Options/Spells/Detailed Spells/Freedom of Movement\|Freedom of Movement]]   | Abjuration    |         |
 | [[Greater Invisibility\|Greater Invisibility]]  | Illusion      | C       |
 | [[Hallucinatory Terrain\|Hallucinatory Terrain]] | Illusion      |         |
-| [[Locate Creature\|Locate Creature]]       | Divination    | C       |
+| [[Player Options/Spells/Detailed Spells/Locate Creature\|Locate Creature]]       | Divination    | C       |
 | [[Phantasmal Killer\|Phantasmal Killer]]     | Illusion      | C       |
 | [[Polymorph\|Polymorph]]             | Transmutation | C       |
 
@@ -593,7 +593,7 @@ A következő lista a Bárdok számára elérhető varázslatokat mutatja, szint
 | [[Dominate Person\|Dominate Person]]          | Enchantment   | C       |
 | [[Dream\|Dream]]                    | Illusion      |         |
 | [[Geas\|Geas]]                     | Enchantment   |         |
-| [[Greater Restoration\|Greater Restoration]]      | Abjuration    | M       |
+| [[Player Options/Spells/Detailed Spells/Greater Restoration\|Greater Restoration]]      | Abjuration    | M       |
 | [[Hold Monster\|Hold Monster]]             | Enchantment   | C       |
 | [[Legend Lore\|Legend Lore]]              | Divination    | M       |
 | [[Mass Cure Wounds\|Mass Cure Wounds]]         | Abjuration    |         |

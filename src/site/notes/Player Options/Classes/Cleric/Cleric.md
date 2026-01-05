@@ -158,8 +158,8 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | [[Player Options/Spells/Detailed Spells/Create or Destroy Water\|Create or Destroy Water]] | Transmutation | —       |
 | [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]]             | Abjuration    | —       |
 | [[Detect Evil and Good\|Detect Evil and Good]]    | Divination    | C       |
-| [[Detect Magic\|Detect Magic]]            | Divination    | C, R    |
-| [[Detect Poison and Disease\|Detect Poison and Disease]] | Divination    | C, R    |
+| [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]]            | Divination    | C, R    |
+| [[Player Options/Spells/Detailed Spells/Detect Poison and Disease\|Detect Poison and Disease]] | Divination    | C, R    |
 | [[Guiding Bolt\|Guiding Bolt]]            | Evocation     | —       |
 | [[Healing Word\|Healing Word]]            | Abjuration    | —       |
 | [[Inflict Wounds\|Inflict Wounds]]          | Necromancy    | —       |
@@ -175,15 +175,15 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | [[Blindness/Deafness\|Blindness/Deafness]]      | Transmutation | —       |
 | [[Player Options/Spells/Detailed Spells/Calm Emotions\|Calm Emotions]]           | Enchantment   | C       |
 | [[Player Options/Spells/Detailed Spells/Continual Flame\|Continual Flame]]         | Evocation     | M       |
-| [[Enhance Ability\|Enhance Ability]]         | Transmutation | C       |
-| [[Find Traps\|Find Traps]]              | Divination    | —       |
+| [[Player Options/Spells/Detailed Spells/Enhance Ability\|Enhance Ability]]         | Transmutation | C       |
+| [[Player Options/Spells/Detailed Spells/Find Traps\|Find Traps]]              | Divination    | —       |
 | [[Gentle Repose\|Gentle Repose]]           | Necromancy    | R, M    |
 | [[Hold Person\|Hold Person]]             | Enchantment   | C       |
-| [[Lesser Restoration\|Lesser Restoration]]      | Abjuration    | —       |
-| [[Locate Object\|Locate Object]]           | Divination    | C       |
+| [[Player Options/Spells/Detailed Spells/Lesser Restoration\|Lesser Restoration]]      | Abjuration    | —       |
+| [[Player Options/Spells/Detailed Spells/Locate Object\|Locate Object]]           | Divination    | C       |
 | [[Prayer of Healing\|Prayer of Healing]]       | Abjuration    | —       |
-| [[Protection from Poison\|Protection from Poison]]  | Abjuration    | —       |
-| [[Silence\|Silence]]                 | Illusion      | C, R    |
+| [[Player Options/Spells/Detailed Spells/Protection from Poison\|Protection from Poison]]  | Abjuration    | —       |
+| [[Player Options/Spells/Detailed Spells/Silence\|Silence]]                 | Illusion      | C, R    |
 | [[Spiritual Weapon\|Spiritual Weapon]]        | Evocation     | C       |
 | [[Warding Bond\|Warding Bond]]            | Abjuration    | M       |
 | [[Zone of Truth\|Zone of Truth]]           | Enchantment   | —       |
@@ -196,21 +196,21 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | [[Player Options/Spells/Detailed Spells/Bestow Curse\|Bestow Curse]]          | Necromancy    | C       |
 | [[Player Options/Spells/Detailed Spells/Clairvoyance\|Clairvoyance]]          | Divination    | C, M    |
 | [[Player Options/Spells/Detailed Spells/Create Food and Water\|Create Food and Water]] | Conjuration   | —       |
-| [[Daylight\|Daylight]]              | Evocation     | —       |
-| [[Dispel Magic\|Dispel Magic]]          | Abjuration    | —       |
+| [[Player Options/Spells/Detailed Spells/Daylight\|Daylight]]              | Evocation     | —       |
+| [[Player Options/Spells/Detailed Spells/Dispel Magic\|Dispel Magic]]          | Abjuration    | —       |
 | [[Feign Death\|Feign Death]]           | Necromancy    | R       |
 | [[Glyph of Warding\|Glyph of Warding]]      | Abjuration    | M       |
 | [[Magic Circle\|Magic Circle]]          | Abjuration    | M       |
 | [[Mass Healing Word\|Mass Healing Word]]     | Abjuration    | —       |
-| [[Meld into Stone\|Meld into Stone]]       | Transmutation | R       |
-| [[Protection from Energy\|Protection from Energy]]| Abjuration    | C       |
+| [[Player Options/Spells/Detailed Spells/Meld into Stone\|Meld into Stone]]       | Transmutation | R       |
+| [[Player Options/Spells/Detailed Spells/Protection from Energy\|Protection from Energy]]| Abjuration    | C       |
 | [[Remove Curse\|Remove Curse]]          | Abjuration    | —       |
-| [[Revivify\|Revivify]]              | Necromancy    | M       |
+| [[Player Options/Spells/Detailed Spells/Revivify\|Revivify]]              | Necromancy    | M       |
 | [[Sending\|Sending]]               | Divination    | —       |
 | [[Speak with Dead\|Speak with Dead]]       | Necromancy    | —       |
 | [[Spirit Guardians\|Spirit Guardians]]      | Conjuration   | C       |
 | [[Tongues\|Tongues]]               | Divination    | —       |
-| [[Water Walk\|Water Walk]]            | Transmutation | R       |
+| [[Player Options/Spells/Detailed Spells/Water Walk\|Water Walk]]            | Transmutation | R       |
 #### Level 4 Cleric Spells
 | Spell                     | School        | Special |
 | :-------------------------- | :------------ | :------ |
@@ -220,9 +220,9 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | [[Player Options/Spells/Detailed Spells/Control Water\|Control Water]]         | Transmutation | C       |
 | [[Death Ward\|Death Ward]]            | Abjuration    | —       |
 | [[Divination\|Divination]]            | Divination    | R, M    |
-| [[Freedom of Movement\|Freedom of Movement]]   | Abjuration    | —       |
+| [[Player Options/Spells/Detailed Spells/Freedom of Movement\|Freedom of Movement]]   | Abjuration    | —       |
 | [[Guardian of Faith\|Guardian of Faith]]     | Conjuration   | —       |
-| [[Locate Creature\|Locate Creature]]       | Divination    | C       |
+| [[Player Options/Spells/Detailed Spells/Locate Creature\|Locate Creature]]       | Divination    | C       |
 | [[Stone Shape\|Stone Shape]]           | Transmutation | —       |
 #### Level 5 Cleric Spells
 | Spell                 | School        | Special |
@@ -233,7 +233,7 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | [[Dispel Evil and Good\|Dispel Evil and Good]]| Abjuration    | C       |
 | [[Flame Strike\|Flame Strike]]      | Evocation     | —       |
 | [[Geas\|Geas]]              | Enchantment   | —       |
-| [[Greater Restoration\|Greater Restoration]] | Abjuration    | M       |
+| [[Player Options/Spells/Detailed Spells/Greater Restoration\|Greater Restoration]] | Abjuration    | M       |
 | [[Hallow\|Hallow]]            | Abjuration    | M       |
 | [[Insect Plague\|Insect Plague]]     | Conjuration   | C       |
 | [[Legend Lore\|Legend Lore]]       | Divination    | M       |
@@ -460,8 +460,8 @@ Ezután **2d4 Hosszú Pihenőt** kell kivárnod, mielőtt újra használhatnád.
 | [[Player Options/Spells/Detailed Spells/Create or Destroy Water\|Create or Destroy Water]]     | Transmutation | —       |
 | [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]]                 | Abjuration    | —       |
 | [[Detect Evil and Good\|Detect Evil and Good]]        | Divination    | C       |
-| [[Detect Magic\|Detect Magic]]                | Divination    | C, R    |
-| [[Detect Poison and Disease\|Detect Poison and Disease]]   | Divination    | C, R    |
+| [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]]                | Divination    | C, R    |
+| [[Player Options/Spells/Detailed Spells/Detect Poison and Disease\|Detect Poison and Disease]]   | Divination    | C, R    |
 | [[Guiding Bolt\|Guiding Bolt]]                | Evocation     | —       |
 | [[Healing Word\|Healing Word]]                | Abjuration    | —       |
 | [[Inflict Wounds\|Inflict Wounds]]              | Necromancy    | —       |
@@ -479,15 +479,15 @@ Ezután **2d4 Hosszú Pihenőt** kell kivárnod, mielőtt újra használhatnád.
 | [[Blindness/Deafness\|Blindness/Deafness]]| Transmutation | —       |
 | [[Player Options/Spells/Detailed Spells/Calm Emotions\|Calm Emotions]]     | Enchantment   | C       |
 | [[Player Options/Spells/Detailed Spells/Continual Flame\|Continual Flame]]   | Evocation     | M       |
-| [[Enhance Ability\|Enhance Ability]]   | Transmutation | C       |
-| [[Find Traps\|Find Traps]]        | Divination    | —       |
+| [[Player Options/Spells/Detailed Spells/Enhance Ability\|Enhance Ability]]   | Transmutation | C       |
+| [[Player Options/Spells/Detailed Spells/Find Traps\|Find Traps]]        | Divination    | —       |
 | [[Gentle Repose\|Gentle Repose]]     | Necromancy    | R, M    |
 | [[Hold Person\|Hold Person]]       | Enchantment   | C       |
-| [[Lesser Restoration\|Lesser Restoration]]| Abjuration    | —       |
-| [[Locate Object\|Locate Object]]     | Divination    | C       |
+| [[Player Options/Spells/Detailed Spells/Lesser Restoration\|Lesser Restoration]]| Abjuration    | —       |
+| [[Player Options/Spells/Detailed Spells/Locate Object\|Locate Object]]     | Divination    | C       |
 | [[Prayer of Healing\|Prayer of Healing]] | Abjuration    | —       |
-| [[Protection from Poison\|Protection from Poison]] | Abjuration | —      |
-| [[Silence\|Silence]]           | Illusion      | C, R    |
+| [[Player Options/Spells/Detailed Spells/Protection from Poison\|Protection from Poison]] | Abjuration | —      |
+| [[Player Options/Spells/Detailed Spells/Silence\|Silence]]           | Illusion      | C, R    |
 | [[Spiritual Weapon\|Spiritual Weapon]]  | Evocation     | C       |
 | [[Warding Bond\|Warding Bond]]      | Abjuration    | M       |
 | [[Zone of Truth\|Zone of Truth]]     | Enchantment   | —       |
@@ -502,21 +502,21 @@ Ezután **2d4 Hosszú Pihenőt** kell kivárnod, mielőtt újra használhatnád.
 | [[Player Options/Spells/Detailed Spells/Bestow Curse\|Bestow Curse]]          | Necromancy    | C       |
 | [[Player Options/Spells/Detailed Spells/Clairvoyance\|Clairvoyance]]          | Divination    | C, M    |
 | [[Player Options/Spells/Detailed Spells/Create Food and Water\|Create Food and Water]] | Conjuration   | —       |
-| [[Daylight\|Daylight]]              | Evocation     | —       |
-| [[Dispel Magic\|Dispel Magic]]          | Abjuration    | —       |
+| [[Player Options/Spells/Detailed Spells/Daylight\|Daylight]]              | Evocation     | —       |
+| [[Player Options/Spells/Detailed Spells/Dispel Magic\|Dispel Magic]]          | Abjuration    | —       |
 | [[Feign Death\|Feign Death]]           | Necromancy    | R       |
 | [[Glyph of Warding\|Glyph of Warding]]      | Abjuration    | M       |
 | [[Magic Circle\|Magic Circle]]          | Abjuration    | M       |
 | [[Mass Healing Word\|Mass Healing Word]]     | Abjuration    | —       |
-| [[Meld into Stone\|Meld into Stone]]       | Transmutation | R       |
-| [[Protection from Energy\|Protection from Energy]]| Abjuration    | C       |
+| [[Player Options/Spells/Detailed Spells/Meld into Stone\|Meld into Stone]]       | Transmutation | R       |
+| [[Player Options/Spells/Detailed Spells/Protection from Energy\|Protection from Energy]]| Abjuration    | C       |
 | [[Remove Curse\|Remove Curse]]          | Abjuration    | —       |
-| [[Revivify\|Revivify]]              | Necromancy    | M       |
+| [[Player Options/Spells/Detailed Spells/Revivify\|Revivify]]              | Necromancy    | M       |
 | [[Sending\|Sending]]               | Divination    | —       |
 | [[Speak with Dead\|Speak with Dead]]       | Necromancy    | —       |
 | [[Spirit Guardians\|Spirit Guardians]]      | Conjuration   | C       |
 | [[Tongues\|Tongues]]               | Divination    | —       |
-| [[Water Walk\|Water Walk]]            | Transmutation | R       |
+| [[Player Options/Spells/Detailed Spells/Water Walk\|Water Walk]]            | Transmutation | R       |
 
 ### 4. Szintű Pap Varázslatok
 
@@ -528,9 +528,9 @@ Ezután **2d4 Hosszú Pihenőt** kell kivárnod, mielőtt újra használhatnád.
 | [[Player Options/Spells/Detailed Spells/Control Water\|Control Water]]         | Transmutation | C       |
 | [[Death Ward\|Death Ward]]            | Abjuration    | —       |
 | [[Divination\|Divination]]            | Divination    | R, M    |
-| [[Freedom of Movement\|Freedom of Movement]]   | Abjuration    | —       |
+| [[Player Options/Spells/Detailed Spells/Freedom of Movement\|Freedom of Movement]]   | Abjuration    | —       |
 | [[Guardian of Faith\|Guardian of Faith]]     | Conjuration   | —       |
-| [[Locate Creature\|Locate Creature]]       | Divination    | C       |
+| [[Player Options/Spells/Detailed Spells/Locate Creature\|Locate Creature]]       | Divination    | C       |
 | [[Stone Shape\|Stone Shape]]           | Transmutation | —       |
 
 ### 5. Szintű Pap Varázslatok
@@ -543,7 +543,7 @@ Ezután **2d4 Hosszú Pihenőt** kell kivárnod, mielőtt újra használhatnád.
 | [[Dispel Evil and Good\|Dispel Evil and Good]] | Abjuration | C       |
 | [[Flame Strike\|Flame Strike]]      | Evocation     | —       |
 | [[Geas\|Geas]]              | Enchantment   | —       |
-| [[Greater Restoration\|Greater Restoration]] | Abjuration   | M       |
+| [[Player Options/Spells/Detailed Spells/Greater Restoration\|Greater Restoration]] | Abjuration   | M       |
 | [[Hallow\|Hallow]]            | Abjuration    | M       |
 | [[Insect Plague\|Insect Plague]]     | Conjuration   | C       |
 | [[Legend Lore\|Legend Lore]]       | Divination    | M       |

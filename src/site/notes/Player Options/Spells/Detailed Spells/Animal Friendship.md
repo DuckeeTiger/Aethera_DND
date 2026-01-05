@@ -13,7 +13,7 @@
 
 Target a Beast that you can see within range. The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration. If you or one of your allies deals damage to the target, the spells ends.
 
-**Using a Higher-Level Spell Slot:** You can target one additional Beast for each spell slot level above 1.
+***Using a Higher-Level Spell Slot.*** You can target one additional Beast for each spell slot level above 1.
 
 ---
 
@@ -28,6 +28,6 @@ Target a Beast that you can see within range. The target must succeed on a Wisdo
 
 Célozz meg egy Bestiát, amelyet látsz a hatótávon belül. A célpontnak sikeres Bölcsesség mentődobást kell tennie, különben Bűvölt állapotba kerül az időtartamra. Ha te vagy valamelyik szövetségesed sebzést okoz a célpontnak, a varázslat véget ér.
 
-**Magasabb szintű varázslatfoglalat használata.** Egy további Bestiát célozhatsz meg minden 1. szint feletti varázslatfoglalat szintjéért.
+***Magasabb szintű varázslatfoglalat használata.*** Egy további Bestiát célozhatsz meg minden 1. szint feletti varázslatfoglalat szintjéért.
 
 ---
