@@ -87,7 +87,7 @@ html[data-lang="hu"] [data-lang-block="en"] {
   display: none;
 }
 
-/* Single language toggle button (flags) */
+/* Single language toggle button (flag only) */
 
 .lang-toggle {
   cursor: pointer;
@@ -95,8 +95,6 @@ html[data-lang="hu"] [data-lang-block="en"] {
   border-radius: 6px;
   border: 1px solid var(--background-modifier-border, rgba(0,0,0,0.2));
   background: var(--background-secondary, rgba(0,0,0,0.03));
-  font-size: 0.9rem;
-  line-height: 1.2;
   color: var(--text-normal);
   height: 2rem;
   display: inline-flex;
@@ -113,12 +111,6 @@ html[data-lang="hu"] [data-lang-block="en"] {
   background-position: center;
   background-repeat: no-repeat;
   border-radius: 2px;
-}
-
-/* optional small EN/HU label next to icon */
-.lang-toggle-text {
-  margin-left: 0.25rem;
-  font-size: 0.7rem;
 }
 
 /* Pick the correct flag based on current language */
@@ -140,8 +132,9 @@ html[data-lang="hu"] .lang-toggle-icon {
   .filetree-toolbar {
     justify-content: center;
   }
+}
 
-  /* ===== CUSTOM CALLOUTS ===== */
+/* ===== CUSTOM CALLOUTS ===== */
 
 .callout[data-callout="barbarian-feature"] {
   --callout-color: 152, 103, 58;
@@ -223,6 +216,4 @@ html[data-lang="hu"] .lang-toggle-icon {
   width: 1em;
   height: 1em;
   flex: 0 0 auto;
-}
-
 }
