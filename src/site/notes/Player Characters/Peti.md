@@ -5,6 +5,49 @@
 <!--lang:en-->
 # Peti
 
+## To DOs!!!
+
+1. Válassz egy backgroundot innen: [[Player Options/Backgrounds/Background list\|Background list]] -> magyarul is fent van - oldal sáv menü zászlócska
+	- a választott backgroundban lesz felsorolva 3 ability (STR, DEX, CON, INT, WIS vagy CHA)
+		- vagy válaszd mind3at és 1-el megnövekedik az adott 3 ability score 1-el
+		- vagy válassz 1-et amit 2-vel és 1-et amit 1-el növelsz
+>[!tips] Gergő Tipp ha szabad:
+> A Clericedhez eléggé illik a [[Player Options/Backgrounds/Guide\|Guide]], [[Player Options/Backgrounds/Acolyte\|Acolyte]], [[Player Options/Backgrounds/Sage\|Sage]] 
+> de ha van fejben backstory akkor próbáld ahoz passzintani
+
+2. Cleric Spellek kiválasztása
+- na ez lesz a nagy falat és segítek vele. Szerintem nem dobom le az atomot első session előtt és írom ide az összes cantripet (0. szintű spell) és Level 1es spellt amiből választhatsz mert kiszaladsz. Felsorolok párat ami szerintem hasznos és ami tetszik azt választ. itt nem is fogok tippet küldeni, amelyik szimpi. Ha akarod persze belemerülhetsz, a [[Player Options/Classes/Cleric/Cleric\|Cleric]] Class leírásnál a spelleknél ott van mind.
+- Cantripek - **három** Cantripet választhatsz
+	- [[Player Options/Spells/Detailed Spells/Guidance\|Guidance]] - hasznos. megérintesz valakit vagy magadat és 1 percig hozzáadhat 1d4-et a dobásaihoz - vezeted a kezét
+	- [[Sacred Flame\|Sacred Flame]] - radiant damage-el megtámadsz valakit. ha nem tud elugrani kap 1d8 dam-ot
+	- [[Spare the Dying\|Spare the Dying]] - ha van valaki aki 0 HPn van de nem halott - tudod stabilizálni
+	- [[Toll the Dead\|Toll the Dead]] - rámutatsz valakire - az a valaki hall valami harnagszót és ha nem tudja megvédeni magát akkor kap 1d8 necrotic damot - ha nem max a HP-ja akkor 1d12
+	- [[Word of Radiance\|Word of Radiance]] - sugár tör ki belőled. 5 lábra mindenki kap 1d6 Radiant dam-ot ha nem tudja kivédeni.
+- Level 1 Spellek: **Négy** level 1 spellt választhatsz
+	- [[Player Options/Spells/Detailed Spells/Bane\|Bane]] - maximum 3 creaturet választasz - ha nem tudják magukat megvédeni 1d4-et le kell majd vonjanak a dobásaikból - ez tart amíg koncentrálsz a spellre
+	- [[Player Options/Spells/Detailed Spells/Bless\|Bless]] - maximum 3 karaktert választasz. Amíg koncentrálsz kapnak 1d4-et minden dobásukhoz
+	- [[Player Options/Spells/Detailed Spells/Command\|Command]] - valakire ráparancsolsz. Ha nem tudja magát megvédeni a következő parancsokat adhatod ki: Dobd el; Közelíts; Szaladj el; Feküdj a földre; Várj
+	- [[Guiding Bolt\|Guiding Bolt]] - küldesz egy sugárzó bolt-ot valakire. Ha talál 4d6 Radiant damage és a következő támadás ellene advanteage-el lesz
+	- [[Inflict Wounds\|Inflict Wounds]] - megérintesz valakit. ha nem tudja magát megvédeni - 2d10 necrotic damot kap.
+	- [[Sanctuary\|Sanctuary]] - megvédesz valakit - kb egy valamilyn gömböt teszel rá ami pajzsként fogja. Ha valaki megakarja támadni akit védesz akkor guritania kell - ha nem sikerül akkor mást kell válasszon
+	- [[Shield of Faith\|Shield of Faith]] - valakit választasz - adsz neki +2 AC-t (armor class) amig koncentrálsz
+	- [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]] - 30 láb körzetben érzékeled ha valami mágikus. Meg tudod mondani, hogy milyen hatása van a máginak és hogy milyen mágia lehet.
+	- [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]] - valakit megérintesz és 2d8 + Wisdom mod-al gyógyul
+	- [[Healing Word\|Healing Word]] - 60 lábon belül tudsz gyógyítani 2d4 + Wis mod-ot. (ugyanaz mint a cure wound csak ez távolsági ezért ez kevesebbet gyógyít)
+	- [[Player Options/Spells/Detailed Spells/Create or Destroy Water\|Create or Destroy Water]] - vagy csinálsz 10 gallon vizet vagy el tudsz pusztítani/tüntetni ugyanennyit - azt is megteheted h ez mind pl eső legyen 30 láb körzetben
+- Játék közben level 2 leszünk és kapsz majd +1 spellt Level 1-st. Esetleg azt is kitalálhatod h az majd mi legyen és akkor tudunk haladni
+
+3. Class specifikus dolgok választása:
+- Két [[Player Options/Rules/Skills\|Skills]] -ben proficient lehetsz a következőek közül: History, Insight, Medicine, Persuasion, or Religion. Olyat válassz amit a **background még nem adott meg.**
+	- úgy fordítanám, hogy jártas/tanult az adott skillben. Level 1-en a prof bonus +2. ha valamiben prof. vagy akkor ha az adott skill-re dobsz ezt a +2-őt mindig hozzáadhatod az ability mod-on felül).
+- Lent a Feature list-ednél látsz egy olyat, hogy Divine order. Itt két dologból kell választanaod:
+	- **Protector** (technikailag egy cleric leszel aki bemegy a csatába és üt vág) - tudsz használni Martial Weaponst (legtöbb kard ami 1 kezes, nyilakat) és Heavy armort - sok AC-t ad
+	- **Thaumaturge** (ez a már alapból varázsoló classt viszi kicsit tovább varázsolni.) Kapsz + 1 cantripet meg az Arcana és Religion Skilljeidhez a wisdomodat is hozzáadhatod.
+>[!tips]Gergő Tipp ha szabad:
+> a protectort javaslom. Egyszerűen változatosabb lesz neked a játék h nem csak varázsolsz. Meg Törp vagy sztm az csapkod :D
+
+3. Törp vagy. nem kell semmit válassz szerencsére. minden jár, odalent összeszedtem
+
 ## Overview
 
 - **Species:** Dwarf
