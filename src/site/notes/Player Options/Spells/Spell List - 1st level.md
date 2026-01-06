@@ -49,7 +49,7 @@
 | [[Illusory Script\|Illusory Script]]               | 1st   | 1 Min.    | Illusion      | yes    | S, M       | no            |
 | [[Inflict Wounds\|Inflict Wounds]]                | 1st   | Action    | Necromancy    | no     | V, S       | no            |
 | [[Player Options/Spells/Detailed Spells/Jump\|Jump]]                          | 1st   | Bonus     | Transmutation | no     | V, S, M    | no            |
-| [[zz_Templates/Spell Template\|Spell Template]]                   | 1st   | Action    | Transmutation | no     | V, S, M    | no            |
+| [[zz_Templates/Spell Template\|Spell Template]]                | 1st   | Action    | Transmutation | no     | V, S, M    | no            |
 | [[Mage Armor\|Mage Armor]]                    | 1st   | Action    | Abjuration    | no     | V, S, M    | no            |
 | [[Magic Missile\|Magic Missile]]                 | 1st   | Action    | Evocation     | no     | V, S       | no            |
 | [[Protection from Evil and Good\|Protection from Evil and Good]] | 1st   | Action    | Abjuration    | no     | V, S, M    | yes           |

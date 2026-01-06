@@ -2,8 +2,61 @@
 {"dg-publish":true,"permalink":"/player-characters/bazsi/"}
 ---
 
-<!--lang:en-->
 # Bazsi
+
+## To DOs!!!
+
+1. Válassz egy backgroundot innen: [[Player Options/Backgrounds/Background list\|Background list]] -> magyarul is fent van - oldal sáv menü zászlócska
+	- a választott backgroundban lesz felsorolva 3 ability (STR, DEX, CON, INT, WIS vagy CHA)
+		- vagy válaszd mind3at és 1-el megnövekedik az adott 3 ability score 1-el
+		- vagy válassz 1-et amit 2-vel és 1-et amit 1-el növelsz
+>[!tips] Gergő Tipp ha szabad:
+> A Druidodhoz eléggé illik a [[Player Options/Backgrounds/Hermit\|Hermit]], esetleg [[Player Options/Backgrounds/Acolyte\|Acolyte]] vagy [[Player Options/Backgrounds/Guide\|Guide]]. Mind3-ban van amúgy Wisdom amit 1-el növelve 16-ra tudsz húzni és akkor már +3 a modifier dobásoknál. (lehet 17-re is ha a wisdomot növeled 2-vel, de az még mindig +2 de közel leszel a 18hoz már ami majd egyszer +3 lehet)
+
+2. Druid Spellek kiválasztása
+- na ez lesz a nagy falat és segítek vele. Szerintem nem dobom le az atomot első session előtt és írom ide az összes cantripet (0. szintű spell) és Level 1es spellt amiből választhatsz mert kiszaladsz. Felsorolok párat ami szerintem hasznos és ami tetszik azt választ. itt nem is fogok tippet küldeni, amelyik szimpi. Ha akarod persze belemerülhetsz, a [[Player Options/Classes/Druid/Druid\|Druid]] Class leírásnál a spelleknél ott van mind.
+- Cantripek - **kettő** Cantripet választhatsz
+	- [[Player Options/Spells/Detailed Spells/Druidcraft\|Druidcraft]] - suttogsz egy kicsit a természet szellemeivel. 4 dolgot tehetsz:
+		- meg tudod jósolni a követlező 24 órára az időjárást
+		- a semmiből tudsz varázsolni kis virágot vagy virágmagot vagy valami kis levelet - cuki
+		- elterelésre vagy bármire tudsz csinálni kis szellőt, ami esetleg visz egy állathangot, esetleg kis pislákoló fényeket
+		- meg tudsz gyújtani egy kis gyertát, tűzrakóhelyet esetleg egy fáklyát
+	- [[Player Options/Spells/Detailed Spells/Guidance\|Guidance]] - hasznos. megérintesz valakit vagy magadat és 1 percig hozzáadhat 1d4-et a dobásaihoz - vezeted a kezét
+	- [[Player Options/Spells/Detailed Spells/Message\|Message]] - valakire rámutatsz és ő és csakis ő hallja, hogy mit üzensz neki
+	- [[Thorn Whip\|Thorn Whip]] - varázsolsz a semmiből egy inda szerű ostort amivel egyből támadhatsz is 30 lábon belül. Ha eltalálod akkor 1d6-at damaget kap - és ha kb veled egy nagyságú a lény akkor 10 lábbal magad felé rántod ha akarod
+	- [[Player Options/Spells/Detailed Spells/Produce Flame\|Produce Flame]] - 10 percig egy kis lángocska jelenik meg a kezedben - nem éget és nem tud meggyújtani semmit, de ad fényt a sötétben. Amíg aktív tudsz vele támadni 60 lábon belül. Ha találsz 1d8 fire damage-et ad
+	- [[Posion Spray\|Posion Spray]] - 1d12 damage-ért mérgező füstöt szórsz valakire.
+- Level 1 Spellek: **Négy** level 1 spellt választhatsz
+	- [[Player Options/Spells/Detailed Spells/Charm Person\|Charm Person]] - el tudsz bűvölni valakit - bartáságos lesz veled, jobban ki lehet kérdezni dolgokról - 1 óráig tart. Ha a spell-nek vége akkor tudni fogja hogy te csináltad.
+	- [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]] - 30 láb körzetben érzékeled ha valami mágikus. Meg tudod mondani, hogy milyen hatása van a máginak és hogy milyen mágia lehet.
+	- [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]] - valakit megérintesz és 2d8 + Wisdom mod-al gyógyul
+	- [[Player Options/Spells/Detailed Spells/Fog Cloud\|Fog Cloud]] - csinálsz egy 30 láb átmérőjü köd felhőt. Ezen a ködön nem lehet átlátni. addig van amíg koncentrálsz rá.
+	- [[Player Options/Spells/Detailed Spells/Entangle\|Entangle]] - futó növényeket varázsolsz a földre 20 lábnyi négyzetben. Nehéz terepnek minősül amig tart (kétszer annyit kell mozogni h menj). Koncentrálni kell rá
+	- [[Healing Word\|Healing Word]] - 60 lábon belül tudsz gyógyítani 2d4 + Wis mod-ot. (ugyanaz mint a cure wound csak ez távolsági ezért ez kevesebbet gyógyít)
+	- [[Ice Knife\|Ice Knife]] - 1d10 damaget tolsz egy jég késsel amit el tudsz dobni - persze ha eltalálod akit megdobsz. Emellett becsapódáskor felrobban és még tud okozni 2d6 damaget azoknak akik mellette állnak
+	- [[Player Options/Spells/Detailed Spells/Longstrider\|Longstrider]] - Akit megfogsz vagy te magad kap 10 feet plusz speed-et (alapból kb 30 mindekinek) - 1 órán keresztül
+	- [[Player Options/Spells/Detailed Spells/Create or Destroy Water\|Create or Destroy Water]] - vagy csinálsz 10 gallon vizet vagy el tudsz pusztítani/tüntetni ugyanennyit - azt is megteheted h ez mind pl eső legyen 30 láb körzetben
+- Amiket alapból tudsz mert Druid vagy és megkapod a **választottakon kívül pluszba**:
+  -  [[Speak With Animals \|Speak With Animals ]] - 10 percig tudsz beszélni állatokkal
+- Játék közben level 2 leszünk és kapsz majd +1 spellt Level 1-st. Esetleg azt is kitalálhatod h az majd mi legyen és akkor tudunk haladni
+
+1. Class specifikus dolgok választása:
+- Két [[Player Options/Rules/Skills\|Skills]] -ben proficient lehetsz a következőek közül:Animal Handling, Arcana, Insight, Medicine, Nature, Perception, Religion, or Survival. Olyat válassz amit a **background még nem adott meg.**
+	- úgy fordítanám, hogy jártas/tanult az adott skillben. Level 1-en a prof bonus +2. ha valamiben prof. vagy akkor ha az adott skill-re dobsz ezt a +2-őt mindig hozzáadhatod az ability mod-on felül).
+- Lent a Feature list-ednél látsz egy olyat, hogy Primal Order. Itt két dologból kell választanaod:
+	- Magician (technikailag Druid mágus) - kapsz egy extra cantripet (0. szintű varázslat) + Arcana vagy Nature checkekhez hozzáadhatod a Wisdow módosítodat az inteligence helyett (ez a második annyira nem fontos ügyesebben guríthatsz madj az egyikre - a kérdés inkább h inkább varázslósabbank érzed a druidádat vagy inkább fa szeretőnek :D)
+	- Warden (ez inkább egy közelharci druidot csinál belőled - ugyanugy tudsz varázsolni csak szélesedik a repertoárod h miket tudsz) - adja a képességet, hogy hasznélhass Martial Weapon-ket (egy kezes fegyverek, tőr kisebb kard, esetleg nyíl) és Medium aromort (ha nem választod akkor csak light aromorod lehet - könnyebben megütnek. adok is medium armort ha ezt választod)
+>[!tips]Gergő Tipp ha szabad:
+> a wardent javaslom, hogy kicsit jobb legyen a védelmed meg ha akarsz tudj bemenni harcolni is a varázslás meg majd a macivá válás mellett. A magician is okés ha teljesen varázslósabb irányba akarsz menni, de akkor nem javaslom h beljebb menj majd harcolni mert könnyen leütnek ember formádban :D
+
+4. Mivel ember vagy ezért neked kell faji dolgokat is választani többet - az ember a legáltalánosabb faj ezért a szabályok megengedik h mégjobban magadévá formáld h különbözz teis + legyen jó dolgaid :)
+- Kapsz egy plusz origin feat-et (a background alapból ad egyet, neked 2 lesz) - [[Player Options/Feats/Feat List\|Feat List]] -> a táblázatban vannak Origin featek ezekből választhatsz
+> [!tips] Gergő Tipp ha szabad
+> [[Player Options/Feats/Lucky\|Lucky]] - ez baromi hasznos tud lenni -> kapsz level 1en 2  luck pontot - bármikor elköltheted h Advantage-et adj magadnak (két kockával guritasz és a magasabbat veszed) vagy disadvantage-et adj valakinek
+> [[Player Options/Feats/Tough\|Tough]] - plusz életet kapsz minden szintlépésnél - azon felül amit alapból kapsz
+>[[Player Options/Feats/Musician\|Musician]] - ez fun meg roleplaybe jó - lehet hangszered és restek alatt Inspirationt adhatsz annak aki hallja - ez jó dolog ha valami dobás nem tetszik újra dobhatja akinek van ilyen (mivel ember vagy neked minden Long Rest után fog járni alapból egy ilyen)
+- Választhatsz egy [[Player Options/Rules/Skills\|Skills]]-t pluszba amibe proficient vagy. Itt olyan skillt válassz amiben még nem vagy prof. A backgroundod ad fixen 2-őt + ugye a classod is mint ahogy fent választottad.
+
 
 ## Overview
 

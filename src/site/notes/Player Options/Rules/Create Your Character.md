@@ -71,7 +71,7 @@ Record your chosen equipment on your character sheet. Equipment is described in 
 
 ### Step 3: Choose a Species
 
-Choose a species for your character. The following species options are detailed in their pages: [[Player Options/Species/Dragonborn\|Dragonborn]], [[Player Options/Species/Dwarf\|Dwarf]], [[Player Options/Species/Elf\|Elf]], [[Player Options/Species/Gnome\|Gnome]], [[Player Options/Species/Halfling\|Halfling]], [[Player Options/Species/Human\|Human]] and [[Player Options/Species/Tiefling\|Tiefling]]. Once you’ve chosen a species, write it on your character sheet. Then record your species’ traits.
+Choose a species for your character. The following species options are detailed in their pages: [[Player Options/Species/Dragonborn\|Player Options/Species/Dragonborn]], [[Player Options/Species/Dwarf\|Player Options/Species/Dwarf]], [[Player Options/Species/Elf\|Player Options/Species/Elf]], [[Player Options/Species/Gnome\|Gnome]], [[Player Options/Species/Halfling\|Halfling]], [[Player Options/Species/Human\|Player Options/Species/Human]] and [[Player Options/Species/Tiefling\|Player Options/Species/Tiefling]]. Once you’ve chosen a species, write it on your character sheet. Then record your species’ traits.
 
 Your character’s size and Speed are determined by the character’s species; record these in the appropriate places on your character sheet as well (you may write just the first letter of your size).
 
