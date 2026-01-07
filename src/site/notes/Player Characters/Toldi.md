@@ -5,6 +5,25 @@
 <!--lang:en-->
 # Toldi
 
+## To DOs!!!
+
+1. Válassz egy backgroundot innen: [[Player Options/Backgrounds/Background list\|Background list]] -> magyarul is fent van - oldal sáv menü zászlócska 
+- a választott backgroundban lesz felsorolva 3 ability (STR, DEX, CON, INT, WIS vagy CHA) 
+	- vagy válaszd mind3at és 1-el megnövekedik az adott 3 ability score 1-el 
+	- vagy válassz 1-et amit 2-vel és 1-et amit 1-el növelsz 
+
+- Szerintem ezt eldöntötted : [[Player Options/Backgrounds/Wayfarer\|Wayfarer]]
+	- wayfarernél kapsz thieves toolt
+
+
+2. Class specifikus dolgok választása: 
+* Kettő Skills -ben proficient lehetsz a következőek közül: Acrobatics, Athletics, History, Insight, Religion, or Stealth. Olyat válassz amit a background még nem adott meg. 
+	* Proficiency: úgy fordítanám, hogy jártas/tanult az adott skillben. Level 1-en a prof bonus +2. ha valamiben prof. vagy akkor ha az adott skill-re dobsz ezt a +2-őt mindig hozzáadhatod az ability mod-on felül). 
+
+
+3. Faji dolgok:
+- itt nincs már mit dönteni. Eldöntöttük h black ancestryd van - jelenti h a breath weapon ACID dam és  van ACID resistance-od 
+
 ## Overview
 
 - **Species:** Dragonborn
