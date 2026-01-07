@@ -51,7 +51,7 @@
 >[!tips] Gergő tipp ha szabad
 >Én a Pact of Blade vagy Pact of Chaint hoznám most level 1-en. Annyival többet adnak mint a többi, meg fun lesz tőle a warlockod.
 
-- Játék közben level 2 leszünk. Level 2-őn mint ahogy fent is írtam kapsz plusz spellt, azt fentiből válaszd ki és kapsz egy új eldritch invocationt. Választhatsz olyat amit az előző pontban még nem választottál vagy választhatsz ebből a listából:
+- Játék közben level 2 leszünk. Level 2-őn mint ahogy fent is írtam kapsz plusz spellt, azt fentiből válaszd ki és kapsz **Kettő új eldritch invocationt**. Választhatsz olyat amit az előző pontban még nem választottál vagy választhatsz ebből a listából:
 	- **Agonizing Blast**: Válassz egy már megtanult Warlock Cantripet (Eldritch Blast!!!!) és ha azt használod mostmár  hozáadhatod a damage-hez a Charisma modifiered
 	- **Devil’s Sight**: látsz a Darkness-ben (ez jobb  mind a darkvision) 120 lábnyira
 	- **Eldritch Spear**: Válassz egy már megtanult Warlock Cantripet ami legalább 10 lábra ellő. megnöveled a távolságot 30xwarlock level (level 2őn 60 lábbal) 
@@ -62,7 +62,8 @@
 	- **Otherworldly Leap**: megkapod a [[Player Options/Spells/Detailed Spells/Jump\|Jump]] spellt -nem kerül spell slotba
 	- **Repelling Blast**: Válassz egy már megtanult Warlock Cantripet (Eldritch Blast!!!!) és ha azt használod mostmár dönthetsz úgy h el is lököd a megtámadottat 10 lábbal.
 >[!tips] Gergő tipp ha szabad
->én egyszerűsítenék - Agonizing Blast. sokat tud dobni h a Charismad hozzáadhatod az eldritch blashoz és mehet püpüpüpü
+>- én egyszerűsítenék - **Agonizing Blast**. sokat tud dobni h a Charismad hozzáadhatod az eldritch blashoz és mehet püpüpüpü
+> - másiknak amit szeretnél
 
 4. Faji dolgok:
 - itt nincs már mit dönteni. Eldöntöttük h jeges tiefling vagy. Megkapod a [[Player Options/Spells/Detailed Spells/Chill Touch\|Chill Touch]] cantripet és használhatod. Level 3 és 5ön madj jön még cucc

@@ -35,9 +35,8 @@
 	- úgy fordítanám, hogy jártas/tanult az adott skillben. Level 1-en a prof bonus +2. ha valamiben prof. vagy akkor ha az adott skill-re dobsz ezt a +2-őt mindig hozzáadhatod az ability mod-on felül).
 - Lent a Feature list-ednél látsz egy olyat, hogy Weapon Mastery. Itt választanod kell két fegyvert amit ugymond mesterien haszálsz ezért bonuszokat aktiválsz rá.
 > [!tips] Gergő tipp ha szabad
- Engedelmeddel az első egy **Longbow** lesz, merthogy csak nyilazol nem - ha Longbow-val támadsz tudod aktiválni a Slow bonust - ha eltalász valakit akkor neki 10 lábbal kevesebb a speed-je. (csak egyszer tudod a slowt valakire rátenni)
-
-	- A második fegyver amit szeretnél: Tőr, Kard, Fejsze bármi amit szeretnél. Javaslom a Shortsword-ot. De lehet bármilye kard (Schimitar az ilyen hajlított mint szinbád, Rapier - az a vivó kard mint ami D'Artagnannak volt)
+ > - Engedelmeddel az első egy **Longbow** lesz, merthogy csak nyilazol nem - ha Longbow-val támadsz tudod aktiválni a Slow bonust - ha eltalász valakit akkor neki 10 lábbal kevesebb a speed-je. (csak egyszer tudod a slowt valakire rátenni)
+ > - A második fegyver amit szeretnél: Tőr, Kard, Fejsze bármi amit szeretnél. Javaslom a Shortsword-ot. De lehet bármilye kard (Schimitar az ilyen hajlított mint szinbád, Rapier - az a vivó kard mint ami D'Artagnannak volt)
 
 - Level 2-es dolgok - mivel szintlépés lesz ha lehet dolgozzunk előre:
 	- választhatsz Fighting Stylet - [[Player Options/Feats/Feat List\|Feat List]] - van egy olyan oszlop h fighting style.
