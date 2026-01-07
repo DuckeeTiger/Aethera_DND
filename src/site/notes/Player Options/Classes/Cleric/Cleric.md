@@ -170,7 +170,7 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]]            | Divination    | C, R    |
 | [[Player Options/Spells/Detailed Spells/Detect Poison and Disease\|Detect Poison and Disease]] | Divination    | C, R    |
 | [[Guiding Bolt\|Guiding Bolt]]            | Evocation     | —       |
-| [[Healing Word\|Healing Word]]            | Abjuration    | —       |
+| [[Player Options/Spells/Detailed Spells/Healing Word\|Healing Word]]            | Abjuration    | —       |
 | [[Inflict Wounds\|Inflict Wounds]]          | Necromancy    | —       |
 | [[Protection from Evil and Good\|Protection from Evil and Good]] | Abjuration    | C, M    |
 | [[Purify Food and Drink\|Purify Food and Drink]]   | Transmutation | R       |
@@ -481,7 +481,7 @@ A választott lehetőséged erősödik:
 | [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]]                | Divination    | C, R    |
 | [[Player Options/Spells/Detailed Spells/Detect Poison and Disease\|Detect Poison and Disease]]   | Divination    | C, R    |
 | [[Guiding Bolt\|Guiding Bolt]]                | Evocation     | —       |
-| [[Healing Word\|Healing Word]]                | Abjuration    | —       |
+| [[Player Options/Spells/Detailed Spells/Healing Word\|Healing Word]]                | Abjuration    | —       |
 | [[Inflict Wounds\|Inflict Wounds]]              | Necromancy    | —       |
 | [[Protection from Evil and Good\|Protection from Evil and Good]] | Abjuration  | C, M    |
 | [[Purify Food and Drink\|Purify Food and Drink]]       | Transmutation | R       |

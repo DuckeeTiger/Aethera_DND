@@ -23,7 +23,7 @@
 | [[Detect Evil and Good\|Detect Evil and Good]]          | 1st   | Action    | Divination    | no     | V, S       | yes           |
 | [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]]                  | 1st   | Action    | Divination    | yes    | V, S       | yes           |
 | [[Player Options/Spells/Detailed Spells/Detect Poison and Disease\|Detect Poison and Disease]]     | 1st   | Action    | Divination    | yes    | V, S, M    | yes           |
-| [[Disguise Self\|Disguise Self]]                 | 1st   | Action    | Illusion      | no     | V, S       | no            |
+| [[Player Options/Spells/Detailed Spells/Disguise Self\|Disguise Self]]                 | 1st   | Action    | Illusion      | no     | V, S       | no            |
 | [[Dissonant Whispers\|Dissonant Whispers]]            | 1st   | Action    | Enchantment   | no     | V          | no            |
 | [[Divine Favor\|Divine Favor]]                  | 1st   | Bonus     | Transmutation | no     | V, S       | no            |
 | [[Divine Smite\|Divine Smite]]                  | 1st   | Bonus     | Transmutation | no     | V          | no            |
@@ -39,12 +39,12 @@
 | [[Grease\|Grease]]                        | 1st   | Action    | Conjuration   | no     | V, S, M    | no            |
 | [[Guiding Bolt\|Guiding Bolt]]                  | 1st   | Action    | Evocation     | no     | V, S       | no            |
 | [[Hail of Thorns\|Hail of Thorns]]                | 1st   | Bonus     | Conjuration   | no     | V          | no            |
-| [[Healing Word\|Healing Word]]                  | 1st   | Bonus     | Abjuration    | no     | V          | no            |
+| [[Player Options/Spells/Detailed Spells/Healing Word\|Healing Word]]                  | 1st   | Bonus     | Abjuration    | no     | V          | no            |
 | [[Hellish Rebuke\|Hellish Rebuke]]                | 1st   | Reaction  | Evocation     | no     | V, S       | no            |
 | [[Heroism\|Heroism]]                       | 1st   | Action    | Enchantment   | no     | V, S       | yes           |
 | [[Hex\|Hex]]                           | 1st   | Bonus     | Enchantment   | no     | V, S, M    | yes           |
 | [[Player Options/Spells/Detailed Spells/Hunter's Mark\|Hunter's Mark]]                 | 1st   | Bonus     | Divination    | no     | V          | yes           |
-| [[Ice Knife\|Ice Knife]]                     | 1st   | Action    | Conjuration   | no     | S, M       | no            |
+| [[Player Options/Spells/Detailed Spells/Ice Knife\|Ice Knife]]                     | 1st   | Action    | Conjuration   | no     | S, M       | no            |
 | [[Identify\|Identify]]                      | 1st   | 1 Min.    | Divination    | yes    | V, S, M    | no            |
 | [[Illusory Script\|Illusory Script]]               | 1st   | 1 Min.    | Illusion      | yes    | S, M       | no            |
 | [[Inflict Wounds\|Inflict Wounds]]                | 1st   | Action    | Necromancy    | no     | V, S       | no            |

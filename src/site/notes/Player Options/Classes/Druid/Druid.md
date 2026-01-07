@@ -198,7 +198,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | [[Player Options/Spells/Detailed Spells/Guidance\|Guidance]]        | Divination    | C       |
 | [[Player Options/Spells/Detailed Spells/Mending\|Mending]]         | Transmutation | —       |
 | [[Player Options/Spells/Detailed Spells/Message\|Message]]         | Transmutation | —       |
-| [[Player Options/Spells/Detailed Spells/Poison Spray\|Poison Spray]]    | Necromancy    | —       |
+| [[Player Options/Spells/Detailed Spells/Poison Spray\|Player Options/Spells/Detailed Spells/Poison Spray]]    | Necromancy    | —       |
 | [[Player Options/Spells/Detailed Spells/Produce Flame\|Produce Flame]]   | Conjuration   | —       |
 | [[Resistance\|Resistance]]      | Abjuration    | C       |
 | [[Shillelagh\|Shillelagh]]      | Transmutation | —       |
@@ -220,8 +220,8 @@ This section presents the Druid spell list. The spells are organized by spell le
 | [[Faerie Fire\|Faerie Fire]]                   | Evocation     | C       |
 | [[Player Options/Spells/Detailed Spells/Fog Cloud\|Fog Cloud]]                     | Conjuration   | C       |
 | [[Player Options/Spells/Detailed Spells/Goodberry\|Goodberry]]                     | Conjuration   | —       |
-| [[Healing Word\|Healing Word]]                  | Abjuration    | —       |
-| [[Ice Knife\|Ice Knife]]                     | Conjuration   | —       |
+| [[Player Options/Spells/Detailed Spells/Healing Word\|Healing Word]]                  | Abjuration    | —       |
+| [[Player Options/Spells/Detailed Spells/Ice Knife\|Ice Knife]]                     | Conjuration   | —       |
 | [[Player Options/Spells/Detailed Spells/Jump\|Jump]]                          | Transmutation | —       |
 | [[zz_Templates/Spell Template\|Spell Template]]                   | Transmutation | —       |
 | [[Protection from Evil and Good\|Protection from Evil and Good]] | Abjuration    | C, M    |
@@ -571,7 +571,7 @@ A Druida a megadott szinteken az alábbi képességeket szerzi meg, ahogy a táb
 | [[Player Options/Spells/Detailed Spells/Guidance\|Guidance]]        | Divination    | C       |
 | [[Player Options/Spells/Detailed Spells/Mending\|Mending]]         | Transmutation | —       |
 | [[Player Options/Spells/Detailed Spells/Message\|Message]]         | Transmutation | —       |
-| [[Player Options/Spells/Detailed Spells/Poison Spray\|Poison Spray]]    | Necromancy    | —       |
+| [[Player Options/Spells/Detailed Spells/Poison Spray\|Player Options/Spells/Detailed Spells/Poison Spray]]    | Necromancy    | —       |
 | [[Player Options/Spells/Detailed Spells/Produce Flame\|Produce Flame]]   | Conjuration   | —       |
 | [[Resistance\|Resistance]]      | Abjuration    | C       |
 | [[Shillelagh\|Shillelagh]]      | Transmutation | —       |
@@ -593,8 +593,8 @@ A Druida a megadott szinteken az alábbi képességeket szerzi meg, ahogy a táb
 | [[Faerie Fire\|Faerie Fire]]                   | Evocation     | C       |
 | [[Player Options/Spells/Detailed Spells/Fog Cloud\|Fog Cloud]]                     | Conjuration   | C       |
 | [[Player Options/Spells/Detailed Spells/Goodberry\|Goodberry]]                     | Conjuration   | —       |
-| [[Healing Word\|Healing Word]]                  | Abjuration    | —       |
-| [[Ice Knife\|Ice Knife]]                     | Conjuration   | —       |
+| [[Player Options/Spells/Detailed Spells/Healing Word\|Healing Word]]                  | Abjuration    | —       |
+| [[Player Options/Spells/Detailed Spells/Ice Knife\|Ice Knife]]                     | Conjuration   | —       |
 | [[Player Options/Spells/Detailed Spells/Jump\|Jump]]                          | Transmutation | —       |
 | [[zz_Templates/Spell Template\|Spell Template]]                   | Transmutation | —       |
 | [[Protection from Evil and Good\|Protection from Evil and Good]] | Abjuration    | C, M    |

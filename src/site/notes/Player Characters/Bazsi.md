@@ -25,15 +25,15 @@
 	- [[Player Options/Spells/Detailed Spells/Message\|Message]] - valakire rámutatsz és ő és csakis ő hallja, hogy mit üzensz neki
 	- [[Thorn Whip\|Thorn Whip]] - varázsolsz a semmiből egy inda szerű ostort amivel egyből támadhatsz is 30 lábon belül. Ha eltalálod akkor 1d6-at damaget kap - és ha kb veled egy nagyságú a lény akkor 10 lábbal magad felé rántod ha akarod
 	- [[Player Options/Spells/Detailed Spells/Produce Flame\|Produce Flame]] - 10 percig egy kis lángocska jelenik meg a kezedben - nem éget és nem tud meggyújtani semmit, de ad fényt a sötétben. Amíg aktív tudsz vele támadni 60 lábon belül. Ha találsz 1d8 fire damage-et ad
-	- [[Posion Spray\|Posion Spray]] - 1d12 damage-ért mérgező füstöt szórsz valakire.
+	- [[Player Options/Spells/Detailed Spells/Poison Spray\|Poison Spray]] - 1d12 damage-ért mérgező füstöt szórsz valakire.
 - Level 1 Spellek: **Négy** level 1 spellt választhatsz
 	- [[Player Options/Spells/Detailed Spells/Charm Person\|Charm Person]] - el tudsz bűvölni valakit - bartáságos lesz veled, jobban ki lehet kérdezni dolgokról - 1 óráig tart. Ha a spell-nek vége akkor tudni fogja hogy te csináltad.
 	- [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]] - 30 láb körzetben érzékeled ha valami mágikus. Meg tudod mondani, hogy milyen hatása van a máginak és hogy milyen mágia lehet.
 	- [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]] - valakit megérintesz és 2d8 + Wisdom mod-al gyógyul
 	- [[Player Options/Spells/Detailed Spells/Fog Cloud\|Fog Cloud]] - csinálsz egy 30 láb átmérőjü köd felhőt. Ezen a ködön nem lehet átlátni. addig van amíg koncentrálsz rá.
 	- [[Player Options/Spells/Detailed Spells/Entangle\|Entangle]] - futó növényeket varázsolsz a földre 20 lábnyi négyzetben. Nehéz terepnek minősül amig tart (kétszer annyit kell mozogni h menj). Koncentrálni kell rá
-	- [[Healing Word\|Healing Word]] - 60 lábon belül tudsz gyógyítani 2d4 + Wis mod-ot. (ugyanaz mint a cure wound csak ez távolsági ezért ez kevesebbet gyógyít)
-	- [[Ice Knife\|Ice Knife]] - 1d10 damaget tolsz egy jég késsel amit el tudsz dobni - persze ha eltalálod akit megdobsz. Emellett becsapódáskor felrobban és még tud okozni 2d6 damaget azoknak akik mellette állnak
+	- [[Player Options/Spells/Detailed Spells/Healing Word\|Healing Word]] - 60 lábon belül tudsz gyógyítani 2d4 + Wis mod-ot. (ugyanaz mint a cure wound csak ez távolsági ezért ez kevesebbet gyógyít)
+	- [[Player Options/Spells/Detailed Spells/Ice Knife\|Ice Knife]] - 1d10 damaget tolsz egy jég késsel amit el tudsz dobni - persze ha eltalálod akit megdobsz. Emellett becsapódáskor felrobban és még tud okozni 2d6 damaget azoknak akik mellette állnak
 	- [[Player Options/Spells/Detailed Spells/Longstrider\|Longstrider]] - Akit megfogsz vagy te magad kap 10 feet plusz speed-et (alapból kb 30 mindekinek) - 1 órán keresztül
 	- [[Player Options/Spells/Detailed Spells/Create or Destroy Water\|Create or Destroy Water]] - vagy csinálsz 10 gallon vizet vagy el tudsz pusztítani/tüntetni ugyanennyit - azt is megteheted h ez mind pl eső legyen 30 láb körzetben
 - Amiket alapból tudsz mert Druid vagy és megkapod a **választottakon kívül pluszba**:

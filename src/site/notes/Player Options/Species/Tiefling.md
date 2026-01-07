@@ -25,7 +25,7 @@ When you reach character levels 3 and 5, you learn a higher-level spell, as show
 
 | Legacy   | Level 1                                                                            | Level 3             | Level 5                 |
 | -------- | ---------------------------------------------------------------------------------- | ------------------- | ----------------------- |
-| Abyssal  | You have Resistance to Poison damage. You also know the [[Player Options/Spells/Detailed Spells/Poison Spray\|Poison Spray]] cantrip.  | [[Ray of Sickness\|Ray of Sickness]] | [[Hold Person\|Hold Person]]         |
+| Abyssal  | You have Resistance to Poison damage. You also know the [[Player Options/Spells/Detailed Spells/Poison Spray\|Player Options/Spells/Detailed Spells/Poison Spray]] cantrip.  | [[Ray of Sickness\|Ray of Sickness]] | [[Hold Person\|Hold Person]]         |
 | Chthonic | You have Resistance to Necrotic damage. You also know the [[Player Options/Spells/Detailed Spells/Chill Touch\|Chill Touch]] cantrip. | [[False Life\|False Life]]      | [[Ray of Enfeeblement\|Ray of Enfeeblement]] |
 | Infernal | You have Resistance to Fire damage. You also know the [[Player Options/Spells/Detailed Spells/Fire Bolt\|Fire Bolt]] cantrip.       | [[Hellish Rebuke\|Hellish Rebuke]]  | [[Darkness\|Darkness]]            |
 
@@ -65,7 +65,7 @@ Amikor eléred a 3. és az 5. karakter-szintet, egy magasabb szintű varázslato
 
 |Örökség|1. szint|3. szint|5. szint|
 |---|---|---|---|
-|Abysszális|Ellenállás Méreg sebzéssel szemben. Ismered a [[Player Options/Spells/Detailed Spells/Poison Spray\|Poison Spray]] bűbájt.|[[Ray of Sickness\|Ray of Sickness]]|[[Hold Person\|Hold Person]]|
+|Abysszális|Ellenállás Méreg sebzéssel szemben. Ismered a [[Player Options/Spells/Detailed Spells/Poison Spray\|Player Options/Spells/Detailed Spells/Poison Spray]] bűbájt.|[[Ray of Sickness\|Ray of Sickness]]|[[Hold Person\|Hold Person]]|
 |Khtonikus|Ellenállás Nekrotikus sebzéssel szemben. Ismered a [[Player Options/Spells/Detailed Spells/Chill Touch\|Chill Touch]] bűbájt.|[[False Life\|False Life]]|[[Ray of Enfeeblement\|Ray of Enfeeblement]]|
 |Infernáli|Ellenállás Tűz sebzéssel szemben. Ismered a [[Player Options/Spells/Detailed Spells/Fire Bolt\|Fire Bolt]] bűbájt.|[[Hellish Rebuke\|Hellish Rebuke]]|[[Darkness\|Darkness]]|
 

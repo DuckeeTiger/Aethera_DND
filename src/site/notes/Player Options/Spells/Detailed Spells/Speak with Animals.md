@@ -5,7 +5,7 @@
 <!--lang:en-->
 # Speak with Animals
 
-_Level 1 Divination (Bard, Druid, Ranger, Warlock)_
+_Level 1 Divination ([[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Druid/Druid\|Druid]], [[Player Options/Classes/Ranger/Ranger\|Ranger]], [[Player Options/Classes/Warlock/Warlock\|Warlock]])_
 **Casting Time:** Action or Ritual  
 **Range:** Self  
 **Components:** V, S  

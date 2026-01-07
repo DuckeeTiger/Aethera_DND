@@ -85,7 +85,7 @@ When you reach Bard levels 4 and 10, you learn another cantrip of your choice fr
 
 **Spell Slots.** The Bard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Bard spell list. [[Player Options/Spells/Detailed Spells/Charm Person\|Charm Person]], [[Player Options/Spells/Detailed Spells/Color Spray\|Color Spray]], [[Dissonant Whispers\|Dissonant Whispers]], and [[Healing Word\|Healing Word]] are recommended.
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Bard spell list. [[Player Options/Spells/Detailed Spells/Charm Person\|Charm Person]], [[Player Options/Spells/Detailed Spells/Color Spray\|Color Spray]], [[Dissonant Whispers\|Dissonant Whispers]], and [[Player Options/Spells/Detailed Spells/Healing Word\|Healing Word]] are recommended.
 
 The number of spells on your list increases as you gain Bard levels, as shown in the Prepared Spells column of the Bard Features table. Whenever that number increases, choose additional spells from the Bard spell list until the number of spells on your list matches the number on the table.
 
@@ -171,11 +171,11 @@ This section presents the bard spell list...
 | [[Player Options/Spells/Detailed Spells/Comprehend Languages\|Comprehend Languages]]     | Divination    | R       |
 | [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]]              | Abjuration    |         |
 | [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]]             | Divination    | C, R    |
-| [[Disguise Self\|Disguise Self]]            | Illusion      |         |
+| [[Player Options/Spells/Detailed Spells/Disguise Self\|Disguise Self]]            | Illusion      |         |
 | [[Dissonant Whispers\|Dissonant Whispers]]       | Enchantment   |         |
 | [[Faerie Fire\|Faerie Fire]]              | Evocation     | C       |
 | [[Feather Fall\|Feather Fall]]             | Transmutation |         |
-| [[Healing Word\|Healing Word]]             | Abjuration    |         |
+| [[Player Options/Spells/Detailed Spells/Healing Word\|Healing Word]]             | Abjuration    |         |
 | [[Heroism\|Heroism]]                  | Enchantment   | C       |
 | [[Identify\|Identify]]                 | Divination    | R, M    |
 | [[Illusory Script\|Illusory Script]]          | Illusion      | R, M    |
@@ -412,7 +412,7 @@ Szintlépéskor egy kánttripet másikra cserélhetsz. A 4. és 10. szinten egy 
 
 **Varázshelyek.** A táblázat mutatja a rendelkezésre álló varázshelyeket. Hosszú Pihenőnél visszanyered őket.
 
-**Előkészített varázslatok.** A táblázat szerint készítesz elő bizonyos számú 1. szintű vagy magasabb varázslatot. Kezdetnek válassz 4-et. Ajánlott: [[Player Options/Spells/Detailed Spells/Charm Person\|Charm Person]], [[Player Options/Spells/Detailed Spells/Color Spray\|Color Spray]], [[Dissonant Whispers\|Dissonant Whispers]], [[Healing Word\|Healing Word]].
+**Előkészített varázslatok.** A táblázat szerint készítesz elő bizonyos számú 1. szintű vagy magasabb varázslatot. Kezdetnek válassz 4-et. Ajánlott: [[Player Options/Spells/Detailed Spells/Charm Person\|Charm Person]], [[Player Options/Spells/Detailed Spells/Color Spray\|Color Spray]], [[Dissonant Whispers\|Dissonant Whispers]], [[Player Options/Spells/Detailed Spells/Healing Word\|Healing Word]].
 
 **Módosítás.** Bárd szintlépéskor egy előkészített varázslatot kicserélhetsz.
 
@@ -499,11 +499,11 @@ A következő lista a Bárdok számára elérhető varázslatokat mutatja, szint
 | [[Player Options/Spells/Detailed Spells/Comprehend Languages\|Comprehend Languages]]     | Divination    | R       |
 | [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]]              | Abjuration    |         |
 | [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]]             | Divination    | C, R    |
-| [[Disguise Self\|Disguise Self]]            | Illusion      |         |
+| [[Player Options/Spells/Detailed Spells/Disguise Self\|Disguise Self]]            | Illusion      |         |
 | [[Dissonant Whispers\|Dissonant Whispers]]       | Enchantment   |         |
 | [[Faerie Fire\|Faerie Fire]]              | Evocation     | C       |
 | [[Feather Fall\|Feather Fall]]             | Transmutation |         |
-| [[Healing Word\|Healing Word]]             | Abjuration    |         |
+| [[Player Options/Spells/Detailed Spells/Healing Word\|Healing Word]]             | Abjuration    |         |
 | [[Heroism\|Heroism]]                  | Enchantment   | C       |
 | [[Identify\|Identify]]                 | Divination    | R, M    |
 | [[Illusory Script\|Illusory Script]]          | Illusion      | R, M    |

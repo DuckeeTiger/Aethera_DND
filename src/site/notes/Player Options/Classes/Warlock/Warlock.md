@@ -194,7 +194,7 @@ Eldritch Invocation options appear in alphabetical order.
 > [!warlock-feature] Fiendish Vigor
 >*Prerequisite: Level 2+ Warlock*
 >
->You can cast False Life on yourself without expending a spell slot. When you cast the spell with this feature, you don’t roll the die for the Temporary Hit Points; you automatically get the highest number on the die.
+>You can cast [[False Life\|False Life]] on yourself without expending a spell slot. When you cast the spell with this feature, you don’t roll the die for the Temporary Hit Points; you automatically get the highest number on the die.
 
 > [!warlock-feature] Gaze of Two Minds
 >*Prerequisite: Level 5+ Warlock*
@@ -329,7 +329,7 @@ Eldritch Invocation options appear in alphabetical order.
 | [[Player Options/Spells/Detailed Spells/Eldritch Blast\|Eldritch Blast]]   | Evocation     |         |
 | [[Player Options/Spells/Detailed Spells/Mage Hand\|Mage Hand]]        | Conjuration   |         |
 | [[Player Options/Spells/Detailed Spells/Minor Illusion\|Minor Illusion]]   | Illusion      |         |
-| [[Player Options/Spells/Detailed Spells/Poison Spray\|Poison Spray]]     | Conjuration   |         |
+| [[Player Options/Spells/Detailed Spells/Poison Spray\|Player Options/Spells/Detailed Spells/Poison Spray]]     | Conjuration   |         |
 | [[Player Options/Spells/Detailed Spells/Prestidigitation\|Prestidigitation]] | Transmutation |         |
 | [[True Strike\|True Strike]]      | Divination    |         |
 
@@ -678,7 +678,7 @@ Miután a paktum létrejött, a tudás és hatalom utáni vágy soha nem csillap
 > [!warlock-feature] Mask of Many Faces
 > *Előfeltétel: 2+ szintű Boszorkánymester*
 >
-> A [[Disguise Self\|Disguise Self]] varázslatot slot nélkül használhatod.
+> A [[Player Options/Spells/Detailed Spells/Disguise Self\|Disguise Self]] varázslatot slot nélkül használhatod.
 
 > [!warlock-feature] Master of Myriad Forms
 > *Előfeltétel: 5+ szint*

@@ -18,7 +18,6 @@ Each creature (other than you) in the area when you cast the spell must succeed 
 ---
 
 <!--lang:hu-->
-
 # Gúzsba Kötés (Entangle)
 
 *1. szintű Idézés ([[Player Options/Classes/Druid/Druid\|Druid]], [[Player Options/Classes/Ranger/Ranger\|Ranger]])*

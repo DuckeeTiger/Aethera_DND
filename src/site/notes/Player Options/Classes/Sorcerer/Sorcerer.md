@@ -187,7 +187,7 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 | [[Player Options/Spells/Detailed Spells/Message\|Message]]          | Transmutation | —       |
 | [[Player Options/Spells/Detailed Spells/Mind Sliver\|Mind Sliver]]      | Enchantment   | —       |
 | [[Player Options/Spells/Detailed Spells/Minor Illusion\|Minor Illusion]]   | Illusion      | —       |
-| [[Player Options/Spells/Detailed Spells/Poison Spray\|Poison Spray]]     | Necromancy    | —       |
+| [[Player Options/Spells/Detailed Spells/Poison Spray\|Player Options/Spells/Detailed Spells/Poison Spray]]     | Necromancy    | —       |
 | [[Player Options/Spells/Detailed Spells/Prestidigitation\|Prestidigitation]] | Transmutation | —       |
 | [[Ray of Frost\|Ray of Frost]]     | Evocation     | —       |
 | [[Shocking Grasp\|Shocking Grasp]]   | Evocation     | —       |
@@ -203,13 +203,13 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 | [[Player Options/Spells/Detailed Spells/Color Spray\|Color Spray]]          | Illusion      | —       |
 | [[Player Options/Spells/Detailed Spells/Comprehend Languages\|Comprehend Languages]] | Divination    | R       |
 | [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]]         | Divination    | C, R    |
-| [[Disguise Self\|Disguise Self]]        | Illusion      | —       |
+| [[Player Options/Spells/Detailed Spells/Disguise Self\|Disguise Self]]        | Illusion      | —       |
 | [[Expeditious Retreat\|Expeditious Retreat]]  | Transmutation | C       |
 | [[False Life\|False Life]]           | Necromancy    | —       |
 | [[Feather Fall\|Feather Fall]]         | Transmutation | —       |
 | [[Player Options/Spells/Detailed Spells/Fog Cloud\|Fog Cloud]]            | Conjuration   | C       |
 | [[Grease\|Grease]]               | Conjuration   | —       |
-| [[Ice Knife\|Ice Knife]]            | Conjuration   | —       |
+| [[Player Options/Spells/Detailed Spells/Ice Knife\|Ice Knife]]            | Conjuration   | —       |
 | [[Player Options/Spells/Detailed Spells/Jump\|Jump]]                 | Transmutation | —       |
 | [[Mage Armor\|Mage Armor]]           | Abjuration    | —       |
 | [[Magic Missile\|Magic Missile]]        | Evocation     | —       |

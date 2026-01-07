@@ -17,7 +17,7 @@ You hurl a beam of crackling energy. Make a ranged spell attack against one crea
 ---
 
 <!--lang:hu-->
-# Ősi Sugár
+# Ősi Sugár *(Eldritch Blast)*
 
 *Cantrip szintű Idézés ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Warlock/Warlock\|Warlock]])*
 **Varázslási Idő:** Akció

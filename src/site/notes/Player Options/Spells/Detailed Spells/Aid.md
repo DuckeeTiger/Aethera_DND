@@ -13,7 +13,7 @@
 
 Choose up to three creatures within range. Each target's Hit Point maximum and current Hit Points increase by 5 for the duration.
 
-**Using a Higher-Level Spell Slot:** Each target's Hit Points increase by 5 for each spell slot level above 2.
+***Using a Higher-Level Spell Slot:*** Each target's Hit Points increase by 5 for each spell slot level above 2.
 
 ---
 
@@ -28,6 +28,6 @@ Choose up to three creatures within range. Each target's Hit Point maximum and c
 
 Válassz legfeljebb három lényt a hatótávon belül. Minden célpont Életerő maximuma és aktuális Életerő pontjai 5-tel nőnek az időtartamra.
 
-**Magasabb szintű Spell Slot használata.** Minden célpont Életerő pontjai 5-tel nőnek minden 2. szint feletti varázslatfoglalat szintjéért.
+***Magasabb szintű Spell Slot használata.*** Minden célpont Életerő pontjai 5-tel nőnek minden 2. szint feletti varázslatfoglalat szintjéért.
 
 ---

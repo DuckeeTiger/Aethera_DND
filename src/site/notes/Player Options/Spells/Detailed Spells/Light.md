@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/light/"}
 ---
 
+<!--lang:en-->
+# Spell Name ENG
+
 *Cantrip level Evocation ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Cleric/Cleric\|Cleric]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
 **Casting Time:** Action
 **Range:** Touch
@@ -12,9 +15,11 @@ You touch one Large or smaller object that isn't being worn or carried by someon
 
 Covering the object with something opaque blocks the light. The spell ends if you cast it again.
 
+
 ---
 
-## Fény
+<!--lang:hu-->
+# Fény *(Light)*
 
 *Cantrip szintű Idézés ([[Player Options/Classes/Artificer/Artificer\|Artificer]], [[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Cleric/Cleric\|Cleric]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
 **Varázslási Idő:** Akció
@@ -25,3 +30,5 @@ Covering the object with something opaque blocks the light. The spell ends if yo
 Megérintesz egy Nagy vagy kisebb tárgyat, amelyet senki más nem visel vagy hordoz. A varázslat végéig a tárgy Erős Fényt áraszt egy 20 láb sugarú körben, és Homályos Fényt további 20 lábra. A fényt tetszés szerint színezheted.
 
 Ha a tárgyat átlátszatlan anyaggal takarod le, az elzárja a fényt. A varázslat véget ér, ha újra elvarázsolod.
+
+---

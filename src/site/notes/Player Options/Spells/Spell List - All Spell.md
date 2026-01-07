@@ -105,7 +105,7 @@
 | 99  | [[Player Options/Spells/Detailed Spells/Detect Poison and Disease\|Detect Poison and Disease]]          | 1st     | Action    | Divination    | yes    | V, S, M    | yes           |
 | 100 | [[Detect Thoughts\|Detect Thoughts]]                    | 2nd     | Action    | Divination    | no     | V, S, M    | yes           |
 | 101 | [[Dimension Door\|Dimension Door]]                     | 4th     | Action    | Conjuration   | no     | V          | no            |
-| 102 | [[Disguise Self\|Disguise Self]]                      | 1st     | Action    | Illusion      | no     | V, S       | no            |
+| 102 | [[Player Options/Spells/Detailed Spells/Disguise Self\|Disguise Self]]                      | 1st     | Action    | Illusion      | no     | V, S       | no            |
 | 103 | [[Disintegrate\|Disintegrate]]                       | 6th     | Action    | Transmutation | no     | V, S, M    | no            |
 | 104 | [[Dispel Evil and Good\|Dispel Evil and Good]]               | 5th     | Action    | Abjuration    | no     | V, S, M    | yes           |
 | 105 | [[Player Options/Spells/Detailed Spells/Dispel Magic\|Dispel Magic]]                       | 3rd     | Action    | Abjuration    | no     | V, S       | no            |
@@ -185,7 +185,7 @@
 | 180 | [[Harm\|Harm]]                               | 6th     | Action    | Necromancy    | no     | V, S       | no            |
 | 181 | [[Haste\|Haste]]                              | 3rd     | Action    | Transmutation | no     | V, S, M    | yes           |
 | 182 | [[Heal\|Heal]]                               | 6th     | Action    | Abjuration    | no     | V, S       | no            |
-| 183 | [[Healing Word\|Healing Word]]                       | 1st     | Bonus     | Abjuration    | no     | V          | no            |
+| 183 | [[Player Options/Spells/Detailed Spells/Healing Word\|Healing Word]]                       | 1st     | Bonus     | Abjuration    | no     | V          | no            |
 | 184 | [[Heat Metal\|Heat Metal]]                         | 2nd     | Action    | Transmutation | no     | V, S, M    | yes           |
 | 185 | [[Hellish Rebuke\|Hellish Rebuke]]                     | 1st     | Reaction  | Evocation     | no     | V, S       | no            |
 | 186 | [[Heroes' Feast\|Heroes' Feast]]                      | 6th     | 10 Min.   | Conjuration   | no     | V, S, M    | no            |
@@ -197,7 +197,7 @@
 | 192 | [[Hunger of Hadar\|Hunger of Hadar]]                    | 3rd     | Action    | Conjuration   | no     | V, S, M    | yes           |
 | 193 | [[Player Options/Spells/Detailed Spells/Hunter's Mark\|Hunter's Mark]]                      | 1st     | Bonus     | Divination    | no     | V          | yes           |
 | 194 | [[Hypnotic Pattern\|Hypnotic Pattern]]                   | 3rd     | Action    | Illusion      | no     | S, M       | yes           |
-| 195 | [[Ice Knife\|Ice Knife]]                          | 1st     | Action    | Conjuration   | no     | S, M       | no            |
+| 195 | [[Player Options/Spells/Detailed Spells/Ice Knife\|Ice Knife]]                          | 1st     | Action    | Conjuration   | no     | S, M       | no            |
 | 196 | [[Ice Storm\|Ice Storm]]                          | 4th     | Action    | Evocation     | no     | V, S, M    | no            |
 | 197 | [[Identify\|Identify]]                           | 1st     | 1 Min.    | Divination    | yes    | V, S, M    | no            |
 | 198 | [[Illusory Script\|Illusory Script]]                    | 1st     | 1 Min.    | Illusion      | yes    | S, M       | no            |
@@ -268,7 +268,7 @@
 | 264 | [[Planar Binding\|Planar Binding]]                     | 5th     | 1 Hr.     | Abjuration    | no     | V, S, M    | no            |
 | 265 | [[Plane Shift\|Plane Shift]]                        | 7th     | Action    | Conjuration   | no     | V, S, M    | no            |
 | 266 | [[Player Options/Spells/Detailed Spells/Plant Growth\|Plant Growth]]                       | 3rd     | Action    | Transmutation | no     | V, S       | no            |
-| 267 | [[Player Options/Spells/Detailed Spells/Poison Spray\|Poison Spray]]                       | Cantrip | Action    | Necromancy    | no     | V, S       | no            |
+| 267 | [[Player Options/Spells/Detailed Spells/Poison Spray\|Player Options/Spells/Detailed Spells/Poison Spray]]                       | Cantrip | Action    | Necromancy    | no     | V, S       | no            |
 | 268 | [[Polymorph\|Polymorph]]                          | 4th     | Action    | Transmutation | no     | V, S, M    | yes           |
 | 269 | [[Power Word Fortify\|Power Word Fortify]]                 | 7th     | Action    | Enchantment   | no     | V          | no            |
 | 270 | [[Power Word Heal\|Power Word Heal]]                    | 9th     | Action    | Enchantment   | no     | V, S       | no            |

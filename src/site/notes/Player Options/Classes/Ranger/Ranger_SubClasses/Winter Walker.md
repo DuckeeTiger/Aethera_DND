@@ -25,7 +25,7 @@ When you reach a Ranger level specified in the Winter Walker Spells table, you t
 
 | Ranger Level | Spell                  |
 | ------------ | ---------------------- |
-| 3            | [[Ice Knife\|Ice Knife]]          |
+| 3            | [[Player Options/Spells/Detailed Spells/Ice Knife\|Ice Knife]]          |
 | 5            | [[Player Options/Spells/Detailed Spells/Pass without Trace\|Pass without Trace]] |
 | 9            | [[Remove Curse\|Remove Curse]]       |
 | 13           | [[Ice Storm\|Ice Storm]]          |

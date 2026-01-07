@@ -57,7 +57,7 @@
 	- **Eldritch Spear**: Válassz egy már megtanult Warlock Cantripet ami legalább 10 lábra ellő. megnöveled a távolságot 30xwarlock level (level 2őn 60 lábbal) 
 	- **Fiendish Vigor**: Megkapod a False Life spellt - nem kerül spell slotba
 	- **Lessons of the First Ones**: kapsz egy Origin Feat-et [[Feat List]  - 
-	- **Mask of Many Faces**: megkapod a [[Disguise Self\|Disguise Self]] spellt -nem kerül spell slotba
+	- **Mask of Many Faces**: megkapod a [[Player Options/Spells/Detailed Spells/Disguise Self\|Disguise Self]] spellt -nem kerül spell slotba
 	- **Misty Visions**: megkapod a [[Silent Image\|Silent Image]] spellt -nem kerül spell slotba
 	- **Otherworldly Leap**: megkapod a [[Player Options/Spells/Detailed Spells/Jump\|Jump]] spellt -nem kerül spell slotba
 	- **Repelling Blast**: Válassz egy már megtanult Warlock Cantripet (Eldritch Blast!!!!) és ha azt használod mostmár dönthetsz úgy h el is lököd a megtámadottat 10 lábbal.

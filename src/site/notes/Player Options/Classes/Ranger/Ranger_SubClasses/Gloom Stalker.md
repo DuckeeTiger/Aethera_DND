@@ -17,7 +17,7 @@ When you reach a Ranger level specified in the Gloom Stalker Spells table, you t
 
 | Ranger Level | Spells                   |
 | ------------ | ------------------------ |
-| 3            | [[Disguise Self\|Disguise Self]]        |
+| 3            | [[Player Options/Spells/Detailed Spells/Disguise Self\|Disguise Self]]        |
 | 5            | [[Rope Trick\|Rope Trick]]           |
 | 9            | [[Fear\|Fear]]                 |
 | 13           | [[Greater Invisibility\|Greater Invisibility]] |

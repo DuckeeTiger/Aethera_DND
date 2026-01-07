@@ -161,7 +161,7 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | [[Player Options/Spells/Detailed Spells/Mending\|Mending]]          | Transmutation | —       |
 | [[Player Options/Spells/Detailed Spells/Message\|Message]]          | Transmutation | —       |
 | [[Player Options/Spells/Detailed Spells/Minor Illusion\|Minor Illusion]]   | Illusion      | —       |
-| [[Player Options/Spells/Detailed Spells/Poison Spray\|Poison Spray]]     | Necromancy    | —       |
+| [[Player Options/Spells/Detailed Spells/Poison Spray\|Player Options/Spells/Detailed Spells/Poison Spray]]     | Necromancy    | —       |
 | [[Player Options/Spells/Detailed Spells/Prestidigitation\|Prestidigitation]] | Transmutation | —       |
 | [[Ray of Frost\|Ray of Frost]]     | Evocation     | —       |
 | [[Shocking Grasp\|Shocking Grasp]]   | Evocation     | —       |
@@ -177,7 +177,7 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | [[Player Options/Spells/Detailed Spells/Color Spray\|Color Spray]]                   | Illusion      | —       |
 | [[Player Options/Spells/Detailed Spells/Comprehend Languages\|Comprehend Languages]]          | Divination    | R       |
 | [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]]                  | Divination    | C, R    |
-| [[Disguise Self\|Disguise Self]]                 | Illusion      | —       |
+| [[Player Options/Spells/Detailed Spells/Disguise Self\|Disguise Self]]                 | Illusion      | —       |
 | [[Expeditious Retreat\|Expeditious Retreat]]           | Transmutation | C       |
 | [[False Life\|False Life]]                    | Necromancy    | –       |
 | [[Feather Fall\|Feather Fall]]                  | Transmutation | —       |
@@ -562,7 +562,7 @@ A **Special** oszlop jelölései:
 | [[Player Options/Spells/Detailed Spells/Mending\|Mending]]          | Transmutation | —       |
 | [[Player Options/Spells/Detailed Spells/Message\|Message]]          | Transmutation | —       |
 | [[Player Options/Spells/Detailed Spells/Minor Illusion\|Minor Illusion]]   | Illusion      | —       |
-| [[Player Options/Spells/Detailed Spells/Poison Spray\|Poison Spray]]     | Necromancy    | —       |
+| [[Player Options/Spells/Detailed Spells/Poison Spray\|Player Options/Spells/Detailed Spells/Poison Spray]]     | Necromancy    | —       |
 | [[Player Options/Spells/Detailed Spells/Prestidigitation\|Prestidigitation]] | Transmutation | —       |
 | [[Ray of Frost\|Ray of Frost]]     | Evocation     | —       |
 | [[Shocking Grasp\|Shocking Grasp]]   | Evocation     | —       |
@@ -581,7 +581,7 @@ A **Special** oszlop jelölései:
 | [[Player Options/Spells/Detailed Spells/Color Spray\|Color Spray]]                   | Illusion      | —       |
 | [[Player Options/Spells/Detailed Spells/Comprehend Languages\|Comprehend Languages]]          | Divination    | R       |
 | [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]]                  | Divination    | C, R    |
-| [[Disguise Self\|Disguise Self]]                 | Illusion      | —       |
+| [[Player Options/Spells/Detailed Spells/Disguise Self\|Disguise Self]]                 | Illusion      | —       |
 | [[Expeditious Retreat\|Expeditious Retreat]]           | Transmutation | C       |
 | [[False Life\|False Life]]                    | Necromancy    | —       |
 | [[Feather Fall\|Feather Fall]]                  | Transmutation | —       |

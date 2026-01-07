@@ -33,7 +33,7 @@
 	- [[Shield of Faith\|Shield of Faith]] - valakit választasz - adsz neki +2 AC-t (armor class) amig koncentrálsz
 	- [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]] - 30 láb körzetben érzékeled ha valami mágikus. Meg tudod mondani, hogy milyen hatása van a máginak és hogy milyen mágia lehet.
 	- [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]] - valakit megérintesz és 2d8 + Wisdom mod-al gyógyul
-	- [[Healing Word\|Healing Word]] - 60 lábon belül tudsz gyógyítani 2d4 + Wis mod-ot. (ugyanaz mint a cure wound csak ez távolsági ezért ez kevesebbet gyógyít)
+	- [[Player Options/Spells/Detailed Spells/Healing Word\|Healing Word]] - 60 lábon belül tudsz gyógyítani 2d4 + Wis mod-ot. (ugyanaz mint a cure wound csak ez távolsági ezért ez kevesebbet gyógyít)
 	- [[Player Options/Spells/Detailed Spells/Create or Destroy Water\|Create or Destroy Water]] - vagy csinálsz 10 gallon vizet vagy el tudsz pusztítani/tüntetni ugyanennyit - azt is megteheted h ez mind pl eső legyen 30 láb körzetben
 - Játék közben level 2 leszünk és kapsz majd +1 spellt Level 1-st. Esetleg azt is kitalálhatod h az majd mi legyen és akkor tudunk haladni
 
@@ -43,10 +43,11 @@
 - Lent a Feature list-ednél látsz egy olyat, hogy Divine order. Itt két dologból kell választanaod:
 	- **Protector** (technikailag egy cleric leszel aki bemegy a csatába és üt vág) - tudsz használni Martial Weaponst (legtöbb kard ami 1 kezes, nyilakat) és Heavy armort - sok AC-t ad
 	- **Thaumaturge** (ez a már alapból varázsoló classt viszi kicsit tovább varázsolni.) Kapsz + 1 cantripet meg az Arcana és Religion Skilljeidhez a wisdomodat is hozzáadhatod.
->[!tips]Gergő Tipp ha szabad:
+
+>[!tips] Gergő Tipp ha szabad:
 > a protectort javaslom. Egyszerűen változatosabb lesz neked a játék h nem csak varázsolsz. Meg Törp vagy sztm az csapkod :D
 
-3. Törp vagy. nem kell semmit válassz szerencsére. minden jár, odalent összeszedtem
+4. Törp vagy. nem kell semmit válassz szerencsére. minden jár, odalent összeszedtem
 
 ## Overview
 

@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/player-options/spells/detailed-spells/mage-hand/"}
 ---
 
+---
+
+<!--lang:en-->
+# Mage Hand
+
 *Cantrip Conjuration ([[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Warlock/Warlock\|Warlock]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
 **Casting Time:** Action
 **Range:** 30 feet
@@ -17,7 +22,8 @@ The hand can't attack, activate magic items, or carry more than 10 pounds.
 
 ---
 
-## Mágus Kéz
+<!--lang:hu-->
+# Mágus Kéz *(Mage Hand)*
 
 *Cantrip szintű Idézés ([[Player Options/Classes/Bard/Bard\|Bard]], [[Player Options/Classes/Sorcerer/Sorcerer\|Sorcerer]], [[Player Options/Classes/Warlock/Warlock\|Warlock]], [[Player Options/Classes/Wizard/Wizard\|Wizard]])*
 **Varázslási idő:** Akció
@@ -31,3 +37,5 @@ Amikor elvarázsolod a varázslatot, a kézzel manipulálhatsz egy tárgyat, kin
 Későbbi körödön egy Mágikus akcióként újra irányíthatod a kezet. Ennek az akciónak a részeként a kezet akár 30 lábnyira is mozgathatod.
 
 A kéz nem támadhat, nem aktiválhat mágikus tárgyakat, és nem vihet 10 fontnál többet.
+
+---
