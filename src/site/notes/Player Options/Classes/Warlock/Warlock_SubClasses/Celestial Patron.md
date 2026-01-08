@@ -11,7 +11,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells                                                                                          |
 | ------------- | ----------------------------------------------------------------------------------------------- |
-| 3             | [[Player Options/Spells/Detailed Spells/Aid\|Aid]], [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]], [[Guiding Bolt\|Guiding Bolt]], [[Player Options/Spells/Detailed Spells/Lesser Restoration\|Lesser Restoration]], [[Player Options/Spells/Detailed Spells/Light\|Light]], [[Sacred Flame\|Sacred Flame]] |
+| 3             | [[Player Options/Spells/Detailed Spells/Aid\|Aid]], [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]], [[Player Options/Spells/Detailed Spells/Guiding Bolt\|Guiding Bolt]], [[Player Options/Spells/Detailed Spells/Lesser Restoration\|Lesser Restoration]], [[Player Options/Spells/Detailed Spells/Light\|Light]], [[Player Options/Spells/Detailed Spells/Sacred Flame\|Sacred Flame]] |
 | 5             | [[Player Options/Spells/Detailed Spells/Daylight\|Daylight]], [[Player Options/Spells/Detailed Spells/Revivify\|Revivify]]                                                                      |
 | 7             | [[Guardian of Faith\|Guardian of Faith]], [[Wall of Fire\|Wall of Fire]]                                                         |
 | 9             | [[Player Options/Spells/Detailed Spells/Greater Restoration\|Greater Restoration]], [[Summon Celestial\|Summon Celestial]]                                                   |

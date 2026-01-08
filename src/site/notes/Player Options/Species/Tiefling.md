@@ -37,7 +37,7 @@ When you reach character levels 3 and 5, you learn a higher-level spell, as show
 As a Tiefling, you have the following special traits:
 
 - ***Darkvision*:** You have Darkvision with a range of 60 feet.
-- ***Otherworldly Presence***: You know the [[Thaumaturgy\|Thaumaturgy]] cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Fiendish Legacy Trait.
+- ***Otherworldly Presence***: You know the [[Player Options/Spells/Detailed Spells/Thaumaturgy\|Thaumaturgy]] cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Fiendish Legacy Trait.
 
 ---
 
@@ -78,6 +78,6 @@ Amikor eléred a 3. és az 5. karakter-szintet, egy magasabb szintű varázslato
 Tieflingként a következő különleges jellemzőkkel rendelkezel:
 
 - **_Sötétlátás_:** 60 láb hatótávolságú Sötétlátással rendelkezel.
-- _**Túlvilági Jelenlét**_: Ismered a [[Thaumaturgy\|Thaumaturgy]] bűbájt. Amikor ezt a tulajdonság révén varázsolod el, a varázslat ugyanazt a varázshasználati képességet használja, mint a Démoni Örökséged.
+- _**Túlvilági Jelenlét**_: Ismered a [[Player Options/Spells/Detailed Spells/Thaumaturgy\|Thaumaturgy]] bűbájt. Amikor ezt a tulajdonság révén varázsolod el, a varázslat ugyanazt a varázshasználati képességet használja, mint a Démoni Örökséged.
 
 ---

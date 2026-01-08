@@ -23,18 +23,18 @@
 - na ez lesz a nagy falat és segítek vele. Szerintem nem dobom le az atomot első session előtt és írom ide az összes cantripet (0. szintű spell) és Level 1es spellt amiből választhatsz mert kiszaladsz. Felsorolok párat ami szerintem hasznos és ami tetszik azt választ. itt nem is fogok tippet küldeni, amelyik szimpi. Ha akarod persze belemerülhetsz, a [[Player Options/Classes/Cleric/Cleric\|Cleric]] Class leírásnál a spelleknél ott van mind.
 - Cantripek - **három** Cantripet választhatsz
 	- [[Player Options/Spells/Detailed Spells/Guidance\|Guidance]] - hasznos. megérintesz valakit vagy magadat és 1 percig hozzáadhat 1d4-et a dobásaihoz - vezeted a kezét
-	- [[Sacred Flame\|Sacred Flame]] - radiant damage-el megtámadsz valakit. ha nem tud elugrani kap 1d8 dam-ot
-	- [[Spare the Dying\|Spare the Dying]] - ha van valaki aki 0 HPn van de nem halott - tudod stabilizálni
-	- [[Toll the Dead\|Toll the Dead]] - rámutatsz valakire - az a valaki hall valami harnagszót és ha nem tudja megvédeni magát akkor kap 1d8 necrotic damot - ha nem max a HP-ja akkor 1d12
-	- [[Word of Radiance\|Word of Radiance]] - sugár tör ki belőled. 5 lábra mindenki kap 1d6 Radiant dam-ot ha nem tudja kivédeni.
+	- [[Player Options/Spells/Detailed Spells/Sacred Flame\|Sacred Flame]] - radiant damage-el megtámadsz valakit. ha nem tud elugrani kap 1d8 dam-ot
+	- [[Player Options/Spells/Detailed Spells/Spare the Dying\|Spare the Dying]] - ha van valaki aki 0 HPn van de nem halott - tudod stabilizálni
+	- [[Player Options/Spells/Detailed Spells/Toll the Dead\|Toll the Dead]] - rámutatsz valakire - az a valaki hall valami harnagszót és ha nem tudja megvédeni magát akkor kap 1d8 necrotic damot - ha nem max a HP-ja akkor 1d12
+	- [[Player Options/Spells/Detailed Spells/Word of Radiance\|Word of Radiance]] - sugár tör ki belőled. 5 lábra mindenki kap 1d6 Radiant dam-ot ha nem tudja kivédeni.
 - Level 1 Spellek: **Négy** level 1 spellt választhatsz
 	- [[Player Options/Spells/Detailed Spells/Bane\|Bane]] - maximum 3 creaturet választasz - ha nem tudják magukat megvédeni 1d4-et le kell majd vonjanak a dobásaikból - ez tart amíg koncentrálsz a spellre
 	- [[Player Options/Spells/Detailed Spells/Bless\|Bless]] - maximum 3 karaktert választasz. Amíg koncentrálsz kapnak 1d4-et minden dobásukhoz
 	- [[Player Options/Spells/Detailed Spells/Command\|Command]] - valakire ráparancsolsz. Ha nem tudja magát megvédeni a következő parancsokat adhatod ki: Dobd el; Közelíts; Szaladj el; Feküdj a földre; Várj
-	- [[Guiding Bolt\|Guiding Bolt]] - küldesz egy sugárzó bolt-ot valakire. Ha talál 4d6 Radiant damage és a következő támadás ellene advanteage-el lesz
-	- [[Inflict Wounds\|Inflict Wounds]] - megérintesz valakit. ha nem tudja magát megvédeni - 2d10 necrotic damot kap.
-	- [[Sanctuary\|Sanctuary]] - megvédesz valakit - kb egy valamilyn gömböt teszel rá ami pajzsként fogja. Ha valaki megakarja támadni akit védesz akkor guritania kell - ha nem sikerül akkor mást kell válasszon
-	- [[Shield of Faith\|Shield of Faith]] - valakit választasz - adsz neki +2 AC-t (armor class) amig koncentrálsz
+	- [[Player Options/Spells/Detailed Spells/Guiding Bolt\|Guiding Bolt]] - küldesz egy sugárzó bolt-ot valakire. Ha talál 4d6 Radiant damage és a következő támadás ellene advanteage-el lesz
+	- [[Player Options/Spells/Detailed Spells/Inflict Wounds\|Inflict Wounds]] - megérintesz valakit. ha nem tudja magát megvédeni - 2d10 necrotic damot kap.
+	- [[Player Options/Spells/Detailed Spells/Sanctuary\|Sanctuary]] - megvédesz valakit - kb egy valamilyn gömböt teszel rá ami pajzsként fogja. Ha valaki megakarja támadni akit védesz akkor guritania kell - ha nem sikerül akkor mást kell válasszon
+	- [[Player Options/Spells/Detailed Spells/Shield of Faith\|Shield of Faith]] - valakit választasz - adsz neki +2 AC-t (armor class) amig koncentrálsz
 	- [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]] - 30 láb körzetben érzékeled ha valami mágikus. Meg tudod mondani, hogy milyen hatása van a máginak és hogy milyen mágia lehet.
 	- [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]] - valakit megérintesz és 2d8 + Wisdom mod-al gyógyul
 	- [[Player Options/Spells/Detailed Spells/Healing Word\|Healing Word]] - 60 lábon belül tudsz gyógyítani 2d4 + Wis mod-ot. (ugyanaz mint a cure wound csak ez távolsági ezért ez kevesebbet gyógyít)
@@ -157,7 +157,7 @@
 >   - Whenever you gain a Druid level, you can replace one of your cantrips with another cantrip
 >   - You can swap **1 prepared spell** after each Long Rest.
 > - **Spellcasting Ability:** **Wisdom**
-> - **Spellcasting Focus:** You can use a **Druidic Focus**.
+> - **Spellcasting Focus:** You can use a Holy Symbol.
 
 > [!cleric-feature] Divine Order
 > You have dedicated yourself to one of the following sacred roles of your choice.

@@ -27,7 +27,7 @@
 		- meg tudsz gyújtani egy kis gyertát, tűzrakóhelyet esetleg egy fáklyát
 	- [[Player Options/Spells/Detailed Spells/Guidance\|Guidance]] - hasznos. megérintesz valakit vagy magadat és 1 percig hozzáadhat 1d4-et a dobásaihoz - vezeted a kezét
 	- [[Player Options/Spells/Detailed Spells/Message\|Message]] - valakire rámutatsz és ő és csakis ő hallja, hogy mit üzensz neki
-	- [[Thorn Whip\|Thorn Whip]] - varázsolsz a semmiből egy inda szerű ostort amivel egyből támadhatsz is 30 lábon belül. Ha eltalálod akkor 1d6-at damaget kap - és ha kb veled egy nagyságú a lény akkor 10 lábbal magad felé rántod ha akarod
+	- [[Player Options/Spells/Detailed Spells/Thorn Whip\|Thorn Whip]] - varázsolsz a semmiből egy inda szerű ostort amivel egyből támadhatsz is 30 lábon belül. Ha eltalálod akkor 1d6-at damaget kap - és ha kb veled egy nagyságú a lény akkor 10 lábbal magad felé rántod ha akarod
 	- [[Player Options/Spells/Detailed Spells/Produce Flame\|Produce Flame]] - 10 percig egy kis lángocska jelenik meg a kezedben - nem éget és nem tud meggyújtani semmit, de ad fényt a sötétben. Amíg aktív tudsz vele támadni 60 lábon belül. Ha találsz 1d8 fire damage-et ad
 	- [[Player Options/Spells/Detailed Spells/Poison Spray\|Poison Spray]] - 1d12 damage-ért mérgező füstöt szórsz valakire.
 - Level 1 Spellek: **Négy** level 1 spellt választhatsz

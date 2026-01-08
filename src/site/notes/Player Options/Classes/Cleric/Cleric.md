@@ -153,11 +153,11 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | [[Player Options/Spells/Detailed Spells/Light\|Light]]            | Evocation     | —       |
 | [[Player Options/Spells/Detailed Spells/Mending\|Mending]]          | Transmutation | —       |
 | [[Resistance\|Resistance]]       | Abjuration    | C       |
-| [[Sacred Flame\|Sacred Flame]]     | Evocation     | —       |
-| [[Spare the Dying\|Spare the Dying]]  | Necromancy    | —       |
-| [[Thaumaturgy\|Thaumaturgy]]      | Transmutation | —       |
-| [[Toll the Dead\|Toll the Dead]]    | Necromancy    |         |
-| [[Word of Radiance\|Word of Radiance]] | Evocation     |         |
+| [[Player Options/Spells/Detailed Spells/Sacred Flame\|Sacred Flame]]     | Evocation     | —       |
+| [[Player Options/Spells/Detailed Spells/Spare the Dying\|Spare the Dying]]  | Necromancy    | —       |
+| [[Player Options/Spells/Detailed Spells/Thaumaturgy\|Thaumaturgy]]      | Transmutation | —       |
+| [[Player Options/Spells/Detailed Spells/Toll the Dead\|Toll the Dead]]    | Necromancy    |         |
+| [[Player Options/Spells/Detailed Spells/Word of Radiance\|Word of Radiance]] | Evocation     |         |
 #### Level 1 Cleric Spells
 | Spell                       | School        | Special |
 | :-------------------------- | :------------ | :------ |
@@ -169,13 +169,13 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | [[Detect Evil and Good\|Detect Evil and Good]]    | Divination    | C       |
 | [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]]            | Divination    | C, R    |
 | [[Player Options/Spells/Detailed Spells/Detect Poison and Disease\|Detect Poison and Disease]] | Divination    | C, R    |
-| [[Guiding Bolt\|Guiding Bolt]]            | Evocation     | —       |
+| [[Player Options/Spells/Detailed Spells/Guiding Bolt\|Guiding Bolt]]            | Evocation     | —       |
 | [[Player Options/Spells/Detailed Spells/Healing Word\|Healing Word]]            | Abjuration    | —       |
-| [[Inflict Wounds\|Inflict Wounds]]          | Necromancy    | —       |
+| [[Player Options/Spells/Detailed Spells/Inflict Wounds\|Inflict Wounds]]          | Necromancy    | —       |
 | [[Protection from Evil and Good\|Protection from Evil and Good]] | Abjuration    | C, M    |
 | [[Purify Food and Drink\|Purify Food and Drink]]   | Transmutation | R       |
-| [[Sanctuary\|Sanctuary]]               | Abjuration    | —       |
-| [[Shield of Faith\|Shield of Faith]]         | Abjuration    | C       |
+| [[Player Options/Spells/Detailed Spells/Sanctuary\|Sanctuary]]               | Abjuration    | —       |
+| [[Player Options/Spells/Detailed Spells/Shield of Faith\|Shield of Faith]]         | Abjuration    | C       |
 #### Level 2 Cleric Spells
 | Spell                       | School        | Special |
 | :-------------------------- | :------------ | :------ |
@@ -461,11 +461,11 @@ A választott lehetőséged erősödik:
 | [[Player Options/Spells/Detailed Spells/Light\|Light]]            | Evocation     | —       |
 | [[Player Options/Spells/Detailed Spells/Mending\|Mending]]          | Transmutation | —       |
 | [[Resistance\|Resistance]]       | Abjuration    | C       |
-| [[Sacred Flame\|Sacred Flame]]     | Evocation     | —       |
-| [[Spare the Dying\|Spare the Dying]]  | Necromancy    | —       |
-| [[Thaumaturgy\|Thaumaturgy]]      | Transmutation | —       |
-| [[Toll the Dead\|Toll the Dead]]    | Necromancy    |         |
-| [[Word of Radiance\|Word of Radiance]] | Evocation     |         |
+| [[Player Options/Spells/Detailed Spells/Sacred Flame\|Sacred Flame]]     | Evocation     | —       |
+| [[Player Options/Spells/Detailed Spells/Spare the Dying\|Spare the Dying]]  | Necromancy    | —       |
+| [[Player Options/Spells/Detailed Spells/Thaumaturgy\|Thaumaturgy]]      | Transmutation | —       |
+| [[Player Options/Spells/Detailed Spells/Toll the Dead\|Toll the Dead]]    | Necromancy    |         |
+| [[Player Options/Spells/Detailed Spells/Word of Radiance\|Word of Radiance]] | Evocation     |         |
 
 ### 1. Szintű Pap Varázslatok
 *(Spell names unchanged.)*
@@ -480,13 +480,13 @@ A választott lehetőséged erősödik:
 | [[Detect Evil and Good\|Detect Evil and Good]]        | Divination    | C       |
 | [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]]                | Divination    | C, R    |
 | [[Player Options/Spells/Detailed Spells/Detect Poison and Disease\|Detect Poison and Disease]]   | Divination    | C, R    |
-| [[Guiding Bolt\|Guiding Bolt]]                | Evocation     | —       |
+| [[Player Options/Spells/Detailed Spells/Guiding Bolt\|Guiding Bolt]]                | Evocation     | —       |
 | [[Player Options/Spells/Detailed Spells/Healing Word\|Healing Word]]                | Abjuration    | —       |
-| [[Inflict Wounds\|Inflict Wounds]]              | Necromancy    | —       |
+| [[Player Options/Spells/Detailed Spells/Inflict Wounds\|Inflict Wounds]]              | Necromancy    | —       |
 | [[Protection from Evil and Good\|Protection from Evil and Good]] | Abjuration  | C, M    |
 | [[Purify Food and Drink\|Purify Food and Drink]]       | Transmutation | R       |
-| [[Sanctuary\|Sanctuary]]                   | Abjuration    | —       |
-| [[Shield of Faith\|Shield of Faith]]             | Abjuration    | C       |
+| [[Player Options/Spells/Detailed Spells/Sanctuary\|Sanctuary]]                   | Abjuration    | —       |
+| [[Player Options/Spells/Detailed Spells/Shield of Faith\|Shield of Faith]]             | Abjuration    | C       |
 
 ### 2. Szintű Pap Varázslatok
 

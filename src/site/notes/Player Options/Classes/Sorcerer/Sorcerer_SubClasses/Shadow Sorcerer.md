@@ -16,7 +16,7 @@ When you reach a Sorcerer level specified in the Shadow Spells table, you therea
 
 | Sorcerer Level | Spells                                                             |
 | -------------- | ------------------------------------------------------------------ |
-| 3              | [[Player Options/Spells/Detailed Spells/Bane\|Bane]], [[Darkness\|Darkness]], [[Inflict Wounds\|Inflict Wounds]], [[Player Options/Spells/Detailed Spells/Pass without Trace\|Pass without Trace]] |
+| 3              | [[Player Options/Spells/Detailed Spells/Bane\|Bane]], [[Darkness\|Darkness]], [[Player Options/Spells/Detailed Spells/Inflict Wounds\|Inflict Wounds]], [[Player Options/Spells/Detailed Spells/Pass without Trace\|Pass without Trace]] |
 | 5              | [[Hunger of Hadar\|Hunger of Hadar]], [[Summon Undead\|Summon Undead]]                             |
 | 7              | [[Greater Invisibility\|Greater Invisibility]], [[Phantasmal Killer\|Phantasmal Killer]]                    |
 | 9              | [[Player Options/Spells/Detailed Spells/Contagion\|Contagion]], [[Player Options/Spells/Detailed Spells/Creation\|Creation]]                                        |

@@ -180,7 +180,7 @@ This section presents the bard spell list...
 | [[Identify\|Identify]]                 | Divination    | R, M    |
 | [[Illusory Script\|Illusory Script]]          | Illusion      | R, M    |
 | [[zz_Templates/Spell Template\|Spell Template]]              | Transmutation |         |
-| [[Silent Image\|Silent Image]]             | Illusion      | C       |
+| [[Player Options/Spells/Detailed Spells/Silent Image\|Silent Image]]             | Illusion      | C       |
 | [[Sleep\|Sleep]]                    | Enchantment   | C       |
 | [[Player Options/Spells/Detailed Spells/Speak with Animals\|Speak with Animals]]       | Divination    | R       |
 | [[Tasha's Hideous Laughter\|Tasha's Hideous Laughter]] | Enchantment   | C       |
@@ -508,7 +508,7 @@ A következő lista a Bárdok számára elérhető varázslatokat mutatja, szint
 | [[Identify\|Identify]]                 | Divination    | R, M    |
 | [[Illusory Script\|Illusory Script]]          | Illusion      | R, M    |
 | [[zz_Templates/Spell Template\|Spell Template]]              | Transmutation |         |
-| [[Silent Image\|Silent Image]]             | Illusion      | C       |
+| [[Player Options/Spells/Detailed Spells/Silent Image\|Silent Image]]             | Illusion      | C       |
 | [[Sleep\|Sleep]]                    | Enchantment   | C       |
 | [[Player Options/Spells/Detailed Spells/Speak with Animals\|Speak with Animals]]       | Divination    | R       |
 | [[Tasha's Hideous Laughter\|Tasha's Hideous Laughter]] | Enchantment   | C       |

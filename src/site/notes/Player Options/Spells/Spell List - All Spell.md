@@ -177,9 +177,9 @@
 | 172 | [[Guardian of Faith\|Guardian of Faith]]                  | 4th     | Action    | Conjuration   | no     | V          | no            |
 | 173 | [[Guards and Wards\|Guards and Wards]]                   | 6th     | 1 Hr.     | Abjuration    | no     | V, S, M    | no            |
 | 174 | [[Player Options/Spells/Detailed Spells/Guidance\|Guidance]]                           | Cantrip | Action    | Divination    | no     | V, S       | yes           |
-| 175 | [[Guiding Bolt\|Guiding Bolt]]                       | 1st     | Action    | Evocation     | no     | V, S       | no            |
+| 175 | [[Player Options/Spells/Detailed Spells/Guiding Bolt\|Guiding Bolt]]                       | 1st     | Action    | Evocation     | no     | V, S       | no            |
 | 176 | [[Player Options/Spells/Detailed Spells/Gust of Wind\|Gust of Wind]]                       | 2nd     | Action    | Evocation     | no     | V, S, M    | yes           |
-| 177 | [[Hail of Thorns\|Hail of Thorns]]                     | 1st     | Bonus     | Conjuration   | no     | V          | no            |
+| 177 | [[Player Options/Spells/Detailed Spells/Hail of Thorns\|Hail of Thorns]]                     | 1st     | Bonus     | Conjuration   | no     | V          | no            |
 | 178 | [[Hallow\|Hallow]]                             | 5th     | 24 Hr.    | Abjuration    | no     | V, S, M    | no            |
 | 179 | [[Hallucinatory Terrain\|Hallucinatory Terrain]]              | 4th     | 10 Min.   | Illusion      | no     | V, S, M    | no            |
 | 180 | [[Harm\|Harm]]                               | 6th     | Action    | Necromancy    | no     | V, S       | no            |
@@ -190,7 +190,7 @@
 | 185 | [[Hellish Rebuke\|Hellish Rebuke]]                     | 1st     | Reaction  | Evocation     | no     | V, S       | no            |
 | 186 | [[Heroes' Feast\|Heroes' Feast]]                      | 6th     | 10 Min.   | Conjuration   | no     | V, S, M    | no            |
 | 187 | [[Heroism\|Heroism]]                            | 1st     | Action    | Enchantment   | no     | V, S       | yes           |
-| 188 | [[Hex\|Hex]]                                | 1st     | Bonus     | Enchantment   | no     | V, S, M    | yes           |
+| 188 | [[Player Options/Spells/Detailed Spells/Hex\|Hex]]                                | 1st     | Bonus     | Enchantment   | no     | V, S, M    | yes           |
 | 189 | [[Hold Monster\|Hold Monster]]                       | 5th     | Action    | Enchantment   | no     | V, S, M    | yes           |
 | 190 | [[Hold Person\|Hold Person]]                        | 2nd     | Action    | Enchantment   | no     | V, S, M    | yes           |
 | 191 | [[Holy Aura\|Holy Aura]]                          | 8th     | Action    | Abjuration    | no     | V, S, M    | yes           |
@@ -203,7 +203,7 @@
 | 198 | [[Illusory Script\|Illusory Script]]                    | 1st     | 1 Min.    | Illusion      | yes    | S, M       | no            |
 | 199 | [[Imprisonment\|Imprisonment]]                       | 9th     | 1 Min.    | Abjuration    | no     | V, S, M    | no            |
 | 200 | [[Incendiary Cloud\|Incendiary Cloud]]                   | 8th     | Action    | Conjuration   | no     | V, S       | yes           |
-| 201 | [[Inflict Wounds\|Inflict Wounds]]                     | 1st     | Action    | Necromancy    | no     | V, S       | no            |
+| 201 | [[Player Options/Spells/Detailed Spells/Inflict Wounds\|Inflict Wounds]]                     | 1st     | Action    | Necromancy    | no     | V, S       | no            |
 | 202 | [[Insect Plague\|Insect Plague]]                      | 5th     | Action    | Conjuration   | no     | V, S, M    | yes           |
 | 203 | [[Invisibility\|Invisibility]]                       | 2nd     | Action    | Illusion      | no     | V, S, M    | yes           |
 | 204 | [[Jallarzi's Storm of Radiance\|Jallarzi's Storm of Radiance]]       | 5th     | Action    | Evocation     | no     | V, S, M    | yes           |
@@ -221,7 +221,7 @@
 | 216 | [[Player Options/Spells/Detailed Spells/Locate Creature\|Locate Creature]]                    | 4th     | Action    | Divination    | no     | V, S, M    | yes           |
 | 217 | [[Player Options/Spells/Detailed Spells/Locate Object\|Locate Object]]                      | 2nd     | Action    | Divination    | no     | V, S, M    | yes           |
 | 218 | [[zz_Templates/Spell Template\|Spell Template]]                        | 1st     | Action    | Transmutation | no     | V, S, M    | no            |
-| 219 | [[Mage Armor\|Mage Armor]]                         | 1st     | Action    | Abjuration    | no     | V, S, M    | no            |
+| 219 | [[Player Options/Spells/Detailed Spells/Mage Armor\|Mage Armor]]                         | 1st     | Action    | Abjuration    | no     | V, S, M    | no            |
 | 220 | [[Player Options/Spells/Detailed Spells/Mage Hand\|Mage Hand]]                          | Cantrip | Action    | Conjuration   | no     | V, S       | no            |
 | 221 | [[Magic Circle\|Magic Circle]]                       | 3rd     | 1 Min.    | Abjuration    | no     | V, S, M    | no            |
 | 222 | [[Magic Jar\|Magic Jar]]                          | 6th     | 1 Min.    | Necromancy    | no     | V, S, M    | no            |
@@ -298,8 +298,8 @@
 | 294 | [[Reverse Gravity\|Reverse Gravity]]                    | 7th     | Action    | Transmutation | no     | V, S, M    | yes           |
 | 295 | [[Player Options/Spells/Detailed Spells/Revivify\|Revivify]]                           | 3rd     | Action    | Necromancy    | no     | V, S, M    | no            |
 | 296 | [[Rope Trick\|Rope Trick]]                         | 2nd     | Action    | Transmutation | no     | V, S, M    | no            |
-| 297 | [[Sacred Flame\|Sacred Flame]]                       | Cantrip | Action    | Evocation     | no     | V, S       | no            |
-| 298 | [[Sanctuary\|Sanctuary]]                          | 1st     | Bonus     | Abjuration    | no     | V, S, M    | no            |
+| 297 | [[Player Options/Spells/Detailed Spells/Sacred Flame\|Sacred Flame]]                       | Cantrip | Action    | Evocation     | no     | V, S       | no            |
+| 298 | [[Player Options/Spells/Detailed Spells/Sanctuary\|Sanctuary]]                          | 1st     | Bonus     | Abjuration    | no     | V, S, M    | no            |
 | 299 | [[Scorching Ray\|Scorching Ray]]                      | 2nd     | Action    | Evocation     | no     | V, S       | no            |
 | 300 | [[Scrying\|Scrying]]                            | 5th     | 10 Min.   | Divination    | no     | V, S, M    | yes           |
 | 301 | [[Searing Smite\|Searing Smite]]                      | 1st     | Bonus     | Evocation     | no     | V          | no            |
@@ -310,18 +310,18 @@
 | 306 | [[Shapechange\|Shapechange]]                        | 9th     | Action    | Transmutation | no     | V, S, M    | yes           |
 | 307 | [[Shatter\|Shatter]]                            | 2nd     | Action    | Evocation     | no     | V, S, M    | no            |
 | 308 | [[Shield\|Shield]]                             | 1st     | Reaction  | Abjuration    | no     | V, S       | no            |
-| 309 | [[Shield of Faith\|Shield of Faith]]                    | 1st     | Bonus     | Abjuration    | no     | V, S, M    | yes           |
+| 309 | [[Player Options/Spells/Detailed Spells/Shield of Faith\|Shield of Faith]]                    | 1st     | Bonus     | Abjuration    | no     | V, S, M    | yes           |
 | 310 | [[Shillelagh\|Shillelagh]]                         | Cantrip | Bonus     | Transmutation | no     | V, S, M    | no            |
 | 311 | [[Shining Smite\|Shining Smite]]                      | 2nd     | Bonus     | Transmutation | no     | V          | yes           |
 | 312 | [[Shocking Grasp\|Shocking Grasp]]                     | Cantrip | Action    | Evocation     | no     | V, S       | no            |
 | 313 | [[Player Options/Spells/Detailed Spells/Silence\|Silence]]                            | 2nd     | Action    | Illusion      | yes    | V, S       | yes           |
-| 314 | [[Silent Image\|Silent Image]]                       | 1st     | Action    | Illusion      | no     | V, S, M    | yes           |
+| 314 | [[Player Options/Spells/Detailed Spells/Silent Image\|Silent Image]]                       | 1st     | Action    | Illusion      | no     | V, S, M    | yes           |
 | 315 | [[Simulacrum\|Simulacrum]]                         | 7th     | 12 Hr.    | Illusion      | no     | V, S, M    | no            |
 | 316 | [[Sleep\|Sleep]]                              | 1st     | Action    | Enchantment   | no     | V, S, M    | yes           |
 | 317 | [[Sleet Storm\|Sleet Storm]]                        | 3rd     | Action    | Conjuration   | no     | V, S, M    | yes           |
 | 318 | [[Player Options/Weapon Properties/Vex\|Vex]]                               | 3rd     | Action    | Transmutation | no     | V, S, M    | yes           |
 | 319 | [[Sorcerous Burst\|Sorcerous Burst]]                    | Cantrip | Action    | Evocation     | no     | V, S       | no            |
-| 320 | [[Spare the Dying\|Spare the Dying]]                    | Cantrip | Action    | Necromancy    | no     | V, S       | no            |
+| 320 | [[Player Options/Spells/Detailed Spells/Spare the Dying\|Spare the Dying]]                    | Cantrip | Action    | Necromancy    | no     | V, S       | no            |
 | 321 | [[Player Options/Spells/Detailed Spells/Speak with Animals\|Speak with Animals]]                 | 1st     | Action    | Divination    | yes    | V, S       | no            |
 | 322 | [[Speak with Dead\|Speak with Dead]]                    | 3rd     | Action    | Necromancy    | no     | V, S, M    | no            |
 | 323 | [[Player Options/Spells/Detailed Spells/Speak with Plants\|Speak with Plants]]                  | 3rd     | Action    | Transmutation | no     | V, S       | no            |
@@ -358,13 +358,13 @@
 | 355 | [[Teleport\|Teleport]]                           | 7th     | Action    | Conjuration   | no     | V          | no            |
 | 356 | [[Teleportation Circle\|Teleportation Circle]]               | 5th     | 1 Min.    | Conjuration   | no     | V, M       | no            |
 | 357 | [[Tenser's Floating Disk\|Tenser's Floating Disk]]             | 1st     | Action    | Conjuration   | yes    | V, S, M    | no            |
-| 358 | [[Thaumaturgy\|Thaumaturgy]]                        | Cantrip | Action    | Transmutation | no     | V          | no            |
-| 359 | [[Thorn Whip\|Thorn Whip]]                         | Cantrip | Action    | Transmutation | no     | V, S, M    | no            |
+| 358 | [[Player Options/Spells/Detailed Spells/Thaumaturgy\|Thaumaturgy]]                        | Cantrip | Action    | Transmutation | no     | V          | no            |
+| 359 | [[Player Options/Spells/Detailed Spells/Thorn Whip\|Thorn Whip]]                         | Cantrip | Action    | Transmutation | no     | V, S, M    | no            |
 | 360 | [[Thunderclap\|Thunderclap]]                        | Cantrip | Action    | Evocation     | no     | S          | no            |
 | 361 | [[Thunderous Smite\|Thunderous Smite]]                   | 1st     | Bonus     | Evocation     | no     | V          | no            |
 | 362 | [[Thunderwave\|Thunderwave]]                        | 1st     | Action    | Evocation     | no     | V, S       | no            |
 | 363 | [[Time Stop\|Time Stop]]                          | 9th     | Action    | Transmutation | no     | V          | no            |
-| 364 | [[Toll the Dead\|Toll the Dead]]                      | Cantrip | Action    | Necromancy    | no     | V, S       | no            |
+| 364 | [[Player Options/Spells/Detailed Spells/Toll the Dead\|Toll the Dead]]                      | Cantrip | Action    | Necromancy    | no     | V, S       | no            |
 | 365 | [[Tongues\|Tongues]]                            | 3rd     | Action    | Divination    | no     | V, M       | no            |
 | 366 | [[Transport via Plants\|Transport via Plants]]               | 6th     | Action    | Conjuration   | no     | V, S       | no            |
 | 367 | [[Player Options/Spells/Detailed Spells/Tree Stride\|Tree Stride]]                        | 5th     | Action    | Conjuration   | no     | V, S       | yes           |
@@ -390,8 +390,8 @@
 | 387 | [[Wind Walk\|Wind Walk]]                          | 6th     | 1 Min.    | Transmutation | no     | V, S, M    | no            |
 | 388 | [[Player Options/Spells/Detailed Spells/Wind Wall\|Wind Wall]]                          | 3rd     | Action    | Evocation     | no     | V, S, M    | yes           |
 | 389 | [[Wish\|Wish]]                               | 9th     | Action    | Conjuration   | no     | V          | no            |
-| 390 | [[Witch Bolt\|Witch Bolt]]                         | 1st     | Action    | Evocation     | no     | V, S, M    | yes           |
-| 391 | [[Word of Radiance\|Word of Radiance]]                   | Cantrip | Action    | Evocation     | no     | V, M       | no            |
+| 390 | [[Player Options/Spells/Detailed Spells/Witch Bolt\|Witch Bolt]]                         | 1st     | Action    | Evocation     | no     | V, S, M    | yes           |
+| 391 | [[Player Options/Spells/Detailed Spells/Word of Radiance\|Word of Radiance]]                   | Cantrip | Action    | Evocation     | no     | V, M       | no            |
 | 392 | [[Word of Recall\|Word of Recall]]                     | 6th     | Action    | Conjuration   | no     | V          | no            |
 | 393 | [[Player Options/Spells/Detailed Spells/Wrathful Smite\|Wrathful Smite]]                     | 1st     | Bonus     | Necromancy    | no     | V          | no            |
 | 394 | [[Yolande's Regal Presence\|Yolande's Regal Presence]]           | 5th     | Action    | Enchantment   | no     | V, S, M    | yes           |

@@ -37,29 +37,29 @@
 | [[Player Options/Spells/Detailed Spells/Fog Cloud\|Fog Cloud]]                     | 1st   | Action    | Conjuration   | no     | V, S       | yes           |
 | [[Player Options/Spells/Detailed Spells/Goodberry\|Goodberry]]                     | 1st   | Action    | Conjuration   | no     | V, S, M    | no            |
 | [[Grease\|Grease]]                        | 1st   | Action    | Conjuration   | no     | V, S, M    | no            |
-| [[Guiding Bolt\|Guiding Bolt]]                  | 1st   | Action    | Evocation     | no     | V, S       | no            |
-| [[Hail of Thorns\|Hail of Thorns]]                | 1st   | Bonus     | Conjuration   | no     | V          | no            |
+| [[Player Options/Spells/Detailed Spells/Guiding Bolt\|Guiding Bolt]]                  | 1st   | Action    | Evocation     | no     | V, S       | no            |
+| [[Player Options/Spells/Detailed Spells/Hail of Thorns\|Hail of Thorns]]                | 1st   | Bonus     | Conjuration   | no     | V          | no            |
 | [[Player Options/Spells/Detailed Spells/Healing Word\|Healing Word]]                  | 1st   | Bonus     | Abjuration    | no     | V          | no            |
 | [[Hellish Rebuke\|Hellish Rebuke]]                | 1st   | Reaction  | Evocation     | no     | V, S       | no            |
 | [[Heroism\|Heroism]]                       | 1st   | Action    | Enchantment   | no     | V, S       | yes           |
-| [[Hex\|Hex]]                           | 1st   | Bonus     | Enchantment   | no     | V, S, M    | yes           |
+| [[Player Options/Spells/Detailed Spells/Hex\|Hex]]                           | 1st   | Bonus     | Enchantment   | no     | V, S, M    | yes           |
 | [[Player Options/Spells/Detailed Spells/Hunter's Mark\|Hunter's Mark]]                 | 1st   | Bonus     | Divination    | no     | V          | yes           |
 | [[Player Options/Spells/Detailed Spells/Ice Knife\|Ice Knife]]                     | 1st   | Action    | Conjuration   | no     | S, M       | no            |
 | [[Identify\|Identify]]                      | 1st   | 1 Min.    | Divination    | yes    | V, S, M    | no            |
 | [[Illusory Script\|Illusory Script]]               | 1st   | 1 Min.    | Illusion      | yes    | S, M       | no            |
-| [[Inflict Wounds\|Inflict Wounds]]                | 1st   | Action    | Necromancy    | no     | V, S       | no            |
+| [[Player Options/Spells/Detailed Spells/Inflict Wounds\|Inflict Wounds]]                | 1st   | Action    | Necromancy    | no     | V, S       | no            |
 | [[Player Options/Spells/Detailed Spells/Jump\|Jump]]                          | 1st   | Bonus     | Transmutation | no     | V, S, M    | no            |
 | [[zz_Templates/Spell Template\|Spell Template]]                | 1st   | Action    | Transmutation | no     | V, S, M    | no            |
-| [[Mage Armor\|Mage Armor]]                    | 1st   | Action    | Abjuration    | no     | V, S, M    | no            |
+| [[Player Options/Spells/Detailed Spells/Mage Armor\|Mage Armor]]                    | 1st   | Action    | Abjuration    | no     | V, S, M    | no            |
 | [[Magic Missile\|Magic Missile]]                 | 1st   | Action    | Evocation     | no     | V, S       | no            |
 | [[Protection from Evil and Good\|Protection from Evil and Good]] | 1st   | Action    | Abjuration    | no     | V, S, M    | yes           |
 | [[Purify Food and Drink\|Purify Food and Drink]]         | 1st   | Action    | Transmutation | yes    | V, S       | no            |
 | [[Ray of Sickness\|Ray of Sickness]]               | 1st   | Action    | Necromancy    | no     | V, S       | no            |
-| [[Sanctuary\|Sanctuary]]                     | 1st   | Bonus     | Abjuration    | no     | V, S, M    | no            |
+| [[Player Options/Spells/Detailed Spells/Sanctuary\|Sanctuary]]                     | 1st   | Bonus     | Abjuration    | no     | V, S, M    | no            |
 | [[Searing Smite\|Searing Smite]]                 | 1st   | Bonus     | Evocation     | no     | V          | no            |
 | [[Shield\|Shield]]                        | 1st   | Reaction  | Abjuration    | no     | V, S       | no            |
-| [[Shield of Faith\|Shield of Faith]]               | 1st   | Bonus     | Abjuration    | no     | V, S, M    | yes           |
-| [[Silent Image\|Silent Image]]                  | 1st   | Action    | Illusion      | no     | V, S, M    | yes           |
+| [[Player Options/Spells/Detailed Spells/Shield of Faith\|Shield of Faith]]               | 1st   | Bonus     | Abjuration    | no     | V, S, M    | yes           |
+| [[Player Options/Spells/Detailed Spells/Silent Image\|Silent Image]]                  | 1st   | Action    | Illusion      | no     | V, S, M    | yes           |
 | [[Sleep\|Sleep]]                         | 1st   | Action    | Enchantment   | no     | V, S, M    | yes           |
 | [[Player Options/Spells/Detailed Spells/Speak with Animals\|Speak with Animals]]            | 1st   | Action    | Divination    | yes    | V, S       | no            |
 | [[Tasha's Hideous Laughter\|Tasha's Hideous Laughter]]      | 1st   | Action    | Enchantment   | no     | V, S, M    | yes           |
@@ -67,5 +67,5 @@
 | [[Thunderous Smite\|Thunderous Smite]]              | 1st   | Bonus     | Evocation     | no     | V          | no            |
 | [[Thunderwave\|Thunderwave]]                   | 1st   | Action    | Evocation     | no     | V, S       | no            |
 | [[Unseen Servant\|Unseen Servant]]                | 1st   | Action    | Conjuration   | yes    | V, S, M    | no            |
-| [[Witch Bolt\|Witch Bolt]]                    | 1st   | Action    | Evocation     | no     | V, S, M    | yes           |
+| [[Player Options/Spells/Detailed Spells/Witch Bolt\|Witch Bolt]]                    | 1st   | Action    | Evocation     | no     | V, S, M    | yes           |
 | [[Player Options/Spells/Detailed Spells/Wrathful Smite\|Wrathful Smite]]                | 1st   | Bonus     | Necromancy    | no     | V          | no            |

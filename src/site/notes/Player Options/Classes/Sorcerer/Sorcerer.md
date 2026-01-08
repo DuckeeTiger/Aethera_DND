@@ -211,14 +211,14 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 | [[Grease\|Grease]]               | Conjuration   | —       |
 | [[Player Options/Spells/Detailed Spells/Ice Knife\|Ice Knife]]            | Conjuration   | —       |
 | [[Player Options/Spells/Detailed Spells/Jump\|Jump]]                 | Transmutation | —       |
-| [[Mage Armor\|Mage Armor]]           | Abjuration    | —       |
+| [[Player Options/Spells/Detailed Spells/Mage Armor\|Mage Armor]]           | Abjuration    | —       |
 | [[Magic Missile\|Magic Missile]]        | Evocation     | —       |
 | [[Ray of Sickness\|Ray of Sickness]]      | Necromancy    | —       |
 | [[Shield\|Shield]]               | Abjuration    | —       |
-| [[Silent Image\|Silent Image]]         | Illusion      | C       |
+| [[Player Options/Spells/Detailed Spells/Silent Image\|Silent Image]]         | Illusion      | C       |
 | [[Sleep\|Sleep]]                | Enchantment   | C       |
 | [[Thunderwave\|Thunderwave]]          | Evocation     |         |
-| [[Witch Bolt\|Witch Bolt]]           | Evocation     | C       |
+| [[Player Options/Spells/Detailed Spells/Witch Bolt\|Witch Bolt]]           | Evocation     | C       |
 
 #### Level 2 Sorcerer Spells
 | Spell                    | School        | Special |

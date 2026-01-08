@@ -31,11 +31,11 @@
 
 	* Level 1 Spellek: **Kettőt** válassz 
 		* [[Player Options/Spells/Detailed Spells/Armor of Agathys\|Armor of Agathys]] - ez illik nagyon. Jégpajzsod lesz technikailag 
-		* [[Hex\|Hex]]: megátkotol valakit. Amig koncentrálsz a spellre több damaget adsz neki amikor támadod. 
+		* [[Player Options/Spells/Detailed Spells/Hex\|Hex]]: megátkotol valakit. Amig koncentrálsz a spellre több damaget adsz neki amikor támadod. 
 		* [[Player Options/Spells/Detailed Spells/Arms of Hadar\|Arms of Hadar]]: cuki polipkarok jönnek elő a földből. Mindenki 10 láb körbe védekezik. Ha nem sikerül 2d6 damage 
 		* [[Player Options/Spells/Detailed Spells/Bane\|Bane]] - maximum 3 creaturet választasz - ha nem tudják magukat megvédeni 1d4-et le kell majd vonjanak a dobásaikból - ez tart amíg koncentrálsz a spellre 
 		* [[Player Options/Spells/Detailed Spells/Charm Person\|Charm Person]]- el tudsz bűvölni valakit - bartáságos lesz veled, jobban ki lehet kérdezni dolgokról - 1 óráig tart. Ha a spell-nek vége akkor tudni fogja hogy te csináltad. 
-		* [[Witch Bolt\|Witch Bolt]] - villám csóva jön a kezedből. Ha sikeresen támadsz akkor 2d12 dam. Ha tartod a koncentrációt minden további körben 1d12 
+		* [[Player Options/Spells/Detailed Spells/Witch Bolt\|Witch Bolt]] - villám csóva jön a kezedből. Ha sikeresen támadsz akkor 2d12 dam. Ha tartod a koncentrációt minden további körben 1d12 
 		* [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]] - 30 láb körzetben érzékeled ha valami mágikus. Meg tudod mondani, hogy milyen hatása van a máginak és hogy milyen mágia lehet. 
 		* [[Player Options/Spells/Detailed Spells/Speak with Animals\|Speak with Animals]] - 10 percig tudsz beszélni állatokkal 
 
@@ -51,7 +51,7 @@
 		* **Pact of the Chain:** ez cuki. Tudod varázsolni a [[Player Options/Spells/Detailed Spells/Find Familiar\|Find Familiar]] spellt - egy kis "állatkád". Azért idézőjel mert ez az állatka neked nem kutyus vagy cica hanem  kis démonka vagy kis sárkányocska vagy kis kígyócska - vmi ami a warlocknak cuki :D - + alapból a familiar-is nem tud támadni -> de mivel warlock vagy a tied tud
 		* **Pact of the Tome**: lesz egy úgynevezett Book of Shadow a birtokodban. elő tudod varázsolni a  semmiből bármikor tudsz bele írni majd eltünteted. Technikailag plusz varázslatokat választhatsz bármilyen spell listáról (nem csak warlock)3 cantrip és 2 Rituális - és olyanok amiket eddig még nem választottál fent - ezek pluszok
 		* **Eldritch Mind**: Advantage-et kapsz arra, hogy a koncentrációd fent tartsd spellekre (ez annyira nem fun)
-		* **Armor of Shadows** - Spell használata nélkül tudod varázsolni a [[Mage Armor\|Mage Armor]] spellt. Ez fixen ad 2 AC pluszba ha rajtad van, de nem viselhetsz armort. - ez jó tud lenni amugy
+		* **Armor of Shadows** - Spell használata nélkül tudod varázsolni a [[Player Options/Spells/Detailed Spells/Mage Armor\|Mage Armor]] spellt. Ez fixen ad 2 AC pluszba ha rajtad van, de nem viselhetsz armort. - ez jó tud lenni amugy
 >[!tips] Gergő tipp ha szabad
 >Én a Pact of Blade vagy Pact of Chaint hoznám most level 1-en. Annyival többet adnak mint a többi, meg fun lesz tőle a warlockod.
 
@@ -62,7 +62,7 @@
 	- **Fiendish Vigor**: Megkapod a False Life spellt - nem kerül spell slotba
 	- **Lessons of the First Ones**: kapsz egy Origin Feat-et [[Feat List]  - 
 	- **Mask of Many Faces**: megkapod a [[Player Options/Spells/Detailed Spells/Disguise Self\|Disguise Self]] spellt -nem kerül spell slotba
-	- **Misty Visions**: megkapod a [[Silent Image\|Silent Image]] spellt -nem kerül spell slotba
+	- **Misty Visions**: megkapod a [[Player Options/Spells/Detailed Spells/Silent Image\|Silent Image]] spellt -nem kerül spell slotba
 	- **Otherworldly Leap**: megkapod a [[Player Options/Spells/Detailed Spells/Jump\|Jump]] spellt -nem kerül spell slotba
 	- **Repelling Blast**: Válassz egy már megtanult Warlock Cantripet (Eldritch Blast!!!!) és ha azt használod mostmár dönthetsz úgy h el is lököd a megtámadottat 10 lábbal.
 >[!tips] Gergő tipp ha szabad
@@ -71,7 +71,7 @@
 
 4. Faji dolgok:
 - itt nincs már mit dönteni. Eldöntöttük h jeges tiefling vagy. Megkapod a [[Player Options/Spells/Detailed Spells/Chill Touch\|Chill Touch]] cantripet és használhatod. Level 3 és 5ön madj jön még cucc
-- plusz megkapod a [[Thaumaturgy\|Thaumaturgy]] cantripet
+- plusz megkapod a [[Player Options/Spells/Detailed Spells/Thaumaturgy\|Thaumaturgy]] cantripet
 
 ---
 ## Overview
@@ -156,7 +156,7 @@
 >- You have Darkvision with a range of 60 feet.
 
 >[!species-feature] *Otherworldly Presence:*
->- You know the [[Thaumaturgy\|Thaumaturgy]] cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Fiendish Legacy Trait.
+>- You know the [[Player Options/Spells/Detailed Spells/Thaumaturgy\|Thaumaturgy]] cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Fiendish Legacy Trait.
 
 >[!species-feature] *Chthonic Tiefling Spec:*
 >- Your Speed increases to 35 feet.
@@ -247,7 +247,7 @@
 - [[Player Options/Spells/Detailed Spells/Chill Touch\|Chill Touch]]
 - [[Player Options/Spells/Detailed Spells/Eldritch Blast\|Eldritch Blast]]
 #### Level 1
-- [[Hex\|Hex]]
+- [[Player Options/Spells/Detailed Spells/Hex\|Hex]]
 - 
 
 ---

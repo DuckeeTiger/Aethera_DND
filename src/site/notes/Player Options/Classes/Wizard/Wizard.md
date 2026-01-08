@@ -188,11 +188,11 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | [[Illusory Script\|Illusory Script]]               | Illusion      | R, M    |
 | [[Player Options/Spells/Detailed Spells/Jump\|Jump]]                          | Transmutation | —       |
 | [[zz_Templates/Spell Template\|Spell Template]]                   | Transmutation | —       |
-| [[Mage Armor\|Mage Armor]]                    | Abjuration    | —       |
+| [[Player Options/Spells/Detailed Spells/Mage Armor\|Mage Armor]]                    | Abjuration    | —       |
 | [[Magic Missile\|Magic Missile]]                 | Evocation     | —       |
 | [[Protection from Evil and Good\|Protection from Evil and Good]] | Abjuration    | C, M    |
 | [[Shield\|Shield]]                        | Abjuration    | —       |
-| [[Silent Image\|Silent Image]]                  | Illusion      | C       |
+| [[Player Options/Spells/Detailed Spells/Silent Image\|Silent Image]]                  | Illusion      | C       |
 | [[Sleep\|Sleep]]                         | Enchantment   | C       |
 | [[Thunderwave\|Thunderwave]]                   | Evocation     | —       |
 | [[Unseen Servant\|Unseen Servant]]                | Conjuration   | R       |
@@ -592,11 +592,11 @@ A **Special** oszlop jelölései:
 | [[Illusory Script\|Illusory Script]]               | Illusion      | R, M    |
 | [[Player Options/Spells/Detailed Spells/Jump\|Jump]]                          | Transmutation | —       |
 | [[zz_Templates/Spell Template\|Spell Template]]                   | Transmutation | —       |
-| [[Mage Armor\|Mage Armor]]                    | Abjuration    | —       |
+| [[Player Options/Spells/Detailed Spells/Mage Armor\|Mage Armor]]                    | Abjuration    | —       |
 | [[Magic Missile\|Magic Missile]]                 | Evocation     | —       |
 | [[Protection from Evil and Good\|Protection from Evil and Good]] | Abjuration    | C, M    |
 | [[Shield\|Shield]]                        | Abjuration    | —       |
-| [[Silent Image\|Silent Image]]                  | Illusion      | C       |
+| [[Player Options/Spells/Detailed Spells/Silent Image\|Silent Image]]                  | Illusion      | C       |
 | [[Sleep\|Sleep]]                         | Enchantment   | C       |
 | [[Thunderwave\|Thunderwave]]                   | Evocation     | —       |
 | [[Unseen Servant\|Unseen Servant]]                | Conjuration   | R       |

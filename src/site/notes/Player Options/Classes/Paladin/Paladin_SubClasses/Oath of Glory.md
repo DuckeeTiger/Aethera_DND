@@ -18,7 +18,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells                                        |
 | ------------- | --------------------------------------------- |
-| 3             | [[Guiding Bolt\|Guiding Bolt]], [[Heroism\|Heroism]]                 |
+| 3             | [[Player Options/Spells/Detailed Spells/Guiding Bolt\|Guiding Bolt]], [[Heroism\|Heroism]]                 |
 | 5             | [[Player Options/Spells/Detailed Spells/Enhance Ability\|Enhance Ability]], [[Player Options/Spells/Detailed Spells/Magic Weapon\|Magic Weapon]]         |
 | 9             | [[Haste\|Haste]], [[Player Options/Spells/Detailed Spells/Protection from Energy\|Protection from Energy]]         |
 | 13            | [[Player Options/Spells/Detailed Spells/Compulsion\|Compulsion]], [[Player Options/Spells/Detailed Spells/Freedom of Movement\|Freedom of Movement]]       |

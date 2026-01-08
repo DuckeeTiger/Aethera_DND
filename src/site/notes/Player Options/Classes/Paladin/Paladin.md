@@ -198,7 +198,7 @@ In the **Special** column, **C** means the spell requires *Concentration*, **R**
 | [[Protection from Evil and Good\|Protection from Evil and Good]] | Abjuration | C, M |
 | [[Purify Food and Drink\|Purify Food and Drink]] | Transmutation | R |
 | [[Searing Smite\|Searing Smite]] | Evocation | — |
-| [[Shield of Faith\|Shield of Faith]] | Abjuration | C |
+| [[Player Options/Spells/Detailed Spells/Shield of Faith\|Shield of Faith]] | Abjuration | C |
 | [[Thunderous Smite\|Thunderous Smite]] | Evocation | — |
 | [[Player Options/Spells/Detailed Spells/Wrathful Smite\|Wrathful Smite]] | Necromancy | — |
 #### Level 2 Paladin Spells
@@ -432,7 +432,7 @@ Epikus feat (ajánlott: *Boon of Truesight*).
 | [[Protection from Evil and Good\|Protection from Evil and Good]] | Abjuration | C, M |
 | [[Purify Food and Drink\|Purify Food and Drink]] | Transmutation | R |
 | [[Searing Smite\|Searing Smite]] | Evocation | — |
-| [[Shield of Faith\|Shield of Faith]] | Abjuration | C |
+| [[Player Options/Spells/Detailed Spells/Shield of Faith\|Shield of Faith]] | Abjuration | C |
 | [[Thunderous Smite\|Thunderous Smite]] | Evocation | — |
 | [[Player Options/Spells/Detailed Spells/Wrathful Smite\|Wrathful Smite]] | Necromancy | — |
 

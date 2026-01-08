@@ -342,11 +342,11 @@ Eldritch Invocation options appear in alphabetical order.
 | [[Player Options/Spells/Detailed Spells/Comprehend Languages\|Comprehend Languages]]          | Divination    | R       |
 | [[Expeditious Retreat\|Expeditious Retreat]]           | Transmutation | C       |
 | [[Hellish Rebuke\|Hellish Rebuke]]                | Evocation     |         |
-| [[Hex\|Hex]]                           | Enchantment   | C       |
+| [[Player Options/Spells/Detailed Spells/Hex\|Hex]]                           | Enchantment   | C       |
 | [[Illusory Script\|Illusory Script]]               | Illusion      | R       |
 | [[Protection from Evil and Good\|Protection from Evil and Good]] | Abjuration    | C       |
 | [[Unseen Servant\|Unseen Servant]]                | Conjuration   | R       |
-| [[Witch Bolt\|Witch Bolt]]                    | Evocation     | C       |
+| [[Player Options/Spells/Detailed Spells/Witch Bolt\|Witch Bolt]]                    | Evocation     | C       |
 #### Level 2 Warlock Spells
 | Spell                   | School        | Special |
 | ----------------------- | ------------- | ------- |
@@ -782,7 +782,7 @@ Miután a paktum létrejött, a tudás és hatalom utáni vágy soha nem csillap
 | [[Illusory Script\|Illusory Script]] | Illusion | R |
 | [[Protection from Evil and Good\|Protection from Evil and Good]] | Abjuration | C |
 | [[Unseen Servant\|Unseen Servant]] | Conjuration | R |
-| [[Witch Bolt\|Witch Bolt]] | Evocation | C |
+| [[Player Options/Spells/Detailed Spells/Witch Bolt\|Witch Bolt]] | Evocation | C |
 
 ---
 

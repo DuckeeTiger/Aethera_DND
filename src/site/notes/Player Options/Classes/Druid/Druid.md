@@ -202,9 +202,9 @@ This section presents the Druid spell list. The spells are organized by spell le
 | [[Player Options/Spells/Detailed Spells/Produce Flame\|Produce Flame]]   | Conjuration   | —       |
 | [[Resistance\|Resistance]]      | Abjuration    | C       |
 | [[Shillelagh\|Shillelagh]]      | Transmutation | —       |
-| [[Spare the Dying\|Spare the Dying]] | Necromancy    | —       |
+| [[Player Options/Spells/Detailed Spells/Spare the Dying\|Spare the Dying]] | Necromancy    | —       |
 | [[Starry Wisp\|Starry Wisp]]     | Evocation     | —       |
-| [[Thorn Whip\|Thorn Whip]]      | Transmutation | —       |
+| [[Player Options/Spells/Detailed Spells/Thorn Whip\|Thorn Whip]]      | Transmutation | —       |
 | [[Thunderclap\|Thunderclap]]     | Evocation     | —       |
 
 #### Level 1 Druid Spells
@@ -575,9 +575,9 @@ A Druida a megadott szinteken az alábbi képességeket szerzi meg, ahogy a táb
 | [[Player Options/Spells/Detailed Spells/Produce Flame\|Produce Flame]]   | Conjuration   | —       |
 | [[Resistance\|Resistance]]      | Abjuration    | C       |
 | [[Shillelagh\|Shillelagh]]      | Transmutation | —       |
-| [[Spare the Dying\|Spare the Dying]] | Necromancy    | —       |
+| [[Player Options/Spells/Detailed Spells/Spare the Dying\|Spare the Dying]] | Necromancy    | —       |
 | [[Starry Wisp\|Starry Wisp]]     | Evocation     | —       |
-| [[Thorn Whip\|Thorn Whip]]      | Transmutation | —       |
+| [[Player Options/Spells/Detailed Spells/Thorn Whip\|Thorn Whip]]      | Transmutation | —       |
 | [[Thunderclap\|Thunderclap]]     | Evocation     | —       |
 
 #### 1. Szintű Druida Varázslatok

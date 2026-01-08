@@ -16,7 +16,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells                                                               |
 | ------------ | ----------------------------------------------------------------------------- |
-| 3            | [[Guiding Bolt\|Guiding Bolt]], [[Player Options/Spells/Detailed Spells/Magic Weapon\|Magic Weapon]], [[Shield of Faith\|Shield of Faith]], [[Spiritual Weapon\|Spiritual Weapon]] |
+| 3            | [[Player Options/Spells/Detailed Spells/Guiding Bolt\|Guiding Bolt]], [[Player Options/Spells/Detailed Spells/Magic Weapon\|Magic Weapon]], [[Player Options/Spells/Detailed Spells/Shield of Faith\|Shield of Faith]], [[Spiritual Weapon\|Spiritual Weapon]] |
 | 5            | [[Crusader’s Mantle\|Crusader’s Mantle]], [[Spirit Guardians\|Spirit Guardians]]                                   |
 | 7            | [[Fire Shield\|Fire Shield]], [[Player Options/Spells/Detailed Spells/Freedom of Movement\|Freedom of Movement]]                                      |
 | 9            | [[Hold Monster\|Hold Monster]], [[Steel Wind Strike\|Steel Wind Strike]]                                       |

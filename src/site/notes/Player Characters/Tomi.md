@@ -28,7 +28,7 @@
 	- [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]] - valakit megérintesz és 2d8 + Wisdom mod-al gyógyul
 	- [[Player Options/Spells/Detailed Spells/Entangle\|Entangle]] - futó növényeket varázsolsz a földre 20 lábnyi négyzetben. Nehéz terepnek minősül amig tart (kétszer annyit kell mozogni h menj). Koncentrálni kell rá
 	- [[Player Options/Spells/Detailed Spells/Fog Cloud\|Fog Cloud]] - csinálsz egy 30 láb átmérőjü köd felhőt. Ezen a ködön nem lehet átlátni. addig van amíg koncentrálsz rá.
-	- [[Hail of Thorns\|Hail of Thorns]] - Ha egy nyilas támadásod betalált akkor egyből tudsz varázsolni - a nyilvessző szétrepül repeszelre kb és mindenkit sebez 5 láb távolságra a becsapódástól.
+	- [[Player Options/Spells/Detailed Spells/Hail of Thorns\|Hail of Thorns]] - Ha egy nyilas támadásod betalált akkor egyből tudsz varázsolni - a nyilvessző szétrepül repeszelre kb és mindenkit sebez 5 láb távolságra a becsapódástól.
 	- [[Player Options/Spells/Detailed Spells/Jump\|Jump]] - valakit megérintesz (magadat is lehet) - utána 1 percig 30 láb magasra tud ugrani az illető 10 láb nekifutással
 	- [[Player Options/Spells/Detailed Spells/Longstrider\|Longstrider]] - Akit megfogsz vagy te magad kap 10 feet plusz speed-et (alapból kb 30 mindekinek) - 1 órán keresztül
 	- [[Speak With Animals \|Speak With Animals ]] - 10 percig tudsz beszélni állatokkal
@@ -85,7 +85,6 @@
 | Charisma     | 11    | 0        |
 
 ---
-
 ## Skills
 
 | Ability | Skill           | Proficient | Modifier |

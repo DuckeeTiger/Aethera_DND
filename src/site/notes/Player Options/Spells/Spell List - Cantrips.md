@@ -26,16 +26,16 @@
 | ok  | [[Player Options/Spells/Detailed Spells/Produce Flame\|Produce Flame]]    | Cantrip | Bonus     | Conjuration   | no     | V, S       | no            |
 |     | [[Ray of Frost\|Ray of Frost]]     | Cantrip | Action    | Evocation     | no     | V, S       | no            |
 |     | [[Resistance\|Resistance]]       | Cantrip | Action    | Abjuration    | no     | V, S       | yes           |
-|     | [[Sacred Flame\|Sacred Flame]]     | Cantrip | Action    | Evocation     | no     | V, S       | no            |
+|     | [[Player Options/Spells/Detailed Spells/Sacred Flame\|Sacred Flame]]     | Cantrip | Action    | Evocation     | no     | V, S       | no            |
 |     | [[Shillelagh\|Shillelagh]]       | Cantrip | Bonus     | Transmutation | no     | V, S, M    | no            |
 |     | [[Shocking Grasp\|Shocking Grasp]]   | Cantrip | Action    | Evocation     | no     | V, S       | no            |
 |     | [[Sorcerous Burst\|Sorcerous Burst]]  | Cantrip | Action    | Evocation     | no     | V, S       | no            |
-|     | [[Spare the Dying\|Spare the Dying]]  | Cantrip | Action    | Necromancy    | no     | V, S       | no            |
+|     | [[Player Options/Spells/Detailed Spells/Spare the Dying\|Spare the Dying]]  | Cantrip | Action    | Necromancy    | no     | V, S       | no            |
 |     | [[Starry Wisp\|Starry Wisp]]      | Cantrip | Action    | Evocation     | no     | V, S       | no            |
-|     | [[Thaumaturgy\|Thaumaturgy]]      | Cantrip | Action    | Transmutation | no     | V          | no            |
-| ok  | [[Thorn Whip\|Thorn Whip]]       | Cantrip | Action    | Transmutation | no     | V, S, M    | no            |
+|     | [[Player Options/Spells/Detailed Spells/Thaumaturgy\|Thaumaturgy]]      | Cantrip | Action    | Transmutation | no     | V          | no            |
+| ok  | [[Player Options/Spells/Detailed Spells/Thorn Whip\|Thorn Whip]]       | Cantrip | Action    | Transmutation | no     | V, S, M    | no            |
 |     | [[Thunderclap\|Thunderclap]]      | Cantrip | Action    | Evocation     | no     | S          | no            |
-|     | [[Toll the Dead\|Toll the Dead]]    | Cantrip | Action    | Necromancy    | no     | V, S       | no            |
+|     | [[Player Options/Spells/Detailed Spells/Toll the Dead\|Toll the Dead]]    | Cantrip | Action    | Necromancy    | no     | V, S       | no            |
 |     | [[True Strike\|True Strike]]      | Cantrip | Action    | Divination    | no     | S, M       | no            |
 |     | [[Vicious Mockery\|Vicious Mockery]]  | Cantrip | Action    | Enchantment   | no     | V          | no            |
-|     | [[Word of Radiance\|Word of Radiance]] | Cantrip | Action    | Evocation     | no     | V, M       | no            |
+|     | [[Player Options/Spells/Detailed Spells/Word of Radiance\|Word of Radiance]] | Cantrip | Action    | Evocation     | no     | V, M       | no            |
