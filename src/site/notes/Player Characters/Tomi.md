@@ -6,6 +6,10 @@
 
 ## To DOs!!!
 
+0. Tedd magadévá a DND Beyond-on a karaktered.
+	- ha még nincs csinálj fiókot.
+	- itt a campaign-hez való csatlakozó link. Az oldalon találhatóak karakterek a neveddel. Assign-old magadra: https://www.dndbeyond.com/campaigns/join/7366233242206713
+
 1. Válassz egy backgroundot innen: [[Player Options/Backgrounds/Background list\|Background list]] -> magyarul is fent van - oldal sáv menü zászlócska
 	- a választott backgroundban lesz felsorolva 3 ability (STR, DEX, CON, INT, WIS vagy CHA)
 		- vagy válaszd mind3at és 1-el megnövekedik az adott 3 ability score 1-el
@@ -47,7 +51,7 @@
 3. Faji dologban nincs teendő. Eldöntötted h Wood elf vagy. Level 1-en megkapod a [[Player Options/Spells/Detailed Spells/Druidcraft\|Druidcraft]] cantripet- ez fix.
 - Kapsz egy plusz origin feat-et (a background alapból ad egyet, neked 2 lesz) - [[Player Options/Feats/Feat List\|Feat List]] -> a táblázatban vannak Origin featek ezekből választhatsz
 
-
+---
 ## Overview
 
 - **Species:** Wood Elf
@@ -57,7 +61,6 @@
 
 
 ---
-
 ## Core Stats
 
 | Stat                   | Value |
@@ -70,7 +73,6 @@
 | **Passive Perception** |       |
 
 ---
-
 ## Ability Scores
 
 | Ability      | Score | Modifier |
@@ -88,38 +90,46 @@
 
 | Ability | Skill           | Proficient | Modifier |
 | ------- | --------------- | ---------- | -------- |
-| STR     | Athletics       | [   ]      |          |
-| DEX     | Acrobatics      | [   ]      |          |
-| DEX     | Sleight of Hand | [   ]      |          |
-| DEX     | Stealth         | [   ]      |          |
-| INT     | Arcana          | [   ]      |          |
-| INT     | History         | [   ]      |          |
-| INT     | Investigation   | [   ]      |          |
-| INT     | Nature          | [   ]      |          |
-| INT     | Religion        | [   ]      |          |
-| WIS     | Animal Handling | [   ]      |          |
-| WIS     | Insight         | [   ]      |          |
-| WIS     | Medicine        | [   ]      |          |
-| WIS     | Perception      | [   ]      |          |
-| WIS     | Survival        | [   ]      |          |
-| CHA     | Deception       | [   ]      |          |
-| CHA     | Intimidation    | [   ]      |          |
-| CHA     | Performance     | [   ]      |          |
-| CHA     | Persuasion      | [   ]      |          |
+| DEX     | Acrobatics      | [ X ]      | +5       |
+| WIS     | Animal Handling | [ ]        | +4       |
+| INT     | Arcana          | [ ]        | -1       |
+| STR     | Athletics       | [ X ]      | +3       |
+| CHA     | Deception       | [ ]        | +1       |
+| INT     | History         | [ ]        | -1       |
+| WIS     | Insight         | [ X ]      | +6       |
+| CHA     | Intimidation    | [ ]        | +1       |
+| INT     | Investigation   | [ ]        | -1       |
+| WIS     | Medicine        | [ ]        | +4       |
+| INT     | Nature          | [ ]        | -1       |
+| WIS     | Perception      | [ ]        | +4       |
+| CHA     | Performance     | [ ]        | +1       |
+| CHA     | Persuasion      | [ ]        | +1       |
+| INT     | Religion        | [ ]        | -1       |
+| DEX     | Sleight of Hand | [ ]        | +3       |
+| DEX     | Stealth         | [ X ]      | +5       |
+| WIS     | Survival        | [ ]        | +4       |
 
 ---
-
 ## Saving Throws
 
-- **Strength:** [   ]
-- **Dexterity:** [   ]
-- **Constitution:** [   ]
-- **Intelligence:** [   ]
-- **Wisdom:** [   ]
-- **Charisma:** [   ]
+| Ability      | Proficient | Modifier |
+| ------------ | ---------- | -------- |
+| Strength     | [ X ]      | +3       |
+| Dexterity    | [ X ]      | +5       |
+| Constitution | [   ]      | +2       |
+| Intelligence | [   ]      | -1       |
+| Wisdom       | [   ]      | +4       |
+| Charisma     | [   ]      | +1        
 
 ---
+## Proficencies & Training
 
+- **Armor:** 
+- **Weapons:** 
+- **Tools:** 
+- **Languages:** 
+
+---
 ## Species Abilities
 >[!species-feature] *Darkvision:* 
 >- You have Darkvision with a range of 60 feet.
@@ -139,7 +149,6 @@
 >- You know the [[Player Options/Spells/Detailed Spells/Druidcraft\|Druidcraft]] cantrip
 
 ---
-
 ## Class Abilities
 
 ### Level 1
@@ -177,7 +186,6 @@
 > _**Druidic Warrior.**_ You learn two Druid cantrips of your choice (see the Druid class’s section for a list of Druid spells). _Guidance_ and _Starry Wisp_ are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
 
 ---
-
 ## Feats
 
 - 
@@ -185,7 +193,6 @@
 - 
 
 ---
-
 ## Weapon Mastery
 
 | Weapon | Mastery Property | Notes |
@@ -194,16 +201,14 @@
 | | | |
 
 ---
-
 ## Attacks & Weapons
 
-| Weapon | Attack Bonus | Damage | Damage Type | Notes |
-|-------|--------------|--------|-------------|-------|
-| | | | | |
-| | | | | |
+| Weapon | Attack Bonus / DC | Damage | Range | Note |
+| ------ | ----------------- | ------ | ----- | ---- |
+|        |                   |        |       |      |
+|        |                   |        |       |      |
 
 ---
-
 ## Equipment
 
 ### Worn / Equipped
@@ -222,7 +227,6 @@
 - 
 
 ---
-
 ## Spellcasting (if applicable)
 
 - **Spellcasting Ability:** 
@@ -236,3 +240,5 @@
 #### Level 1
 - [[Player Options/Spells/Detailed Spells/Hunter's Mark\|Hunter's Mark]]
 - 
+
+---

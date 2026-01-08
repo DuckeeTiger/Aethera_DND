@@ -6,6 +6,10 @@
 
 ## To DOs!!!
 
+0. Tedd magadévá a DND Beyond-on a karaktered.
+	- ha még nincs csinálj fiókot.
+	- itt a campaign-hez való csatlakozó link. Az oldalon találhatóak karakterek a neveddel. Assign-old magadra: https://www.dndbeyond.com/campaigns/join/7366233242206713
+
 1. Válassz egy backgroundot innen: [[Player Options/Backgrounds/Background list\|Background list]] -> magyarul is fent van - oldal sáv menü zászlócska
 	- a választott backgroundban lesz felsorolva 3 ability (STR, DEX, CON, INT, WIS vagy CHA)
 		- vagy válaszd mind3at és 1-el megnövekedik az adott 3 ability score 1-el
@@ -57,7 +61,7 @@
 >[[Player Options/Feats/Musician\|Musician]] - ez fun meg roleplaybe jó - lehet hangszered és restek alatt Inspirationt adhatsz annak aki hallja - ez jó dolog ha valami dobás nem tetszik újra dobhatja akinek van ilyen (mivel ember vagy neked minden Long Rest után fog járni alapból egy ilyen)
 - Választhatsz egy [[Player Options/Rules/Skills\|Skills]]-t pluszba amibe proficient vagy. Itt olyan skillt válassz amiben még nem vagy prof. A backgroundod ad fixen 2-őt + ugye a classod is mint ahogy fent választottad.
 
-
+---
 ## Overview
 
 - **Species:** Human
@@ -65,9 +69,7 @@
 - **Background:** 
 - **Level:** 1
 
-
 ---
-
 ## Core Stats
 
 | Stat                   | Value |
@@ -80,7 +82,6 @@
 | **Passive Perception** |       |
 
 ---
-
 ## Ability Scores
 
 | Ability      | Score | Modifier |
@@ -93,43 +94,50 @@
 | Charisma     | 9     | 0        |
 
 ---
-
 ## Skills
 
 | Ability | Skill           | Proficient | Modifier |
 | ------- | --------------- | ---------- | -------- |
-| STR     | Athletics       | [   ]      |          |
-| DEX     | Acrobatics      | [   ]      |          |
-| DEX     | Sleight of Hand | [   ]      |          |
-| DEX     | Stealth         | [   ]      |          |
-| INT     | Arcana          | [   ]      |          |
-| INT     | History         | [   ]      |          |
-| INT     | Investigation   | [   ]      |          |
-| INT     | Nature          | [   ]      |          |
-| INT     | Religion        | [   ]      |          |
-| WIS     | Animal Handling | [   ]      |          |
-| WIS     | Insight         | [   ]      |          |
-| WIS     | Medicine        | [   ]      |          |
-| WIS     | Perception      | [   ]      |          |
-| WIS     | Survival        | [   ]      |          |
-| CHA     | Deception       | [   ]      |          |
-| CHA     | Intimidation    | [   ]      |          |
-| CHA     | Performance     | [   ]      |          |
-| CHA     | Persuasion      | [   ]      |          |
+| DEX     | Acrobatics      | [ X ]      | +5       |
+| WIS     | Animal Handling | [ ]        | +4       |
+| INT     | Arcana          | [ ]        | -1       |
+| STR     | Athletics       | [ X ]      | +3       |
+| CHA     | Deception       | [ ]        | +1       |
+| INT     | History         | [ ]        | -1       |
+| WIS     | Insight         | [ X ]      | +6       |
+| CHA     | Intimidation    | [ ]        | +1       |
+| INT     | Investigation   | [ ]        | -1       |
+| WIS     | Medicine        | [ ]        | +4       |
+| INT     | Nature          | [ ]        | -1       |
+| WIS     | Perception      | [ ]        | +4       |
+| CHA     | Performance     | [ ]        | +1       |
+| CHA     | Persuasion      | [ ]        | +1       |
+| INT     | Religion        | [ ]        | -1       |
+| DEX     | Sleight of Hand | [ ]        | +3       |
+| DEX     | Stealth         | [ X ]      | +5       |
+| WIS     | Survival        | [ ]        | +4       |
 
 ---
-
 ## Saving Throws
 
-- **Strength:** [   ]
-- **Dexterity:** [   ]
-- **Constitution:** [   ]
-- **Intelligence:** [   ]
-- **Wisdom:** [   ]
-- **Charisma:** [   ]
+| Ability      | Proficient | Modifier |
+| ------------ | ---------- | -------- |
+| Strength     | [ X ]      | +3       |
+| Dexterity    | [ X ]      | +5       |
+| Constitution | [   ]      | +2       |
+| Intelligence | [   ]      | -1       |
+| Wisdom       | [   ]      | +4       |
+| Charisma     | [   ]      | +1       
 
 ---
+## Proficencies & Training
 
+- **Armor:** 
+- **Weapons:** 
+- **Tools:** 
+- **Languages:** 
+
+---
 ## Species Abilities
 >[!species-feature] _Resourceful:_ 
 >- You gain Heroic Inspiration whenever you finish a Long Rest.
@@ -141,7 +149,6 @@
 >- You gain an Origin feat of your choice.
 
 ---
-
 ## Class Abilities
 
 ### Level 1
@@ -186,7 +193,6 @@
 > When you cast the spell in this way, the familiar is Fey and disappears when you finish a Long Rest.
 
 ---
-
 ## Feats
 
 - 
@@ -194,7 +200,6 @@
 - 
 
 ---
-
 ## Weapon Mastery
 
 | Weapon | Mastery Property | Notes |
@@ -203,16 +208,14 @@
 | | | |
 
 ---
-
 ## Attacks & Weapons
 
-| Weapon | Attack Bonus | Damage | Damage Type | Notes |
-|-------|--------------|--------|-------------|-------|
-| | | | | |
-| | | | | |
+| Weapon | Attack Bonus / DC | Damage | Range | Note |
+| ------ | ----------------- | ------ | ----- | ---- |
+|        |                   |        |       |      |
+|        |                   |        |       |      |
 
 ---
-
 ## Equipment
 
 ### Worn / Equipped
@@ -231,7 +234,6 @@
 - 
 
 ---
-
 ## Spellcasting (if applicable)
 
 - **Spellcasting Ability:** 
@@ -245,3 +247,5 @@
 #### Level 1
 - [[Player Options/Spells/Detailed Spells/Speak with Animals\|Speak with Animals]]
 - [[Player Options/Spells/Detailed Spells/Find Familiar\|Find Familiar]]
+
+---

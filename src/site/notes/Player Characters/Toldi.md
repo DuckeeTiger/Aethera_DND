@@ -7,95 +7,87 @@
 
 ## To DOs!!!
 
-1. Válassz egy backgroundot innen: [[Player Options/Backgrounds/Background list\|Background list]] -> magyarul is fent van - oldal sáv menü zászlócska 
-- a választott backgroundban lesz felsorolva 3 ability (STR, DEX, CON, INT, WIS vagy CHA) 
-	- vagy válaszd mind3at és 1-el megnövekedik az adott 3 ability score 1-el 
-	- vagy válassz 1-et amit 2-vel és 1-et amit 1-el növelsz 
+Congratulation - You are all set for now :)
 
-- Szerintem ezt eldöntötted : [[Player Options/Backgrounds/Wayfarer\|Wayfarer]]
-	- wayfarernél kapsz thieves toolt
-
-
-2. Class specifikus dolgok választása: 
-* Kettő Skills -ben proficient lehetsz a következőek közül: Acrobatics, Athletics, History, Insight, Religion, or Stealth. Olyat válassz amit a background még nem adott meg. 
-	* Proficiency: úgy fordítanám, hogy jártas/tanult az adott skillben. Level 1-en a prof bonus +2. ha valamiben prof. vagy akkor ha az adott skill-re dobsz ezt a +2-őt mindig hozzáadhatod az ability mod-on felül). 
-
-
-3. Faji dolgok:
-- itt nincs már mit dönteni. Eldöntöttük h black ancestryd van - jelenti h a breath weapon ACID dam és  van ACID resistance-od 
-
+---
 ## Overview
 
 - **Species:** Dragonborn
 - **Class:** Shadow Monk
-- **Background:** 
+- **Background:** [[Player Options/Backgrounds/Wayfarer\|Wayfarer]]
 - **Level:** 1
 
-
 ---
-
 ## Core Stats
 
-| Stat                   | Value |
-| ---------------------- | ----- |
-| **Hit Points**         |       |
-| **Armor Class (AC)**   |       |
-| **Proficiency Bonus**  |       |
-| **Initiative**         |       |
-| **Speed**              |       |
-| **Passive Perception** |       |
+| Stat                   | Value  |
+| ---------------------- | ------ |
+| **Hit Points**         | 10     |
+| **Hit Die**            | d8     |
+| **Armor Class (AC)**   | 17     |
+| **Proficiency Bonus**  | 2      |
+| **Initiative**         | +3     |
+| **Speed**              | 30 ft. |
+| **Passive Perception** | 14     |
 
 ---
-
 ## Ability Scores
 
 | Ability      | Score | Modifier |
 | ------------ | ----- | -------- |
 | Strength     | 13    | +1       |
-| Dexterity    | 14    | +2       |
+| Dexterity    | 16    | +3       |
 | Constitution | 14    | +2       |
 | Intelligence | 8     | -1       |
-| Wisdom       | 17    | +3       |
+| Wisdom       | 18    | +4       |
 | Charisma     | 12    | +1       |
 
 ---
-
 ## Skills
 
 | Ability | Skill           | Proficient | Modifier |
 | ------- | --------------- | ---------- | -------- |
-| STR     | Athletics       | [   ]      |          |
-| DEX     | Acrobatics      | [   ]      |          |
-| DEX     | Sleight of Hand | [   ]      |          |
-| DEX     | Stealth         | [   ]      |          |
-| INT     | Arcana          | [   ]      |          |
-| INT     | History         | [   ]      |          |
-| INT     | Investigation   | [   ]      |          |
-| INT     | Nature          | [   ]      |          |
-| INT     | Religion        | [   ]      |          |
-| WIS     | Animal Handling | [   ]      |          |
-| WIS     | Insight         | [   ]      |          |
-| WIS     | Medicine        | [   ]      |          |
-| WIS     | Perception      | [   ]      |          |
-| WIS     | Survival        | [   ]      |          |
-| CHA     | Deception       | [   ]      |          |
-| CHA     | Intimidation    | [   ]      |          |
-| CHA     | Performance     | [   ]      |          |
-| CHA     | Persuasion      | [   ]      |          |
+| DEX     | Acrobatics      | [ X ]      | +5       |
+| WIS     | Animal Handling | [ ]        | +4       |
+| INT     | Arcana          | [ ]        | -1       |
+| STR     | Athletics       | [ X ]      | +3       |
+| CHA     | Deception       | [ ]        | +1       |
+| INT     | History         | [ ]        | -1       |
+| WIS     | Insight         | [ X ]      | +6       |
+| CHA     | Intimidation    | [ ]        | +1       |
+| INT     | Investigation   | [ ]        | -1       |
+| WIS     | Medicine        | [ ]        | +4       |
+| INT     | Nature          | [ ]        | -1       |
+| WIS     | Perception      | [ ]        | +4       |
+| CHA     | Performance     | [ ]        | +1       |
+| CHA     | Persuasion      | [ ]        | +1       |
+| INT     | Religion        | [ ]        | -1       |
+| DEX     | Sleight of Hand | [ ]        | +3       |
+| DEX     | Stealth         | [ X ]      | +5       |
+| WIS     | Survival        | [ ]        | +4       |
 
 ---
-
 ## Saving Throws
 
-- **Strength:** [   ]
-- **Dexterity:** [   ]
-- **Constitution:** [   ]
-- **Intelligence:** [   ]
-- **Wisdom:** [   ]
-- **Charisma:** [   ]
+
+| Ability      | Proficient | Modifier |
+| ------------ | ---------- | -------- |
+| Strength     | [ X ]      | +3       |
+| Dexterity    | [ X ]      | +5       |
+| Constitution | [   ]      | +2       |
+| Intelligence | [   ]      | -1       |
+| Wisdom       | [   ]      | +4       |
+| Charisma     | [   ]      | +1       |
 
 ---
+## Proficencies & Training
 
+- **Armor:** None
+- **Weapons:** Hand-Crossbow, Scimitar, Shortsword, Simple Weapons
+- **Tools:** A musical instrument, Thieve's Tools
+- **Languages:** Common, Draconic, Selected language
+
+---
 ## Species Abilities
 >[!species-feature] *Damage Resistance:* 
 >- You have Resistance to the damage type determined by your Draconic Ancestry trait.
@@ -114,7 +106,6 @@
 >- You can use this Breath Weapon a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
 ---
-
 ## Class Abilities
 
 ### Level 1
@@ -155,43 +146,36 @@
 > When you roll Initiative, you can regain all expended Focus Points. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Monk level plus the number rolled.
 > 
 > Once you use this feature, you can’t use it again until you finish a Long Rest.
----
 
+---
 ## Feats
 
-- 
-- 
-- 
+> [!monk-feature] Lucky
+>
+> - _**Luck Points.**_ You have a number of Luck Points equal to your Proficiency Bonus and can spend the points on the benefits below. You regain your expended Luck Points when you finish a Long Rest.
+> - _**Advantage.**_ When you roll a d20 for a D20 Test, you can spend 1 Luck Point to give yourself Advantage on the roll.
+> - _**Disadvantage.**_ When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll.
+
 
 ---
-
-## Weapon Mastery
-
-| Weapon | Mastery Property | Notes |
-|-------|------------------|-------|
-| | | |
-| | | |
-
----
-
 ## Attacks & Weapons
 
-| Weapon | Attack Bonus | Damage | Damage Type | Notes |
-|-------|--------------|--------|-------------|-------|
-| | | | | |
-| | | | | |
+| Weapon         | Attack Bonus / DC | Damage                  | Range                    | Note                  |
+| -------------- | ----------------- | ----------------------- | ------------------------ | --------------------- |
+| Unarmed Strike | +5                | 1d6 + Dex (Bludgeoning) | 5 ft (Melee)             |                       |
+| Breath Weapon  | 8 + Con + Prof    | 1d10 (Acid)             | 15 ft Cone or 30 ft Line |                       |
+| Dagger         | +5                | 1d6 + Dex (Piercing)    |                          | Thrown(20/60); Simple |
 
 ---
-
 ## Equipment
 
 ### Worn / Equipped
-- 
-- 
+- 5 Dagger
+- Traveler's Clothes
 - 
 
 ### Inventory
-- 
+- Thieve's Tool
 - 
 - 
 
@@ -202,12 +186,3 @@
 
 ---
 
-## Spellcasting (if applicable)
-
-- **Spellcasting Ability:** 
-- **Spell Save DC:** 
-- **Spell Attack Bonus:** 
-
-### Known / Prepared Spells
-
----
