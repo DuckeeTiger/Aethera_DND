@@ -234,11 +234,6 @@
 - 
 - 
 
-### Consumables
-- 
-- 
-- 
-
 ---
 ## Spellcasting (if applicable)
 

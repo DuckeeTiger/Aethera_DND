@@ -172,17 +172,10 @@ Congratulation - You are all set for now :)
 ### Worn / Equipped
 - 5 Dagger
 - Traveler's Clothes
-- 
 
 ### Inventory
 - Thieve's Tool
-- 
-- 
 
-### Consumables
-- 
-- 
-- 
 
 ---
 
