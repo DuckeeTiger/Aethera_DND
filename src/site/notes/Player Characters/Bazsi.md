@@ -65,21 +65,21 @@
 ## Overview
 
 - **Species:** Human
-- **Class:** Druid
+- **Class:** [[Player Options/Classes/Druid/Druid\|Druid]]
 - **Background:** 
 - **Level:** 1
 
 ---
 ## Core Stats
 
-| Stat                   | Value |
-| ---------------------- | ----- |
-| **Hit Points**         |       |
-| **Armor Class (AC)**   |       |
-| **Proficiency Bonus**  |       |
-| **Initiative**         |       |
-| **Speed**              |       |
-| **Passive Perception** |       |
+| Stat                   | Value  |
+| ---------------------- | ------ |
+| **Hit Points**         | 11     |
+| **Armor Class (AC)**   | 12     |
+| **Proficiency Bonus**  | +2     |
+| **Initiative**         | +1     |
+| **Speed**              | 30 ft. |
+| **Passive Perception** | 13     |
 
 ---
 ## Ability Scores
@@ -88,54 +88,54 @@
 | ------------ | ----- | -------- |
 | Strength     | 15    | +2       |
 | Dexterity    | 12    | +1       |
-| Constitution | 15    | +2       |
-| Intelligence | 12    | 0        |
-| Wisdom       | 15    | +2       |
-| Charisma     | 9     | 0        |
+| Constitution | 17    | +3       |
+| Intelligence | 12    | +1       |
+| Wisdom       | 16    | +3       |
+| Charisma     | 9     | -1       |
 
 ---
 ## Skills
 
 | Ability | Skill           | Proficient | Modifier |
 | ------- | --------------- | ---------- | -------- |
-| DEX     | Acrobatics      | [ X ]      | +5       |
-| WIS     | Animal Handling | [ ]        | +4       |
-| INT     | Arcana          | [ ]        | -1       |
-| STR     | Athletics       | [ X ]      | +3       |
-| CHA     | Deception       | [ ]        | +1       |
-| INT     | History         | [ ]        | -1       |
-| WIS     | Insight         | [ X ]      | +6       |
-| CHA     | Intimidation    | [ ]        | +1       |
-| INT     | Investigation   | [ ]        | -1       |
-| WIS     | Medicine        | [ ]        | +4       |
-| INT     | Nature          | [ ]        | -1       |
-| WIS     | Perception      | [ ]        | +4       |
-| CHA     | Performance     | [ ]        | +1       |
-| CHA     | Persuasion      | [ ]        | +1       |
-| INT     | Religion        | [ ]        | -1       |
-| DEX     | Sleight of Hand | [ ]        | +3       |
-| DEX     | Stealth         | [ X ]      | +5       |
-| WIS     | Survival        | [ ]        | +4       |
+| DEX     | Acrobatics      | [  ]       | +1       |
+| WIS     | Animal Handling | [  ]       | +3       |
+| INT     | Arcana          | [ X ]      | +6       |
+| STR     | Athletics       | [  ]       | +2       |
+| CHA     | Deception       | [  ]       | -1       |
+| INT     | History         | [  ]       | +1       |
+| WIS     | Insight         | [  ]       | +3       |
+| CHA     | Intimidation    | [  ]       | -1       |
+| INT     | Investigation   | [  ]       | +1       |
+| WIS     | Medicine        | [ X ]      | +5       |
+| INT     | Nature          | [ X ]      | +6       |
+| WIS     | Perception      | [  ]       | +3       |
+| CHA     | Performance     | [  ]       | -1       |
+| CHA     | Persuasion      | [  ]       | -1       |
+| INT     | Religion        | [ X ]      | +3       |
+| DEX     | Sleight of Hand | [  ]       | +1       |
+| DEX     | Stealth         | [  ]       | +1       |
+| WIS     | Survival        | [ X ]      | +5       |
 
 ---
 ## Saving Throws
 
 | Ability      | Proficient | Modifier |
 | ------------ | ---------- | -------- |
-| Strength     | [ X ]      | +3       |
-| Dexterity    | [ X ]      | +5       |
-| Constitution | [   ]      | +2       |
-| Intelligence | [   ]      | -1       |
-| Wisdom       | [   ]      | +4       |
-| Charisma     | [   ]      | +1       
+| Strength     | [  ]       | +2       |
+| Dexterity    | [  ]       | +1       |
+| Constitution | [  ]       | +3       |
+| Intelligence | [ X ]      | +3       |
+| Wisdom       | [ X ]      | +5       |
+| Charisma     | [  ]       | -1       
 
 ---
 ## Proficencies & Training
 
-- **Armor:** 
-- **Weapons:** 
-- **Tools:** 
-- **Languages:** 
+- **Armor:** Light Armor, Shields
+- **Weapons:** Simple Weapons
+- **Tools:** Cook's Utensils, Herbalism Kit
+- **Languages:** Common, Druidic, Elvish, Halfling
 
 ---
 ## Species Abilities
@@ -186,6 +186,9 @@
 > - **Known Forms:** Choose a limited number of Beast forms (CR and number increase with level)
 > - **Restrictions:** No spellcasting while transformed (Concentration continues)
 > - **Combat:** Gain **Temporary HP = your Druid level**
+>
+>##### **Selectable Forms:**
+> - [[Player Options/Classes/Druid/Beast Stat Blocks\|Elk; Rat; Wolf; Boar; Snake; Horse; Panther; Giant Badger; Elk; Spider]]
 
 > [!druid-feature] Wild Companion
 > You can summon a nature spirit that assumes an animal form to aid you. As a Magic action, you can expend a spell slot or a use of Wild Shape to cast the [[Player Options/Spells/Detailed Spells/Find Familiar\|Find Familiar]] spell without Material components.
@@ -195,38 +198,25 @@
 ---
 ## Feats
 
-- 
-- 
-- 
-
----
-## Weapon Mastery
-
-| Weapon | Mastery Property | Notes |
-|-------|------------------|-------|
-| | | |
-| | | |
+> [!druid-feature] FEAT
 
 ---
 ## Attacks & Weapons
 
-| Weapon | Attack Bonus / DC | Damage | Range | Note |
-| ------ | ----------------- | ------ | ----- | ---- |
-|        |                   |        |       |      |
-|        |                   |        |       |      |
+| Weapon       | Attack Bonus / DC       | Damage                                                 | Range       | Note     |
+| ------------ | ----------------------- | ------------------------------------------------------ | ----------- | -------- |
+| Quarterstaff | +4 (Str mod + prof mod) | 1d6 + Str mod (one hand)<br>1d8 + Str mod (two-handed) | 5 ft. Melee | Verstile |
+
 
 ---
 ## Equipment
 
 ### Worn / Equipped
-- 
-- 
-- 
+- Quarterstaff (Spell Focus)
+- Leather Armor
 
 ### Inventory
-- 
-- 
-- 
+- Herbalism Kit
 
 ---
 ## Spellcasting (if applicable)
@@ -238,9 +228,14 @@
 ### Known / Prepared Spells
 
 #### Cantrip
-- 
+- [[Player Options/Spells/Detailed Spells/Message\|Message]]
+- [[Player Options/Spells/Detailed Spells/Thorn Whip\|Thorn Whip]]
 #### Level 1
 - [[Player Options/Spells/Detailed Spells/Speak with Animals\|Speak with Animals]]
-- [[Player Options/Spells/Detailed Spells/Find Familiar\|Find Familiar]]
+- [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]]
+- [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]]
+- [[Player Options/Spells/Detailed Spells/Entangle\|Entangle]]
+- [[Player Options/Spells/Detailed Spells/Fog Cloud\|Fog Cloud]]
+- [[Player Options/Spells/Detailed Spells/Find Familiar\|Find Familiar]] (not yet in used)
 
 ---
