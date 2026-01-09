@@ -6,82 +6,39 @@
 
 ## To DOs!!!
 
-0. Tedd magadévá a DND Beyond-on a karaktered.
-	- ha még nincs csinálj fiókot.
-	- itt a campaign-hez való csatlakozó link. Az oldalon találhatóak karakterek a neveddel. Assign-old magadra: https://www.dndbeyond.com/campaigns/join/7366233242206713
-
-1. Válassz egy backgroundot innen: [[Player Options/Backgrounds/Background list\|Background list]] -> magyarul is fent van - oldal sáv menü zászlócska
-	- a választott backgroundban lesz felsorolva 3 ability (STR, DEX, CON, INT, WIS vagy CHA)
-		- vagy válaszd mind3at és 1-el megnövekedik az adott 3 ability score 1-el
-		- vagy válassz 1-et amit 2-vel és 1-et amit 1-el növelsz
->[!tips] Gergő Tipp ha szabad:
-> A Rangeredhez eléggé illik a [[Player Options/Backgrounds/Artisan\|Artisan]] (kis craftolos erdő járó valaki, aki mondjuk bőrt tud munkálni), vagy [[Player Options/Backgrounds/Guide\|Guide]]. Mind2-ben van amúgy Dexterity amit 2-vel növelve 16-ra tudsz húzni és akkor már +3 a modifier dobásoknál. 
-> Ha van a fejedben valami backstory akkor mehet akármelyik másik: [[Player Options/Backgrounds/Soldier\|Soldier]] ha esetleg valahol katona voltál vagy [[Player Options/Backgrounds/Wayfarer\|Wayfarer]] ha utcagyerek voltál és kiakartál szabadulni a vadonba. Esetleg loptál gonoszkodtál? -> [[Player Options/Backgrounds/Criminal\|Criminal]].
-
-
-2. Ranger Spellek kiválasztása
-- na ez lesz a nagy falat és segítek vele. Szerintem nem dobom le az atomot első session előtt és írom ide az összes Level 1es spellt amiből választhatsz mert kiszaladsz. Felsorolok párat ami szerintem hasznos és ami tetszik azt válaszd. itt nem is fogok tippet küldeni, amelyik szimpi. Ha akarod persze belemerülhetsz, a [[Player Options/Classes/Ranger/Ranger\|Ranger]] Class leírásnál a spelleknél ott van mind.
-- Első és legfontosabb - a [[Player Options/Spells/Detailed Spells/Hunter's Mark\|Hunter's Mark]] spell alapból, mindig ott van neked kéznél. Erre a spellre épül az egész Ranger class - ezen felül fogsz választani.
-- Level 1 Spellek: **Kettő** level 1 spellt választhatsz
-	- [[Player Options/Spells/Detailed Spells/Ensnaring Strike\|Ensnaring Strike]] - Ha egy fegyveres támadásod betalált (eltaláltad nyíllal mondjuk) akkor egyből tudsz varázsolni indákat amik esetleg le tudják fogni az ellent. ha nem tud kiszabadulni folyamatosan sebződni fog körről körre.
-	- [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]] - 30 láb körzetben érzékeled ha valami mágikus. Meg tudod mondani, hogy milyen hatása van a máginak és hogy milyen mágia lehet.
-	- [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]] - valakit megérintesz és 2d8 + Wisdom mod-al gyógyul
-	- [[Player Options/Spells/Detailed Spells/Entangle\|Entangle]] - futó növényeket varázsolsz a földre 20 lábnyi négyzetben. Nehéz terepnek minősül amig tart (kétszer annyit kell mozogni h menj). Koncentrálni kell rá
-	- [[Player Options/Spells/Detailed Spells/Fog Cloud\|Fog Cloud]] - csinálsz egy 30 láb átmérőjü köd felhőt. Ezen a ködön nem lehet átlátni. addig van amíg koncentrálsz rá.
-	- [[Player Options/Spells/Detailed Spells/Hail of Thorns\|Hail of Thorns]] - Ha egy nyilas támadásod betalált akkor egyből tudsz varázsolni - a nyilvessző szétrepül repeszelre kb és mindenkit sebez 5 láb távolságra a becsapódástól.
-	- [[Player Options/Spells/Detailed Spells/Jump\|Jump]] - valakit megérintesz (magadat is lehet) - utána 1 percig 30 láb magasra tud ugrani az illető 10 láb nekifutással
-	- [[Player Options/Spells/Detailed Spells/Longstrider\|Longstrider]] - Akit megfogsz vagy te magad kap 10 feet plusz speed-et (alapból kb 30 mindekinek) - 1 órán keresztül
-	- [[Speak With Animals \|Speak With Animals ]] - 10 percig tudsz beszélni állatokkal
-- Játék közben level 2 leszünk és kapsz majd +1 spellt Level 1-st. Esetleg azt is kitalálhatod h az majd mi legyen és akkor tudunk haladni
-
-3. Class specifikus dolgok választása:
-- Három  [[Player Options/Rules/Skills\|Skills]] -ben proficient lehetsz a következőek közül: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, or Survival. Olyat válassz amit a **background még nem adott meg.**
-	- úgy fordítanám, hogy jártas/tanult az adott skillben. Level 1-en a prof bonus +2. ha valamiben prof. vagy akkor ha az adott skill-re dobsz ezt a +2-őt mindig hozzáadhatod az ability mod-on felül).
-- Lent a Feature list-ednél látsz egy olyat, hogy Weapon Mastery. Itt választanod kell két fegyvert amit ugymond mesterien haszálsz ezért bonuszokat aktiválsz rá.
-> [!tips] Gergő tipp ha szabad
- > - Engedelmeddel az első egy **Longbow** lesz, merthogy csak nyilazol nem - ha Longbow-val támadsz tudod aktiválni a Slow bonust - ha eltalász valakit akkor neki 10 lábbal kevesebb a speed-je. (csak egyszer tudod a slowt valakire rátenni)
- > - A második fegyver amit szeretnél: Tőr, Kard, Fejsze bármi amit szeretnél. Javaslom a Shortsword-ot. De lehet bármilye kard (Schimitar az ilyen hajlított mint szinbád, Rapier - az a vivó kard mint ami D'Artagnannak volt)
-
-- Level 2-es dolgok - mivel szintlépés lesz ha lehet dolgozzunk előre:
-	- választhatsz Fighting Stylet - [[Player Options/Feats/Feat List\|Feat List]] - van egy olyan oszlop h fighting style.
-		- ha nyilazni akarsz [[Player Options/Feats/Archery\|Archery]] ha valami kardozós akkor [[Player Options/Feats/Dueling\|Dueling]] esetleg [[Player Options/Feats/Two-Weapon Fighting\|Two-Weapon Fighting]]
-		- Vagy te mivel Ranger vagy választhatod a _**Druidic Warrior.**_ - Kapsz két Druid Cantripet (0. szintű varázslat) -> *Gergő tipp:* csak ha nagyon varázsolni akarsz akkor ajánlom. Elég kevés ez a két cantrip - többet ér sztm egy Archery, hogy pontosabban betalálj.
-	- Választhatsz egy [[Player Options/Rules/Skills\|Skills]]-t amiben **már proficient vagy** és ugymond Expertise leszel benne. Azt jelenzi h a prof bonusod kétszer adódik hozzá.
- 
-3. Faji dologban nincs teendő. Eldöntötted h Wood elf vagy. Level 1-en megkapod a [[Player Options/Spells/Detailed Spells/Druidcraft\|Druidcraft]] cantripet- ez fix.
-- Kapsz egy plusz origin feat-et (a background alapból ad egyet, neked 2 lesz) - [[Player Options/Feats/Feat List\|Feat List]] -> a táblázatban vannak Origin featek ezekből választhatsz
+Congratulation - You are all set for now :)
 
 ---
 ## Overview
 
 - **Species:** Wood Elf
 - **Class:** [[Player Options/Classes/Ranger/Ranger\|Ranger]]
-- **Background:** 
+- **Background:** [[Player Options/Backgrounds/Farmer\|Farmer]]
 - **Level:** 1
 
 
 ---
 ## Core Stats
 
-| Stat                   | Value |
-| ---------------------- | ----- |
-| **Hit Points**         |       |
-| **Armor Class (AC)**   |       |
-| **Proficiency Bonus**  |       |
-| **Initiative**         |       |
-| **Speed**              |       |
-| **Passive Perception** |       |
+| Stat                   | Value  |
+| ---------------------- | ------ |
+| **Hit Points**         | 13     |
+| **Armor Class (AC)**   | 15     |
+| **Proficiency Bonus**  | +2     |
+| **Initiative**         | +3     |
+| **Speed**              | 35 ft. |
+| **Passive Perception** | 15     |
 
 ---
 ## Ability Scores
 
 | Ability      | Score | Modifier |
 | ------------ | ----- | -------- |
-| Strength     | 11    | 0        |
-| Dexterity    | 14    | +2       |
+| Strength     | 12    | +1       |
+| Dexterity    | 16    | +3       |
 | Constitution | 12    | +1       |
 | Intelligence | 9     | 0        |
-| Wisdom       | 14    | +2       |
+| Wisdom       | 16    | +3       |
 | Charisma     | 11    | 0        |
 
 ---
@@ -89,24 +46,24 @@
 
 | Ability | Skill           | Proficient | Modifier |
 | ------- | --------------- | ---------- | -------- |
-| DEX     | Acrobatics      | [ X ]      | +5       |
-| WIS     | Animal Handling | [ ]        | +4       |
-| INT     | Arcana          | [ ]        | -1       |
-| STR     | Athletics       | [ X ]      | +3       |
-| CHA     | Deception       | [ ]        | +1       |
-| INT     | History         | [ ]        | -1       |
-| WIS     | Insight         | [ X ]      | +6       |
-| CHA     | Intimidation    | [ ]        | +1       |
-| INT     | Investigation   | [ ]        | -1       |
-| WIS     | Medicine        | [ ]        | +4       |
-| INT     | Nature          | [ ]        | -1       |
-| WIS     | Perception      | [ ]        | +4       |
-| CHA     | Performance     | [ ]        | +1       |
-| CHA     | Persuasion      | [ ]        | +1       |
-| INT     | Religion        | [ ]        | -1       |
-| DEX     | Sleight of Hand | [ ]        | +3       |
+| DEX     | Acrobatics      | [  ]       | +3       |
+| WIS     | Animal Handling | [ X ]      | +5       |
+| INT     | Arcana          | [  ]       | -1       |
+| STR     | Athletics       | [  ]       | +1       |
+| CHA     | Deception       | [  ]       | 0        |
+| INT     | History         | [  ]       | -1       |
+| WIS     | Insight         | [  ]       | +3       |
+| CHA     | Intimidation    | [  ]       | 0        |
+| INT     | Investigation   | [ X ]      | +1       |
+| WIS     | Medicine        | [  ]       | +3       |
+| INT     | Nature          | [ X ]      | +1       |
+| WIS     | Perception      | [ X ]      | +5       |
+| CHA     | Performance     | [  ]       | 0        |
+| CHA     | Persuasion      | [  ]       | 0        |
+| INT     | Religion        | [  ]       | -1       |
+| DEX     | Sleight of Hand | [  ]       | +3       |
 | DEX     | Stealth         | [ X ]      | +5       |
-| WIS     | Survival        | [ ]        | +4       |
+| WIS     | Survival        | [ X ]      | +5       |
 
 ---
 ## Saving Throws
@@ -115,18 +72,18 @@
 | ------------ | ---------- | -------- |
 | Strength     | [ X ]      | +3       |
 | Dexterity    | [ X ]      | +5       |
-| Constitution | [   ]      | +2       |
+| Constitution | [   ]      | +1       |
 | Intelligence | [   ]      | -1       |
-| Wisdom       | [   ]      | +4       |
-| Charisma     | [   ]      | +1        
+| Wisdom       | [   ]      | +3       |
+| Charisma     | [   ]      | 0        |
 
 ---
 ## Proficencies & Training
 
-- **Armor:** 
-- **Weapons:** 
-- **Tools:** 
-- **Languages:** 
+- **Armor:** Light Armor, Medium Armor, Shields
+- **Weapons:** Martial Weapons, Simple Weapons
+- **Tools:** Carpenter's Tools
+- **Languages:** Common, Elvish, Halfling
 
 ---
 ## Species Abilities
@@ -171,6 +128,14 @@
 > Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Longbows and Shortswords.
 >
 > Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Longswords.
+>
+>> [!ranger-feature] **Longbow (Slow)**
+>**_Slow._** If you hit a creature with a Longbow and deal damage to the creature, you can reduce its Speed by 10 ft. until the start of your next turn. If the creature is hit more than once with this property, the Speed reduction doesn’t exceed 10 ft.
+>
+>> [!ranger-feature] **Shortsword (Vex)**
+>**_Vex._** If you hit a creature with a Shortsword and deal damage to it, you have Advantage on your next attack roll against that creature before the end of your next turn.
+>
+
 
 ### Level 2
 
@@ -183,37 +148,40 @@
 > You gain a Fighting Style feat of your choice (see "[[Player Options/Feats/Feat List\|Feats]]"). Instead of choosing one of those feats, you can choose the option below.
 >
 > _**Druidic Warrior.**_ You learn two Druid cantrips of your choice (see the Druid class’s section for a list of Druid spells). _Guidance_ and _Starry Wisp_ are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
+>
+>> [!ranger-feature] **Archery**
+>> You gain the following benefits:
+ >> ***Ranged Attack Bonus.*** You gain a +2 bonus to attack rolls you make with Ranged weapons.
+>
+>OR
+>> [!ranger-feature] **Blind Fighting**
+>> You gain the following benefits:
+>> ***Blindsight.*** You have Blindsight with a range of 10 feet.
+>
 
 ---
 ## Feats
 
-- 
-- 
-- 
-
----
-## Weapon Mastery
-
-| Weapon | Mastery Property | Notes |
-|-------|------------------|-------|
-| | | |
-| | | |
+> [!ranger-feature] Tough
+> You gain the following benefits.
+>- ***Increased Hit Points.*** Your Hit Point maximum increases by an amount equal to twice your character level when you gain this feat. Whenever you gain a character level thereafter, your Hit Point maximum increases by an additional 2 Hit Points.
 
 ---
 ## Attacks & Weapons
 
-| Weapon | Attack Bonus / DC | Damage | Range | Note |
-| ------ | ----------------- | ------ | ----- | ---- |
-|        |                   |        |       |      |
-|        |                   |        |       |      |
+| Weapon           | Attack Bonus / DC   | Damage      | Range       | Note           |
+| ---------------- | ------------------- | ----------- | ----------- | -------------- |
+| Longbow (Slow)   | +5 (dex mod + prof) | 1d8+Dex mod | 150/600     |                |
+| Shortsword (Vex) | +5 (dex mod + prof) | 1d8+Dex mod | 5 ft. Melee | Light, Finesse |
 
 ---
 ## Equipment
 
 ### Worn / Equipped
-- 
-- 
-- 
+- Longbow
+- Shortsword
+- Druidic Focus
+- Studded  Leather Armor
 
 ### Inventory
 - 
@@ -223,9 +191,9 @@
 ---
 ## Spellcasting (if applicable)
 
-- **Spellcasting Ability:** 
-- **Spell Save DC:** 
-- **Spell Attack Bonus:** 
+- **Spellcasting Ability:** Wisdom
+- **Spell Save DC:** 13 - 8 + Wisdom Mod + Prof Mod
+- **Spell Attack Bonus:** +5 - Wisdom mod + Prof Mod
 
 ### Known / Prepared Spells
 
@@ -233,6 +201,8 @@
 - [[Player Options/Spells/Detailed Spells/Druidcraft\|Druidcraft]]
 #### Level 1
 - [[Player Options/Spells/Detailed Spells/Hunter's Mark\|Hunter's Mark]]
-- 
+- [[Player Options/Spells/Detailed Spells/Ensnaring Strike\|Ensnaring Strike]]
+- [[Player Options/Spells/Detailed Spells/Fog Cloud\|Fog Cloud]]
+- [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]] (not in used yet)
 
 ---

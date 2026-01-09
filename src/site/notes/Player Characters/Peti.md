@@ -7,72 +7,28 @@
 
 ## To DOs!!!
 
-0. Tedd magadévá a DND Beyond-on a karaktered.
-	- ha még nincs csinálj fiókot.
-	- itt a campaign-hez való csatlakozó link. Az oldalon találhatóak karakterek a neveddel. Assign-old magadra: https://www.dndbeyond.com/campaigns/join/7366233242206713
-
-1. Válassz egy backgroundot innen: [[Player Options/Backgrounds/Background list\|Background list]] -> magyarul is fent van - oldal sáv menü zászlócska
-	- a választott backgroundban lesz felsorolva 3 ability (STR, DEX, CON, INT, WIS vagy CHA)
-		- vagy válaszd mind3at és 1-el megnövekedik az adott 3 ability score 1-el
-		- vagy válassz 1-et amit 2-vel és 1-et amit 1-el növelsz
->[!tips] Gergő Tipp ha szabad:
-> A Clericedhez eléggé illik a [[Player Options/Backgrounds/Guide\|Guide]], [[Player Options/Backgrounds/Acolyte\|Acolyte]], [[Player Options/Backgrounds/Sage\|Sage]] 
-> de ha van fejben backstory akkor próbáld ahoz passzintani
-
-2. Cleric Spellek kiválasztása
-- na ez lesz a nagy falat és segítek vele. Szerintem nem dobom le az atomot első session előtt és írom ide az összes cantripet (0. szintű spell) és Level 1es spellt amiből választhatsz mert kiszaladsz. Felsorolok párat ami szerintem hasznos és ami tetszik azt választ. itt nem is fogok tippet küldeni, amelyik szimpi. Ha akarod persze belemerülhetsz, a [[Player Options/Classes/Cleric/Cleric\|Cleric]] Class leírásnál a spelleknél ott van mind.
-- Cantripek - **három** Cantripet választhatsz
-	- [[Player Options/Spells/Detailed Spells/Guidance\|Guidance]] - hasznos. megérintesz valakit vagy magadat és 1 percig hozzáadhat 1d4-et a dobásaihoz - vezeted a kezét
-	- [[Player Options/Spells/Detailed Spells/Sacred Flame\|Sacred Flame]] - radiant damage-el megtámadsz valakit. ha nem tud elugrani kap 1d8 dam-ot
-	- [[Player Options/Spells/Detailed Spells/Spare the Dying\|Spare the Dying]] - ha van valaki aki 0 HPn van de nem halott - tudod stabilizálni
-	- [[Player Options/Spells/Detailed Spells/Toll the Dead\|Toll the Dead]] - rámutatsz valakire - az a valaki hall valami harnagszót és ha nem tudja megvédeni magát akkor kap 1d8 necrotic damot - ha nem max a HP-ja akkor 1d12
-	- [[Player Options/Spells/Detailed Spells/Word of Radiance\|Word of Radiance]] - sugár tör ki belőled. 5 lábra mindenki kap 1d6 Radiant dam-ot ha nem tudja kivédeni.
-- Level 1 Spellek: **Négy** level 1 spellt választhatsz
-	- [[Player Options/Spells/Detailed Spells/Bane\|Bane]] - maximum 3 creaturet választasz - ha nem tudják magukat megvédeni 1d4-et le kell majd vonjanak a dobásaikból - ez tart amíg koncentrálsz a spellre
-	- [[Player Options/Spells/Detailed Spells/Bless\|Bless]] - maximum 3 karaktert választasz. Amíg koncentrálsz kapnak 1d4-et minden dobásukhoz
-	- [[Player Options/Spells/Detailed Spells/Command\|Command]] - valakire ráparancsolsz. Ha nem tudja magát megvédeni a következő parancsokat adhatod ki: Dobd el; Közelíts; Szaladj el; Feküdj a földre; Várj
-	- [[Player Options/Spells/Detailed Spells/Guiding Bolt\|Guiding Bolt]] - küldesz egy sugárzó bolt-ot valakire. Ha talál 4d6 Radiant damage és a következő támadás ellene advanteage-el lesz
-	- [[Player Options/Spells/Detailed Spells/Inflict Wounds\|Inflict Wounds]] - megérintesz valakit. ha nem tudja magát megvédeni - 2d10 necrotic damot kap.
-	- [[Player Options/Spells/Detailed Spells/Sanctuary\|Sanctuary]] - megvédesz valakit - kb egy valamilyn gömböt teszel rá ami pajzsként fogja. Ha valaki megakarja támadni akit védesz akkor guritania kell - ha nem sikerül akkor mást kell válasszon
-	- [[Player Options/Spells/Detailed Spells/Shield of Faith\|Shield of Faith]] - valakit választasz - adsz neki +2 AC-t (armor class) amig koncentrálsz
-	- [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]] - 30 láb körzetben érzékeled ha valami mágikus. Meg tudod mondani, hogy milyen hatása van a máginak és hogy milyen mágia lehet.
-	- [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]] - valakit megérintesz és 2d8 + Wisdom mod-al gyógyul
-	- [[Player Options/Spells/Detailed Spells/Healing Word\|Healing Word]] - 60 lábon belül tudsz gyógyítani 2d4 + Wis mod-ot. (ugyanaz mint a cure wound csak ez távolsági ezért ez kevesebbet gyógyít)
-	- [[Player Options/Spells/Detailed Spells/Create or Destroy Water\|Create or Destroy Water]] - vagy csinálsz 10 gallon vizet vagy el tudsz pusztítani/tüntetni ugyanennyit - azt is megteheted h ez mind pl eső legyen 30 láb körzetben
-- Játék közben level 2 leszünk és kapsz majd +1 spellt Level 1-st. Esetleg azt is kitalálhatod h az majd mi legyen és akkor tudunk haladni
-
-3. Class specifikus dolgok választása:
-- Két [[Player Options/Rules/Skills\|Skills]] -ben proficient lehetsz a következőek közül: History, Insight, Medicine, Persuasion, or Religion. Olyat válassz amit a **background még nem adott meg.**
-	- úgy fordítanám, hogy jártas/tanult az adott skillben. Level 1-en a prof bonus +2. ha valamiben prof. vagy akkor ha az adott skill-re dobsz ezt a +2-őt mindig hozzáadhatod az ability mod-on felül).
-- Lent a Feature list-ednél látsz egy olyat, hogy Divine order. Itt két dologból kell választanaod:
-	- **Protector** (technikailag egy cleric leszel aki bemegy a csatába és üt vág) - tudsz használni Martial Weaponst (legtöbb kard ami 1 kezes, nyilakat) és Heavy armort - sok AC-t ad
-	- **Thaumaturge** (ez a már alapból varázsoló classt viszi kicsit tovább varázsolni.) Kapsz + 1 cantripet meg az Arcana és Religion Skilljeidhez a wisdomodat is hozzáadhatod.
-
->[!tips] Gergő Tipp ha szabad:
-> a protectort javaslom. Egyszerűen változatosabb lesz neked a játék h nem csak varázsolsz. Meg Törp vagy sztm az csapkod :D
-
-4. Törp vagy. nem kell semmit válassz szerencsére. minden jár, odalent összeszedtem
+Congratulation - You are all set for now :)
 
 ---
 ## Overview
 
 - **Species:** Dwarf
 - **Class:** Cleric
-- **Background:** 
+- **Background:** [[Player Options/Backgrounds/Acolyte\|Acolyte]]
 - **Level:** 1
 
 
 ---
 ## Core Stats
 
-| Stat                   | Value |
-| ---------------------- | ----- |
-| **Hit Points**         |       |
-| **Armor Class (AC)**   |       |
-| **Proficiency Bonus**  |       |
-| **Initiative**         |       |
-| **Speed**              |       |
-| **Passive Perception** |       |
+| Stat                   | Value                  |
+| ---------------------- | ---------------------- |
+| **Hit Points**         | 15                     |
+| **Armor Class (AC)**   | 15 (without Shield 13) |
+| **Proficiency Bonus**  | +2                     |
+| **Initiative**         | +0                     |
+| **Speed**              | 30 ft.                 |
+| **Passive Perception** | 14                     |
 
 ---
 ## Ability Scores
@@ -83,52 +39,52 @@
 | Dexterity    | 11    | 0        |
 | Constitution | 14    | +2       |
 | Intelligence | 12    | +1       |
-| Wisdom       | 17    | +3       |
-| Charisma     | 12    | +1       |
+| Wisdom       | 18    | +4       |
+| Charisma     | 14    | +2       |
 
 ---
 ## Skills
 
 | Ability | Skill           | Proficient | Modifier |
 | ------- | --------------- | ---------- | -------- |
-| DEX     | Acrobatics      | [ X ]      | +5       |
-| WIS     | Animal Handling | [ ]        | +4       |
-| INT     | Arcana          | [ ]        | -1       |
-| STR     | Athletics       | [ X ]      | +3       |
-| CHA     | Deception       | [ ]        | +1       |
-| INT     | History         | [ ]        | -1       |
+| DEX     | Acrobatics      | [  ]       | 0        |
+| WIS     | Animal Handling | [  ]       | +4       |
+| INT     | Arcana          | [  ]       | +1       |
+| STR     | Athletics       | [  ]       | +2       |
+| CHA     | Deception       | [  ]       | +2       |
+| INT     | History         | [  ]       | +1       |
 | WIS     | Insight         | [ X ]      | +6       |
-| CHA     | Intimidation    | [ ]        | +1       |
-| INT     | Investigation   | [ ]        | -1       |
-| WIS     | Medicine        | [ ]        | +4       |
-| INT     | Nature          | [ ]        | -1       |
-| WIS     | Perception      | [ ]        | +4       |
-| CHA     | Performance     | [ ]        | +1       |
-| CHA     | Persuasion      | [ ]        | +1       |
-| INT     | Religion        | [ ]        | -1       |
-| DEX     | Sleight of Hand | [ ]        | +3       |
-| DEX     | Stealth         | [ X ]      | +5       |
-| WIS     | Survival        | [ ]        | +4       |
+| CHA     | Intimidation    | [  ]       | +2       |
+| INT     | Investigation   | [  ]       | +1       |
+| WIS     | Medicine        | [ X ]      | +6       |
+| INT     | Nature          | [  ]       | +1       |
+| WIS     | Perception      | [  ]       | +4       |
+| CHA     | Performance     | [  ]       | +2       |
+| CHA     | Persuasion      | [ X ]      | +4       |
+| INT     | Religion        | [ X ]      | +3       |
+| DEX     | Sleight of Hand | [  ]       | +0       |
+| DEX     | Stealth         | [  ]       | +0       |
+| WIS     | Survival        | [  ]       | +4       |
 
 ---
 ## Saving Throws
 
 | Ability      | Proficient | Modifier |
 | ------------ | ---------- | -------- |
-| Strength     | [ X ]      | +3       |
-| Dexterity    | [ X ]      | +5       |
-| Constitution | [   ]      | +2       |
-| Intelligence | [   ]      | -1       |
-| Wisdom       | [   ]      | +4       |
-| Charisma     | [   ]      | +1       
+| Strength     | [  ]       | +2       |
+| Dexterity    | [  ]       | 0        |
+| Constitution | [  ]       | +2       |
+| Intelligence | [  ]       | +1       |
+| Wisdom       | [ X ]      | +6       |
+| Charisma     | [ X ]      | +4       
 
 ---
 ## Proficencies & Training
 
-- **Armor:** 
-- **Weapons:** 
-- **Tools:** 
-- **Languages:** 
+- **Armor:** Heavy Armor, Light Armor, Medium Armor, Shields
+- **Weapons:** Martial Weapons, Simple Weapons
+- **Tools:** Calligrapher's Supplies
+- **Languages:** Common, Draconic, Dwarvish
 
 ---
 ## Species Abilities
@@ -180,33 +136,34 @@
 ---
 ## Feats
 
-- 
-- 
-- 
-
----
-## Weapon Mastery
-
-| Weapon | Mastery Property | Notes |
-|-------|------------------|-------|
-| | | |
-| | | |
+> [!cleric-feature] [[Player Options/Feats/Magic Initiate\|Magic Initiate]] (Cleric)
+> You gain the following benefits.
+>- **Two Cantrips.** You learn two cantrips of your choice from the [[Player Options/Classes/Cleric/Cleric\|Cleric]], [[Player Options/Classes/Druid/Druid\|Druid]], or [[Player Options/Classes/Wizard/Wizard\|Wizard]] spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat).
+>- **Level 1 Spell.** Choose a level 1 spell from the same list you selected for this feat's cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have.
+>- **Spell Change.** Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.
+>> [!cleric-feature] Selected Spells
+>>- [[Player Options/Spells/Detailed Spells/Light\|Light]]
+>>- [[Player Options/Spells/Detailed Spells/Spare the Dying\|Spare the Dying]]
+>>- [[Player Options/Spells/Detailed Spells/Bless\|Bless]]
 
 ---
 ## Attacks & Weapons
 
-| Weapon | Attack Bonus / DC | Damage | Range | Note |
-| ------ | ----------------- | ------ | ----- | ---- |
-|        |                   |        |       |      |
-|        |                   |        |       |      |
+| Weapon  | Attack Bonus / DC       | Damage        | Range       | Note   |
+| ------- | ----------------------- | ------------- | ----------- | ------ |
+| Mace    | +4 (str mod + prof mod) | 1d6 + Str mod | 5 ft. Melee | Thrown |
+| Handaxe | +4 (str mod + prof mod) | 1d6 + Str mod | 5 ft. Melee |        |
 
 ---
 ## Equipment
 
 ### Worn / Equipped
-- 
-- 
-- 
+- Mace
+- Handaxe
+- Shield
+- Chain Shirt
+- Holy Symbol
+- Cartographer's Tools
 
 ### Inventory
 - 
@@ -216,16 +173,23 @@
 ---
 ## Spellcasting (if applicable)
 
-- **Spellcasting Ability:** 
-- **Spell Save DC:** 
-- **Spell Attack Bonus:** 
+- **Spellcasting Ability:** WIsdom
+- **Spell Save DC:** 14 - 8 + Wisdom Mod + Prof Mod
+- **Spell Attack Bonus:** +6 - Wisdom mod + Prof Mod
 
 ### Known / Prepared Spells
 
 #### Cantrip
-- 
+- [[Player Options/Spells/Detailed Spells/Guidance\|Guidance]]
+- [[Player Options/Spells/Detailed Spells/Light\|Light]]
+- [[Player Options/Spells/Detailed Spells/Sacred Flame\|Sacred Flame]]
+- [[Player Options/Spells/Detailed Spells/Spare the Dying\|Spare the Dying]]
+- [[Player Options/Spells/Detailed Spells/Toll the Dead\|Toll the Dead]]
 #### Level 1
-- 
-- 
+- [[Player Options/Spells/Detailed Spells/Bless\|Bless]]
+- [[Player Options/Spells/Detailed Spells/Guiding Bolt\|Guiding Bolt]]
+- [[Player Options/Spells/Detailed Spells/Healing Word\|Healing Word]]
+- [[Player Options/Spells/Detailed Spells/Inflict Wounds\|Inflict Wounds]]
+- [[Player Options/Spells/Detailed Spells/Shield of Faith\|Shield of Faith]]
 
 ---

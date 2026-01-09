@@ -13,7 +13,7 @@ Congratulation - You are all set for now :)
 ## Overview
 
 - **Species:** Dragonborn
-- **Class:** Shadow Monk
+- **Class:** Shadow [[Player Options/Classes/Monk/Monk\|Monk]]
 - **Background:** [[Player Options/Backgrounds/Wayfarer\|Wayfarer]]
 - **Level:** 1
 
