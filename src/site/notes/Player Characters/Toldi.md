@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/player-characters/toldi/"}
 ---
 
-<!--lang:en-->
+
 # Toldi
 
 ## To DOs!!!

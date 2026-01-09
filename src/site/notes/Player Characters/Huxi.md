@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/player-characters/huxi/"}
 ---
 
-<!--lang:en-->
+
 # Huxi
 
 ## To DOs!!!

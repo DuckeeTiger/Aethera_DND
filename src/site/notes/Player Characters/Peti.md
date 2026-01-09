@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/player-characters/peti/"}
 ---
 
-<!--lang:en-->
+
 # Peti
 
 ## To DOs!!!
