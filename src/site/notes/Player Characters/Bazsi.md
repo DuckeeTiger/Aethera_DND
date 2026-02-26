@@ -6,67 +6,14 @@
 
 ## To DOs!!!
 
-0. Tedd magadévá a DND Beyond-on a karaktered.
-	- ha még nincs csinálj fiókot.
-	- itt a campaign-hez való csatlakozó link. Az oldalon találhatóak karakterek a neveddel. Assign-old magadra: https://www.dndbeyond.com/campaigns/join/7366233242206713
-
-1. Válassz egy backgroundot innen: [[Player Options/Backgrounds/Background list\|Background list]] -> magyarul is fent van - oldal sáv menü zászlócska
-	- a választott backgroundban lesz felsorolva 3 ability (STR, DEX, CON, INT, WIS vagy CHA)
-		- vagy válaszd mind3at és 1-el megnövekedik az adott 3 ability score 1-el
-		- vagy válassz 1-et amit 2-vel és 1-et amit 1-el növelsz
->[!tips] Gergő Tipp ha szabad:
-> A Druidodhoz eléggé illik a [[Player Options/Backgrounds/Hermit\|Hermit]], esetleg [[Player Options/Backgrounds/Acolyte\|Acolyte]] vagy [[Player Options/Backgrounds/Guide\|Guide]]. Mind3-ban van amúgy Wisdom amit 1-el növelve 16-ra tudsz húzni és akkor már +3 a modifier dobásoknál. (lehet 17-re is ha a wisdomot növeled 2-vel, de az még mindig +2 de közel leszel a 18hoz már ami majd egyszer +3 lehet)
-
-2. Druid Spellek kiválasztása
-- na ez lesz a nagy falat és segítek vele. Szerintem nem dobom le az atomot első session előtt és írom ide az összes cantripet (0. szintű spell) és Level 1es spellt amiből választhatsz mert kiszaladsz. Felsorolok párat ami szerintem hasznos és ami tetszik azt választ. itt nem is fogok tippet küldeni, amelyik szimpi. Ha akarod persze belemerülhetsz, a [[Player Options/Classes/Druid/Druid\|Druid]] Class leírásnál a spelleknél ott van mind.
-- Cantripek - **kettő** Cantripet választhatsz
-	- [[Player Options/Spells/Detailed Spells/Druidcraft\|Druidcraft]] - suttogsz egy kicsit a természet szellemeivel. 4 dolgot tehetsz:
-		- meg tudod jósolni a követlező 24 órára az időjárást
-		- a semmiből tudsz varázsolni kis virágot vagy virágmagot vagy valami kis levelet - cuki
-		- elterelésre vagy bármire tudsz csinálni kis szellőt, ami esetleg visz egy állathangot, esetleg kis pislákoló fényeket
-		- meg tudsz gyújtani egy kis gyertát, tűzrakóhelyet esetleg egy fáklyát
-	- [[Player Options/Spells/Detailed Spells/Guidance\|Guidance]] - hasznos. megérintesz valakit vagy magadat és 1 percig hozzáadhat 1d4-et a dobásaihoz - vezeted a kezét
-	- [[Player Options/Spells/Detailed Spells/Message\|Message]] - valakire rámutatsz és ő és csakis ő hallja, hogy mit üzensz neki
-	- [[Player Options/Spells/Detailed Spells/Thorn Whip\|Thorn Whip]] - varázsolsz a semmiből egy inda szerű ostort amivel egyből támadhatsz is 30 lábon belül. Ha eltalálod akkor 1d6-at damaget kap - és ha kb veled egy nagyságú a lény akkor 10 lábbal magad felé rántod ha akarod
-	- [[Player Options/Spells/Detailed Spells/Produce Flame\|Produce Flame]] - 10 percig egy kis lángocska jelenik meg a kezedben - nem éget és nem tud meggyújtani semmit, de ad fényt a sötétben. Amíg aktív tudsz vele támadni 60 lábon belül. Ha találsz 1d8 fire damage-et ad
-	- [[Player Options/Spells/Detailed Spells/Poison Spray\|Poison Spray]] - 1d12 damage-ért mérgező füstöt szórsz valakire.
-- Level 1 Spellek: **Négy** level 1 spellt választhatsz
-	- [[Player Options/Spells/Detailed Spells/Charm Person\|Charm Person]] - el tudsz bűvölni valakit - bartáságos lesz veled, jobban ki lehet kérdezni dolgokról - 1 óráig tart. Ha a spell-nek vége akkor tudni fogja hogy te csináltad.
-	- [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]] - 30 láb körzetben érzékeled ha valami mágikus. Meg tudod mondani, hogy milyen hatása van a máginak és hogy milyen mágia lehet.
-	- [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]] - valakit megérintesz és 2d8 + Wisdom mod-al gyógyul
-	- [[Player Options/Spells/Detailed Spells/Fog Cloud\|Fog Cloud]] - csinálsz egy 30 láb átmérőjü köd felhőt. Ezen a ködön nem lehet átlátni. addig van amíg koncentrálsz rá.
-	- [[Player Options/Spells/Detailed Spells/Entangle\|Entangle]] - futó növényeket varázsolsz a földre 20 lábnyi négyzetben. Nehéz terepnek minősül amig tart (kétszer annyit kell mozogni h menj). Koncentrálni kell rá
-	- [[Player Options/Spells/Detailed Spells/Healing Word\|Healing Word]] - 60 lábon belül tudsz gyógyítani 2d4 + Wis mod-ot. (ugyanaz mint a cure wound csak ez távolsági ezért ez kevesebbet gyógyít)
-	- [[Player Options/Spells/Detailed Spells/Ice Knife\|Ice Knife]] - 1d10 damaget tolsz egy jég késsel amit el tudsz dobni - persze ha eltalálod akit megdobsz. Emellett becsapódáskor felrobban és még tud okozni 2d6 damaget azoknak akik mellette állnak
-	- [[Player Options/Spells/Detailed Spells/Longstrider\|Longstrider]] - Akit megfogsz vagy te magad kap 10 feet plusz speed-et (alapból kb 30 mindekinek) - 1 órán keresztül
-	- [[Player Options/Spells/Detailed Spells/Create or Destroy Water\|Create or Destroy Water]] - vagy csinálsz 10 gallon vizet vagy el tudsz pusztítani/tüntetni ugyanennyit - azt is megteheted h ez mind pl eső legyen 30 láb körzetben
-- Amiket alapból tudsz mert Druid vagy és megkapod a **választottakon kívül pluszba**:
-  -  [[Speak With Animals \|Speak With Animals ]] - 10 percig tudsz beszélni állatokkal
-- Játék közben level 2 leszünk és kapsz majd +1 spellt Level 1-st. Esetleg azt is kitalálhatod h az majd mi legyen és akkor tudunk haladni
-
-1. Class specifikus dolgok választása:
-- Két [[Player Options/Rules/Skills\|Skills]] -ben proficient lehetsz a következőek közül:Animal Handling, Arcana, Insight, Medicine, Nature, Perception, Religion, or Survival. Olyat válassz amit a **background még nem adott meg.**
-	- úgy fordítanám, hogy jártas/tanult az adott skillben. Level 1-en a prof bonus +2. ha valamiben prof. vagy akkor ha az adott skill-re dobsz ezt a +2-őt mindig hozzáadhatod az ability mod-on felül).
-- Lent a Feature list-ednél látsz egy olyat, hogy Primal Order. Itt két dologból kell választanaod:
-	- Magician (technikailag Druid mágus) - kapsz egy extra cantripet (0. szintű varázslat) + Arcana vagy Nature checkekhez hozzáadhatod a Wisdow módosítodat az inteligence helyett (ez a második annyira nem fontos ügyesebben guríthatsz madj az egyikre - a kérdés inkább h inkább varázslósabbank érzed a druidádat vagy inkább fa szeretőnek :D)
-	- Warden (ez inkább egy közelharci druidot csinál belőled - ugyanugy tudsz varázsolni csak szélesedik a repertoárod h miket tudsz) - adja a képességet, hogy hasznélhass Martial Weapon-ket (egy kezes fegyverek, tőr kisebb kard, esetleg nyíl) és Medium aromort (ha nem választod akkor csak light aromorod lehet - könnyebben megütnek. adok is medium armort ha ezt választod)
->[!tips]Gergő Tipp ha szabad:
-> a wardent javaslom, hogy kicsit jobb legyen a védelmed meg ha akarsz tudj bemenni harcolni is a varázslás meg majd a macivá válás mellett. A magician is okés ha teljesen varázslósabb irányba akarsz menni, de akkor nem javaslom h beljebb menj majd harcolni mert könnyen leütnek ember formádban :D
-
-4. Mivel ember vagy ezért neked kell faji dolgokat is választani többet - az ember a legáltalánosabb faj ezért a szabályok megengedik h mégjobban magadévá formáld h különbözz teis + legyen jó dolgaid :)
-- Kapsz egy plusz origin feat-et (a background alapból ad egyet, neked 2 lesz) - [[Player Options/Feats/Feat List\|Feat List]] -> a táblázatban vannak Origin featek ezekből választhatsz
-> [!tips] Gergő Tipp ha szabad
-> [[Player Options/Feats/Lucky\|Lucky]] - ez baromi hasznos tud lenni -> kapsz level 1en 2  luck pontot - bármikor elköltheted h Advantage-et adj magadnak (két kockával guritasz és a magasabbat veszed) vagy disadvantage-et adj valakinek
-> [[Player Options/Feats/Tough\|Tough]] - plusz életet kapsz minden szintlépésnél - azon felül amit alapból kapsz
->[[Player Options/Feats/Musician\|Musician]] - ez fun meg roleplaybe jó - lehet hangszered és restek alatt Inspirationt adhatsz annak aki hallja - ez jó dolog ha valami dobás nem tetszik újra dobhatja akinek van ilyen (mivel ember vagy neked minden Long Rest után fog járni alapból egy ilyen)
-- Választhatsz egy [[Player Options/Rules/Skills\|Skills]]-t pluszba amibe proficient vagy. Itt olyan skillt válassz amiben még nem vagy prof. A backgroundod ad fixen 2-őt + ugye a classod is mint ahogy fent választottad.
+Congratulation - You are all set for now :)
 
 ---
 ## Overview
 
 - **Species:** Human
 - **Class:** [[Player Options/Classes/Druid/Druid\|Druid]]
-- **Background:** 
+- **Background:** [[Player Options/Backgrounds/Hermit\|Hermit]]0
 - **Level:** 1
 
 ---
@@ -88,9 +35,9 @@
 | ------------ | ----- | -------- |
 | Strength     | 15    | +2       |
 | Dexterity    | 12    | +1       |
-| Constitution | 17    | +3       |
+| Constitution | 16    | +3       |
 | Intelligence | 12    | +1       |
-| Wisdom       | 16    | +3       |
+| Wisdom       | 17    | +3       |
 | Charisma     | 9     | -1       |
 
 ---
@@ -100,22 +47,22 @@
 | ------- | --------------- | ---------- | -------- |
 | DEX     | Acrobatics      | [  ]       | +1       |
 | WIS     | Animal Handling | [  ]       | +3       |
-| INT     | Arcana          | [ X ]      | +6       |
-| STR     | Athletics       | [  ]       | +2       |
+| INT     | Arcana          | [ X ]      | +3       |
+| STR     | Athletics       | [ X ]      | +4       |
 | CHA     | Deception       | [  ]       | -1       |
 | INT     | History         | [  ]       | +1       |
-| WIS     | Insight         | [  ]       | +3       |
+| WIS     | Insight         | [ X ]      | +5       |
 | CHA     | Intimidation    | [  ]       | -1       |
 | INT     | Investigation   | [  ]       | +1       |
 | WIS     | Medicine        | [ X ]      | +5       |
-| INT     | Nature          | [ X ]      | +6       |
+| INT     | Nature          | [  ]       | +1       |
 | WIS     | Perception      | [  ]       | +3       |
 | CHA     | Performance     | [  ]       | -1       |
 | CHA     | Persuasion      | [  ]       | -1       |
 | INT     | Religion        | [ X ]      | +3       |
 | DEX     | Sleight of Hand | [  ]       | +1       |
 | DEX     | Stealth         | [  ]       | +1       |
-| WIS     | Survival        | [ X ]      | +5       |
+| WIS     | Survival        | [  ]       | +3       |
 
 ---
 ## Saving Throws
@@ -146,7 +93,7 @@
 >- You gain proficiency in one skill of your choice.
 
 >[!species-feature] _Versatile:_
->- You gain an Origin feat of your choice.
+>- [[Player Options/Feats/Lucky\|Lucky]]
 
 ---
 ## Class Abilities
@@ -172,8 +119,6 @@
 > [!druid-feature] Primal Order
 > You have dedicated yourself to one of the following sacred roles of your choice.
 >
->- **_Magician._** You know one extra cantrip from the Druid spell list. In addition, your mystical connection to nature gives you a bonus to your Intelligence (Arcana or Nature) checks. The bonus equals your Wisdom modifier (minimum bonus of +1).
->
 >- **_Warden._** Trained for battle, you gain proficiency with Martial weapons and training with Medium armor.
 
 ### Level 2
@@ -198,7 +143,17 @@
 ---
 ## Feats
 
-> [!druid-feature] FEAT
+> [!druid-feature] Lucky
+> _**Luck Points.**_ You have a number of Luck Points equal to your Proficiency Bonus and can spend the points on the benefits below. You regain your expended Luck Points when you finish a Long Rest.
+>
+>_**Advantage.**_ When you roll a d20 for a D20 Test, you can spend 1 Luck Point to give yourself Advantage on the roll.
+>
+>_**Disadvantage.**_ When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll.
+
+> [!druid-feature] Healer
+> **_Battle Medic._** If you have a Healer’s Kit, you can expend one use of it and tend to a creature within 5 feet of yourself as a Utilize action. That creature can expend one of its Hit Point Dice, and you then roll that die. The creature regains a number of Hit Points equal to the roll plus your Proficiency Bonus.
+>
+_**Healing Rerolls.**_ Whenever you roll a die to determine the number of Hit Points you restore with a spell or with this feat’s Battle Medic benefit, you can reroll the die if it rolls a 1, and you must use the new roll.
 
 ---
 ## Attacks & Weapons
@@ -221,21 +176,22 @@
 ---
 ## Spellcasting (if applicable)
 
-- **Spellcasting Ability:** 
-- **Spell Save DC:** 
-- **Spell Attack Bonus:** 
+- **Spellcasting Ability:** Wisdom
+- **Spell Save DC:** 13 - 8 + Wisdom Mod + Prof Mod
+- **Spell Attack Bonus:**  +5 - Wisdom mod + Prof Mod
 
 ### Known / Prepared Spells
 
 #### Cantrip
-- [[Player Options/Spells/Detailed Spells/Message\|Message]]
-- [[Player Options/Spells/Detailed Spells/Thorn Whip\|Thorn Whip]]
+- [[Player Options/Spells/Detailed Spells/Guidance\|Guidance]] 10
+- [[Player Options/Spells/Detailed Spells/Poison Spray\|Poison Spray]] 17
 #### Level 1
-- [[Player Options/Spells/Detailed Spells/Speak with Animals\|Speak with Animals]]
-- [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]]
-- [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]]
-- [[Player Options/Spells/Detailed Spells/Entangle\|Entangle]]
-- [[Player Options/Spells/Detailed Spells/Fog Cloud\|Fog Cloud]]
-- [[Player Options/Spells/Detailed Spells/Find Familiar\|Find Familiar]] (not yet in used)
+- [[Player Options/Spells/Detailed Spells/Speak with Animals\|Speak with Animals]] 91
+- [[Player Options/Spells/Detailed Spells/Cure Wounds\|Cure Wounds]] 49
+- [[Player Options/Spells/Detailed Spells/Ice Knife\|Ice Knife]] 74
+- [[Player Options/Spells/Detailed Spells/Longstrider\|Longstrider]] 
+- [[Player Options/Spells/Detailed Spells/Charm Person\|Charm Person]]
+- [[Player Options/Spells/Detailed Spells/Find Familiar\|Find Familiar]] (not yet in use)
+- [[Player Options/Spells/Detailed Spells/Detect Magic\|Detect Magic]] (not yet in use)
 
 ---

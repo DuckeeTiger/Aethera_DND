@@ -191,5 +191,6 @@ Congratulation - You are all set for now :)
 - [[Player Options/Spells/Detailed Spells/Healing Word\|Healing Word]]
 - [[Player Options/Spells/Detailed Spells/Inflict Wounds\|Inflict Wounds]]
 - [[Player Options/Spells/Detailed Spells/Shield of Faith\|Shield of Faith]]
+- [[Player Options/Spells/Detailed Spells/Bane\|Bane]] - (not in used yet)
 
 ---

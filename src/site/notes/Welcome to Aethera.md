@@ -2,34 +2,56 @@
 {"dg-publish":true,"permalink":"/welcome-to-aethera/","tags":["gardenEntry"]}
 ---
 
-# Welcome to Athera
+---
 
-**Aethera** is a world of volcanic ley-lines, riverbound flame, and ancient forces stirring beneath the surface. It’s a realm where planar boundaries fray, primordial patrons awaken, and adventurers carve their stories into molten stone and shifting tides.
+# 🧭 Aethera Player Portal
 
-This site is the **official home** of our DnD campaign set in **Aethera**. Here, you’ll find everything you need to explore the world, build your character, and dive deep into the lore that binds it all together.
-
-### World Overview
-
-- Discover the core regions of Aethera—from the trade routes of **Thalvëra** to the volcanic heart of **Emberwall**.
-- Learn about **Embereth**, the Riverbound Flame, and other primordial entities shaping the land.
-- Track the party’s journey
-
-### Player Options
-
-- Browse available classes, subclasses, and backgrounds tailored for Aethera.
-	- Start with [[Player Options/Rules/Create Your Character\|Character Creation]]
-- Explore **homebrew mechanics**, including custom spells, weapon masteries, and pact options.
-
-### Knowledge Glossary
-
-- A searchable index of campaign terms, locations, factions, and magical phenomena.
-- Quick-reference entries for player features, rules clarifications, and lore snippets.
-- Tags and filters to help you navigate character creation, leveling, and worldbuilding.
-
-### Join the Adventure
-
-Whether you’re a seasoned player or new to the table, this site is your gateway to the living world of Aethera. Check back often for session updates, new lore entries, and expanded player options as the campaign unfolds.
+Welcome! This page is your “where do I click?” hub. If you’re lost, start here.
 
 ---
 
-*Thank you for visiting Aethera. We hope you find something inspiring!*
+## 🧑‍🤝‍🧑 Player Characters
+
+| Link                               | What it’s for                          |
+| ---------------------------------- | -------------------------------------- |
+| [[Player Characters/Bazsi\|Bazsi]]                          | Character sheet for Balgrid            |
+| [[Player Characters/Tomi\|Tomi]]                           | Character sheet for Papa               |
+| [[Player Characters/Huxi\|Huxi]]                           | Character sheet for Szigeti Veszedelem |
+| [[Player Characters/Peti\|Peti]]                           | Character sheet for Wolfgang           |
+| [[Player Characters/Toldi\|Toldi]] | Character sheet for Drave              |
+
+
+---
+
+## 📝 Session Notes
+
+| Link                | What it’s for                                  |
+| ------------------- | ---------------------------------------------- |
+| [[Sessions/Session 1\|Session 1]]       | Hajótörés és az első árnyak Stormwreck Isle-on |
+
+---
+
+## 🎭 Player Options
+
+| Link                       | What it’s for                    |
+| -------------------------- | -------------------------------- |
+| [[Player Options/Classes/Choose Your Class\|Choose Your Class]]      | All classes                      |
+| [[Species\|Species]]                | Playable species list            |
+| [[Player Options/Backgrounds/Background list\|Background list]]        | Background list + starting feats |
+| [[Player Options/Feats/Feat List\|Feats]]       | Feats index                      |
+| [[Player Options/Spells/Spell List - All Spell\|Spell List - All Spell]] | Spell list / spell rules         |
+
+---
+
+## 🌍 The World
+
+| Link                       | What it’s for                         |
+| -------------------------- | ------------------------------------- |
+
+
+---
+
+## 🔎 Quick Search Tips
+
+- Use the sidebar search for **cities, NPCs, spells**, and **rules keywords**.
+- If a link looks dead, it’s probably not public yet (DM-only note).
